@@ -1,0 +1,8 @@
+owner=ASY
+controller=ASY
+add_core=ADE
+add_core=ARA
+add_core=ASY
+trade_goods = opium
+life_rating = 20
+terrain = desert

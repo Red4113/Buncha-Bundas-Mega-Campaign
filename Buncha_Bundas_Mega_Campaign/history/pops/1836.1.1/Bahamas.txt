@@ -1,0 +1,172 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 282
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 722
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 86
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 4164
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 7
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 46
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 716
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+}

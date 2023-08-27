@@ -1,0 +1,228 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1554
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1526
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 153
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 2256
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 3780
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 546
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 117
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 33150
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 1550
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1522
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 153
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 2251
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 3772
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 545
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 117
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 33075
+	}
+
+}

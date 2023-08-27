@@ -1,0 +1,6 @@
+owner=XMA
+controller=KRN
+add_core=KRN
+add_core=XMA
+trade_goods = cattle
+life_rating = 32

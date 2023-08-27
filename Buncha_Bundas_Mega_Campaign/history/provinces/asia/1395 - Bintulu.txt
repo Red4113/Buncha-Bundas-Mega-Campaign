@@ -1,0 +1,9 @@
+owner=SCA
+controller=SCA
+add_core=BRU
+add_core=MLY
+trade_goods = grain
+life_rating = 31
+colonial=2
+naval_base = 2
+fort = 1

@@ -1,0 +1,7 @@
+owner=TEX
+controller=LOU
+add_core=LOU
+add_core=TEX
+trade_goods = cattle
+life_rating = 35
+fort = 1

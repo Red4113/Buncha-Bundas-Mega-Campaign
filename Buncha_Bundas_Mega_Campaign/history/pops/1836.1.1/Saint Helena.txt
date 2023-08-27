@@ -1,0 +1,314 @@
+2129 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 4228
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 3865
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 168
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = sunni
+		size= 3310
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = sunni
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = sunni
+		size= 434
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = sunni
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = sunni
+		size= 2497
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 8036
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = sunni
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = sunni
+		size= 431
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = sunni
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 19
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = sunni
+		size= 5773
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 8036
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = sunni
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = sunni
+		size= 431
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = sunni
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 19
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = sunni
+		size= 5773
+	}
+
+}

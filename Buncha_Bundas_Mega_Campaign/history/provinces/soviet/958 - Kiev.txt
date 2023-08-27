@@ -1,0 +1,7 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+trade_goods = grain
+life_rating = 40
+terrain = farmlands
+fort = 1

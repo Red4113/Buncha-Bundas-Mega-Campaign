@@ -1,0 +1,6 @@
+owner=LOU
+controller=LOU
+add_core=LOU
+add_core=MSC
+trade_goods = sulphur
+life_rating = 35

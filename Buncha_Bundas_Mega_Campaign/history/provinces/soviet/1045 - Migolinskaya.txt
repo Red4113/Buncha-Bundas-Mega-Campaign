@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+add_core=X17
+trade_goods = cattle
+life_rating = 35

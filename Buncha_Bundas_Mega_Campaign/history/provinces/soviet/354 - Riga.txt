@@ -1,0 +1,8 @@
+owner=UBD
+controller=UBD
+add_core=DEN
+add_core=SCA
+add_core=UBD
+trade_goods = fish
+life_rating = 40
+naval_base = 1

@@ -1,0 +1,7 @@
+owner=XMA
+controller=XMA
+add_core=MLY
+add_core=XMA
+trade_goods = timber
+life_rating = 37
+naval_base = 1

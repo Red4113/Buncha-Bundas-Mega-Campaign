@@ -1,0 +1,7 @@
+owner=ADU
+controller=ADU
+add_core=X00
+trade_goods = coffee
+life_rating = 33
+naval_base = 2
+fort = 1

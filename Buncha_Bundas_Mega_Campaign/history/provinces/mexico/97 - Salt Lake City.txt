@@ -1,0 +1,6 @@
+owner=CAL
+controller=CAL
+add_core=CAL
+add_core=PAW
+trade_goods = coal
+life_rating = 35

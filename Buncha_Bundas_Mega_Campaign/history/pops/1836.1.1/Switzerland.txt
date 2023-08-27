@@ -1,0 +1,1579 @@
+603 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 4384
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3344
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 62
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 86847
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 20216
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 71728
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 6574
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1333
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1488
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 12833
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 326652
+	}
+
+}
+604 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 4198
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2032
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 367
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 84426
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 920
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = hussite
+		size= 2573
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = hussite
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 47
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 464
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 15711
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 18330
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 63673
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 5913
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1182
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1319
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 11461
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 296604
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3284
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 61
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 590
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 405
+	}
+
+}
+605 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2249
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3085
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 278
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 42881
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 397
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = hussite
+		size= 943
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = hussite
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 18
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 7079
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 36397
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 3380
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 676
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 754
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 3276
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 170195
+	}
+
+}
+606 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2555
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 856
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 51944
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 2755
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 52
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 274
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 9231
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 32383
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 3008
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 601
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 670
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 2914
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 151890
+	}
+
+}
+607 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1213
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 24907
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 5091
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 18990
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1764
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 352
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 393
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1710
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 83910
+	}
+
+}
+608 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1155
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 187
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 23725
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 4849
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 18089
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1679
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 335
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 375
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 1628
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 79926
+	}
+
+}
+609 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1998
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1660
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 39204
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = hussite
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = hussite
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 7212
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 74
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 8395
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 18751
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 2709
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 542
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 604
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 2625
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 148883
+	}
+
+}
+611 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 1030
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 240
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 21032
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1090
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1225
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 20988
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = hussite
+		size= 1291
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = hussite
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 5570
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 9144
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 32488
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 3016
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 604
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 673
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 5848
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 147024
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 199
+	}
+
+}
+2568 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 1032
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 241
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = orthodox
+		size= 21087
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1093
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 1227
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 21043
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 351
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = hussite
+		size= 1294
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = hussite
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 24
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = hussite
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = hussite
+		size= 5585
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 9168
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = protestant
+		size= 32574
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = protestant
+		size= 3024
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 605
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 675
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = protestant
+		size= 5864
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = protestant
+		size= 147403
+	}
+
+	soldiers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = norse_pagan_reformed
+		size= 200
+	}
+
+}

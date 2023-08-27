@@ -1,0 +1,7 @@
+owner=LOU
+controller=LOU
+add_core=CCW
+add_core=LOU
+add_core=NTZ
+trade_goods = cotton
+life_rating = 35

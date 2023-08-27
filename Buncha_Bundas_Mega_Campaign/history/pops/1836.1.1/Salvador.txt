@@ -1,0 +1,200 @@
+2191 = {
+	soldiers=
+	{
+		culture = americano
+		religion = mayan
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = mayan
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = mayan
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = mayan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = mayan
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = mayan
+		size= 10520
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 462
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 1146
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 373
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 63
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 481
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 20535
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = americano
+		religion = mayan
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = mayan
+		size= 209
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = mayan
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = mayan
+		size= 12
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = mayan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = mayan
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = mayan
+		size= 9873
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 433
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 1076
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 350
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 59
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 452
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 19271
+	}
+
+}

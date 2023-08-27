@@ -1,0 +1,669 @@
+2078 = {
+	aristocrats=
+	{
+		culture = herero
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = catholic
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = herero
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = catholic
+		size= 5175
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = protestant
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 10725
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 200
+	}
+
+}
+2079 = {
+	aristocrats=
+	{
+		culture = herero
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = catholic
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = herero
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = catholic
+		size= 8200
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 3650
+	}
+
+}
+2080 = {
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 5475
+	}
+
+}
+2081 = {
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 2700
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 900
+	}
+
+}
+2082 = {
+	aristocrats=
+	{
+		culture = herero
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = catholic
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = herero
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = catholic
+		size= 5475
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 4575
+	}
+
+}
+2083 = {
+	soldiers=
+	{
+		culture = herero
+		religion = shamanism
+		size= 952
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = shamanism
+		size= 170
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = shamanism
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = herero
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = herero
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = herero
+		religion = shamanism
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = shamanism
+		size= 15772
+	}
+
+	soldiers=
+	{
+		culture = herero
+		religion = sunni
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = sunni
+		size= 179
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = sunni
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = herero
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = herero
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = herero
+		religion = sunni
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = sunni
+		size= 141
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 807
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 926
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 65
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 12074
+	}
+
+}
+2084 = {
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 6375
+	}
+
+}
+2085 = {
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 1800
+	}
+
+	aristocrats=
+	{
+		culture = tswana
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = catholic
+		size= 900
+	}
+
+}
+2086 = {
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 3650
+	}
+
+	aristocrats=
+	{
+		culture = tswana
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = catholic
+		size= 900
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=ENT
+controller=ENT
+add_core=ENT
+trade_goods = timber
+life_rating = 35

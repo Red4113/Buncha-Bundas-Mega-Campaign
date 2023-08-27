@@ -1,0 +1,12 @@
+owner=TRX
+controller=TRX
+add_core=TRX
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

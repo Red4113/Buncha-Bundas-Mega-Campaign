@@ -1,0 +1,676 @@
+1907 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1541
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 6457
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 16500
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 5302
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 1628
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 5268
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 489
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 473
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 105
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 79
+	}
+
+}
+1908 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1333
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 448
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 6220
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 15988
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 4592
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 1537
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 4974
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 462
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 447
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 99
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 74
+	}
+
+}
+1909 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2376
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1212
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 9581
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = norse_pagan_reformed
+		size= 8980
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 4581
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 26540
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 8812
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 818
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 792
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 176
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = norse_pagan_reformed
+		size= 182
+	}
+
+}
+1910 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 5250
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 265
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = catholic
+		size= 555
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size= 2715
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size= 940
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size= 214775
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = catholic
+		size= 38500
+	}
+
+}
+1911 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 2540
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size= 1310
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size= 5250
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size= 2000
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size= 94400
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = catholic
+		size= 24500
+	}
+
+}
+1912 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size= 525
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size= 2100
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size= 2000
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size= 44400
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = catholic
+		size= 1140
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = catholic
+		size= 615
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = catholic
+		size= 2975
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = catholic
+		size= 615
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = catholic
+		size= 54160
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = sunni
+		size= 10500
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = catholic
+		size= 440
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = catholic
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = catholic
+		size= 1050
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = catholic
+		size= 19000
+	}
+
+}
+1913 = {
+	aristocrats=
+	{
+		culture = gur
+		religion = catholic
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = catholic
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = catholic
+		size= 1050
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = catholic
+		size= 760
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = catholic
+		size= 38160
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = catholic
+		size= 3500
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = catholic
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = catholic
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = catholic
+		size= 1315
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = catholic
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = catholic
+		size= 18375
+	}
+
+}
+1915 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = catholic
+		size= 790
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = catholic
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = catholic
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = catholic
+		size= 440
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = catholic
+		size= 31600
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = catholic
+		size= 7000
+	}
+
+	aristocrats=
+	{
+		culture = ewe
+		religion = catholic
+		size= 1200
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = catholic
+		size= 615
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = catholic
+		size= 2540
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = catholic
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = catholic
+		size= 40425
+	}
+
+	slaves=
+	{
+		culture = gur
+		religion = catholic
+		size= 17500
+	}
+
+}
+1916 = {
+	aristocrats=
+	{
+		culture = gur
+		religion = catholic
+		size= 440
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = catholic
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = catholic
+		size= 1315
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = catholic
+		size= 840
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = catholic
+		size= 22140
+	}
+
+	slaves=
+	{
+		culture = ewe
+		religion = catholic
+		size= 7000
+	}
+
+}

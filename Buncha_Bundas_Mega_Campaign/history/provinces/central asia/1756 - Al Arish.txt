@@ -1,0 +1,7 @@
+owner=ASY
+controller=ASY
+add_core=ASY
+add_core=EGY
+trade_goods = fruit
+life_rating = 20
+terrain = semidesert

@@ -1,0 +1,12 @@
+owner=DUA
+controller=DUA
+add_core=DUA
+trade_goods = iron
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+trade_goods = precious_goods
+life_rating = 40
+colonial=2
+naval_base = 1

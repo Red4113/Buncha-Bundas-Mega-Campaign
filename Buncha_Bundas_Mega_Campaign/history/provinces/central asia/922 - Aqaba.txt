@@ -1,0 +1,9 @@
+owner=ASY
+controller=ASY
+add_core=ASY
+add_core=IRQ
+add_core=SYR
+trade_goods = wool
+life_rating = 20
+terrain = semidesert
+naval_base = 1

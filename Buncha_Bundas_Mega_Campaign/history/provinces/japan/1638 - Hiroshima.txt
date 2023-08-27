@@ -1,0 +1,8 @@
+owner=KOR
+controller=KOR
+
+add_core=KOR
+add_core=MRI
+trade_goods = wool
+life_rating = 35
+naval_base = 2

@@ -1,0 +1,419 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -2
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -4
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 193
+	influence_value = 35
+	level = 2
+}
+CLM = {
+	value = 197
+	influence_value = 36
+	level = 2
+}
+CSH = {
+	value = -3
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = -15
+	level = 2
+}
+ENT = {
+	value = 43
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 33
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = -8
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = -7
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -5
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 117
+	influence_value = 16
+	level = 3
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Abd al-Rahman Ibn Isma'il"
+	date="1749.4.17"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Antso Ibn Marwan"
+	date="1753.7.1"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Antso Ibn Ya'far"
+	date="1760.1.3"
+	type=sea
+	personality="tactful"
+	background="pawn"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2316
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="1st Cobija Artillery"
+		type=artillery
+		home=2321
+	}
+	regiment = {
+		name="1st Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="2nd Santa Ana Artillery"
+		type=artillery
+		home=2319
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2310
+	regiment = {
+		name="1st Moyobamba Infantry"
+		type=infantry
+		home=2294
+	}
+	regiment = {
+		name="1st San Ignacio Artillery"
+		type=artillery
+		home=2317
+	}
+	regiment = {
+		name="1st Riberalta Infantry"
+		type=infantry
+		home=2320
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2287
+	regiment = {
+		name="1st Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="1st Tarauacá Artillery"
+		type=artillery
+		home=2549
+	}
+	regiment = {
+		name="2nd Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2304
+	regiment = {
+		name="1st Santa Cruz Infantry"
+		type=infantry
+		home=2316
+	}
+	regiment = {
+		name="1st Arequipa Infantry"
+		type=infantry
+		home=2304
+	}
+	regiment = {
+		name="1st Santa Ana Artillery"
+		type=artillery
+		home=2319
+	}
+	regiment = {
+		name="1st Tacna Artillery"
+		type=artillery
+		home=2578
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2996
+	ship = {
+		name="Antofagasta"
+		type=frigate
+	}
+	ship = {
+		name="Beni"
+		type=frigate
+	}
+	ship = {
+		name="Chuquisaca"
+		type=frigate
+	}
+	ship = {
+		name="Cochabamba"
+		type=frigate
+	}
+	ship = {
+		name="La Paz"
+		type=frigate
+	}
+	ship = {
+		name="Oruro"
+		type=frigate
+	}
+	ship = {
+		name="Pando"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,14 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+naval_base = 1
+fort = 1
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

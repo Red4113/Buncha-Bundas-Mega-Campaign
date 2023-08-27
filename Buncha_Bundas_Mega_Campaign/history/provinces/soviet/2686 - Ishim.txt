@@ -1,0 +1,5 @@
+owner=UGR
+controller=UGR
+add_core=UGR
+trade_goods = sulphur
+life_rating = 35

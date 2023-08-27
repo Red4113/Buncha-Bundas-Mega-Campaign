@@ -1,0 +1,502 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = 5
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = -247
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -10
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 17
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UBD = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="5th Army"
+	location=711
+	regiment = {
+		name="1st Slutsk Infantry"
+		type=infantry
+		home=941
+	}
+	regiment = {
+		name="1st Kovel Cavalry"
+		type=cavalry
+		home=957
+	}
+	regiment = {
+		name="1st Pinsk Artillery"
+		type=artillery
+		home=940
+	}
+	regiment = {
+		name="1st Grodno Cavalry"
+		type=cavalry
+		home=936
+	}
+	regiment = {
+		name="1st Brest-Litovsk Artillery"
+		type=artillery
+		home=937
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=945
+	regiment = {
+		name="1st Orsha Infantry"
+		type=infantry
+		home=944
+	}
+	regiment = {
+		name="1st Smolensk Infantry"
+		type=infantry
+		home=943
+	}
+	regiment = {
+		name="1st Minsk Artillery"
+		type=artillery
+		home=718
+	}
+	regiment = {
+		name="2nd Smolensk Infantry"
+		type=infantry
+		home=943
+	}
+	regiment = {
+		name="1st Lida Artillery"
+		type=artillery
+		home=938
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=947
+	regiment = {
+		name="1st Minsk Infantry"
+		type=infantry
+		home=718
+	}
+	regiment = {
+		name="1st Baranovichi Infantry"
+		type=infantry
+		home=939
+	}
+	regiment = {
+		name="1st Gomel Artillery"
+		type=artillery
+		home=949
+	}
+	regiment = {
+		name="1st Polotsk Artillery"
+		type=artillery
+		home=946
+	}
+	regiment = {
+		name="2nd Minsk Infantry"
+		type=infantry
+		home=718
+	}
+	regiment = {
+		name="1st Vitebsk Artillery"
+		type=artillery
+		home=945
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=360
+	regiment = {
+		name="1st Kaunas Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Suwalki Cavalry"
+		type=cavalry
+		home=707
+	}
+	regiment = {
+		name="1st Marijampole Artillery"
+		type=artillery
+		home=362
+	}
+	regiment = {
+		name="1st Vilnius Artillery"
+		type=artillery
+		home=360
+	}
+	regiment = {
+		name="1st Suwalki Artillery"
+		type=artillery
+		home=707
+	}
+	regiment = {
+		name="1st Marijampole Infantry"
+		type=infantry
+		home=362
+	}
+	regiment = {
+		name="2nd Suwalki Cavalry"
+		type=cavalry
+		home=707
+	}
+	regiment = {
+		name="1st Vilnius Cavalry"
+		type=cavalry
+		home=360
+	}
+}
+

@@ -1,0 +1,9 @@
+owner=TRX
+controller=TRX
+add_core=CHG
+add_core=NOG
+add_core=SHY
+add_core=TKS
+add_core=TRX
+trade_goods = iron
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=ASY
+controller=ASY
+add_core=ASY
+trade_goods = sulphur
+life_rating = 35
+terrain = dryhills
+fort = 1

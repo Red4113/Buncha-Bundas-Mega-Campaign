@@ -1,0 +1,9 @@
+owner=NET
+controller=NET
+add_core=DMK
+add_core=JAV
+add_core=MJP
+trade_goods = fruit
+life_rating = 35
+colonial=2
+fort = 1

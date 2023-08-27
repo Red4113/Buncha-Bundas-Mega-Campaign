@@ -1,0 +1,263 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 569
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 7505
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 581
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4649
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1642
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 98
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4133
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 36
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 14
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 769
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 786
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 148
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+}

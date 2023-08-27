@@ -1,0 +1,515 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 79
+	influence_value = 7
+	level = 3
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 4
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -55
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = 0
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 18
+	military_access = yes
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = -8
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 39
+	level = 2
+}
+SPQ = {
+	value = 2
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Tsultrim Gyatso Phuntsok"
+	date="1746.10.3"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Trakpa Chang-chub Tsewang"
+	date="1747.5.2"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Trakpa Chungne Thekchen"
+	date="1750.2.1"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1598
+	regiment = {
+		name="1st Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+	regiment = {
+		name="1st Ngari Cavalry"
+		type=cavalry
+		home=1592
+	}
+	regiment = {
+		name="1st Shigatse Artillery"
+		type=artillery
+		home=1589
+	}
+	regiment = {
+		name="1st Changtang Artillery"
+		type=artillery
+		home=1591
+	}
+	regiment = {
+		name="2nd Yazhou Cavalry"
+		type=cavalry
+		home=1586
+	}
+	regiment = {
+		name="4th Yazhou Cavalry"
+		type=cavalry
+		home=1586
+	}
+	regiment = {
+		name="3rd Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1597
+	regiment = {
+		name="1st Kegudo Irregulars"
+		type=irregular
+		home=1558
+	}
+	regiment = {
+		name="1st Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+	regiment = {
+		name="1st Kegudo Artillery"
+		type=artillery
+		home=1558
+	}
+	regiment = {
+		name="2nd Shigatse Artillery"
+		type=artillery
+		home=1589
+	}
+	regiment = {
+		name="3rd Shigatse Artillery"
+		type=artillery
+		home=1589
+	}
+	regiment = {
+		name="1st Lhasa Irregulars"
+		type=irregular
+		home=1587
+	}
+	regiment = {
+		name="4th Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1591
+	regiment = {
+		name="2nd Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+	regiment = {
+		name="1st Yazhou Artillery"
+		type=artillery
+		home=1586
+	}
+	regiment = {
+		name="2nd Yazhou Artillery"
+		type=artillery
+		home=1586
+	}
+	regiment = {
+		name="3rd Yazhou Artillery"
+		type=artillery
+		home=1586
+	}
+	regiment = {
+		name="7th Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1592
+	regiment = {
+		name="3rd Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+	regiment = {
+		name="1st Ngari Irregulars"
+		type=irregular
+		home=1592
+	}
+	regiment = {
+		name="4th Yazhou Artillery"
+		type=artillery
+		home=1586
+	}
+	regiment = {
+		name="5th Yazhou Artillery"
+		type=artillery
+		home=1586
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1224
+	regiment = {
+		name="4th Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+	regiment = {
+		name="1st Yazhou Cavalry"
+		type=cavalry
+		home=1586
+	}
+	regiment = {
+		name="6th Yazhou Artillery"
+		type=artillery
+		home=1586
+	}
+	regiment = {
+		name="2nd Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+	regiment = {
+		name="2nd Kegudo Artillery"
+		type=artillery
+		home=1558
+	}
+	regiment = {
+		name="6th Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+	regiment = {
+		name="3rd Yazhou Cavalry"
+		type=cavalry
+		home=1586
+	}
+	regiment = {
+		name="1st Srinagar Cavalry"
+		type=cavalry
+		home=1224
+	}
+	regiment = {
+		name="1st Lhasa Artillery"
+		type=artillery
+		home=1587
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1588
+	regiment = {
+		name="5th Yazhou Irregulars"
+		type=irregular
+		home=1586
+	}
+}
+

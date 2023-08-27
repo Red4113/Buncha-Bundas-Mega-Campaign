@@ -1,0 +1,7 @@
+owner=ENT
+controller=ENT
+add_core=ENT
+trade_goods = fish
+life_rating = 35
+terrain = montane_forest
+naval_base = 1

@@ -1,0 +1,7 @@
+owner=LOU
+controller=LOU
+add_core=HUR
+add_core=LOU
+add_core=WCR
+trade_goods = coal
+life_rating = 35

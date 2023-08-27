@@ -1,0 +1,13 @@
+owner=BOH
+controller=BOH
+add_core=BOH
+add_core=CZE
+add_core=WSF
+trade_goods = coal
+life_rating = 35
+state_building=
+{
+	level=1
+	building = machine_parts_factory
+	upgrade = yes
+}

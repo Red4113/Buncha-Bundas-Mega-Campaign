@@ -1,0 +1,7 @@
+owner=BOH
+controller=REB
+add_core=BOH
+add_core=CZE
+add_core=WSF
+trade_goods = cattle
+life_rating = 35

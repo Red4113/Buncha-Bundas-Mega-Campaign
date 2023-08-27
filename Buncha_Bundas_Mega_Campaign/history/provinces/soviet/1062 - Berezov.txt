@@ -1,0 +1,6 @@
+owner=TRX
+controller=TRX
+add_core=X24
+trade_goods = iron
+life_rating = 15
+terrain = boreal

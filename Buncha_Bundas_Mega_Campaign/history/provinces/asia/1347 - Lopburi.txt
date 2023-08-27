@@ -1,0 +1,7 @@
+owner=SCA
+controller=SCA
+add_core=IDO
+add_core=SIA
+trade_goods = opium
+life_rating = 35
+colonial=2

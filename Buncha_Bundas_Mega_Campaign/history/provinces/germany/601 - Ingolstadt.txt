@@ -1,0 +1,7 @@
+owner=ULM
+controller=BOH
+add_core=BAV
+add_core=GER
+add_core=ULM
+trade_goods = grain
+life_rating = 40

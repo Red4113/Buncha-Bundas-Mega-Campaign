@@ -1,0 +1,8 @@
+owner=ASY
+controller=ASY
+add_core=ADE
+add_core=ARA
+add_core=ASY
+trade_goods = coffee
+life_rating = 35
+fort = 1

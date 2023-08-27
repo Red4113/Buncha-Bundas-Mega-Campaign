@@ -1,0 +1,17 @@
+owner=CAL
+controller=CAL
+add_core=CAL
+trade_goods = grain
+life_rating = 31
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

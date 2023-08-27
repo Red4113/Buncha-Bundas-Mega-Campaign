@@ -1,0 +1,8 @@
+owner=TEX
+controller=TEX
+add_core=AZT
+add_core=MTL
+add_core=TEX
+add_core=TLX
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,16 @@
+2244 = {
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+}

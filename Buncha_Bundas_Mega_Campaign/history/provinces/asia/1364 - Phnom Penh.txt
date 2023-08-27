@@ -1,0 +1,13 @@
+owner=SCA
+controller=SCA
+add_core=CAM
+add_core=IDO
+trade_goods = grain
+life_rating = 40
+colonial=2
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

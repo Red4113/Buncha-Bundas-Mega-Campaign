@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+add_core=TKS
+trade_goods = opium
+life_rating = 15
+terrain = desert

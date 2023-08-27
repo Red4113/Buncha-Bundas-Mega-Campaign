@@ -1,0 +1,583 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -2
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 50
+	level = 3
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -3
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+CSH = {
+	value = -3
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = -48
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 33
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LEN = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = -8
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = -7
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 27
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Rafael Ibn Hakan"
+	date="1735.1.3"
+	type=sea
+	personality="polite"
+	background="pawn"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2186
+	regiment = {
+		name="1st Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="2nd Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st Bluefields Artillery"
+		type=artillery
+		home=2200
+	}
+	regiment = {
+		name="1st La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=2199
+	}
+	regiment = {
+		name="7th Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2183
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="3rd Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+	regiment = {
+		name="2nd Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+	regiment = {
+		name="3rd Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+	regiment = {
+		name="3rd La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="8th Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+}
+
+army = {
+	name="17th Army"
+	location=2200
+	regiment = {
+		name="2nd La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="4th Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st Limón Artillery"
+		type=artillery
+		home=2203
+	}
+	regiment = {
+		name="4th Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+	regiment = {
+		name="2nd Limón Artillery"
+		type=artillery
+		home=2203
+	}
+	regiment = {
+		name="1st Managua Infantry"
+		type=infantry
+		home=2197
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2200
+	ship = {
+		name="Audaz"
+		type=manowar
+	}
+	ship = {
+		name="Federación"
+		type=manowar
+	}
+	ship = {
+		name="Independencia"
+		type=manowar
+	}
+	ship = {
+		name="Libertad"
+		type=manowar
+	}
+	ship = {
+		name="Amanecer"
+		type=clipper_transport
+	}
+	ship = {
+		name="Centroamericana"
+		type=clipper_transport
+	}
+	ship = {
+		name="Corsario"
+		type=clipper_transport
+	}
+	ship = {
+		name="Diamante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Emprendedora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Estrella de los Mares"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gracia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guardabarranco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hondureño"
+		type=clipper_transport
+	}
+	ship = {
+		name="Independiente"
+		type=clipper_transport
+	}
+	ship = {
+		name="Indetectable"
+		type=clipper_transport
+	}
+	ship = {
+		name="Isla del Coco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neptuno"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2189
+	regiment = {
+		name="5th Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="5th Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+	regiment = {
+		name="6th Puerto Lempira Artillery"
+		type=artillery
+		home=2196
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2960
+	ship = {
+		name="Cartago"
+		type=frigate
+	}
+	ship = {
+		name="1st San José Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2965
+	ship = {
+		name="Ciudad de Guatemala"
+		type=frigate
+	}
+	ship = {
+		name="Comayagua"
+		type=frigate
+	}
+	ship = {
+		name="4th Bluefields Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2970
+	ship = {
+		name="Flores"
+		type=frigate
+	}
+	ship = {
+		name="León"
+		type=frigate
+	}
+	ship = {
+		name="Managua"
+		type=frigate
+	}
+	ship = {
+		name="San José"
+		type=frigate
+	}
+	ship = {
+		name="San Salvador"
+		type=frigate
+	}
+	ship = {
+		name="2nd Puerto Lempira Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2200
+	ship = {
+		name="Santa Tecla"
+		type=frigate
+	}
+	ship = {
+		name="Tegucigalpa"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Lempira Frigate"
+		type=frigate
+	}
+}
+

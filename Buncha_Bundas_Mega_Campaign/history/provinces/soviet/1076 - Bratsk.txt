@@ -1,0 +1,7 @@
+owner=CSH
+controller=CSH
+add_core=BRY
+add_core=CSH
+add_core=YAK
+trade_goods = coal
+life_rating = 35

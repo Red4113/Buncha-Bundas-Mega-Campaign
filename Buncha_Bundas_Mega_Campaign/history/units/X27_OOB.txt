@@ -1,0 +1,42 @@
+#Sphere of Influence
+
+DUA = {
+	value = 0
+	level = 2
+}
+HOL = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

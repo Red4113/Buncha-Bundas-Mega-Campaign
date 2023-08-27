@@ -1,0 +1,13 @@
+owner=TRX
+controller=TRX
+add_core=SHY
+add_core=TKS
+add_core=TRX
+trade_goods = wool
+life_rating = 30
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

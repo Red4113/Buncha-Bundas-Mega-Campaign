@@ -1,0 +1,608 @@
+855 = {
+	slaves=
+	{
+		culture = afro_greek
+		religion = orthodox
+		size= 2202
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 726
+	}
+
+	craftsmen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 6030
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 181
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 34
+	}
+
+	clerks=
+	{
+		culture = greek
+		religion = orthodox
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = greek
+		religion = orthodox
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 26967
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 168
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	craftsmen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 460
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 209
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	clerks=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	capitalists=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1657
+	}
+
+	slaves=
+	{
+		culture = afro_latin
+		religion = hellenic_pagan
+		size= 81
+	}
+
+	soldiers=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 27
+	}
+
+	craftsmen=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 222
+	}
+
+	artisans=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 417
+	}
+
+	clergymen=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 78
+	}
+
+	clerks=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	capitalists=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 152
+	}
+
+	slaves=
+	{
+		culture = afro_latin
+		religion = zoroastrian_heresy
+		size= 533
+	}
+
+	soldiers=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 176
+	}
+
+	craftsmen=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 1459
+	}
+
+	artisans=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 1159
+	}
+
+	clergymen=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 217
+	}
+
+	clerks=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 291
+	}
+
+	bureaucrats=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 29
+	}
+
+	officers=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 38
+	}
+
+	capitalists=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 487
+	}
+
+	farmers=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 4246
+	}
+
+}
+856 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 1673
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 1673
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 314
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 42
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 703
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 79202
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 2385
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 447
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 60
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 1002
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = zoroastrian_heresy
+		size= 13466
+	}
+
+}
+857 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 718
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 34884
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 2337
+	}
+
+	soldiers=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 413
+	}
+
+	clergymen=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = palmyrene
+		religion = hellenic_pagan
+		size= 607
+	}
+
+	soldiers=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 174
+	}
+
+	artisans=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 1147
+	}
+
+	clergymen=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 29
+	}
+
+	officers=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 482
+	}
+
+	farmers=
+	{
+		culture = palmyrene
+		religion = zoroastrian_heresy
+		size= 6603
+	}
+
+}

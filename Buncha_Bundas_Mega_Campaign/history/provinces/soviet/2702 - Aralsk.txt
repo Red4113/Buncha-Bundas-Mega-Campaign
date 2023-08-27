@@ -1,0 +1,7 @@
+owner=NEA
+controller=TRX
+add_core=KHO
+add_core=TUR
+trade_goods = wool
+life_rating = 30
+fort = 1

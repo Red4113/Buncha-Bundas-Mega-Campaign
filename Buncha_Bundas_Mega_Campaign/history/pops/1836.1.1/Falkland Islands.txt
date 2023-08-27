@@ -1,0 +1,30 @@
+2131 = {
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = protestant
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = grootdesseyn
+		religion = protestant
+		size= 1
+	}
+
+}

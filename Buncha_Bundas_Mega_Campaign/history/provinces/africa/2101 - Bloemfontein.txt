@@ -1,0 +1,11 @@
+owner=ADU
+controller=ADU
+trade_goods = wool
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

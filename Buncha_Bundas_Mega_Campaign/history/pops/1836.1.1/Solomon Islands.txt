@@ -1,0 +1,130 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 894
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8016
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1518
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 198
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1020
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 191
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 11
+	}
+
+}

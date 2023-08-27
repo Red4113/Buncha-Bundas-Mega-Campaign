@@ -1,0 +1,6 @@
+owner=TIB
+controller=AFG
+add_core=PER
+add_core=TIB
+trade_goods = cotton
+life_rating = 32

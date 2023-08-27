@@ -1,0 +1,9 @@
+owner=X05
+controller=X05
+add_core=AJU
+add_core=SOM
+add_core=X05
+trade_goods = cattle
+life_rating = 35
+terrain = savanna
+fort = 1

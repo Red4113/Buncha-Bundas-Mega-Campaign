@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=GER
+add_core=NET
+add_core=X29
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

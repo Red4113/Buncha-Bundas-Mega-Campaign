@@ -1,0 +1,12 @@
+owner=SPQ
+controller=SPQ
+add_core=FRA
+add_core=SPQ
+trade_goods = iron
+life_rating = 34
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

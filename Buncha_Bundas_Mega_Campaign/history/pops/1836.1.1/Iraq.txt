@@ -1,0 +1,1081 @@
+923 = {
+	slaves=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 484
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 6162
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 4689
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 502
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 87
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 422
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 54538
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian_heresy
+		size= 921
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 11722
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 22527
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2414
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 418
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 467
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2027
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 86920
+	}
+
+}
+924 = {
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 1372
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 857
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 22097
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 18
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 108
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 5666
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 15972
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1711
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 297
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 240
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 958
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 76331
+	}
+
+}
+925 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 17516
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 27862
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2985
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 518
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 577
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1671
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 139263
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 1531
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 582
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size= 14409
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 625
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 12
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = zoroastrian_heresy
+		size= 38
+	}
+
+}
+926 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = zoroastrian_heresy
+		size= 1928
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 7330
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 14400
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1863
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 340
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 275
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 99635
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 3925
+	}
+
+}
+927 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 3269
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1244
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 23
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 30685
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 1104
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 2084
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 223
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 39
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 8258
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 15516
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 26938
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2886
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 500
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 558
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 3232
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 119025
+	}
+
+}
+928 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 9910
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 15081
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1616
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 280
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 312
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1810
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 78713
+	}
+
+}
+929 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 6666
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2898
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1087
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 130
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 210
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 609
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 60854
+	}
+
+}
+930 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 10433
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 15876
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1701
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 295
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 329
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 953
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 83816
+	}
+
+}
+931 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 10221
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 4444
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1667
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 289
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 322
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1400
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 92760
+	}
+
+}
+932 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1888
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 18548
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = zoroastrian_heresy
+		size= 414
+	}
+
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 3011
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2047
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 768
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 134
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 26245
+	}
+
+}
+933 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 6180
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 2687
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1008
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 121
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 195
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 564
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 56418
+	}
+
+}
+934 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 9576
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 14571
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 1561
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 188
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 302
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 874
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = zoroastrian_heresy
+		size= 77009
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+trade_goods = coal
+life_rating = 35
+fort = 1

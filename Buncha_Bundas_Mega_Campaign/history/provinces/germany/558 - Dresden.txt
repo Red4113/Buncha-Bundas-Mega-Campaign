@@ -1,0 +1,13 @@
+owner=BOH
+controller=BOH
+add_core=BOH
+add_core=CZE
+add_core=WSF
+trade_goods = coal
+life_rating = 40
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

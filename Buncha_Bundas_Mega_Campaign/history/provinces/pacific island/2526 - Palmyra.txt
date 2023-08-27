@@ -1,0 +1,5 @@
+owner=HWH
+controller=HWH
+add_core=HWH
+trade_goods = sulphur
+life_rating = 10

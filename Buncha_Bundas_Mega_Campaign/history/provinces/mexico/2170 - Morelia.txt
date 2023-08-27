@@ -1,0 +1,8 @@
+owner=TEX
+controller=TEX
+add_core=AZT
+add_core=TEX
+add_core=TLX
+add_core=TRS
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,3774 @@
+2468 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1033
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8090
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5380
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1137
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 244
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 2
+	}
+
+	craftsmen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = catholic
+		size= 1160
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 108
+	}
+
+	clerks=
+	{
+		culture = nanren
+		religion = catholic
+		size= 249
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 11
+	}
+
+	capitalists=
+	{
+		culture = nanren
+		religion = catholic
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 139
+	}
+
+}
+2469 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3897
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 301
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = catholic
+		size= 308
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 37
+	}
+
+}
+2470 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 651
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 333
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1775
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+}
+2471 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1800
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = catholic
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 17
+	}
+
+}
+2472 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 273
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 682
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 129
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 754
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 145
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 776
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 151
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 9
+	}
+
+}
+2473 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2286
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 390
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+}
+2474 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1496
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 258
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 15
+	}
+
+}
+2475 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 343
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1047
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 409
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 10
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 6
+	}
+
+}
+2476 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 841
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 25
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 80
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 7326
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 39
+	}
+
+	clerks=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 468
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 237
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 38
+	}
+
+}
+2477 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 267
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1410
+	}
+
+}
+2478 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 332
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 260
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1033
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 15
+	}
+
+}
+2479 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1508
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 74
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 15
+	}
+
+}
+2480 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 782
+	}
+
+}
+2481 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 672
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 132
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 7
+	}
+
+}
+2482 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 627
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 888
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3894
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 106
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1033
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1874
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 366
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 44
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 5
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 5
+	}
+
+}
+2483 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 19
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4268
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 91
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	craftsmen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 54
+	}
+
+	clerks=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 10
+	}
+
+	capitalists=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 18
+	}
+
+	craftsmen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 3845
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	clerks=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 6
+	}
+
+}
+2484 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 273
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 5
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 510
+	}
+
+}
+2485 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 776
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+}
+2486 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 946
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+}
+2487 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 437
+	}
+
+}
+2488 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 503
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 10
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1815
+	}
+
+}
+2489 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 132
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 727
+	}
+
+}
+2490 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+}
+2491 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 86
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8132
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 336
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 378
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 20
+	}
+
+	craftsmen=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 5
+	}
+
+	clerks=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 2
+	}
+
+	capitalists=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = catholic
+		size= 6
+	}
+
+}
+2492 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 871
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+}
+2493 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 683
+	}
+
+}
+2494 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 871
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+}
+2495 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 768
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+}
+2496 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 837
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+}
+2497 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4339
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 48
+	}
+
+}
+2498 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2602
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 23
+	}
+
+}
+2499 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1583
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 78
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 15
+	}
+
+}
+2500 = {
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 719
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 7
+	}
+
+}
+2501 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 119
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 271
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1277
+	}
+
+}
+2502 = {
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 382
+	}
+
+}
+2503 = {
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 504
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 5
+	}
+
+}
+2504 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 837
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = catholic
+		size= 8
+	}
+
+}
+2505 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1844
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 135
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1033
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 6
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 55
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1176
+	}
+
+}
+2506 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1077
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 52
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 455
+	}
+
+}
+2507 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 358
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 151
+	}
+
+}
+2508 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+}
+2601 = {
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 64
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 298
+	}
+
+}
+2602 = {
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 70
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 329
+	}
+
+}
+2603 = {
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 152
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 65
+	}
+
+}
+2604 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 87
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1273
+	}
+
+}
+2605 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 27
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 565
+	}
+
+}

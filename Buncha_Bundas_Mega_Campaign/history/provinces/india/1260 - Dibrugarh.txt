@@ -1,0 +1,7 @@
+owner=NEP
+controller=NEP
+add_core=ASM
+add_core=NEP
+trade_goods = fruit
+life_rating = 32
+fort = 1

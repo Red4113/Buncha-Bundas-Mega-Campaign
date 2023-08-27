@@ -1,0 +1,6 @@
+owner=SPQ
+controller=SPQ
+add_core=SPQ
+trade_goods = cotton
+life_rating = 45
+fort = 1

@@ -1,0 +1,12 @@
+owner=AST
+controller=AST
+add_core=AST
+trade_goods = cattle
+life_rating = 34
+naval_base = 2
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

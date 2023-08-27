@@ -1,0 +1,6 @@
+owner=CSH
+controller=CSH
+add_core=CSH
+add_core=X24
+trade_goods = coal
+life_rating = 35

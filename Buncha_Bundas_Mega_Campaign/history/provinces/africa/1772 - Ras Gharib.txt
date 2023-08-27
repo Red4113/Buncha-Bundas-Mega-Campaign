@@ -1,0 +1,8 @@
+owner=ASY
+controller=ASY
+add_core=ARA
+add_core=ASY
+add_core=HDJ
+trade_goods = grain
+life_rating = 10
+terrain = desert

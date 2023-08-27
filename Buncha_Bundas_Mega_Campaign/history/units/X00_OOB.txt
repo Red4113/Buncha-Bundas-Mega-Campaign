@@ -1,0 +1,50 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

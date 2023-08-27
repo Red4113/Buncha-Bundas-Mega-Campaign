@@ -1,0 +1,7 @@
+owner=HND
+controller=HND
+add_core=HND
+add_core=NEP
+trade_goods = opium
+life_rating = 32
+fort = 1

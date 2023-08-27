@@ -1,0 +1,6 @@
+owner=ENT
+controller=ENT
+add_core=CCQ
+add_core=ENT
+trade_goods = wool
+life_rating = 31

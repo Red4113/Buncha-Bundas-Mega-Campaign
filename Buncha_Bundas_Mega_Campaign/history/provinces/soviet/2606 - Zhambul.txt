@@ -1,0 +1,8 @@
+owner=TRX
+controller=TRX
+add_core=CHG
+add_core=SHY
+add_core=TKS
+add_core=TRX
+trade_goods = coal
+life_rating = 30

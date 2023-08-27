@@ -1,0 +1,13 @@
+owner=TRX
+controller=TRX
+add_core=TKS
+add_core=TRX
+trade_goods = fruit
+life_rating = 15
+terrain = desert
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

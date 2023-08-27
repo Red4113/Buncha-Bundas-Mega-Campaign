@@ -1,0 +1,7 @@
+owner=SCA
+controller=SCA
+add_core=SCA
+add_core=X19
+trade_goods = timber
+life_rating = 40
+fort = 1

@@ -1,0 +1,7 @@
+owner=AND
+controller=MRT
+add_core=AND
+add_core=HND
+trade_goods = cotton
+life_rating = 32
+fort = 1

@@ -1,0 +1,6 @@
+owner=DUA
+controller=DUA
+add_core=DUA
+trade_goods = grain
+life_rating = 32
+fort = 1

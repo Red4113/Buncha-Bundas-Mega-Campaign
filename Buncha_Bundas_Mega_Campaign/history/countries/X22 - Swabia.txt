@@ -1,0 +1,73 @@
+capital = 586
+primary_culture = north_german
+culture = zzz_religion_catholic
+religion = catholic
+government = bourgeois_dictatorship
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.491406
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=party_appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=harassment
+
+ruling_party = X22_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 14
+	conservative = 80
+	reactionary = 6
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.83333
+nonstate_consciousness= 0.598272
+
+# Technologies
+basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+experimental_railroad = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+high_pressure_steam_engine = 1
+hot_blast = 1
+interchangeable_parts = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+mechanized_mining = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+private_banks = 1
+the_command_principle = 1
+prestige=0
+oob = "X22_OOB.txt"
+set_country_flag = religi
+set_country_flag = vic2_country_X22
+set_country_flag = eu4_country_SWA

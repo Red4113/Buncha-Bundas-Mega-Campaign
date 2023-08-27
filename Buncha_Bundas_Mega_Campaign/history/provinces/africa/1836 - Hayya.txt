@@ -1,0 +1,8 @@
+owner=X06
+controller=X06
+add_core=SUD
+add_core=X01
+add_core=X06
+trade_goods = wool
+life_rating = 10
+terrain = desert

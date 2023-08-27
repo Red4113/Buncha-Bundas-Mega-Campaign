@@ -1,0 +1,1632 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 8
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 50
+	level = 3
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -79
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = 0
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = -37
+	level = 2
+}
+HOL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -40
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LEN = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = -8
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = -79
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -5
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 50
+	level = 3
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 181
+	influence_value = 32
+	level = 2
+}
+TIB = {
+	value = 8
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UBD = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 50
+	level = 3
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+X12 = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+X13 = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+X14 = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+X15 = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X25 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Galba Florian"
+	date="1741.11.7"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Stavrakios Galba"
+	date="1742.6.3"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Antiochos Theoktistos"
+	date="1742.12.24"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Meletios Konstantinos"
+	date="1749.3.18"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Valerios Philippikos"
+	date="1749.7.11"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Staurakios Constantius"
+	date="1749.10.5"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Staurakios Kyriakos"
+	date="1753.1.18"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Theodotos Pupienus"
+	date="1753.1.23"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Paschalis Georgios"
+	date="1753.1.26"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="David Artavasdos"
+	date="1754.10.6"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Bosporios Evangelos"
+	date="1756.8.23"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Pelagios Dorotheos"
+	date="1756.9.29"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Manuel Staurakios"
+	date="1757.11.24"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+
+#Armies
+navy = {
+	name="Classis Adrianopolis"
+	location=860
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="Averof"
+		type=manowar
+	}
+	ship = {
+		name="2nd Giresun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trieste Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Kerch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Kerch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Trieste Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Üsküdar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Trieste Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dubrovnik Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dubrovnik Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dubrovnik Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+	ship = {
+		name="Mount Othrys"
+		type=frigate
+	}
+	ship = {
+		name="ThÃ­va"
+		type=frigate
+	}
+	ship = {
+		name="Skirka"
+		type=frigate
+	}
+	ship = {
+		name="Heratos"
+		type=frigate
+	}
+	ship = {
+		name="Aeolus"
+		type=frigate
+	}
+	ship = {
+		name="1st Kherson Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Sevastopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mariupol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ubykhia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Izmit Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melitopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Melitopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Sevastopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ubykhia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nikolaev Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Batum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mariupol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Nikolaev Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mariupol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canakkale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Caen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chersonese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hull Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bursa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trabzon Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="9th Army"
+	location=967
+	regiment = {
+		name="1st Poti Infantry"
+		type=infantry
+		home=1094
+	}
+	regiment = {
+		name="1st Kherson Infantry"
+		type=infantry
+		home=965
+	}
+	regiment = {
+		name="1st Simferopol Infantry"
+		type=infantry
+		home=964
+	}
+	regiment = {
+		name="1st Astrakhan Infantry"
+		type=infantry
+		home=1036
+	}
+	regiment = {
+		name="2nd Simferopol Infantry"
+		type=infantry
+		home=964
+	}
+	regiment = {
+		name="1st Krivoy Rog Infantry"
+		type=infantry
+		home=971
+	}
+	regiment = {
+		name="1st Kerch Artillery"
+		type=artillery
+		home=966
+	}
+	regiment = {
+		name="1st Kiev Artillery"
+		type=artillery
+		home=958
+	}
+	regiment = {
+		name="1st Sevastopol Artillery"
+		type=artillery
+		home=967
+	}
+	regiment = {
+		name="1st Rostov Artillery"
+		type=artillery
+		home=979
+	}
+	regiment = {
+		name="1st Chernigov Artillery"
+		type=artillery
+		home=962
+	}
+	regiment = {
+		name="1st Yekaterinoslav Artillery"
+		type=artillery
+		home=972
+	}
+	regiment = {
+		name="2nd Chirskaya Infantry"
+		type=infantry
+		home=1046
+	}
+}
+
+army = {
+	name="Legio IX Triumphalis"
+	location=966
+	regiment = {
+		name="3rd Simferopol Infantry"
+		type=infantry
+		home=964
+	}
+	regiment = {
+		name="1st Sevastopol Infantry"
+		type=infantry
+		home=967
+	}
+	regiment = {
+		name="1st Kerch Infantry"
+		type=infantry
+		home=966
+	}
+	regiment = {
+		name="1st Azov Infantry"
+		type=infantry
+		home=1047
+	}
+	regiment = {
+		name="2nd Kerch Infantry"
+		type=infantry
+		home=966
+	}
+	regiment = {
+		name="3rd Kerch Infantry"
+		type=infantry
+		home=966
+	}
+	regiment = {
+		name="1st Ubykhia Artillery"
+		type=artillery
+		home=1049
+	}
+	regiment = {
+		name="1st Kursk Artillery"
+		type=artillery
+		home=977
+	}
+	regiment = {
+		name="1st Siyazen Artillery"
+		type=artillery
+		home=1103
+	}
+	regiment = {
+		name="1st Pasanauri Artillery"
+		type=artillery
+		home=1091
+	}
+	regiment = {
+		name="1st Belgorod Artillery"
+		type=artillery
+		home=1018
+	}
+	regiment = {
+		name="1st Bachmut Artillery"
+		type=artillery
+		home=974
+	}
+	regiment = {
+		name="2nd Azov Infantry"
+		type=infantry
+		home=1047
+	}
+}
+
+army = {
+	name="15th Army"
+	location=976
+	regiment = {
+		name="1st Zarevka Infantry"
+		type=infantry
+		home=1040
+	}
+	regiment = {
+		name="1st Nikolaev Infantry"
+		type=infantry
+		home=970
+	}
+	regiment = {
+		name="1st Kiev Infantry"
+		type=infantry
+		home=958
+	}
+	regiment = {
+		name="1st Vladikavkaz Infantry"
+		type=infantry
+		home=1054
+	}
+	regiment = {
+		name="1st Stavropol Infantry"
+		type=infantry
+		home=1050
+	}
+	regiment = {
+		name="1st Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="1st Elista Infantry"
+		type=infantry
+		home=1041
+	}
+}
+
+army = {
+	name="Legio II Rapax"
+	location=965
+	regiment = {
+		name="1st Akhaltsikhe Infantry"
+		type=infantry
+		home=1093
+	}
+	regiment = {
+		name="1st Sukhumi Infantry"
+		type=infantry
+		home=1095
+	}
+	regiment = {
+		name="4th Simferopol Infantry"
+		type=infantry
+		home=964
+	}
+	regiment = {
+		name="5th Simferopol Infantry"
+		type=infantry
+		home=964
+	}
+	regiment = {
+		name="2nd Sevastopol Infantry"
+		type=infantry
+		home=967
+	}
+	regiment = {
+		name="1st Ardahan Infantry"
+		type=infantry
+		home=886
+	}
+	regiment = {
+		name="1st Olviopol Infantry"
+		type=infantry
+		home=969
+	}
+}
+
+army = {
+	name="Legio IV Apollonaris"
+	location=964
+	regiment = {
+		name="1st Tblisi Infantry"
+		type=infantry
+		home=1090
+	}
+	regiment = {
+		name="1st Gunib Infantry"
+		type=infantry
+		home=1053
+	}
+	regiment = {
+		name="1st Zanjan Infantry"
+		type=infantry
+		home=1123
+	}
+	regiment = {
+		name="1st Mariupol Infantry"
+		type=infantry
+		home=976
+	}
+	regiment = {
+		name="2nd Akhaltsikhe Infantry"
+		type=infantry
+		home=1093
+	}
+	regiment = {
+		name="1st Ubykhia Infantry"
+		type=infantry
+		home=1049
+	}
+	regiment = {
+		name="2nd Bachmut Artillery"
+		type=artillery
+		home=974
+	}
+	regiment = {
+		name="1st Krivoy Rog Artillery"
+		type=artillery
+		home=971
+	}
+	regiment = {
+		name="1st Yuzovka Artillery"
+		type=artillery
+		home=975
+	}
+	regiment = {
+		name="1st Simferopol Artillery"
+		type=artillery
+		home=964
+	}
+	regiment = {
+		name="2nd Kerch Artillery"
+		type=artillery
+		home=966
+	}
+	regiment = {
+		name="1st Nikolaev Artillery"
+		type=artillery
+		home=970
+	}
+	regiment = {
+		name="1st Siyazen Infantry"
+		type=infantry
+		home=1103
+	}
+}
+
+army = {
+	name="Legio I Herculia"
+	location=974
+	regiment = {
+		name="1st Yekaterinodar Infantry"
+		type=infantry
+		home=1048
+	}
+	regiment = {
+		name="1st Rostov Infantry"
+		type=infantry
+		home=979
+	}
+	regiment = {
+		name="1st Cherkassy Infantry"
+		type=infantry
+		home=961
+	}
+	regiment = {
+		name="1st Adygei Infantry"
+		type=infantry
+		home=1051
+	}
+	regiment = {
+		name="1st Kutaisi Infantry"
+		type=infantry
+		home=1092
+	}
+	regiment = {
+		name="2nd Ubykhia Infantry"
+		type=infantry
+		home=1049
+	}
+	regiment = {
+		name="3rd Stavropol Infantry"
+		type=infantry
+		home=1050
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1048
+	regiment = {
+		name="1st Derbent Infantry"
+		type=infantry
+		home=1052
+	}
+	regiment = {
+		name="3rd Sevastopol Infantry"
+		type=infantry
+		home=967
+	}
+	regiment = {
+		name="1st Khvoy Infantry"
+		type=infantry
+		home=1109
+	}
+	regiment = {
+		name="1st Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+	regiment = {
+		name="1st Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="1st Sheki Infantry"
+		type=infantry
+		home=1104
+	}
+	regiment = {
+		name="5th Sukhumi Infantry"
+		type=infantry
+		home=1095
+	}
+}
+
+army = {
+	name="Legio V Alaudae"
+	location=1047
+	regiment = {
+		name="2nd Tblisi Infantry"
+		type=infantry
+		home=1090
+	}
+	regiment = {
+		name="2nd Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="1st Chirskaya Infantry"
+		type=infantry
+		home=1046
+	}
+	regiment = {
+		name="2nd Stavropol Infantry"
+		type=infantry
+		home=1050
+	}
+	regiment = {
+		name="2nd Kutaisi Infantry"
+		type=infantry
+		home=1092
+	}
+	regiment = {
+		name="1st Baku Infantry"
+		type=infantry
+		home=1102
+	}
+}
+
+army = {
+	name="Legio III Liberatrix"
+	location=971
+	regiment = {
+		name="3rd Ubykhia Infantry"
+		type=infantry
+		home=1049
+	}
+	regiment = {
+		name="2nd Sukhumi Infantry"
+		type=infantry
+		home=1095
+	}
+	regiment = {
+		name="1st Batum Infantry"
+		type=infantry
+		home=1096
+	}
+	regiment = {
+		name="3rd Sukhumi Infantry"
+		type=infantry
+		home=1095
+	}
+	regiment = {
+		name="2nd Gunib Infantry"
+		type=infantry
+		home=1053
+	}
+	regiment = {
+		name="3rd Kutaisi Infantry"
+		type=infantry
+		home=1092
+	}
+	regiment = {
+		name="1st Sinop Artillery"
+		type=artillery
+		home=883
+	}
+	regiment = {
+		name="1st Korosten Artillery"
+		type=artillery
+		home=959
+	}
+	regiment = {
+		name="1st Novopetrovskoye Artillery"
+		type=artillery
+		home=1194
+	}
+	regiment = {
+		name="1st Agdam Artillery"
+		type=artillery
+		home=1106
+	}
+	regiment = {
+		name="2nd Agdam Artillery"
+		type=artillery
+		home=1106
+	}
+	regiment = {
+		name="2nd Novopetrovskoye Artillery"
+		type=artillery
+		home=1194
+	}
+}
+
+army = {
+	name="Legio VI Victrix"
+	location=1049
+	regiment = {
+		name="1st Trabzon Infantry"
+		type=infantry
+		home=882
+	}
+	regiment = {
+		name="4th Sukhumi Infantry"
+		type=infantry
+		home=1095
+	}
+	regiment = {
+		name="1st Melitopol Infantry"
+		type=infantry
+		home=973
+	}
+	regiment = {
+		name="3rd Gunib Infantry"
+		type=infantry
+		home=1053
+	}
+	regiment = {
+		name="1st Migulinskaya Infantry"
+		type=infantry
+		home=1045
+	}
+	regiment = {
+		name="1st Tsaritsyn Infantry"
+		type=infantry
+		home=1039
+	}
+	regiment = {
+		name="2nd Sinop Artillery"
+		type=artillery
+		home=883
+	}
+	regiment = {
+		name="1st Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+	regiment = {
+		name="2nd Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+	regiment = {
+		name="1st Vinnitsa Artillery"
+		type=artillery
+		home=954
+	}
+	regiment = {
+		name="1st Tblisi Artillery"
+		type=artillery
+		home=1090
+	}
+	regiment = {
+		name="1st Erzurum Artillery"
+		type=artillery
+		home=887
+	}
+}
+
+army = {
+	name="Legio VII Ferrata"
+	location=1048
+	regiment = {
+		name="1st Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="1st Guryev Infantry"
+		type=infantry
+		home=1182
+	}
+	regiment = {
+		name="1st Saratov Infantry"
+		type=infantry
+		home=1037
+	}
+	regiment = {
+		name="1st Rasht Infantry"
+		type=infantry
+		home=1113
+	}
+	regiment = {
+		name="2nd Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="2nd Guryev Infantry"
+		type=infantry
+		home=1182
+	}
+}
+
+army = {
+	name="1st Army"
+	location=979
+	regiment = {
+		name="2nd Sheki Infantry"
+		type=infantry
+		home=1104
+	}
+	regiment = {
+		name="2nd Khvoy Infantry"
+		type=infantry
+		home=1109
+	}
+	regiment = {
+		name="1st Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+	regiment = {
+		name="3rd Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="3rd Sheki Infantry"
+		type=infantry
+		home=1104
+	}
+	regiment = {
+		name="2nd Ardabil Infantry"
+		type=infantry
+		home=1112
+	}
+}
+
+navy = {
+	name="Classis Atlanticum"
+	location=2775
+	ship = {
+		name="1st Mugla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmit Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mugla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sinop Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ubykhia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Sevastopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ubykhia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sinop Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rostov Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Mariupol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chersonese Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Yekaterinodar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bolu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bolu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Üsküdar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Üsküdar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Balikesir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mugla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chersonese Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Balikesir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Giresun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Giresun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Simferopol Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kherson Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Antalya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Balikesir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Sinop Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Kerch Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Poti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Khalkis Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Independent Cossack Host"
+	location=860
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="2nd Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="3rd Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="1st Istanbul Cavalry"
+		type=cavalry
+		home=860
+	}
+	regiment = {
+		name="4th Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="2nd Istanbul Cavalry"
+		type=cavalry
+		home=860
+	}
+}
+
+army = {
+	name="Legio VIII Augusta"
+	location=968
+	regiment = {
+		name="2nd Rasht Infantry"
+		type=infantry
+		home=1113
+	}
+	regiment = {
+		name="1st Izmit Infantry"
+		type=infantry
+		home=862
+	}
+	regiment = {
+		name="1st Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Gallipoli Infantry"
+		type=infantry
+		home=859
+	}
+	regiment = {
+		name="1st Merv Infantry"
+		type=infantry
+		home=686
+	}
+	regiment = {
+		name="1st Sukhumi Artillery"
+		type=artillery
+		home=1095
+	}
+	regiment = {
+		name="1st Poti Artillery"
+		type=artillery
+		home=1094
+	}
+	regiment = {
+		name="1st Zhitomir Artillery"
+		type=artillery
+		home=960
+	}
+	regiment = {
+		name="2nd Sukhumi Artillery"
+		type=artillery
+		home=1095
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="2nd Kursk Artillery"
+		type=artillery
+		home=977
+	}
+}
+

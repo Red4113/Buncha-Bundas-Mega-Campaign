@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+add_core=NOG
+trade_goods = iron
+life_rating = 35

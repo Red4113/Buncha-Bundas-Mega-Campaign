@@ -1,0 +1,12 @@
+owner=UCA
+controller=UCA
+add_core=UCA
+trade_goods = fruit
+life_rating = 33
+naval_base = 2
+state_building=
+{
+	level=1
+	building = furniture_factory
+	upgrade = yes
+}

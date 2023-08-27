@@ -1,0 +1,7 @@
+owner=TRX
+controller=TRX
+add_core=TRX
+add_core=TUR
+add_core=X02
+trade_goods = coal
+life_rating = 30

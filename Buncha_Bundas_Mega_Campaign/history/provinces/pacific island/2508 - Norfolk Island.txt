@@ -1,0 +1,7 @@
+owner=AST
+controller=AST
+add_core=AOT
+add_core=AST
+trade_goods = fish
+life_rating = 31
+terrain = small_island

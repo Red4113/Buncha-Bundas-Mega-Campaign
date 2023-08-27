@@ -1,0 +1,5 @@
+owner=SCA
+controller=SCA
+add_core=PCH
+trade_goods = iron
+life_rating = 35

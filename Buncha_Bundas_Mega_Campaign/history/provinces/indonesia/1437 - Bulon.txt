@@ -1,0 +1,7 @@
+owner=NET
+controller=NET
+add_core=BTN
+add_core=MAL
+trade_goods = fish
+life_rating = 31
+colonial=2

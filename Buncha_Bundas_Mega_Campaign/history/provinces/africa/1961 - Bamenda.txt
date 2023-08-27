@@ -1,0 +1,5 @@
+owner = SOK
+controller = SOK
+add_core = SOK
+life_rating = 25
+trade_goods = timber

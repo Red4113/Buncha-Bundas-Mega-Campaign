@@ -1,0 +1,8 @@
+owner=KOR
+controller=KOR
+add_core=HOD
+add_core=KOR
+add_core=YAK
+trade_goods = grain
+life_rating = 15
+terrain = boreal

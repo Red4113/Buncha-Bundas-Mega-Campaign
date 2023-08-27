@@ -1,0 +1,8 @@
+owner=BOH
+controller=BOH
+add_core=BOH
+add_core=CZE
+add_core=WSF
+trade_goods = coal
+life_rating = 40
+fort = 1

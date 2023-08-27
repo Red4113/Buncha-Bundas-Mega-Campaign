@@ -1,0 +1,4 @@
+owner=SPQ
+controller=SPQ
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,1557 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 1
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -26
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 12
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -32
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+CRB = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = 25
+	level = 3
+}
+ENT = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HOL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = -79
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -50
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LEN = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 49
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 5
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = -53
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = -22
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UBD = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 119
+	influence_value = 17
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gerben Van Galen"
+	date="1732.4.12"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Christiaan Van Wijngaarden"
+	date="1737.3.31"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Filips Van Heemskerck"
+	date="1739.1.17"
+	type=sea
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Pieter Reijersen"
+	date="1748.1.9"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Johan Vliechop"
+	date="1759.8.4"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jacob Steltman"
+	date="1759.9.15"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Isaac Van Utenhove"
+	date="1759.9.23"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="Leger van Pakuan"
+	location=1447
+	regiment = {
+		name="1st Cirebon Infantry"
+		type=infantry
+		home=1415
+	}
+	regiment = {
+		name="2nd Cirebon Infantry"
+		type=infantry
+		home=1415
+	}
+	regiment = {
+		name="3rd Cirebon Infantry"
+		type=infantry
+		home=1415
+	}
+	regiment = {
+		name="1st Cirebon Artillery"
+		type=artillery
+		home=1415
+	}
+	regiment = {
+		name="1st Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+	regiment = {
+		name="1st Yogyakarta Artillery"
+		type=artillery
+		home=1416
+	}
+	regiment = {
+		name="5th Cirebon Infantry"
+		type=infantry
+		home=1415
+	}
+}
+
+army = {
+	name="Leger van Gent"
+	location=377
+	regiment = {
+		name="1st Breda Infantry"
+		type=infantry
+		home=380
+	}
+	regiment = {
+		name="1st Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="1st Middelburg Cavalry"
+		type=cavalry
+		home=378
+	}
+	regiment = {
+		name="1st Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+	regiment = {
+		name="1st Rotterdam Artillery"
+		type=artillery
+		home=376
+	}
+	regiment = {
+		name="1st Ipoh Infantry"
+		type=infantry
+		home=2575
+	}
+	regiment = {
+		name="1st Breda Cavalry"
+		type=cavalry
+		home=380
+	}
+	regiment = {
+		name="1st Toamasina Cavalry"
+		type=cavalry
+		home=2119
+	}
+	regiment = {
+		name="1st Middelburg Artillery"
+		type=artillery
+		home=378
+	}
+}
+
+army = {
+	name="Prinselijk Leger"
+	location=378
+	regiment = {
+		name="1st Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="1st Arlon Infantry"
+		type=infantry
+		home=398
+	}
+	regiment = {
+		name="1st Arnhem Infantry"
+		type=infantry
+		home=382
+	}
+	regiment = {
+		name="1st Breda Artillery"
+		type=artillery
+		home=380
+	}
+	regiment = {
+		name="2nd Breda Artillery"
+		type=artillery
+		home=380
+	}
+	regiment = {
+		name="2nd Münster Infantry"
+		type=infantry
+		home=581
+	}
+	regiment = {
+		name="8th Breda Artillery"
+		type=artillery
+		home=380
+	}
+}
+
+army = {
+	name="Leger van Afder"
+	location=390
+	regiment = {
+		name="1st Toamasina Infantry"
+		type=infantry
+		home=2119
+	}
+	regiment = {
+		name="1st Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="2nd Middelburg Cavalry"
+		type=cavalry
+		home=378
+	}
+	regiment = {
+		name="1st Kelang Artillery"
+		type=artillery
+		home=1387
+	}
+	regiment = {
+		name="3rd Breda Artillery"
+		type=artillery
+		home=380
+	}
+	regiment = {
+		name="2nd Ipoh Infantry"
+		type=infantry
+		home=2575
+	}
+	regiment = {
+		name="3rd Middelburg Cavalry"
+		type=cavalry
+		home=378
+	}
+	regiment = {
+		name="1st Eindhoven Cavalry"
+		type=cavalry
+		home=379
+	}
+	regiment = {
+		name="7th Breda Artillery"
+		type=artillery
+		home=380
+	}
+}
+
+army = {
+	name="Leger van Den Haag"
+	location=539
+	regiment = {
+		name="1st Bremen Infantry"
+		type=infantry
+		home=539
+	}
+	regiment = {
+		name="1st Münster Infantry"
+		type=infantry
+		home=581
+	}
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="4th Breda Artillery"
+		type=artillery
+		home=380
+	}
+	regiment = {
+		name="5th Breda Artillery"
+		type=artillery
+		home=380
+	}
+	regiment = {
+		name="1st Utrecht Artillery"
+		type=artillery
+		home=377
+	}
+	regiment = {
+		name="6th Breda Artillery"
+		type=artillery
+		home=380
+	}
+	regiment = {
+		name="2nd Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+	regiment = {
+		name="2nd Bremen Infantry"
+		type=infantry
+		home=539
+	}
+}
+
+army = {
+	name="Leger van 's-Hertogenbosch"
+	location=382
+	regiment = {
+		name="1st Cleves Infantry"
+		type=infantry
+		home=577
+	}
+	regiment = {
+		name="1st Wiesbaden Infantry"
+		type=infantry
+		home=565
+	}
+	regiment = {
+		name="2nd Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="3rd Antwerp Artillery"
+		type=artillery
+		home=390
+	}
+	regiment = {
+		name="1st Bruges Artillery"
+		type=artillery
+		home=388
+	}
+}
+
+army = {
+	name="Leger van Demak"
+	location=1414
+	regiment = {
+		name="1st Bogor Infantry"
+		type=infantry
+		home=1414
+	}
+	regiment = {
+		name="1st Surakarta Infantry"
+		type=infantry
+		home=1419
+	}
+	regiment = {
+		name="2nd Bogor Infantry"
+		type=infantry
+		home=1414
+	}
+	regiment = {
+		name="4th Cirebon Infantry"
+		type=infantry
+		home=1415
+	}
+	regiment = {
+		name="2nd Yogyakarta Artillery"
+		type=artillery
+		home=1416
+	}
+	regiment = {
+		name="1st Batavia Artillery"
+		type=artillery
+		home=1413
+	}
+	regiment = {
+		name="1st Sumbawa Artillery"
+		type=artillery
+		home=1440
+	}
+}
+
+navy = {
+	name="Middellandse Zeevloot"
+	location=1448
+	ship = {
+		name="Wolf"
+		type=frigate
+	}
+	ship = {
+		name="Fret"
+		type=frigate
+	}
+	ship = {
+		name="Hermelijn"
+		type=frigate
+	}
+	ship = {
+		name="Vos"
+		type=frigate
+	}
+	ship = {
+		name="Panter"
+		type=frigate
+	}
+	ship = {
+		name="Jaguar"
+		type=frigate
+	}
+	ship = {
+		name="Lynx"
+		type=frigate
+	}
+	ship = {
+		name="Leeuw"
+		type=frigate
+	}
+	ship = {
+		name="Jakhals"
+		type=frigate
+	}
+	ship = {
+		name="1st Sumbawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd São Tomé Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Batavia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bulon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Batavia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sacramento Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yogyakarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sumbawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Batavia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malacca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lombok Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Inhambane Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Surabaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Surakarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lombok Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Noordzeevloot"
+	location=2916
+	ship = {
+		name="5th Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Emden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Yogyakarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zwolle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Arnhem Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Emden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ampanihy Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Surakarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Arnhem Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Antwerp Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Surabaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pondicherry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Oldenburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Fernando Pó Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cayenne Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Amsterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Probolinggo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Middelburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Surabaya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Fernando Pó Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Alor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Rotterdam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Middelburg Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Oostzeevloot"
+	location=376
+	ship = {
+		name="Admiraal Generaal"
+		type=manowar
+	}
+	ship = {
+		name="Beschermer"
+		type=manowar
+	}
+	ship = {
+		name="Brederode"
+		type=manowar
+	}
+	ship = {
+		name="Campen"
+		type=manowar
+	}
+	ship = {
+		name="Eendracht"
+		type=manowar
+	}
+	ship = {
+		name="Eenhoorn"
+		type=manowar
+	}
+	ship = {
+		name="Frederik Hendrik"
+		type=manowar
+	}
+	ship = {
+		name="Gouden Leeuw"
+		type=manowar
+	}
+	ship = {
+		name="Graaf Willem"
+		type=manowar
+	}
+	ship = {
+		name="Groote Liefde"
+		type=manowar
+	}
+	ship = {
+		name="Jozua"
+		type=manowar
+	}
+	ship = {
+		name="Kameel"
+		type=manowar
+	}
+	ship = {
+		name="Kapitein Generaal"
+		type=manowar
+	}
+	ship = {
+		name="Landman"
+		type=manowar
+	}
+	ship = {
+		name="Louisa Hendrika"
+		type=manowar
+	}
+	ship = {
+		name="Overwinnaer"
+		type=manowar
+	}
+	ship = {
+		name="Prinses Amalia"
+		type=manowar
+	}
+	ship = {
+		name="Prinses Roijaal"
+		type=manowar
+	}
+	ship = {
+		name="Prins Friso"
+		type=manowar
+	}
+	ship = {
+		name="Prins Willem"
+		type=manowar
+	}
+	ship = {
+		name="Rosenkrans"
+		type=manowar
+	}
+	ship = {
+		name="Salamander"
+		type=manowar
+	}
+	ship = {
+		name="Vergulde Maen"
+		type=manowar
+	}
+	ship = {
+		name="Verwachting"
+		type=manowar
+	}
+	ship = {
+		name="Unie"
+		type=manowar
+	}
+	ship = {
+		name="Vrede"
+		type=manowar
+	}
+	ship = {
+		name="Vrijheid"
+		type=manowar
+	}
+	ship = {
+		name="Witte Lam"
+		type=manowar
+	}
+	ship = {
+		name="4th Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cirebon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mahajanga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Middelburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Merah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Alor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arnhem Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cirebon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Flores Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Amsterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dutch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Okayama Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Amsterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Arnhem Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Haeju Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Sariwon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Amsterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Sariwon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dutch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cirebon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Utrecht Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Amsterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Yogyakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Kwangju Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Surakarta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Fukuoka Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2228
+	regiment = {
+		name="1st Rotterdam Infantry"
+		type=infantry
+		home=376
+	}
+	regiment = {
+		name="1st Ghent Cavalry"
+		type=cavalry
+		home=389
+	}
+	regiment = {
+		name="2nd Ghent Cavalry"
+		type=cavalry
+		home=389
+	}
+	regiment = {
+		name="2nd Bruges Artillery"
+		type=artillery
+		home=388
+	}
+	regiment = {
+		name="1st Aachen Artillery"
+		type=artillery
+		home=576
+	}
+	regiment = {
+		name="1st Oldenburg Cavalry"
+		type=cavalry
+		home=540
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2969
+	ship = {
+		name="1st Barbados Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Barbados Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2974
+	ship = {
+		name="1st Grenada Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Dominica Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2976
+	ship = {
+		name="1st Dominica Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Saint Vincent Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2232
+	ship = {
+		name="Amsterdam"
+		type=clipper_transport
+	}
+	ship = {
+		name="Assendelft"
+		type=clipper_transport
+	}
+	ship = {
+		name="Batavia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Delfland"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dordrecht"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gouda"
+		type=clipper_transport
+	}
+	ship = {
+		name="Haarlem"
+		type=clipper_transport
+	}
+}
+

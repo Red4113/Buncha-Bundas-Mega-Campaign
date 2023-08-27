@@ -1,0 +1,64 @@
+capital = 349
+primary_culture = dynamic-norse-russian_culture-culture-num1
+culture = estonian
+culture = latvian
+culture = lithuanian
+culture = pruthenian
+culture = zzz_religion_orthodox
+religion = orthodox
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_tradition
+literacy = 0.393125
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=harassment
+
+ruling_party = UBD_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 8
+	conservative = 88
+	reactionary = 4
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 2.5
+nonstate_consciousness= 1.62312
+
+# Technologies
+classicism_n_early_romanticism = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+prestige=0
+oob = "UBD_OOB.txt"
+set_country_flag = religi
+decision = UBD_1836_setup
+set_country_flag = vic2_country_UBD
+set_country_flag = eu4_country_EST

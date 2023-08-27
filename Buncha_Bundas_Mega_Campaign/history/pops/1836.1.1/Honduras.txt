@@ -1,0 +1,428 @@
+2193 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 138
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 6657
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 44
+	}
+
+	craftsmen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 8529
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 1061
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 2262
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 735
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 102
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = mayan
+		size= 48358
+	}
+
+}
+2194 = {
+	soldiers=
+	{
+		culture = americano
+		religion = mayan
+		size= 668
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = mayan
+		size= 668
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = mayan
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = mayan
+		size= 37
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = mayan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = mayan
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = mayan
+		size= 31656
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 1226
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 3121
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 1014
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 172
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 655
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 55070
+	}
+
+}
+2195 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 662
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 11123
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 10333
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 119703
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 23553
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 2186
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 1413
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 538
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 269
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1170
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 343
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4
+	}
+
+}
+2196 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 4515
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1880
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 486
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 22733
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 10645
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 988
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 243
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 639
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 37248
+	}
+
+}

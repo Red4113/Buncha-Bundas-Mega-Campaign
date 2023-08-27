@@ -1,0 +1,8 @@
+owner=SCA
+controller=SCA
+add_core=FIN
+add_core=SCA
+add_core=X23
+trade_goods = timber
+life_rating = 35
+fort = 1

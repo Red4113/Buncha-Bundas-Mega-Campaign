@@ -1,0 +1,9 @@
+owner=X25
+controller=TRX
+add_core=CHG
+add_core=TKS
+add_core=TRX
+add_core=X25
+trade_goods = iron
+life_rating = 32
+fort = 1

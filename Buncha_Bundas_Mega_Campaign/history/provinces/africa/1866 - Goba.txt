@@ -1,0 +1,9 @@
+owner=X08
+controller=X08
+add_core=AJU
+add_core=JIM
+add_core=X08
+trade_goods = cattle
+life_rating = 10
+terrain = dryhills
+fort = 1

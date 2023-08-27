@@ -1,0 +1,9 @@
+owner=X06
+controller=X06
+add_core=AJU
+add_core=SUD
+add_core=X01
+add_core=X06
+trade_goods = fruit
+life_rating = 32
+terrain = semidesert

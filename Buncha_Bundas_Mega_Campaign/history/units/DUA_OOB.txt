@@ -1,0 +1,1553 @@
+#Sphere of Influence
+
+ADU = {
+	value = -92
+	level = 2
+}
+AFG = {
+	value = 22
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 27
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BOH = {
+	value = 16
+	level = 3
+}
+BOL = {
+	value = 18
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -12
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -21
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -33
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = 0
+	level = 2
+}
+ENT = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HOL = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = -6
+	level = 2
+}
+ICL = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KOR = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LEN = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 52
+	level = 2
+}
+NET = {
+	value = 117
+	influence_value = 16
+	level = 3
+}
+NEW = {
+	value = -29
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+ROM = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = -117
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SIO = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = -138
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 50
+	level = 3
+}
+TEX = {
+	value = -26
+	level = 2
+}
+TIB = {
+	value = 16
+	level = 2
+}
+TRX = {
+	value = 40
+	level = 2
+}
+UBD = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 28
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -45
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -3
+	level = 2
+}
+X04 = {
+	value = -4
+	level = 2
+}
+X05 = {
+	value = -4
+	level = 2
+}
+X06 = {
+	value = -3
+	level = 2
+}
+X07 = {
+	value = -3
+	level = 2
+}
+X08 = {
+	value = -2
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 150
+	level = 5
+}
+X24 = {
+	value = 22
+	level = 2
+}
+X25 = {
+	value = 49
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 49
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hugh Albemarle"
+	date="1742.10.10"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Frederick Blake"
+	date="1743.9.12"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Alexander Northumberland"
+	date="1743.9.19"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Christopher Clarence"
+	date="1743.10.4"
+	type=land
+	personality="unflinching"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Richard Talbot"
+	date="1744.7.17"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="William Amherst"
+	date="1752.5.13"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Octavius Herbert"
+	date="1759.2.14"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Richard Cook"
+	date="1759.2.14"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Richard Cook"
+	date="1759.2.15"
+	type=land
+	personality="unflinching"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Richard Cook"
+	date="1759.2.15"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Jonathan Uxbridge"
+	date="1759.2.21"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Thomas Amherst"
+	date="1759.3.27"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Archibald Cabot"
+	date="1759.3.29"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Augustus Howe"
+	date="1759.3.31"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Francis Rooke"
+	date="1760.3.5"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Horatio Davis"
+	date="1760.3.6"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Horatio Davis"
+	date="1760.3.7"
+	type=land
+	personality="unflinching"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=406
+	regiment = {
+		name="1st Laon Infantry"
+		type=infantry
+		home=403
+	}
+	regiment = {
+		name="1st Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="1st Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+	regiment = {
+		name="1st Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Rouen Infantry"
+		type=infantry
+		home=415
+	}
+	regiment = {
+		name="1st Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="1st Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="1st Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="1st Chalons Infantry"
+		type=infantry
+		home=408
+	}
+	regiment = {
+		name="1st Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="1st La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2570
+	regiment = {
+		name="1st Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="2nd Laon Infantry"
+		type=infantry
+		home=403
+	}
+	regiment = {
+		name="1st Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="1st St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="2nd Chalons Infantry"
+		type=infantry
+		home=408
+	}
+	regiment = {
+		name="2nd Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="2nd Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="3rd Paris Infantry"
+		type=infantry
+		home=425
+	}
+}
+
+army = {
+	name="Army of Ireland"
+	location=401
+	regiment = {
+		name="2nd Caen Infantry"
+		type=infantry
+		home=418
+	}
+	regiment = {
+		name="3rd Chartres Infantry"
+		type=infantry
+		home=426
+	}
+	regiment = {
+		name="2nd Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="2nd Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+	regiment = {
+		name="2nd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="1st Le Mans Infantry"
+		type=infantry
+		home=436
+	}
+	regiment = {
+		name="1st Nantes Infantry"
+		type=infantry
+		home=423
+	}
+	regiment = {
+		name="1st Évreux Infantry"
+		type=infantry
+		home=416
+	}
+	regiment = {
+		name="3rd Angers Infantry"
+		type=infantry
+		home=434
+	}
+	regiment = {
+		name="2nd Alençon Infantry"
+		type=infantry
+		home=417
+	}
+}
+
+army = {
+	name="7th Army"
+	location=446
+	regiment = {
+		name="1st Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="2nd Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="1st Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="2nd Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="1st Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="1st Strasbourg Infantry"
+		type=infantry
+		home=409
+	}
+	regiment = {
+		name="2nd Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="1st Orléans Infantry"
+		type=infantry
+		home=438
+	}
+	regiment = {
+		name="2nd Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=445
+	regiment = {
+		name="1st Dijon Infantry"
+		type=infantry
+		home=428
+	}
+	regiment = {
+		name="1st Verdun Infantry"
+		type=infantry
+		home=413
+	}
+	regiment = {
+		name="3rd Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="1st Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="2nd Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="3rd Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="1st Châteauroux Infantry"
+		type=infantry
+		home=446
+	}
+	regiment = {
+		name="1st Bourges Infantry"
+		type=infantry
+		home=439
+	}
+	regiment = {
+		name="3rd Limoges Infantry"
+		type=infantry
+		home=445
+	}
+	regiment = {
+		name="4th Angers Infantry"
+		type=infantry
+		home=434
+	}
+}
+
+army = {
+	name="8th Army"
+	location=444
+	regiment = {
+		name="1st Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="2nd Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="1st Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="1st Valence Infantry"
+		type=infantry
+		home=453
+	}
+	regiment = {
+		name="1st Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="1st Ipswich Infantry"
+		type=infantry
+		home=292
+	}
+	regiment = {
+		name="1st Macon Infantry"
+		type=infantry
+		home=431
+	}
+	regiment = {
+		name="2nd Ipswich Infantry"
+		type=infantry
+		home=292
+	}
+	regiment = {
+		name="6th Amiens Infantry"
+		type=infantry
+		home=402
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=418
+	regiment = {
+		name="1st Montauban Infantry"
+		type=infantry
+		home=456
+	}
+	regiment = {
+		name="2nd St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
+		name="1st Tours Infantry"
+		type=infantry
+		home=441
+	}
+	regiment = {
+		name="2nd Orléans Infantry"
+		type=infantry
+		home=438
+	}
+	regiment = {
+		name="2nd Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="1st Cahors Infantry"
+		type=infantry
+		home=450
+	}
+	regiment = {
+		name="2nd Dijon Infantry"
+		type=infantry
+		home=428
+	}
+	regiment = {
+		name="4th Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="9th Colmar Infantry"
+		type=infantry
+		home=410
+	}
+}
+
+navy = {
+	name="Red Squadron"
+	location=2724
+	ship = {
+		name="Condor"
+		type=frigate
+	}
+	ship = {
+		name="Epervier"
+		type=frigate
+	}
+	ship = {
+		name="Faucon"
+		type=frigate
+	}
+	ship = {
+		name="Vautour"
+		type=frigate
+	}
+}
+
+army = {
+	name="15th Army"
+	location=438
+	regiment = {
+		name="1st Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="3rd Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="2nd Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Chaumont Infantry"
+		type=infantry
+		home=407
+	}
+	regiment = {
+		name="2nd Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="2nd Moulins Infantry"
+		type=infantry
+		home=430
+	}
+	regiment = {
+		name="4th Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="3rd Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="3rd Moulins Infantry"
+		type=infantry
+		home=430
+	}
+}
+
+army = {
+	name="4th Army"
+	location=426
+	regiment = {
+		name="2nd Chaumont Infantry"
+		type=infantry
+		home=407
+	}
+	regiment = {
+		name="1st Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="2nd Tours Infantry"
+		type=infantry
+		home=441
+	}
+	regiment = {
+		name="1st Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="3rd Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="1st Llandrindod Infantry"
+		type=infantry
+		home=275
+	}
+	regiment = {
+		name="1st Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="2nd Verdun Infantry"
+		type=infantry
+		home=413
+	}
+	regiment = {
+		name="1st Plymouth Infantry"
+		type=infantry
+		home=299
+	}
+	regiment = {
+		name="1st Cardigan Infantry"
+		type=infantry
+		home=274
+	}
+	regiment = {
+		name="2nd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="1st Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="1st Blois Infantry"
+		type=infantry
+		home=440
+	}
+	regiment = {
+		name="3rd Beauvais Infantry"
+		type=infantry
+		home=2570
+	}
+	regiment = {
+		name="3rd Cambrai Infantry"
+		type=infantry
+		home=404
+	}
+}
+
+army = {
+	name="Scottish Guard"
+	location=443
+	regiment = {
+		name="4th Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+	regiment = {
+		name="5th Auxerre Infantry"
+		type=infantry
+		home=429
+	}
+}
+
+army = {
+	name="Free Miquelets"
+	location=443
+	regiment = {
+		name="2nd Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="3rd Tulle Infantry"
+		type=infantry
+		home=447
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=447
+	regiment = {
+		name="1st Rodez Infantry"
+		type=infantry
+		home=462
+	}
+	regiment = {
+		name="2nd Rodez Infantry"
+		type=infantry
+		home=462
+	}
+	regiment = {
+		name="3rd Rodez Infantry"
+		type=infantry
+		home=462
+	}
+	regiment = {
+		name="4th Rodez Infantry"
+		type=infantry
+		home=462
+	}
+}
+
+army = {
+	name="Independent Cossack Host"
+	location=430
+	regiment = {
+		name="5th Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="6th Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="7th Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Colmar Cavalry"
+		type=cavalry
+		home=410
+	}
+	regiment = {
+		name="8th Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="2nd Colmar Cavalry"
+		type=cavalry
+		home=410
+	}
+	regiment = {
+		name="3rd Colmar Cavalry"
+		type=cavalry
+		home=410
+	}
+}
+
+army = {
+	name="Army of Scotland"
+	location=416
+	regiment = {
+		name="1st Lille Artillery"
+		type=artillery
+		home=399
+	}
+	regiment = {
+		name="1st Alençon Artillery"
+		type=artillery
+		home=417
+	}
+	regiment = {
+		name="1st Bristol Artillery"
+		type=artillery
+		home=296
+	}
+	regiment = {
+		name="1st Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="2nd Alençon Artillery"
+		type=artillery
+		home=417
+	}
+	regiment = {
+		name="2nd Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Lincoln Artillery"
+		type=artillery
+		home=290
+	}
+}
+
+army = {
+	name="1st Army"
+	location=418
+	regiment = {
+		name="1st Orléans Artillery"
+		type=artillery
+		home=438
+	}
+	regiment = {
+		name="1st Chaumont Artillery"
+		type=artillery
+		home=407
+	}
+	regiment = {
+		name="1st Strasbourg Artillery"
+		type=artillery
+		home=409
+	}
+	regiment = {
+		name="1st Valence Artillery"
+		type=artillery
+		home=453
+	}
+	regiment = {
+		name="1st Macon Artillery"
+		type=artillery
+		home=431
+	}
+	regiment = {
+		name="1st Metz Artillery"
+		type=artillery
+		home=412
+	}
+	regiment = {
+		name="2nd Chaumont Artillery"
+		type=artillery
+		home=407
+	}
+}
+
+army = {
+	name="5th Army"
+	location=402
+	regiment = {
+		name="3rd Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Auxerre Artillery"
+		type=artillery
+		home=429
+	}
+	regiment = {
+		name="2nd Auxerre Artillery"
+		type=artillery
+		home=429
+	}
+	regiment = {
+		name="1st Tulle Artillery"
+		type=artillery
+		home=447
+	}
+	regiment = {
+		name="2nd Tulle Artillery"
+		type=artillery
+		home=447
+	}
+	regiment = {
+		name="1st Moulins Artillery"
+		type=artillery
+		home=430
+	}
+	regiment = {
+		name="1st Melun Artillery"
+		type=artillery
+		home=427
+	}
+}
+
+army = {
+	name="6th Army"
+	location=400
+	regiment = {
+		name="1st Poitiers Artillery"
+		type=artillery
+		home=443
+	}
+	regiment = {
+		name="1st Dijon Artillery"
+		type=artillery
+		home=428
+	}
+	regiment = {
+		name="3rd Alençon Artillery"
+		type=artillery
+		home=417
+	}
+	regiment = {
+		name="1st Besançon Artillery"
+		type=artillery
+		home=432
+	}
+	regiment = {
+		name="2nd Orléans Artillery"
+		type=artillery
+		home=438
+	}
+	regiment = {
+		name="1st Rouen Artillery"
+		type=artillery
+		home=415
+	}
+	regiment = {
+		name="1st Amiens Artillery"
+		type=artillery
+		home=402
+	}
+}
+
+army = {
+	name="9th Army"
+	location=399
+	regiment = {
+		name="1st Chester Infantry"
+		type=infantry
+		home=285
+	}
+	regiment = {
+		name="2nd Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="2nd London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="3rd London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="3rd Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="2nd Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="1st Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="1st Bristol Infantry"
+		type=infantry
+		home=296
+	}
+	regiment = {
+		name="4th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Arras Infantry"
+		type=infantry
+		home=401
+	}
+}
+
+army = {
+	name="24th Army"
+	location=404
+	regiment = {
+		name="3rd Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="2nd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="3rd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="2nd Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="4th Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="1st St Albans Infantry"
+		type=infantry
+		home=295
+	}
+	regiment = {
+		name="1st Oxford Infantry"
+		type=infantry
+		home=294
+	}
+	regiment = {
+		name="3rd Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="5th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="4th Brighton Infantry"
+		type=infantry
+		home=302
+	}
+}
+
+army = {
+	name="27th Army"
+	location=403
+	regiment = {
+		name="4th Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="5th Dunkirk Infantry"
+		type=infantry
+		home=400
+	}
+	regiment = {
+		name="3rd Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="4th Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="5th Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="2nd Cambridge Infantry"
+		type=infantry
+		home=291
+	}
+	regiment = {
+		name="6th Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+	regiment = {
+		name="4th Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="5th Amiens Infantry"
+		type=infantry
+		home=402
+	}
+	regiment = {
+		name="7th Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=1957
+	regiment = {
+		name="1st Hull Infantry"
+		type=infantry
+		home=281
+	}
+	regiment = {
+		name="1st Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+	regiment = {
+		name="4th Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="2nd Hull Infantry"
+		type=infantry
+		home=281
+	}
+	regiment = {
+		name="2nd Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+	regiment = {
+		name="1st Dumfries Infantry"
+		type=infantry
+		home=272
+	}
+}
+

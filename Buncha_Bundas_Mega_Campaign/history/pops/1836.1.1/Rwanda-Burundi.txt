@@ -1,0 +1,102 @@
+2034 = {
+	aristocrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 2450
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 1750
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 6200
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 1250
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 113200
+	}
+
+}
+2035 = {
+	aristocrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 2175
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 1125
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 5600
+	}
+
+	soldiers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 1125
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = catholic
+		size= 101850
+	}
+
+}

@@ -1,0 +1,88 @@
+2125 = {
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 736
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 60927
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 10325
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 959
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 1239
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 132
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 96
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1
+	}
+
+}

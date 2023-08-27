@@ -1,0 +1,7 @@
+owner=SCA
+controller=SCA
+add_core=IDO
+add_core=SIA
+trade_goods = grain
+life_rating = 37
+colonial=2

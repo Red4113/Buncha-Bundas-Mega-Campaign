@@ -1,0 +1,7 @@
+owner=SPQ
+controller=SPQ
+add_core=FRA
+add_core=SPQ
+trade_goods = silk
+life_rating = 32
+fort = 1

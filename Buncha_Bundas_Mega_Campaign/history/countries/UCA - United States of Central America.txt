@@ -1,0 +1,82 @@
+capital = 2200
+primary_culture = americano
+culture = zzz_religion_sunni
+religion = sunni
+government = democracy
+plurality = 30
+nationalvalue = nv_liberty
+literacy = 0.624167
+non_state_culture_literacy = 0.2
+
+civilized = yes
+
+# Political reforms
+slavery = yes_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = gerrymandering
+
+# Social Reforms
+wage_reform = trinket_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+
+ruling_party = UCA_liberal
+upper_house = 
+{
+	fascist = 0
+	liberal = 14
+	conservative = 81
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.69975
+nonstate_consciousness= 0.0190202
+
+# Technologies
+basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+enlightenment_thought = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+high_pressure_steam_engine = 1
+hot_blast = 1
+introspectionism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+post_nelsonian_thought = 1
+private_banks = 1
+stock_exchange = 1
+prestige=0
+oob = "UCA_OOB.txt"
+set_country_flag = new_world_nation
+set_country_flag = religi
+decision = FRCA_1836_setup
+set_country_flag = vic2_country_UCA
+set_country_flag = eu4_country_C06

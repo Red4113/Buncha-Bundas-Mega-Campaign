@@ -1,0 +1,7 @@
+owner=KOR
+controller=KOR
+add_core=KOR
+add_core=X24
+trade_goods = grain
+life_rating = 35
+fort = 1

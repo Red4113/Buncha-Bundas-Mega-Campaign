@@ -1,0 +1,6 @@
+owner=X16
+controller=X16
+add_core=AUR
+add_core=X16
+trade_goods = wool
+life_rating = 35

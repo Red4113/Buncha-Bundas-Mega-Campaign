@@ -1,0 +1,9 @@
+owner=HOL
+controller=HOL
+add_core=GER
+add_core=HLL
+add_core=HOL
+trade_goods = fish
+life_rating = 30
+terrain = small_island
+fort = 1

@@ -1,0 +1,600 @@
+#Sphere of Influence
+
+ADU = {
+	value = -47
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 50
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 63
+	influence_value = 3
+	level = 3
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 50
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = -23
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -5
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 50
+	level = 3
+}
+NEJ = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -12
+	level = 2
+}
+NEW = {
+	value = 169
+	influence_value = 29
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 80
+	influence_value = 7
+	level = 3
+}
+SPQ = {
+	value = 12
+	level = 3
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 62
+	influence_value = 3
+	level = 3
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UBD = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = -97
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Sigvard Gyldenløve"
+	date="1733.5.29"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Gustav Galt"
+	date="1744.1.7"
+	type=land
+	personality="gallant"
+	background="drillmaster"
+}
+
+leader = {
+	name="Jakob Sandels"
+	date="1745.3.30"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Oskar Sandels"
+	date="1745.12.28"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Waldemar Ebbesen"
+	date="1757.4.6"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Karl Cronstedt"
+	date="1759.7.4"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2961
+	ship = {
+		name="America"
+		type=manowar
+	}
+	ship = {
+		name="Martha Custis Washington"
+		type=clipper_transport
+	}
+	ship = {
+		name="Abigail Adams"
+		type=clipper_transport
+	}
+	ship = {
+		name="Martha Jefferson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dolley Todd Madison"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elizabeth Monroe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Louisa Catherine Adams"
+		type=clipper_transport
+	}
+	ship = {
+		name="Columbus"
+		type=manowar
+	}
+	ship = {
+		name="Rachel Robards Jackson"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=219
+	regiment = {
+		name="1st Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="1st Albany Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="1st Lexington Infantry"
+		type=infantry
+		home=186
+	}
+	regiment = {
+		name="1st New York Infantry"
+		type=infantry
+		home=232
+	}
+	regiment = {
+		name="2nd Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="1st St Louis Infantry"
+		type=infantry
+		home=146
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=73
+	regiment = {
+		name="2nd Albany Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="2nd Lexington Infantry"
+		type=infantry
+		home=186
+	}
+	regiment = {
+		name="1st Bangor Infantry"
+		type=infantry
+		home=249
+	}
+	regiment = {
+		name="1st Philadelphia Infantry"
+		type=infantry
+		home=223
+	}
+	regiment = {
+		name="1st Louisville Infantry"
+		type=infantry
+		home=184
+	}
+	regiment = {
+		name="1st Peoria Infantry"
+		type=infantry
+		home=166
+	}
+}
+
+army = {
+	name="5th Army"
+	location=190
+	regiment = {
+		name="1st Annapolis Artillery"
+		type=artillery
+		home=220
+	}
+	regiment = {
+		name="1st D.C. Artillery"
+		type=artillery
+		home=2146
+	}
+	regiment = {
+		name="1st Boston Artillery"
+		type=artillery
+		home=243
+	}
+	regiment = {
+		name="1st Truro Artillery"
+		type=artillery
+		home=72
+	}
+	regiment = {
+		name="1st Memphis Artillery"
+		type=artillery
+		home=189
+	}
+	regiment = {
+		name="1st Binghamton Artillery"
+		type=artillery
+		home=235
+	}
+	regiment = {
+		name="1st Green Bank Artillery"
+		type=artillery
+		home=217
+	}
+	regiment = {
+		name="1st Knoxville Artillery"
+		type=artillery
+		home=190
+	}
+}
+
+army = {
+	name="7th Army"
+	location=151
+	regiment = {
+		name="1st Cincinnati Infantry"
+		type=infantry
+		home=182
+	}
+	regiment = {
+		name="1st Indianapolis Infantry"
+		type=infantry
+		home=169
+	}
+	regiment = {
+		name="2nd Bangor Infantry"
+		type=infantry
+		home=249
+	}
+	regiment = {
+		name="1st Champaign Infantry"
+		type=infantry
+		home=165
+	}
+}
+
+army = {
+	name="8th Army"
+	location=79
+	regiment = {
+		name="1st Buffalo Infantry"
+		type=infantry
+		home=236
+	}
+	regiment = {
+		name="2nd Buffalo Infantry"
+		type=infantry
+		home=236
+	}
+	regiment = {
+		name="3rd Buffalo Infantry"
+		type=infantry
+		home=236
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=220
+	ship = {
+		name="Adams"
+		type=frigate
+	}
+	ship = {
+		name="Boston"
+		type=frigate
+	}
+	ship = {
+		name="Brandywine"
+		type=frigate
+	}
+	ship = {
+		name="Chesapeake"
+		type=frigate
+	}
+	ship = {
+		name="Columbia"
+		type=frigate
+	}
+	ship = {
+		name="Congress"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=78
+	regiment = {
+		name="1st Dover Infantry"
+		type=infantry
+		home=222
+	}
+	regiment = {
+		name="1st Plattsburgh Infantry"
+		type=infantry
+		home=240
+	}
+	regiment = {
+		name="1st Boston Infantry"
+		type=infantry
+		home=243
+	}
+}
+

@@ -1,0 +1,391 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRY = {
+	value = 147
+	influence_value = 24
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 8
+	level = 2
+}
+DUA = {
+	value = 0
+	level = 2
+}
+ENT = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KIT = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 33
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = -88
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = -60
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = -3
+	level = 2
+}
+X25 = {
+	value = -38
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1193
+	regiment = {
+		name="1st Barnaul Infantry"
+		type=infantry
+		home=1067
+	}
+	regiment = {
+		name="1st Khiva Infantry"
+		type=infantry
+		home=1191
+	}
+	regiment = {
+		name="1st Khiva Cavalry"
+		type=cavalry
+		home=1191
+	}
+	regiment = {
+		name="1st Narym Artillery"
+		type=artillery
+		home=2683
+	}
+	regiment = {
+		name="1st Kokshetau Artillery"
+		type=artillery
+		home=1184
+	}
+	regiment = {
+		name="2nd Kokshetau Infantry"
+		type=infantry
+		home=1184
+	}
+	regiment = {
+		name="1st Kokshetau Cavalry"
+		type=cavalry
+		home=1184
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1600
+	regiment = {
+		name="1st Nukus Infantry"
+		type=infantry
+		home=1192
+	}
+	regiment = {
+		name="1st Zhetysu Cavalry"
+		type=cavalry
+		home=1186
+	}
+	regiment = {
+		name="1st Akmolinsk Artillery"
+		type=artillery
+		home=1181
+	}
+	regiment = {
+		name="1st Zhetysu Artillery"
+		type=artillery
+		home=1186
+	}
+	regiment = {
+		name="1st Turgay Cavalry"
+		type=cavalry
+		home=2611
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1066
+	regiment = {
+		name="1st Narym Infantry"
+		type=infantry
+		home=2683
+	}
+	regiment = {
+		name="1st Chimkent Cavalry"
+		type=cavalry
+		home=1197
+	}
+	regiment = {
+		name="1st Balkhash Artillery"
+		type=artillery
+		home=2606
+	}
+	regiment = {
+		name="1st Turgay Artillery"
+		type=artillery
+		home=2611
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1181
+	regiment = {
+		name="1st Kokshetau Infantry"
+		type=infantry
+		home=1184
+	}
+	regiment = {
+		name="2nd Kokshetau Artillery"
+		type=artillery
+		home=1184
+	}
+	regiment = {
+		name="1st Nukus Artillery"
+		type=artillery
+		home=1192
+	}
+	regiment = {
+		name="3rd Kokshetau Artillery"
+		type=artillery
+		home=1184
+	}
+}
+

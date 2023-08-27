@@ -1,0 +1,5 @@
+owner=X28
+controller=X28
+add_core=X28
+trade_goods = timber
+life_rating = 30

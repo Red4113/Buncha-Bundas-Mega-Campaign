@@ -1,0 +1,8 @@
+owner=ASY
+controller=ASY
+add_core=ADE
+add_core=ARA
+add_core=ASY
+trade_goods = fish
+life_rating = 20
+terrain = semidesert

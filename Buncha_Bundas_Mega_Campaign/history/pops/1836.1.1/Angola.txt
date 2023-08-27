@@ -1,0 +1,1076 @@
+1999 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11550
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 40200
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 2000
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 8600
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = catholic
+		size= 2000
+	}
+
+}
+2000 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 6375
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 5000
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 15225
+	}
+
+}
+2001 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7350
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1200
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 12450
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4000
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 700
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 13250
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = catholic
+		size= 3500
+	}
+
+}
+2002 = {
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 1200
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 21950
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = catholic
+		size= 6000
+	}
+
+}
+2003 = {
+	slaves=
+	{
+		culture = ovimbundu
+		religion = shamanism
+		size= 2057
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = shamanism
+		size= 576
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = shamanism
+		size= 7650
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 13837
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 3871
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 37812
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 11126
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 2002
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 222
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 167
+	}
+
+}
+2004 = {
+	aristocrats=
+	{
+		culture = herero
+		religion = catholic
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = catholic
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = catholic
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = herero
+		religion = catholic
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = catholic
+		size= 21250
+	}
+
+	slaves=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 5800
+	}
+
+}
+2005 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 2600
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 36650
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 10000
+	}
+
+}
+2006 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 26700
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 7500
+	}
+
+}
+2007 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 2400
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = catholic
+		size= 1350
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 11450
+	}
+
+	slaves=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 3200
+	}
+
+}
+2008 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 2205
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 600
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 4275
+	}
+
+	slaves=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 1250
+	}
+
+}
+2009 = {
+	aristocrats=
+	{
+		culture = kavango
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = catholic
+		size= 4350
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = catholic
+		size= 1200
+	}
+
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 2175
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = catholic
+		size= 600
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1400
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 400
+	}
+
+}
+2010 = {
+	aristocrats=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 1250
+	}
+
+	soldiers=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 8000
+	}
+
+	slaves=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 8000
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = catholic
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 10850
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = catholic
+		size= 800
+	}
+
+}
+2011 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = catholic
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = catholic
+		size= 8125
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = catholic
+		size= 4700
+	}
+
+	aristocrats=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = chokwe
+		religion = catholic
+		size= 3600
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = catholic
+		size= 1100
+	}
+
+}

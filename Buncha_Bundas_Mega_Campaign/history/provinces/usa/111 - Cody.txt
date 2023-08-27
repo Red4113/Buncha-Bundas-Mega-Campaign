@@ -1,0 +1,17 @@
+owner=LOU
+controller=LOU
+add_core=LOU
+trade_goods = coal
+life_rating = 35
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

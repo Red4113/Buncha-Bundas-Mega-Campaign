@@ -1,0 +1,7 @@
+owner=TEX
+controller=TEX
+add_core=OHK
+add_core=TEX
+trade_goods = iron
+life_rating = 35
+fort = 1

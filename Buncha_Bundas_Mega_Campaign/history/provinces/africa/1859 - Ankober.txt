@@ -1,0 +1,9 @@
+owner=X04
+controller=X04
+add_core=AJU
+add_core=ETH
+add_core=X04
+add_core=X07
+trade_goods = coffee
+life_rating = 35
+fort = 1

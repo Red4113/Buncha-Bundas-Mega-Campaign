@@ -1,0 +1,7 @@
+owner=ENT
+controller=ENT
+add_core=CCQ
+add_core=ENT
+trade_goods = timber
+life_rating = 15
+terrain = savanna

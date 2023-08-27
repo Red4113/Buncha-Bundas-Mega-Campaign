@@ -1,0 +1,195 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 9483
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 78222
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 1944
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 14974
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 1796
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 695
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 256
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 85
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 4955
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 42710
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 1070
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 8203
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 761
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 984
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 164
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 47
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 4081
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = sunni
+		size= 42199
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 922
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 2018
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 655
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 141
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = sunni
+		size= 40
+	}
+
+}

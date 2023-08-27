@@ -1,0 +1,8 @@
+owner=BOH
+controller=BOH
+add_core=BOH
+add_core=DEN
+add_core=MEC
+add_core=SCA
+trade_goods = cattle
+life_rating = 40

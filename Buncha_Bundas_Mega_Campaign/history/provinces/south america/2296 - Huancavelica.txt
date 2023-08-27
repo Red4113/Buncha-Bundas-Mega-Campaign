@@ -1,0 +1,6 @@
+owner=BOL
+controller=BOL
+add_core=BOL
+add_core=CSU
+trade_goods = precious_metal
+life_rating = 35

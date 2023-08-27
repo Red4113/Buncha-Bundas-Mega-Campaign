@@ -1,0 +1,8 @@
+owner=TIB
+controller=TIB
+add_core=PER
+add_core=TIB
+add_core=YRK
+trade_goods = grain
+life_rating = 32
+fort = 1

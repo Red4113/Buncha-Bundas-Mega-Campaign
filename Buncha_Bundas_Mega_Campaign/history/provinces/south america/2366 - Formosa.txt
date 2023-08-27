@@ -1,0 +1,7 @@
+owner=ENT
+controller=ENT
+add_core=ENT
+add_core=GRI
+trade_goods = cotton
+life_rating = 15
+terrain = savanna

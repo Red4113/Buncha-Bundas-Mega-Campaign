@@ -1,0 +1,6 @@
+owner=ROM
+controller=ROM
+add_core=HUN
+add_core=ROM
+trade_goods = fruit
+life_rating = 35

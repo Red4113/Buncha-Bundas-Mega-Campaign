@@ -1,0 +1,734 @@
+2509 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 5581
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 139
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 29
+	}
+
+}
+2510 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2553
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+}
+2511 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2455
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+}
+2512 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2482
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+}
+2513 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 768
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 89
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 8
+	}
+
+}
+2514 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 768
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 89
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 8
+	}
+
+}
+2515 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = maori
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 1787
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+}
+2516 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1333
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 435
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 6
+	}
+
+}
+2524 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = jain
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = jain
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = jain
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1516
+	}
+
+}
+2571 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 140
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = jain
+		size= 1651
+	}
+
+}

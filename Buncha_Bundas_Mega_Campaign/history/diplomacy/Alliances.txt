@@ -1,0 +1,176 @@
+alliance=
+{
+	first="AFG"
+	second="NEP"
+	start_date="1486.3.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AFG"
+	second="TIB"
+	start_date="1487.9.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AST"
+	second="CSH"
+	start_date="1751.9.14"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DUA"
+	second="SWI"
+	start_date="1732.8.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DUA"
+	second="BOH"
+	start_date="1735.9.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DUA"
+	second="ICL"
+	start_date="1739.10.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DUA"
+	second="NET"
+	start_date="1757.1.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOH"
+	second="SWI"
+	start_date="1732.10.15"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BNE"
+	second="XMA"
+	start_date="1738.3.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRZ"
+	second="TEX"
+	start_date="1724.10.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ADU"
+	second="SPQ"
+	start_date="1475.10.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KOR"
+	second="ADU"
+	start_date="1726.5.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="NEA"
+	second="SPQ"
+	start_date="1688.11.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="NEA"
+	second="USA"
+	start_date="1758.6.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SCA"
+	second="USA"
+	start_date="1758.3.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="TEX"
+	second="USA"
+	start_date="1745.10.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="USA"
+	second="BRZ"
+	start_date="1741.5.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="USA"
+	second="SPQ"
+	start_date="1758.4.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X28"
+	second="X25"
+	start_date="1740.9.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SPQ"
+	second="CSH"
+	start_date="1760.4.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ASY"
+	second="NEA"
+	start_date="1655.10.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="UCA"
+	second="BOL"
+	start_date="1718.1.20"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,2352 @@
+770 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 873
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 156
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 7
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = waldensian
+		size= 29987
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 485
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 16230
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 387
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 761
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hellenic_pagan
+		size= 12090
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 3781
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 6648
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 2160
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 299
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 266
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 2094
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = hussite
+		size= 119594
+	}
+
+}
+771 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 494
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 359
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 5
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 9973
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 527
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 7
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 1749
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 9723
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 1029
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 134
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 850
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 41130
+	}
+
+}
+772 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 466
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 361
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 5
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 9466
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 7
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 1660
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 9773
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 966
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 888
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 47637
+	}
+
+}
+773 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 538
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 205
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 3
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 10908
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 3203
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 9954
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 1066
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 128
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 896
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 54213
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size= 1253
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 113
+	}
+
+}
+774 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 703
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1330
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 13
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 16708
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 17486
+	}
+
+	craftsmen=
+	{
+		culture = croat
+		religion = protestant
+		size= 8874
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 175
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 78036
+	}
+
+}
+775 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1029
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 791
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 15
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 20643
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 1793
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 3544
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 365
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 66
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 33282
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 4325
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 17621
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 1817
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 329
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 303
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 1593
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 69072
+	}
+
+}
+776 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 8062
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size= 532
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 2
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 1026
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 6702
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 651
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 126
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 1220
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 28746
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 411
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 1920
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 36
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 349
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 12504
+	}
+
+}
+777 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 240
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 8161
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = catholic
+		size= 538
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 2
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 1098
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 6847
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 733
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 127
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 1233
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 29101
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 439
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 1961
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 36
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 353
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 12658
+	}
+
+}
+778 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 523
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 199
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 3
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 10604
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 3114
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 9675
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 1037
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 124
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 166
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 871
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 52699
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = catholic
+		size= 1218
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = catholic
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 110
+	}
+
+}
+779 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 2
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 8888
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 1088
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 6581
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 705
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 122
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 1185
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 29086
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 483
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 1121
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 1966
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 37
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 12163
+	}
+
+}
+780 = {
+	soldiers=
+	{
+		culture = greek
+		religion = waldensian
+		size= 1020
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = waldensian
+		size= 776
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = waldensian
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = waldensian
+		size= 14
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = waldensian
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = waldensian
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = waldensian
+		size= 20213
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 3651
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 6332
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 678
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 118
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 443
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 68037
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 2430
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 14504
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1554
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 269
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 249
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1015
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 32808
+	}
+
+}
+781 = {
+	soldiers=
+	{
+		culture = greek
+		religion = waldensian
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = waldensian
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = waldensian
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = waldensian
+		size= 1
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = waldensian
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = waldensian
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = waldensian
+		size= 10624
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 494
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 11
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 16720
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 3762
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 411
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 3453
+	}
+
+	soldiers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 1351
+	}
+
+	artisans=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 2666
+	}
+
+	clergymen=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 1000
+	}
+
+	bureaucrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 120
+	}
+
+	officers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 560
+	}
+
+	farmers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 42448
+	}
+
+}
+782 = {
+	soldiers=
+	{
+		culture = serb
+		religion = waldensian
+		size= 503
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = waldensian
+		size= 629
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = waldensian
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = waldensian
+		size= 6
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = waldensian
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = waldensian
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = waldensian
+		size= 16725
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = protestant
+		size= 1861
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = protestant
+		size= 5282
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = protestant
+		size= 283
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = protestant
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = protestant
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = protestant
+		size= 58458
+	}
+
+	soldiers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 1148
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 11651
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 624
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 117
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = hellenic_pagan
+		size= 26286
+	}
+
+}
+793 = {
+	soldiers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = waldensian
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = waldensian
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = waldensian
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = waldensian
+		size= 8834
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size= 1080
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size= 6540
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size= 701
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 121
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size= 1178
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size= 28902
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = orthodox
+		size= 480
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = orthodox
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = orthodox
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = orthodox
+		size= 1116
+	}
+
+	soldiers=
+	{
+		culture = croat
+		religion = hussite
+		size= 422
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = hussite
+		size= 1954
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = hussite
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 36
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = hussite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = hussite
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = hussite
+		size= 12088
+	}
+
+}

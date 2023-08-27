@@ -1,0 +1,186 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 4491
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 188
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 34881
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 740
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1882
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 272
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 263
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 75
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 27
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = norse_pagan_reformed
+		size= 54253
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 1154
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 7074
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 1022
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 283
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = norse_pagan_reformed
+		size= 990
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 295
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = sunni
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = sunni
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = sunni
+		size= 2
+	}
+
+}

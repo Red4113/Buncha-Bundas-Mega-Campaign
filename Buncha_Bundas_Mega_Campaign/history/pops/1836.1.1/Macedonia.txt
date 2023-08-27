@@ -1,0 +1,496 @@
+806 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 3975
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1341
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 121
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 37806
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 546
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 322
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = protestant
+		size= 5024
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 438
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 1985
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 1913
+	}
+
+	soldiers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 5879
+	}
+
+	artisans=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 12298
+	}
+
+	clergymen=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 1115
+	}
+
+	bureaucrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 92
+	}
+
+	officers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 266
+	}
+
+	aristocrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 693
+	}
+
+	farmers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 43257
+	}
+
+}
+807 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1372
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 493
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 13109
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 390
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 774
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 2922
+	}
+
+	soldiers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 2395
+	}
+
+	artisans=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 4709
+	}
+
+	clergymen=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 396
+	}
+
+	bureaucrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 66
+	}
+
+	officers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 306
+	}
+
+	farmers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 17982
+	}
+
+}
+1780 = {
+	soldiers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 1322
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 503
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = orthodox
+		size= 12456
+	}
+
+	soldiers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 376
+	}
+
+	artisans=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 789
+	}
+
+	clergymen=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = macedonian
+		religion = hellenic_pagan
+		size= 2776
+	}
+
+	soldiers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 2309
+	}
+
+	artisans=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 4806
+	}
+
+	clergymen=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 446
+	}
+
+	bureaucrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 62
+	}
+
+	officers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = laessin
+		religion = hellenic_pagan
+		size= 17087
+	}
+
+}

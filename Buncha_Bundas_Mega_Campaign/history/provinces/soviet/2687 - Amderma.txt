@@ -1,0 +1,5 @@
+owner=UGR
+controller=UGR
+add_core=UGR
+trade_goods = fish
+life_rating = 10

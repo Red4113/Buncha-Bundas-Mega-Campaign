@@ -1,0 +1,452 @@
+#Sphere of Influence
+
+ADU = {
+	value = -46
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = -1
+	level = 2
+}
+ASY = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 78
+	influence_value = 7
+	level = 3
+}
+BOL = {
+	value = -1
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -3
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DUA = {
+	value = 50
+	level = 3
+}
+ENT = {
+	value = -1
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GRI = {
+	value = 0
+	level = 2
+}
+HAM = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HND = {
+	value = 0
+	level = 2
+}
+HOL = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = -8
+	level = 2
+}
+ICL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -10
+	level = 2
+}
+KRN = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LEN = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEA = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = -2
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+POW = {
+	value = 0
+	level = 2
+}
+PRT = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SPQ = {
+	value = -5
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UGR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+ULM = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -3
+	level = 2
+}
+X04 = {
+	value = -4
+	level = 2
+}
+X05 = {
+	value = -4
+	level = 2
+}
+X06 = {
+	value = -3
+	level = 2
+}
+X07 = {
+	value = -3
+	level = 2
+}
+X08 = {
+	value = -2
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YKT = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Meginhard Munzinger"
+	date="1738.6.3"
+	type=land
+	personality="gallant"
+	background="drillmaster"
+}
+
+
+#Armies
+army = {
+	name="Armee von Valais"
+	location=603
+	regiment = {
+		name="1st Zurich Artillery"
+		type=artillery
+		home=603
+	}
+	regiment = {
+		name="2nd Zurich Artillery"
+		type=artillery
+		home=603
+	}
+	regiment = {
+		name="1st Basel Artillery"
+		type=artillery
+		home=604
+	}
+	regiment = {
+		name="3rd Zurich Artillery"
+		type=artillery
+		home=603
+	}
+	regiment = {
+		name="1st Lucerne Artillery"
+		type=artillery
+		home=606
+	}
+	regiment = {
+		name="2nd Basel Artillery"
+		type=artillery
+		home=604
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=605
+	regiment = {
+		name="1st Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="2nd Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="3rd Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="4th Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="5th Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="6th Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="7th Bern Infantry"
+		type=infantry
+		home=605
+	}
+}
+
+army = {
+	name="Swiss Home Guard"
+	location=604
+	regiment = {
+		name="1st Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="2nd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="3rd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="4th Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="5th Basel Infantry"
+		type=infantry
+		home=604
+	}
+}
+

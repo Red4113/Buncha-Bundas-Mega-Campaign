@@ -1,0 +1,177 @@
+203 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 134
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 13
+	}
+
+	craftsmen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 859
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8
+	}
+
+	clerks=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 13
+	}
+
+	capitalists=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 1155
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 8
+	}
+
+	craftsmen=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 497
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 2
+	}
+
+	clerks=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 28
+	}
+
+	capitalists=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = sunni
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 109
+	}
+
+	craftsmen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 6813
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 28
+	}
+
+	clerks=
+	{
+		culture = platinean
+		religion = sunni
+		size= 452
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4
+	}
+
+	capitalists=
+	{
+		culture = platinean
+		religion = sunni
+		size= 411
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 36
+	}
+
+}

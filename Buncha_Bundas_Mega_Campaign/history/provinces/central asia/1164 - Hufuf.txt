@@ -1,0 +1,9 @@
+owner=ASY
+controller=ASY
+add_core=ARA
+add_core=ASY
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
+naval_base = 1
+fort = 1

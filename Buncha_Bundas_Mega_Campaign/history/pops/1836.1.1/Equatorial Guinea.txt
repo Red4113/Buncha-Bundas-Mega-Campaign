@@ -1,0 +1,235 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2353
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 6059
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 5016
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = catholic
+		size= 536
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = catholic
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = catholic
+		size= 12135
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = catholic
+		size= 366
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = catholic
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = sunni
+		size= 2820
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = sunni
+		size= 206
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = sunni
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = sunni
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 66
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = sunni
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = sunni
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = sunni
+		size= 5680
+	}
+
+}
+1973 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 31500
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = catholic
+		size= 1000
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = catholic
+		size= 500
+	}
+
+}

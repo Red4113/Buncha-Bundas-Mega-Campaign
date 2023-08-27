@@ -1,0 +1,4 @@
+owner=LOU
+controller=LOU
+trade_goods = cattle
+life_rating = 35

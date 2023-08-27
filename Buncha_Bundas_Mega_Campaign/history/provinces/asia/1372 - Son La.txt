@@ -1,0 +1,8 @@
+owner=DAI
+controller=CSH
+add_core=IDO
+add_core=DAI
+add_core=LUA
+trade_goods = tropical_wood
+life_rating = 33
+fort = 1

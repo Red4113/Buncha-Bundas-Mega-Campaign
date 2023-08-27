@@ -1,0 +1,8 @@
+owner=SLO
+controller=SLO
+add_core=SLO
+add_core=YUG
+trade_goods = grain
+life_rating = 40
+naval_base = 1
+fort = 1

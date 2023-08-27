@@ -1,0 +1,9 @@
+owner=NET
+controller=NET
+add_core=MAD
+add_core=SKA
+trade_goods = cattle
+life_rating = 35
+terrain = savanna
+colonial=2
+naval_base = 1

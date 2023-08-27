@@ -1,0 +1,10 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=JIN
+add_core=KHA
+add_core=YAN
+trade_goods = tea
+life_rating = 32
+naval_base = 1
+fort = 1

@@ -1,0 +1,7 @@
+owner=LOU
+controller=LOU
+add_core=CRK
+add_core=LOU
+add_core=POW
+trade_goods = cotton
+life_rating = 35

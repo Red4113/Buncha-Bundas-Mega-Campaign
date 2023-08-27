@@ -1,0 +1,6 @@
+owner=KOR
+controller=KOR
+trade_goods = coffee
+life_rating = 10
+naval_base = 1
+fort = 1

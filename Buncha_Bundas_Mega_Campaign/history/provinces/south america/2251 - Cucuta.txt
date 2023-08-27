@@ -1,0 +1,14 @@
+owner=CLM
+controller=CLM
+add_core=CAB
+add_core=CLM
+add_core=MCA
+trade_goods = coal
+life_rating = 34
+terrain = montane_forest
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

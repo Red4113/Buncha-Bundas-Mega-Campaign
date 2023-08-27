@@ -1,0 +1,8 @@
+owner=NET
+controller=NET
+add_core=MJP
+add_core=MKS
+trade_goods = grain
+life_rating = 31
+terrain = mountain
+colonial=2

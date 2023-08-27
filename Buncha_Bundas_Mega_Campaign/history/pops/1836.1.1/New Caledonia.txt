@@ -1,0 +1,65 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 457
+	}
+
+	farmers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 3973
+	}
+
+	artisans=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 748
+	}
+
+	aristocrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 12
+	}
+
+	officers=
+	{
+		culture = japo_korean
+		religion = mahayana
+		size= 4
+	}
+
+}

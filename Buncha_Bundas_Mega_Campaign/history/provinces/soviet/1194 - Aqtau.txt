@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+add_core=TUR
+trade_goods = fish
+life_rating = 25
+terrain = semidesert

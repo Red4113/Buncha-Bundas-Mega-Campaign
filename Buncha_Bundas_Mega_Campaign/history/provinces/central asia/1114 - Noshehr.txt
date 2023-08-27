@@ -1,0 +1,5 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+trade_goods = timber
+life_rating = 35

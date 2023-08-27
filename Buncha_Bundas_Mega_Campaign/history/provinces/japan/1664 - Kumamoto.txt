@@ -1,0 +1,8 @@
+owner=KOR
+controller=KOR
+
+add_core=KOR
+add_core=OTM
+trade_goods = fruit
+life_rating = 35
+naval_base = 2

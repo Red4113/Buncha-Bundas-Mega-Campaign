@@ -1,0 +1,7 @@
+owner=XMA
+controller=XMA
+add_core=ATJ
+add_core=MLY
+add_core=XMA
+trade_goods = fish
+life_rating = 35

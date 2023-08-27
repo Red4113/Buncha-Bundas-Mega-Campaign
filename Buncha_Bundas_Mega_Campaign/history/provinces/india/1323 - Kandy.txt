@@ -1,0 +1,5 @@
+owner=SWI
+controller=SWI
+trade_goods = coffee
+life_rating = 33
+fort = 1

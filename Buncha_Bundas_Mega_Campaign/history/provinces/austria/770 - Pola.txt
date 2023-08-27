@@ -1,0 +1,9 @@
+owner=SLO
+controller=SLO
+add_core=ITA
+add_core=SLO
+add_core=VEN
+add_core=YUG
+trade_goods = grain
+life_rating = 35
+naval_base = 2

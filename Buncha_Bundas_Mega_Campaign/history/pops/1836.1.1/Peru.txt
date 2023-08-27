@@ -1,0 +1,2301 @@
+2286 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = catholic
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = catholic
+		size= 3574
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7820
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1937
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 180
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 38
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 202
+	}
+
+}
+2287 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1128
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 341
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1372
+	}
+
+}
+2288 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = catholic
+		size= 454
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 2031
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 417
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4
+	}
+
+}
+2289 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = catholic
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 2078
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 257
+	}
+
+}
+2290 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1074
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 17
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 13705
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 4357
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 405
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 68
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 523
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 17026
+	}
+
+}
+2291 = {
+	slaves=
+	{
+		culture = quechua
+		religion = inti
+		size= 726
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 342
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 5
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 3664
+	}
+
+	slaves=
+	{
+		culture = quechua
+		religion = sunni
+		size= 1611
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 217
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1862
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 29
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 6833
+	}
+
+}
+2292 = {
+	slaves=
+	{
+		culture = quechua
+		religion = inti
+		size= 640
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 6
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 4497
+	}
+
+	slaves=
+	{
+		culture = quechua
+		religion = sunni
+		size= 1368
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 572
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 31
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 5163
+	}
+
+}
+2293 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 434
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 9
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 7019
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 639
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 612
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 34
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 9644
+	}
+
+}
+2294 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = inti
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = inti
+		size= 216
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = inti
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = inti
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = inti
+		size= 2755
+	}
+
+	soldiers=
+	{
+		culture = maranon
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = sunni
+		size= 694
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = sunni
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = sunni
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = sunni
+		size= 1523
+	}
+
+}
+2295 = {
+	slaves=
+	{
+		culture = quechua
+		religion = inti
+		size= 5376
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1737
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 12161
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1129
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 156
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 730
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 65465
+	}
+
+}
+2296 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 554
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 421
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 7
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 4965
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 860
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1730
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 6431
+	}
+
+}
+2297 = {
+	slaves=
+	{
+		culture = quechua
+		religion = inti
+		size= 116
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 2778
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 489
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 9269
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 2160
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 43
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 20
+	}
+
+}
+2298 = {
+	slaves=
+	{
+		culture = quechua
+		religion = inti
+		size= 1114
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 2523
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 40
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 303
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 14134
+	}
+
+	slaves=
+	{
+		culture = quechua
+		religion = sunni
+		size= 301
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 928
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 3693
+	}
+
+}
+2299 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 551
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 3858
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 358
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 61
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 231
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 22464
+	}
+
+}
+2300 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = inti
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = inti
+		size= 219
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = inti
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 5
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = inti
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = inti
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = inti
+		size= 2801
+	}
+
+	soldiers=
+	{
+		culture = maranon
+		religion = sunni
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = maranon
+		religion = sunni
+		size= 1136
+	}
+
+	clergymen=
+	{
+		culture = maranon
+		religion = sunni
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = maranon
+		religion = sunni
+		size= 26
+	}
+
+	officers=
+	{
+		culture = maranon
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = maranon
+		religion = sunni
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = sunni
+		size= 5078
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = inti
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = inti
+		size= 1989
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 607
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = shiite
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = shiite
+		size= 1023
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = shiite
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = shiite
+		size= 23
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = shiite
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = shiite
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = shiite
+		size= 3932
+	}
+
+}
+2301 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 844
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1031
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = inti
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = inti
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = inti
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 251
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 459
+	}
+
+}
+2302 = {
+	slaves=
+	{
+		culture = quechua
+		religion = inti
+		size= 1595
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1020
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 364
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 20
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 14966
+	}
+
+	slaves=
+	{
+		culture = quechua
+		religion = sunni
+		size= 2091
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1337
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 1320
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 429
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 73
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 416
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 18148
+	}
+
+	slaves=
+	{
+		culture = aimara
+		religion = inti
+		size= 476
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 304
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = inti
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = inti
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = inti
+		size= 6
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = inti
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 4462
+	}
+
+	slaves=
+	{
+		culture = aimara
+		religion = sunni
+		size= 919
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 588
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 529
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 29
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 8066
+	}
+
+}
+2303 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = inti
+		size= 1563
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = inti
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = inti
+		size= 36
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = inti
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 9153
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 720
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = sunni
+		size= 3034
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = inti
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = inti
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 2
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = inti
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = inti
+		size= 1209
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 172
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 529
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = sunni
+		size= 2241
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 1045
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 3035
+	}
+
+	soldiers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 679
+	}
+
+	aristocrats=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 82
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = amazonian
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = tupinamba
+		religion = catholic
+		size= 10
+	}
+
+}
+2304 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 3591
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 11520
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 2699
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 53
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 25
+	}
+
+}
+2578 = {
+	slaves=
+	{
+		culture = aimara
+		religion = inti
+		size= 364
+	}
+
+	soldiers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = inti
+		size= 4121
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 10521
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 1612
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3475
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4133
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 322
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 70
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 32
+	}
+
+}

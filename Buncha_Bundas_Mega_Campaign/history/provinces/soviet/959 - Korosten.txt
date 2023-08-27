@@ -1,0 +1,6 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+add_core=UKR
+trade_goods = grain
+life_rating = 15

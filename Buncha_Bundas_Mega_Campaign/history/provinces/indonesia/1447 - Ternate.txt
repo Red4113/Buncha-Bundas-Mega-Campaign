@@ -1,0 +1,6 @@
+owner=BNE
+controller=BNE
+add_core=TID
+trade_goods = fish
+life_rating = 31
+naval_base = 1

@@ -1,0 +1,7 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+add_core=ROM
+trade_goods = fish
+life_rating = 35
+naval_base = 1

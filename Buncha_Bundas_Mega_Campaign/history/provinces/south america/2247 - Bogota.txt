@@ -1,0 +1,12 @@
+owner=CLM
+controller=CLM
+add_core=CLM
+add_core=MCA
+trade_goods = cattle
+life_rating = 39
+state_building=
+{
+	level=1
+	building = winery
+	upgrade = yes
+}

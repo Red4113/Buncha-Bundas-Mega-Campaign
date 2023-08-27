@@ -1,0 +1,12 @@
+owner=ENT
+controller=ENT
+add_core=ENT
+trade_goods = wool
+life_rating = 31
+terrain = savanna
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

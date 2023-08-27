@@ -1,0 +1,5 @@
+owner=NEA
+controller=NEA
+trade_goods = wool
+life_rating = 35
+fort = 1

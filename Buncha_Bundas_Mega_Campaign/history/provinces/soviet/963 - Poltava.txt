@@ -1,0 +1,8 @@
+owner=NEA
+controller=NEA
+add_core=NEA
+add_core=UKR
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+fort = 1

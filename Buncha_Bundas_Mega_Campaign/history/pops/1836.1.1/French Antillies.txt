@@ -1,0 +1,251 @@
+45 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 419
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 165
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 117
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 23554
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 3879
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 180
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 94
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 36
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 517
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 2023
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 171
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 27644
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4597
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 610
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 551
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 426
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 124
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 42
+	}
+
+}

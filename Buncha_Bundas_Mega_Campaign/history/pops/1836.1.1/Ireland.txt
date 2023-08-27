@@ -1,0 +1,1396 @@
+254 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 756
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 82
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7327
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 4009
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1990
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 646
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 89
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 145
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 418
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 36283
+	}
+
+}
+255 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1639
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 623
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 15434
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 8798
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 15259
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1417
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 240
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 316
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 915
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 68693
+	}
+
+}
+256 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 659
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 6386
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3495
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1734
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 78
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 31625
+	}
+
+}
+257 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1644
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 402
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 15709
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 8756
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 9772
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1411
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 238
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 315
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 912
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 73764
+	}
+
+}
+258 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 718
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 128
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 11894
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3746
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3061
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 994
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 169
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 161
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 643
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 58118
+	}
+
+}
+259 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1350
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 13083
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 7219
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3579
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1163
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 197
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 260
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 751
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 65298
+	}
+
+}
+260 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 798
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 2
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = norse_pagan_reformed
+		size= 7809
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 583
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 5576
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 7240
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3598
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1169
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 162
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 261
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 755
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 65506
+	}
+
+}
+261 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1344
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 13023
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 7098
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3524
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1145
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 158
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 255
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 740
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 64227
+	}
+
+}
+262 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 789
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 246
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 13005
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1490
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2602
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 33
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 22045
+	}
+
+	soldiers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 2613
+	}
+
+	artisans=
+	{
+		culture = anglois
+		religion = protestant
+		size= 9380
+	}
+
+	clergymen=
+	{
+		culture = anglois
+		religion = protestant
+		size= 871
+	}
+
+	bureaucrats=
+	{
+		culture = anglois
+		religion = protestant
+		size= 121
+	}
+
+	officers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = anglois
+		religion = protestant
+		size= 563
+	}
+
+	farmers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 32963
+	}
+
+}
+263 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1691
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 16417
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3296
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2232
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 323
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 29634
+	}
+
+	soldiers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 5740
+	}
+
+	artisans=
+	{
+		culture = anglois
+		religion = protestant
+		size= 8054
+	}
+
+	clergymen=
+	{
+		culture = anglois
+		religion = protestant
+		size= 1163
+	}
+
+	bureaucrats=
+	{
+		culture = anglois
+		religion = protestant
+		size= 197
+	}
+
+	officers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 260
+	}
+
+	aristocrats=
+	{
+		culture = anglois
+		religion = protestant
+		size= 752
+	}
+
+	farmers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 46224
+	}
+
+}
+264 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 2931
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1115
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 27602
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 15540
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 26994
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2507
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 424
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 559
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1619
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 121278
+	}
+
+}
+265 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 2574
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 687
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 24581
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 8347
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 12554
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1166
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 197
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 260
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 753
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 67448
+	}
+
+	soldiers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 5155
+	}
+
+	artisans=
+	{
+		culture = anglois
+		religion = protestant
+		size= 11222
+	}
+
+	clergymen=
+	{
+		culture = anglois
+		religion = protestant
+		size= 1042
+	}
+
+	bureaucrats=
+	{
+		culture = anglois
+		religion = protestant
+		size= 176
+	}
+
+	officers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 232
+	}
+
+	aristocrats=
+	{
+		culture = anglois
+		religion = protestant
+		size= 673
+	}
+
+	farmers=
+	{
+		culture = anglois
+		religion = protestant
+		size= 37535
+	}
+
+}

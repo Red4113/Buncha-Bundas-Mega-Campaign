@@ -1,0 +1,642 @@
+1356 = {
+	slaves=
+	{
+		culture = lao
+		religion = theravada
+		size= 4499
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 2544
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 4721
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 341
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 89
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 881
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 32244
+	}
+
+	slaves=
+	{
+		culture = lao
+		religion = catholic
+		size= 1392
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = catholic
+		size= 787
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = catholic
+		size= 633
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = catholic
+		size= 11056
+	}
+
+}
+1357 = {
+	slaves=
+	{
+		culture = lao
+		religion = catholic
+		size= 572
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = catholic
+		size= 310
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = catholic
+		size= 189
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = catholic
+		size= 3050
+	}
+
+	slaves=
+	{
+		culture = lao
+		religion = theravada
+		size= 2485
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 1348
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 1829
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 18
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 512
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 11847
+	}
+
+}
+1360 = {
+	soldiers=
+	{
+		culture = lao
+		religion = catholic
+		size= 558
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = catholic
+		size= 449
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = catholic
+		size= 8878
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 345
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 1003
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 10
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 4607
+	}
+
+}
+1361 = {
+	soldiers=
+	{
+		culture = lao
+		religion = catholic
+		size= 231
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = catholic
+		size= 810
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = catholic
+		size= 10427
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 1982
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 13
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 5983
+	}
+
+}
+1362 = {
+	slaves=
+	{
+		culture = lao
+		religion = catholic
+		size= 2991
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = catholic
+		size= 1411
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = catholic
+		size= 1763
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = catholic
+		size= 18778
+	}
+
+	slaves=
+	{
+		culture = lao
+		religion = theravada
+		size= 2186
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 1031
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 4340
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 202
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 65
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 260
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 10260
+	}
+
+}
+1363 = {
+	soldiers=
+	{
+		culture = lao
+		religion = catholic
+		size= 505
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = catholic
+		size= 631
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = catholic
+		size= 7794
+	}
+
+	soldiers=
+	{
+		culture = lao
+		religion = theravada
+		size= 369
+	}
+
+	artisans=
+	{
+		culture = lao
+		religion = theravada
+		size= 1554
+	}
+
+	clergymen=
+	{
+		culture = lao
+		religion = theravada
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 23
+	}
+
+	officers=
+	{
+		culture = lao
+		religion = theravada
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = lao
+		religion = theravada
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = lao
+		religion = theravada
+		size= 4457
+	}
+
+}

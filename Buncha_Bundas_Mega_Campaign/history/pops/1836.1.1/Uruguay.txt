@@ -1,0 +1,316 @@
+2344 = {
+	slaves=
+	{
+		culture = guarani
+		religion = catholic
+		size= 557
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 1829
+	}
+
+	slaves=
+	{
+		culture = araucanian
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = catholic
+		size= 109
+	}
+
+	soldiers=
+	{
+		culture = araucanian
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 19211
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 7266
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3084
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 445
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 575
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 68
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 43
+	}
+
+}
+2345 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1371
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 449
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1033
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
+	}
+
+}
+2346 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 771
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 8370
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 438
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 91
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 30
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 23
+	}
+
+}
+2347 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 730
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7200
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1373
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 164
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 12
+	}
+
+}

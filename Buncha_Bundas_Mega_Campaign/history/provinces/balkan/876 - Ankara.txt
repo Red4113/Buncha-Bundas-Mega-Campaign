@@ -1,0 +1,8 @@
+owner=X11
+controller=X11
+add_core=GRE
+add_core=X11
+add_core=X15
+trade_goods = fruit
+life_rating = 35
+fort = 1

@@ -1,0 +1,5 @@
+owner=X25
+controller=TRX
+add_core=X25
+trade_goods = cotton
+life_rating = 32

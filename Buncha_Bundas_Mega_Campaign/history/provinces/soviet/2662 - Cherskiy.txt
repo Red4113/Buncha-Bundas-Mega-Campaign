@@ -1,0 +1,7 @@
+owner=TEX
+controller=TEX
+add_core=TEX
+add_core=YAQ
+trade_goods = grain
+life_rating = 30
+terrain = semidesert

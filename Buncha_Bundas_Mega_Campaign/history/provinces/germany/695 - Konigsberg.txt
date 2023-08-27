@@ -1,0 +1,8 @@
+owner=PRT
+controller=PRT
+add_core=PRT
+add_core=UBD
+trade_goods = cattle
+life_rating = 40
+naval_base = 1
+fort = 1

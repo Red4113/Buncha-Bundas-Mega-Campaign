@@ -1,0 +1,5 @@
+owner=SCA
+controller=NEA
+add_core=SCA
+trade_goods = cattle
+life_rating = 35

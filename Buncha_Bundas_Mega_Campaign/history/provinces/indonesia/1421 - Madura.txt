@@ -1,0 +1,9 @@
+owner=KOR
+controller=KOR
+add_core=JAV
+add_core=KOR
+add_core=MJP
+trade_goods = sulphur
+life_rating = 35
+naval_base = 1
+fort = 1

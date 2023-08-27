@@ -1,0 +1,6 @@
+owner=ADU
+controller=ADU
+trade_goods = cattle
+life_rating = 35
+terrain = semidesert
+colonial=2
