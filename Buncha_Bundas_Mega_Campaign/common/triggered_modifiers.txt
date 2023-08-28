@@ -284,12 +284,12 @@ substate_nation_player = {
 chinese_substate = {
     trigger = {
         OR = {
-            substate_of = QNG
-            vassal_of = QNG
+            substate_of = CSH
+            vassal_of = CSH
         }
         civilized = no
         exists = yes
-        QNG = {    government = absolute_monarchy }
+        CSH = {    government = absolute_monarchy }
         is_culture_group = east_asian
     }
     icon = 10
