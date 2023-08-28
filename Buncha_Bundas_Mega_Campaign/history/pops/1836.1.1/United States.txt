@@ -5695,18 +5695,18 @@
 		size= 95
 	}
 
-	farmers=
+	craftsmen=
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 1581
+		size= 8881
 	}
 
 	artisans=
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 488
+		size= 188
 	}
 
 	slaves=
@@ -5797,7 +5797,7 @@
 	{
 		culture = nouvellien
 		religion = norse_pagan_reformed
-		size= 500
+		size= 78500
 	}
 
 	soldiers=
