@@ -1,4 +1,4 @@
-name = "Converted - Buncha_Bundas_Mega_Campaign"
+name = "Buncha Bundas Mega Campaign"
 path = "mod/Buncha_Bundas_Mega_Campaign"
 user_dir = "Buncha_Bundas_Mega_Campaign"
 replace = "history/provinces"
