@@ -6,7 +6,8 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.22209
+literacy = 0.29209
+non_state_culture_literacy = 0.22424
 
 civilized = yes
 
