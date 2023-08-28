@@ -1,379 +1,379 @@
 political_decisions = {
-	the_post_colonialism = { #This decision adds cores to those post-colonial countries
-		potential = {
-			ai = no #Better let the player decide if they are willing to, as it may be not related to their campaign
-			NOT = {
-				has_global_flag = der_postcolonialism #To avoid having it spammed
-			}
-			NOT = { year = 1862 } #To avoid having that decision check forever
-		}
-		allow = {
-			ai = no
-		}
-
-		effect = {
-			CAN_58 = {	#Quebec
-				limit = {
-					any_pop = {
-						OR = {
-							pop_majority_culture = french
-							pop_majority_culture = french_canadian
-						}
-					}
-				}
-				add_core = QUE
-			}
-			CAN_13 = {	#Columbia
-				limit = {
-					any_pop = {
-						OR = {
-							pop_majority_culture = english
-							pop_majority_culture = anglo_canadian
-						}
-					}
-				}
-				add_core = COL
-			}
-			ENG_74 = { add_core = NEW } #Newfoundland
-			CAN_13 = { add_core = CAN } #Canada
-			ENG_22 = { add_core = CAN }
-			ENG_30 = { add_core = CAN }
-			ENG_36 = { add_core = CAN }
-			ENG_9 = { add_core = CAN }
-			CAN_46 = { add_core = CAN }
-			CAN_58 = { add_core = CAN }
-			ENG_68 = { add_core = CAN }
-			ENG_74 = { add_core = CAN }
-			ENG_9 = { add_core = CAN }
-			USA_1 = { add_core = LSK } #Alaska
-			USA_247 = {	#New England
-				limit = {
-					any_pop = {
-						OR = {
-							pop_majority_culture = english
-							pop_majority_culture = yankee
-						}
-					}
-				}
-				add_core = NEN
-			}
-			USA_232 = { add_core = MAN } #Manhattan
-			TEX_132 = { add_core = TEX } #Texas
-			USA_118 = { add_core = USA } #USA
-			USA_121 = { add_core = USA }
-			USA_124 = { add_core = USA }
-			USA_126 = { add_core = USA }
-			USA_129 = { add_core = USA }
-			USA_139 = { add_core = USA }
-			USA_144 = { add_core = USA }
-			USA_148 = { add_core = USA }
-			USA_151 = { add_core = USA }
-			USA_158 = { add_core = USA }
-			USA_162 = { add_core = USA }
-			USA_168 = { add_core = USA }
-			USA_170 = { add_core = USA }
-			USA_176 = { add_core = USA }
-			USA_178 = { add_core = USA }
-			USA_185 = { add_core = USA }
-			USA_188 = { add_core = USA }
-			USA_194 = { add_core = USA }
-			USA_196 = { add_core = USA }
-			USA_200 = { add_core = USA }
-			USA_201 = { add_core = USA }
-			USA_211 = { add_core = USA }
-			USA_218 = { add_core = USA }
-			USA_219 = { add_core = USA }
-			USA_219 = { add_core = USA }
-			USA_223 = { add_core = USA }
-			USA_231 = { add_core = USA }
-			USA_232 = { add_core = USA }
-			USA_243 = { add_core = USA }
-			USA_247 = { add_core = USA }
-			USA_2556 = { add_core = USA }
-			USA_129 = { add_core = CSA } #Dixieland for the ACW
-			TEX_132 = { add_core = CSA }
-			USA_139 = { add_core = CSA }
-			USA_144 = { add_core = CSA }
-			USA_148 = { add_core = CSA }
-			USA_185 = { add_core = CSA }
-			USA_211 = { add_core = CSA }
-			USA_188 = { add_core = CSA }
-			#USA_2566 = { add_core = CSA }
-			USA_201 = { add_core = CSA }
-			USA_196 = { add_core = CSA }
-			USA_194 = { add_core = CSA }
-			USA_200 = { add_core = CSA }
-			USA_139 = { add_core = LOU } #Louisiana
-			USA_144 = { add_core = LOU }
-			USA_129 = { add_core = LOU }
-			USA_148 = { add_core = LOU }
-			USA_126 = { add_core = LOU }
-			USA_151 = { add_core = LOU }
-			USA_124 = { add_core = LOU }
-			MEX_94 = { add_core = DES } #Deseret
-			MEX_100 = { add_core = DES }
-			MEX_85 = { add_core = CAL } #California
-			SPA_2209 = { add_core = CUB } #Cuba
-			HAI_2213 = { add_core = HAI } #Haiti
-			2214 = { add_core = DOM } #Santo Domingo
-			2216 = { add_core = DOM }
-			UCA_2201 = { #Costa Rica
-				add_core = COS
-				add_core = UCA
-			}
-			UCA_2193 = { #Honduras & El Salvador
-				add_core = HON
-				add_core = UCA
-			}
-			2191 = { add_core = ELS remove_core = HON }
-			2192 = { add_core = ELS remove_core = HON }
-			CLM_1723 = { #Panama
-				add_core = PNM
-				add_core = UCA
-			}
-			ECU_2279 = { add_core = ECU } #Ecuador
-			UCA_2186 = { #Guatemala
-				add_core = GUA
-				add_core = UCA
-			}
-			UCA_2197 = { #Nicaragua
-				add_core = NIC
-				add_core = UCA
-			}
-			MEX_2138 = { add_core = MEX } #Mexico
-			MEX_2142 = { add_core = MEX }
-			MEX_2149 = { add_core = MEX }
-			MEX_2151 = { add_core = MEX }
-			MEX_2161 = { add_core = MEX }
-			MEX_2172 = { add_core = MEX }
-			MEX_2170 = { add_core = MEX }
-			MEX_2159 = { add_core = MEX }
-			MEX_2181 = { add_core = MEX }
-			BRZ_2306 = { add_core = BRZ } #Brazil
-			BRZ_2401 = { add_core = BRZ }
-			BRZ_2408 = { add_core = BRZ }
-			BRZ_2421 = { add_core = BRZ }
-			BRZ_2416 = { add_core = BRZ }
-			BRZ_2410 = { add_core = BRZ }
-			BRZ_2428 = { add_core = BRZ }
-			BRZ_2439 = { add_core = BRZ }
-			BRZ_2446 = { add_core = BRZ }
-			BRZ_2447 = { add_core = BRZ }
-			BRZ_2461 = { add_core = BRZ }
-			BRZ_2462 = { add_core = BRZ }
-			BRZ_2467 = { add_core = BRZ }
-			PEU_2289 = { add_core = PEU } #Peru
-			PEU_2291 = { add_core = PEU }
-			PEU_2300 = { add_core = PEU }
-			PEU_2303 = { add_core = PEU }
-			PEU_2289 = { add_core = PEU }
-			PEU_2297 = { add_core = PEU }
-			CHL_2322 = { add_core = CHL } #Chile
-			CHL_2327 = { add_core = CHL }
-			CHL_2332 = { add_core = CHL }
-			ARG_2355 = { add_core = ARG } #Argentina
-			ARG_2360 = { add_core = ARG }
-			ARG_2363 = { add_core = ARG }
-			ARG_2368 = { add_core = ARG }
-			ARG_2374 = { add_core = ARG }
-			ARG_2393 = { add_core = ARG }
-			ARG_2387 = { add_core = ARG }
-			ARG_2391 = { add_core = ARG }
-			ARG_2393 = { add_core = ARG }
-			ARG_2398 = { add_core = ARG }
-			ARG_2377 = { add_core = PRG } #Paraguay
-			PRG_2343 = { add_core = PRG }
-			URU_2344 = { add_core = URU } #Uruguay
-			BOL_2317 = { add_core = BOL } #Bolivia
-			BOL_2321 = { add_core = BOL }
-			BOL_2309 = { add_core = BOL }
-			BOL_2305 = { add_core = BOL }
-			CLM_2247 = { add_core = CLM } #Colombia
-			CLM_2251 = { add_core = CLM }
-			CLM_2259 = { add_core = CLM }
-			CLM_2262 = { add_core = CLM }
-			VNZ_2234 = { add_core = VNZ } #Venezuela
-			VNZ_2265 = { add_core = VNZ }
-			VNZ_2278 = { add_core = VNZ }
-			AST_2528 = { add_core = AST } #Australia
-			AST_2454 = { add_core = AST }
-			SPA_1459 = { add_core = PHL } #Philippines
-			SPA_1455 = { add_core = PHL }
-			SPA_1463 = { add_core = PHL }
-			ENG_2509 = { add_core = NZL } #New Zealand
-			HAW_658 = { add_core = HAW } #Hawaii
-			MAD_2121 = { add_core = MAD } #Madagascar
-			MAD_2117 = { add_core = MAD }
-			ENG_2087 = { add_core = SAF } #South Africa
-			ENG_2092 = { add_core = SAF }
-			ENG_2096 = { add_core = SAF }
-			ORA_2103 = { add_core = SAF }
-			ZUL_2113 = { add_core = SAF }
-			TRN_2108 = { add_core = SAF }
-			ENG_2071 = { add_core = RHO } #Rhodesia
-			ENG_1887 = { add_core = LIB } #Liberia
-			BEL_1977 = { add_core = CNG } #Congo
-			BEL_1984 = { add_core = CNG }
-			BEL_1987 = { add_core = CNG }
-			BEL_1990 = { add_core = CNG }
-			BEL_1984 = { add_core = CNG }
-			EGY_921 = { add_core = ISR } #Israel
-			2239 = { add_core = GUY } #Guyana
-			2243 = { add_core = GUY }
-			2242 = { add_core = GUY }
-			1979 = { add_core = GUY }
-			2240 = { add_core = SUR } #Suriname
-			2245 = { add_core = SUR }
-			2241 = { add_core = CAY }
-			2246 = { add_core = CAY }
-			#From NNM
-			2181 = { add_core = CHP } #Chiapas
-			2182 = { add_core = CHP }
-			BRZ_2428 = { add_core = CEQ } #Equador Confederation
-			ARG_2360 = { add_core = ENT } #Entre Rios
-			2187 = { add_core = LOS } #Los Altos
-			2182 = { add_core = LOS }
-			2177 = { add_core = OAX } #Oaxaca
-			2178 = { add_core = OAX }
-			138 = { add_core = RGR } #Rio Grande
-			2151 = { add_core = RGR }
-			2147 = { add_core = RGR }
-			2149 = { add_core = RGR }
-			2150 = { add_core = RGR }
-			2151 = { add_core = RGR }
-			2152 = { add_core = RGR }
-			BRZ_2467 = { add_core = RGS } #Rio Grande do Sul
-			102 = { add_core = SON } #Sonora
-			2137 = { add_core = SON }
-			2138 = { add_core = SON }
-			2139 = { add_core = SON }
-			2140 = { add_core = SON }
-			2141 = { add_core = SON }
-			2179 = { add_core = TRS } #Tarasco
-			2180 = { add_core = TRS }
-			2171 = { add_core = TRS }
-			2170 = { add_core = TRS }
-			2183 = { add_core = YUC } #Yucatan
-			2184 = { add_core = YUC }
-			2185 = { add_core = YUC }
-			2190 = { add_core = BLZ remove_core = GUA remove_core = UCA } #Belize
-			USA_118 = { add_core = DAK } #Dakota
-			USA_121 = { add_core = DAK }
-			2636 = { add_core = GRN } #Greenland
-			2636 = { add_core = GRN }
-			251 = { add_core = GRN }
-			2217 = { add_core = JAM } #Jamaica
-			2218 = { add_core = JAM }
-			2222 = { add_core = PRI } #Puerto Rico
-			2223 = { add_core = PRI }
-			2226 = { add_core = PRI }
-			2237 = { add_core = TTB } #Trinidad and Tobago
-			2238 = { add_core = TTB }
-			USA_168 = { add_core = UIL } #Illinois
-			USA_124 = { add_core = UNB } #Nebraska
-			MEX_103 = { add_core = UNM } #New Mexico
-			USA_81 = { add_core = UOR } #Oregon
-			#Further Caribbean islands:
-			2219 = { add_core = BHM } #Bahamas
-			2220 = { add_core = BHM }
-			2236 = { add_core = AGU } #Anguilla
-			2230 = { add_core = ANT } #Antigua and Barbuda
-			2227 = { add_core = SKN } #Saint Kitts and Nevis
-			2225 = { add_core = MNR } #Montserrat
-			2230 = { add_core = GDL } #Guadeloupe
-			2232 = { add_core = DMN } #Dominica
-			2228 = { add_core = MTQ } #Martinique
-			2231 = { add_core = STL } #Saint Lucia
-			2229 = { add_core = BAR } #Barbados
-			2233 = { add_core = GRD } #Grenada
-			2234 = { add_core = CUR remove_core = VNZ } #Curaçao
-			2235 = { add_core = CUR remove_core = VNZ }
-			2409 = { add_core = STV } #Saint Vincent and the Grenadines
-			#Further addictions
-			ARG_2355 = { add_core = SBA } #Buenos Aires
-			set_global_flag = der_postcolonialism
-			#Ensuring correct cultures if released
-			any_country = { limit = { tag = QUE	 NOT = { exists = QUE } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = COL	 NOT = { exists = COL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = NEW	 NOT = { exists = NEW } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CAN	 NOT = { exists = CAN } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = LSK	 NOT = { exists = LSK } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = NEN	 NOT = { exists = NEN } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = MAN	 NOT = { exists = MAN } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = TEX	 NOT = { exists = TEX } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = USA	 NOT = { exists = USA } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CSA	 NOT = { exists = CSA } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = LOU	 NOT = { exists = LOU } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = DES	 NOT = { exists = DES } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CAL	 NOT = { exists = CAL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CUB	 NOT = { exists = CUB } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = HAI	 NOT = { exists = HAI } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = DOM	 NOT = { exists = DOM } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = UCA	 NOT = { exists = UCA } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = COS	 NOT = { exists = COS } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = HON	 NOT = { exists = HON } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = ELS	 NOT = { exists = ELS } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = PNM	 NOT = { exists = PNM } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = ECU	 NOT = { exists = ECU } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = GUA	 NOT = { exists = GUA } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = NIC	 NOT = { exists = NIC } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = MEX	 NOT = { exists = MEX } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = BRZ	 NOT = { exists = BRZ } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = PEU	 NOT = { exists = PEU } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CHL	 NOT = { exists = CHL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = ARG	 NOT = { exists = ARG } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = PRG	 NOT = { exists = PRG } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = URU	 NOT = { exists = URU } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = BOL	 NOT = { exists = BOL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CLM	 NOT = { exists = CLM } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = VNZ	 NOT = { exists = VNZ } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = AST	 NOT = { exists = AST } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = NZL	 NOT = { exists = NZL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = SAF	 NOT = { exists = SAF } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = RHO	 NOT = { exists = RHO } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = LIB	 NOT = { exists = LIB } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CNG	 NOT = { exists = CNG } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = GUY	 NOT = { exists = GUY } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = SUR	 NOT = { exists = SUR } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CAY	 NOT = { exists = CAY } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CHP	 NOT = { exists = CHP } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CEQ	 NOT = { exists = CEQ } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = ENT	 NOT = { exists = ENT } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = LOS	 NOT = { exists = LOS } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = OAX	 NOT = { exists = OAX } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = RGR	 NOT = { exists = RGR } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = RGS	 NOT = { exists = RGS } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = SON	 NOT = { exists = SON } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = YUC	 NOT = { exists = YUC } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = BLZ	 NOT = { exists = BLZ } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = DAK	 NOT = { exists = DAK } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = JAM	 NOT = { exists = JAM } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = PRI	 NOT = { exists = PRI } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = TTB	 NOT = { exists = TTB } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = UIL	 NOT = { exists = UIL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = UNB	 NOT = { exists = UNB } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = UNM	 NOT = { exists = UNM } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = UOR	 NOT = { exists = UOR } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = BHM	 NOT = { exists = BHM } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = AGU	 NOT = { exists = AGU } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = ANT	 NOT = { exists = ANT } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = SKN	 NOT = { exists = SKN } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = MNR	 NOT = { exists = MNR } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = GDL	 NOT = { exists = GDL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = DMN	 NOT = { exists = DMN } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = MTQ	 NOT = { exists = MTQ } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = STL	 NOT = { exists = STL } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = BAR	 NOT = { exists = BAR } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = GRD	 NOT = { exists = GRD } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = CUR	 NOT = { exists = CUR } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = STV	 NOT = { exists = STV } } set_country_flag = buro_independence }
-			any_country = { limit = { tag = SBA	 NOT = { exists = SBA } } set_country_flag = buro_independence }
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
+	#the_post_colonialism = { #This decision adds cores to those post-colonial countries
+	#	potential = {
+	#		ai = no #Better let the player decide if they are willing to, as it may be not related to their campaign
+	#		NOT = {
+	#			has_global_flag = der_postcolonialism #To avoid having it spammed
+	#		}
+	#		NOT = { year = 1862 } #To avoid having that decision check forever
+	#	}
+	#	allow = {
+	#		ai = no
+	#	}
+	#
+	#	effect = {
+	#		CAN_58 = {	#Quebec
+	#			limit = {
+	#				any_pop = {
+	#					OR = {
+	#						pop_majority_culture = french
+	#						pop_majority_culture = french_canadian
+	#					}
+	#				}
+	#			}
+	#			add_core = QUE
+	#		}
+	#		CAN_13 = {	#Columbia
+	#			limit = {
+	#				any_pop = {
+	#					OR = {
+	#						pop_majority_culture = english
+	#						pop_majority_culture = anglo_canadian
+	#					}
+	#				}
+	##			}
+	#			add_core = COL
+	#		}
+	#		ENG_74 = { add_core = NEW } #Newfoundland
+	#		CAN_13 = { add_core = CAN } #Canada
+	#		ENG_22 = { add_core = CAN }
+	#		ENG_30 = { add_core = CAN }
+	#		ENG_36 = { add_core = CAN }
+	#		ENG_9 = { add_core = CAN }
+	#		CAN_46 = { add_core = CAN }
+	##		CAN_58 = { add_core = CAN }
+	#		ENG_68 = { add_core = CAN }
+	#		ENG_74 = { add_core = CAN }
+	#		ENG_9 = { add_core = CAN }
+	#		USA_1 = { add_core = LSK } #Alaska
+	#		USA_247 = {	#New England
+	#			limit = {
+	#				any_pop = {
+	#					OR = {
+	#						pop_majority_culture = english
+	#						pop_majority_culture = yankee
+	#					}
+	#				}
+	#			}
+	#			add_core = NEN
+	#		}
+	#		USA_232 = { add_core = MAN } #Manhattan
+	#		TEX_132 = { add_core = TEX } #Texas
+	#		USA_118 = { add_core = USA } #USA
+	#		USA_121 = { add_core = USA }
+	#		USA_124 = { add_core = USA }
+	#		USA_126 = { add_core = USA }
+	#		USA_129 = { add_core = USA }
+	#		USA_139 = { add_core = USA }
+	#		USA_144 = { add_core = USA }
+	#		USA_148 = { add_core = USA }
+	#		USA_151 = { add_core = USA }
+	#		USA_158 = { add_core = USA }
+	#		USA_162 = { add_core = USA }
+	#		USA_168 = { add_core = USA }
+	#		USA_170 = { add_core = USA }
+	#		USA_176 = { add_core = USA }
+	#		USA_178 = { add_core = USA }
+	#		USA_185 = { add_core = USA }
+	#		USA_188 = { add_core = USA }
+	#		USA_194 = { add_core = USA }
+	#		USA_196 = { add_core = USA }
+	#		USA_200 = { add_core = USA }
+	#		USA_201 = { add_core = USA }
+	#		USA_211 = { add_core = USA }
+	#		USA_218 = { add_core = USA }
+	#		USA_219 = { add_core = USA }
+	#		USA_219 = { add_core = USA }
+	#		USA_223 = { add_core = USA }
+	#		USA_231 = { add_core = USA }
+	#		USA_232 = { add_core = USA }
+	#		USA_243 = { add_core = USA }
+	#		USA_247 = { add_core = USA }
+	#		USA_2556 = { add_core = USA }
+	#		USA_129 = { add_core = CSA } #Dixieland for the ACW
+	#		TEX_132 = { add_core = CSA }
+	#		USA_139 = { add_core = CSA }
+	#		USA_144 = { add_core = CSA }
+	#		USA_148 = { add_core = CSA }
+	#		USA_185 = { add_core = CSA }
+	#		USA_211 = { add_core = CSA }
+	#		USA_188 = { add_core = CSA }
+	#		#USA_2566 = { add_core = CSA }
+	#		USA_201 = { add_core = CSA }
+	#		USA_196 = { add_core = CSA }
+	#		USA_194 = { add_core = CSA }
+	#		USA_200 = { add_core = CSA }
+	#		USA_139 = { add_core = LOU } #Louisiana
+	#		USA_144 = { add_core = LOU }
+	#		USA_129 = { add_core = LOU }
+	#		USA_148 = { add_core = LOU }
+	#		USA_126 = { add_core = LOU }
+	#		USA_151 = { add_core = LOU }
+	#		USA_124 = { add_core = LOU }
+	#		MEX_94 = { add_core = DES } #Deseret
+	#		MEX_100 = { add_core = DES }
+	#		MEX_85 = { add_core = CAL } #California
+	#		SPA_2209 = { add_core = CUB } #Cuba
+	#		HAI_2213 = { add_core = HAI } #Haiti
+	#		2214 = { add_core = DOM } #Santo Domingo
+	#		2216 = { add_core = DOM }
+	#		UCA_2201 = { #Costa Rica
+	#			add_core = COS
+	#			add_core = UCA
+	#		}
+	#		UCA_2193 = { #Honduras & El Salvador
+	#			add_core = HON
+	#			add_core = UCA
+	#		}
+	#		2191 = { add_core = ELS remove_core = HON }
+	#		2192 = { add_core = ELS remove_core = HON }
+	#		CLM_1723 = { #Panama
+	#			add_core = PNM
+	#			add_core = UCA
+	#		}
+	#		ECU_2279 = { add_core = ECU } #Ecuador
+	#		UCA_2186 = { #Guatemala
+	#			add_core = GUA
+	#			add_core = UCA
+	#		}
+	#		UCA_2197 = { #Nicaragua
+	#			add_core = NIC
+	#			add_core = UCA
+	#		}
+	#		MEX_2138 = { add_core = MEX } #Mexico
+	#		MEX_2142 = { add_core = MEX }
+	#		MEX_2149 = { add_core = MEX }
+	#		MEX_2151 = { add_core = MEX }
+	#		MEX_2161 = { add_core = MEX }
+	#		MEX_2172 = { add_core = MEX }
+	#		MEX_2170 = { add_core = MEX }
+	#		MEX_2159 = { add_core = MEX }
+	#		MEX_2181 = { add_core = MEX }
+	#		BRZ_2306 = { add_core = BRZ } #Brazil
+	#		BRZ_2401 = { add_core = BRZ }
+	#		BRZ_2408 = { add_core = BRZ }
+	#		BRZ_2421 = { add_core = BRZ }
+	#		BRZ_2416 = { add_core = BRZ }
+	#		BRZ_2410 = { add_core = BRZ }
+	#		BRZ_2428 = { add_core = BRZ }
+	#		BRZ_2439 = { add_core = BRZ }
+	#		BRZ_2446 = { add_core = BRZ }
+	#		BRZ_2447 = { add_core = BRZ }
+	#		BRZ_2461 = { add_core = BRZ }
+	#		BRZ_2462 = { add_core = BRZ }
+	#		BRZ_2467 = { add_core = BRZ }
+	#		PEU_2289 = { add_core = PEU } #Peru
+	#		PEU_2291 = { add_core = PEU }
+	#		PEU_2300 = { add_core = PEU }
+	#		PEU_2303 = { add_core = PEU }
+	#		PEU_2289 = { add_core = PEU }
+	#		PEU_2297 = { add_core = PEU }
+	#		CHL_2322 = { add_core = CHL } #Chile
+	#		CHL_2327 = { add_core = CHL }
+	#		CHL_2332 = { add_core = CHL }
+	#		ARG_2355 = { add_core = ARG } #Argentina
+	#		ARG_2360 = { add_core = ARG }
+	#		ARG_2363 = { add_core = ARG }
+	#		ARG_2368 = { add_core = ARG }
+	#		ARG_2374 = { add_core = ARG }
+	#		ARG_2393 = { add_core = ARG }
+	#		ARG_2387 = { add_core = ARG }
+	#		ARG_2391 = { add_core = ARG }
+	#		ARG_2393 = { add_core = ARG }
+	#		ARG_2398 = { add_core = ARG }
+	#		ARG_2377 = { add_core = PRG } #Paraguay
+	#		PRG_2343 = { add_core = PRG }
+	#		URU_2344 = { add_core = URU } #Uruguay
+	#		BOL_2317 = { add_core = BOL } #Bolivia
+	#		BOL_2321 = { add_core = BOL }
+	#		BOL_2309 = { add_core = BOL }
+	#		BOL_2305 = { add_core = BOL }
+	#		CLM_2247 = { add_core = CLM } #Colombia
+	#		CLM_2251 = { add_core = CLM }
+	#		CLM_2259 = { add_core = CLM }
+	#		CLM_2262 = { add_core = CLM }
+	#		VNZ_2234 = { add_core = VNZ } #Venezuela
+	#		VNZ_2265 = { add_core = VNZ }
+	#		VNZ_2278 = { add_core = VNZ }
+	#		AST_2528 = { add_core = AST } #Australia
+	#		AST_2454 = { add_core = AST }
+	#		SPA_1459 = { add_core = PHL } #Philippines
+	#		SPA_1455 = { add_core = PHL }
+	#		SPA_1463 = { add_core = PHL }
+	#		ENG_2509 = { add_core = NZL } #New Zealand
+	#		HAW_658 = { add_core = HAW } #Hawaii
+	#		MAD_2121 = { add_core = MAD } #Madagascar
+	#		MAD_2117 = { add_core = MAD }
+	#		ENG_2087 = { add_core = SAF } #South Africa
+	#		ENG_2092 = { add_core = SAF }
+	#		ENG_2096 = { add_core = SAF }
+	#		ORA_2103 = { add_core = SAF }
+	#		ZUL_2113 = { add_core = SAF }
+	#		TRN_2108 = { add_core = SAF }
+	#		ENG_2071 = { add_core = RHO } #Rhodesia
+	#		ENG_1887 = { add_core = LIB } #Liberia
+	#		BEL_1977 = { add_core = CNG } #Congo
+	#		BEL_1984 = { add_core = CNG }
+	#		BEL_1987 = { add_core = CNG }
+	#		BEL_1990 = { add_core = CNG }
+	#		BEL_1984 = { add_core = CNG }
+	#		EGY_921 = { add_core = ISR } #Israel
+	#		2239 = { add_core = GUY } #Guyana
+	#		2243 = { add_core = GUY }
+	#		2242 = { add_core = GUY }
+	#		1979 = { add_core = GUY }
+	#		2240 = { add_core = SUR } #Suriname
+	#		2245 = { add_core = SUR }
+	#		2241 = { add_core = CAY }
+	#		2246 = { add_core = CAY }
+	#		#From NNM
+	#		2181 = { add_core = CHP } #Chiapas
+	#		2182 = { add_core = CHP }
+	#		BRZ_2428 = { add_core = CEQ } #Equador Confederation
+	#		ARG_2360 = { add_core = ENT } #Entre Rios
+	#		2187 = { add_core = LOS } #Los Altos
+	#		2182 = { add_core = LOS }
+	#		2177 = { add_core = OAX } #Oaxaca
+	#		2178 = { add_core = OAX }
+	#		138 = { add_core = RGR } #Rio Grande
+	#		2151 = { add_core = RGR }
+	#		2147 = { add_core = RGR }
+	#		2149 = { add_core = RGR }
+	#		2150 = { add_core = RGR }
+	#		2151 = { add_core = RGR }
+	#		2152 = { add_core = RGR }
+	#		BRZ_2467 = { add_core = RGS } #Rio Grande do Sul
+	#		102 = { add_core = SON } #Sonora
+	#		2137 = { add_core = SON }
+	#		2138 = { add_core = SON }
+	#		2139 = { add_core = SON }
+	#		2140 = { add_core = SON }
+	#		2141 = { add_core = SON }
+	#		2179 = { add_core = TRS } #Tarasco
+	#		2180 = { add_core = TRS }
+	#		2171 = { add_core = TRS }
+	#		2170 = { add_core = TRS }
+	#		2183 = { add_core = YUC } #Yucatan
+	#		2184 = { add_core = YUC }
+	#		2185 = { add_core = YUC }
+	##		2190 = { add_core = BLZ remove_core = GUA remove_core = UCA } #Belize
+	#		USA_118 = { add_core = DAK } #Dakota
+	#		USA_121 = { add_core = DAK }
+	#		2636 = { add_core = GRN } #Greenland
+	#		2636 = { add_core = GRN }
+	#		251 = { add_core = GRN }
+	#		2217 = { add_core = JAM } #Jamaica
+	##		2218 = { add_core = JAM }
+	#		2222 = { add_core = PRI } #Puerto Rico
+	#		2223 = { add_core = PRI }
+	#		2226 = { add_core = PRI }
+	#		2237 = { add_core = TTB } #Trinidad and Tobago
+	###		2238 = { add_core = TTB }
+	#		USA_168 = { add_core = UIL } #Illinois
+	#		USA_124 = { add_core = UNB } #Nebraska
+	#		MEX_103 = { add_core = UNM } #New Mexico
+	#		USA_81 = { add_core = UOR } #Oregon
+	#		#Further Caribbean islands:
+	#		2219 = { add_core = BHM } #Bahamas
+	#		2220 = { add_core = BHM }
+	#		2236 = { add_core = AGU } #Anguilla
+	#		2230 = { add_core = ANT } #Antigua and Barbuda
+	##		2227 = { add_core = SKN } #Saint Kitts and Nevis
+	#		2225 = { add_core = MNR } #Montserrat
+	#		2230 = { add_core = GDL } #Guadeloupe
+	#		2232 = { add_core = DMN } #Dominica
+	#		2228 = { add_core = MTQ } #Martinique
+	#		2231 = { add_core = STL } #Saint Lucia
+	#		2229 = { add_core = BAR } #Barbados
+	#		2233 = { add_core = GRD } #Grenada
+	#		2234 = { add_core = CUR remove_core = VNZ } #Curaçao
+	#		2235 = { add_core = CUR remove_core = VNZ }
+	#		2409 = { add_core = STV } #Saint Vincent and the Grenadines
+	#		#Further addictions
+	#		ARG_2355 = { add_core = SBA } #Buenos Aires
+	#		set_global_flag = der_postcolonialism
+	#		#Ensuring correct cultures if released
+	#		any_country = { limit = { tag = QUE	 NOT = { exists = QUE } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = COL	 NOT = { exists = COL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = NEW	 NOT = { exists = NEW } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CAN	 NOT = { exists = CAN } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = LSK	 NOT = { exists = LSK } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = NEN	 NOT = { exists = NEN } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = MAN	 NOT = { exists = MAN } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = TEX	 NOT = { exists = TEX } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = USA	 NOT = { exists = USA } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CSA	 NOT = { exists = CSA } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = LOU	 NOT = { exists = LOU } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = DES	 NOT = { exists = DES } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CAL	 NOT = { exists = CAL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CUB	 NOT = { exists = CUB } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = HAI	 NOT = { exists = HAI } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = DOM	 NOT = { exists = DOM } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = UCA	 NOT = { exists = UCA } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = COS	 NOT = { exists = COS } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = HON	 NOT = { exists = HON } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = ELS	 NOT = { exists = ELS } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = PNM	 NOT = { exists = PNM } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = ECU	 NOT = { exists = ECU } } set_country_flag = buro_independence }
+	##		any_country = { limit = { tag = GUA	 NOT = { exists = GUA } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = NIC	 NOT = { exists = NIC } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = MEX	 NOT = { exists = MEX } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = BRZ	 NOT = { exists = BRZ } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = PEU	 NOT = { exists = PEU } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CHL	 NOT = { exists = CHL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = ARG	 NOT = { exists = ARG } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = PRG	 NOT = { exists = PRG } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = URU	 NOT = { exists = URU } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = BOL	 NOT = { exists = BOL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CLM	 NOT = { exists = CLM } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = VNZ	 NOT = { exists = VNZ } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = AST	 NOT = { exists = AST } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = NZL	 NOT = { exists = NZL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = SAF	 NOT = { exists = SAF } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = RHO	 NOT = { exists = RHO } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = LIB	 NOT = { exists = LIB } } set_country_flag = buro_independence }
+	##		any_country = { limit = { tag = CNG	 NOT = { exists = CNG } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = GUY	 NOT = { exists = GUY } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = SUR	 NOT = { exists = SUR } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CAY	 NOT = { exists = CAY } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CHP	 NOT = { exists = CHP } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CEQ	 NOT = { exists = CEQ } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = ENT	 NOT = { exists = ENT } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = LOS	 NOT = { exists = LOS } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = OAX	 NOT = { exists = OAX } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = RGR	 NOT = { exists = RGR } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = RGS	 NOT = { exists = RGS } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = SON	 NOT = { exists = SON } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = YUC	 NOT = { exists = YUC } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = BLZ	 NOT = { exists = BLZ } } set_country_flag = buro_independence }
+	##		any_country = { limit = { tag = DAK	 NOT = { exists = DAK } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = JAM	 NOT = { exists = JAM } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = PRI	 NOT = { exists = PRI } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = TTB	 NOT = { exists = TTB } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = UIL	 NOT = { exists = UIL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = UNB	 NOT = { exists = UNB } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = UNM	 NOT = { exists = UNM } } set_country_flag = buro_independence }
+	##		any_country = { limit = { tag = UOR	 NOT = { exists = UOR } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = BHM	 NOT = { exists = BHM } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = AGU	 NOT = { exists = AGU } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = ANT	 NOT = { exists = ANT } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = SKN	 NOT = { exists = SKN } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = MNR	 NOT = { exists = MNR } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = GDL	 NOT = { exists = GDL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = DMN	 NOT = { exists = DMN } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = MTQ	 NOT = { exists = MTQ } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = STL	 NOT = { exists = STL } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = BAR	 NOT = { exists = BAR } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = GRD	 NOT = { exists = GRD } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = CUR	 NOT = { exists = CUR } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = STV	 NOT = { exists = STV } } set_country_flag = buro_independence }
+	#		any_country = { limit = { tag = SBA	 NOT = { exists = SBA } } set_country_flag = buro_independence }
+	#	}
+	#	
+	#	ai_will_do = {
+	#		factor = 1
+	#	}
+	#}
 	
 	## Post-colonial country changes
 	postcol_LSK = {
