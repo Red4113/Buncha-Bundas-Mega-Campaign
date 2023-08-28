@@ -1,6 +1,5 @@
 owner=ADU
 controller=ADU
-add_core=HND
 add_core=MRT
 trade_goods = fruit
 life_rating = 32

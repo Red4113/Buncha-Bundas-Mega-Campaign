@@ -1,7 +1,6 @@
 owner=AVA
 controller=AVA
 add_core=AVA
-add_core=HND
 trade_goods = grain
 life_rating = 32
 fort = 1

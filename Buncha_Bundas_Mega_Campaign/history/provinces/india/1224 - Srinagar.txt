@@ -1,6 +1,5 @@
 owner=TIB
 controller=HND
-add_core=HND
 add_core=TIB
 trade_goods = silk
 life_rating = 32

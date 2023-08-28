@@ -1,6 +1,6 @@
 owner=SCA
 controller=SCA
-add_core=HND
+
 add_core=MRT
 trade_goods = tobacco
 life_rating = 32

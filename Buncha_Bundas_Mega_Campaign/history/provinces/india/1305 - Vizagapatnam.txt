@@ -1,6 +1,5 @@
 owner=GDW
 controller=GDW
 add_core=GDW
-add_core=HND
 trade_goods = tobacco
 life_rating = 32

@@ -1,6 +1,5 @@
 owner=X26
 controller=MRT
-add_core=HND
 add_core=MRT
 add_core=X26
 trade_goods = cotton
