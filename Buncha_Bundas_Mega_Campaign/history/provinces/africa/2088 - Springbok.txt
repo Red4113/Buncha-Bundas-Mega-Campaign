@@ -3,3 +3,4 @@ controller=ADU
 trade_goods = wool
 life_rating = 15
 terrain = mountain
+add_core=SAF

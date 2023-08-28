@@ -5370,12 +5370,11 @@ country_event = {
    }
   }
   NOT = { has_country_flag = SAF_independence }
-  has_global_flag = der_postcolonialism 
   is_possible_vassal = SAF
   NOT = { exists = SAF } 
  }
     mean_time_to_happen = {
-  months = 120
+  months = 240
   modifier = {
    factor = 10000
    NOT = { year = 1805 }

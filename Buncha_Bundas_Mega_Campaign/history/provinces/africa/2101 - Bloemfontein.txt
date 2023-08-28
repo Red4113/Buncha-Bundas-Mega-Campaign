@@ -9,3 +9,4 @@ state_building=
 	building = small_arms_factory
 	upgrade = yes
 }
+add_core=SAF

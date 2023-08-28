@@ -2,3 +2,4 @@ owner=ADU
 controller=ADU
 trade_goods = grain
 life_rating = 35
+add_core=SAF
