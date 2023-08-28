@@ -77,10 +77,6 @@ stock_exchange = 1
 the_command_principle = 1
 prestige=0.0171679
 
-# Decisions
-1.1.1 = {
-	decision = build_panama_canal
-}
 oob = "CLM_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = religi

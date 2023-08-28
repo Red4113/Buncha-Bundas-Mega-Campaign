@@ -72,10 +72,6 @@ stock_exchange = 1
 the_command_principle = 1
 prestige=14.376
 
-# Decisions
-1.1.1 = {
-	decision = build_suez_canal
-}
 oob = "ASY_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_ASY

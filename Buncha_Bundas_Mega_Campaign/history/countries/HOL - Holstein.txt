@@ -54,10 +54,6 @@ no_standard = 1
 piston_steam_engine = 1
 prestige=0
 
-# Decisions
-1.1.1 = {
-	decision = build_kiel_canal
-}
 oob = "HOL_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_HOL
