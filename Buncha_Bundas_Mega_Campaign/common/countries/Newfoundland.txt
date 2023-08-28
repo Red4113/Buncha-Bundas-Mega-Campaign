@@ -1,5 +1,5 @@
 graphical_culture = Generic
-color = { 126 154 113 }
+color = { 94 117 153 }
 
 party = {
 	name = "NEW_liberal"
