@@ -926,7 +926,7 @@ political_decisions = {
             random_owned = { limit = { owner = { tag = TAJ } } owner = { capital = 1207 } }
             random_owned = { limit = { owner = { tag = IRE } } owner = { capital = 263 } }
             random_owned = { limit = { owner = { tag = AUS } } owner = { capital = 619 } }
-            random_owned = { limit = { owner = { tag = CRO } } owner = { capital = 771 } }
+            random_owned = { limit = { owner = { tag = CRO } } owner = { capital = 771 771 = { add_province_modifier = { name = baby_boom duration = 1825 } } } }
             random_owned = { limit = { owner = { tag = ARG } } owner = { capital = 2348 } }
             random_owned = { limit = { owner = { tag = INO } } owner = { capital = 1413 } }
             random_owned = { limit = { owner = { tag = TUR } } owner = { capital = 876 } }
