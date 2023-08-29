@@ -1,7 +1,7 @@
 owner=SCA
 controller=SCA
 add_core=CAM
-add_core=IDO
+
 trade_goods = tropical_wood
 life_rating = 35
 colonial=2

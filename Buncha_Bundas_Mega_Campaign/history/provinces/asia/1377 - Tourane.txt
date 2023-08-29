@@ -1,7 +1,7 @@
-owner=SCA
-controller=SCA
+owner=DAI
+controller=DAI
 add_core=CHA
-add_core=IDO
+add_core=DAI
 trade_goods = fish
 life_rating = 35
 colonial=2

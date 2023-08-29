@@ -1,6 +1,6 @@
-owner=SCA
-controller=SCA
-add_core=IDO
+owner=SIA
+controller=SIA
+
 add_core=SIA
 trade_goods = fish
 life_rating = 35

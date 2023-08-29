@@ -1,7 +1,7 @@
 owner=NEA
 controller=NEA
 add_core=BUR
-add_core=IDO
+
 add_core=PEG
 trade_goods = grain
 life_rating = 33

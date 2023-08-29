@@ -1,5 +1,5 @@
-owner=NET
-controller=NET
+owner=PHG
+controller=PHG
 add_core=MLY
 add_core=PHG
 trade_goods = timber

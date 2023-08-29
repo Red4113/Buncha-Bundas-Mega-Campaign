@@ -1,6 +1,6 @@
 owner=NEP
 controller=NEP
-add_core=IDO
+
 add_core=KCH
 add_core=NEP
 trade_goods = timber

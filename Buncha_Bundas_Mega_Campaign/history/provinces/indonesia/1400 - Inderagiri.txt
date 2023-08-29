@@ -1,5 +1,6 @@
-owner=NET
-controller=NET
+owner=DJA
+controller=DJA
+add_core=DJA
 add_core=MLY
 trade_goods = fruit
 life_rating = 31

@@ -1,5 +1,5 @@
-owner=NET
-controller=NET
+owner=MLC
+controller=MLC
 add_core=MLC
 add_core=MLY
 trade_goods = timber

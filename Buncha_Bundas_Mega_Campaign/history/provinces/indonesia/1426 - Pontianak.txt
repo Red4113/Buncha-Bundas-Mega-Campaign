@@ -1,5 +1,5 @@
-owner=SCA
-controller=SCA
+owner=BRU
+controller=BRU
 add_core=BRU
 add_core=MLY
 trade_goods = precious_metal

@@ -3,7 +3,7 @@ controller=PEG
 add_core=AVA
 add_core=BNG
 add_core=BUR
-add_core=IDO
+
 add_core=PEG
 trade_goods = opium
 life_rating = 35

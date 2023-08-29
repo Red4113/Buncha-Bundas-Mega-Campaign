@@ -1,8 +1,7 @@
-owner=NET
-controller=NET
+owner=DLI
+controller=DLI
 add_core=DLI
 add_core=MLY
-add_core=PLB
 trade_goods = fruit
 life_rating = 38
 colonial=2
