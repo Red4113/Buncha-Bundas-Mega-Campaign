@@ -1,6 +1,5 @@
 capital = 679
-primary_culture = dummy
-culture = dynamic-norse-russian_culture-culture-num1
+primary_culture = pomeranian
 culture = swedish
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed

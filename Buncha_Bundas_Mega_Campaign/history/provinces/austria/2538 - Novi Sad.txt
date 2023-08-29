@@ -1,6 +1,5 @@
-owner=BOH
-controller=BOH
-add_core=BOH
+owner=CRO
+controller=CRO
 add_core=CRO
 trade_goods = wool
 life_rating = 35

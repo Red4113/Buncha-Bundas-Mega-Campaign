@@ -1,0 +1,40 @@
+#Sphere of Influence
+
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=612
+	regiment = {
+		name="1st Breslau Infantry"
+		type=infantry
+		home=612
+	}
+	regiment = {
+		name="2nd Skierniewice Infantry"
+		type=infantry
+		home=735
+	}
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=615
+	}
+	regiment = {
+		name="2nd Karlsbad Infantry"
+		type=infantry
+		home=613
+	}
+	regiment = {
+		name="1st Judenburg Infantry"
+		type=infantry
+		home=612
+	}
+	regiment = {
+		name="3rd Brno Infantry"
+		type=infantry
+		home=735
+	}
+}

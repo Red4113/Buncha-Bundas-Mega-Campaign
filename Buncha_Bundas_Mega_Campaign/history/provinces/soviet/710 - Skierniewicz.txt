@@ -1,6 +1,5 @@
-owner=BOH
-controller=BOH
-add_core=BOH
+owner=POL
+controller=POL
 add_core=POL
 add_core=WSF
 trade_goods = fruit

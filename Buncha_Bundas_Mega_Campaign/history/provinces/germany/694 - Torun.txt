@@ -1,6 +1,5 @@
-owner=BOH
-controller=BOH
-add_core=BOH
+owner=PRT
+controller=PRT
 add_core=PRT
 add_core=UBD
 trade_goods = grain

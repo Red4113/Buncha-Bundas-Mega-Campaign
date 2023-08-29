@@ -1,6 +1,5 @@
-owner=BOH
-controller=BOH
-add_core=BOH
+owner=SLO
+controller=SLO
 add_core=SLO
 trade_goods = coal
 life_rating = 35

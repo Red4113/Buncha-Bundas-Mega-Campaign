@@ -1,7 +1,6 @@
 capital = 695
-primary_culture = dummy
+primary_culture = pruthenian
 culture = polish
-culture = pruthenian
 culture = zzz_religion_animist
 religion = animist
 government = absolute_monarchy
