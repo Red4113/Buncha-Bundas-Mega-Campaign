@@ -7,8 +7,8 @@ religion = hussite
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.664214
-
+literacy = 0.764214
+non_state_culture_literacy = 0.6
 civilized = yes
 
 # Social Reforms
