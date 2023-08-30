@@ -472,47 +472,6 @@ leader = {
 }
 
 
-#Armies
-army = {
-	name="Leger van Pakuan"
-	location=1447
-	regiment = {
-		name="1st Cirebon Infantry"
-		type=infantry
-		home=1415
-	}
-	regiment = {
-		name="2nd Cirebon Infantry"
-		type=infantry
-		home=1415
-	}
-	regiment = {
-		name="3rd Cirebon Infantry"
-		type=infantry
-		home=1415
-	}
-	regiment = {
-		name="1st Cirebon Artillery"
-		type=artillery
-		home=1415
-	}
-	regiment = {
-		name="1st Bogor Artillery"
-		type=artillery
-		home=1414
-	}
-	regiment = {
-		name="1st Yogyakarta Artillery"
-		type=artillery
-		home=1416
-	}
-	regiment = {
-		name="5th Cirebon Infantry"
-		type=infantry
-		home=1415
-	}
-}
-
 army = {
 	name="Leger van Gent"
 	location=377

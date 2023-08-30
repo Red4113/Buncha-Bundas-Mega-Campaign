@@ -1,6 +1,6 @@
 capital = 2488
-primary_culture = nanren
-culture = aborigine
+primary_culture = japo_korean
+culture = nanren
 culture = zzz_religion_mahayana
 religion = mahayana
 government = democracy
