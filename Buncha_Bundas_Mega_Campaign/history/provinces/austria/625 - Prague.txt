@@ -6,3 +6,9 @@ add_core=WSF
 trade_goods = coal
 life_rating = 35
 fort = 1
+state_building=
+{
+	level=1
+	building = cement_factory
+	upgrade = yes
+}

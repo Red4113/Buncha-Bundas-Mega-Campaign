@@ -4,3 +4,48 @@
 #Leaders
 
 #Armies
+army = {
+	name="1st Army"
+	location=706
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Radom Artillery"
+		type=artillery
+		home=713
+	}
+	regiment = {
+		name="1st Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="2nd Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="3rd Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="2nd Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="1st Plock Infantry"
+		type=infantry
+		home=708
+	}
+}
+

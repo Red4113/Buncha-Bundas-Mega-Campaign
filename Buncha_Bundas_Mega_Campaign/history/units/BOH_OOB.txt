@@ -536,40 +536,7 @@ army = {
 	}
 }
 
-army = {
-	name="4th Army"
-	location=657
-	regiment = {
-		name="1st Krems Infantry"
-		type=infantry
-		home=621
-	}
-	regiment = {
-		name="1st Waldenburg Infantry"
-		type=infantry
-		home=683
-	}
-	regiment = {
-		name="1st Linz Infantry"
-		type=infantry
-		home=622
-	}
-	regiment = {
-		name="1st Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="2nd Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="1st Karlsbad Infantry"
-		type=infantry
-		home=627
-	}
-}
+
 
 army = {
 	name="Armee von Pest"
@@ -822,41 +789,6 @@ army = {
 }
 
 army = {
-	name="5th Army"
-	location=665
-	regiment = {
-		name="2nd Brno Infantry"
-		type=infantry
-		home=631
-	}
-	regiment = {
-		name="1st Regensburg Infantry"
-		type=infantry
-		home=602
-	}
-	regiment = {
-		name="1st Salzburg Infantry"
-		type=infantry
-		home=613
-	}
-	regiment = {
-		name="4th Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="1st Plzen Infantry"
-		type=infantry
-		home=629
-	}
-	regiment = {
-		name="2nd Trencín Infantry"
-		type=infantry
-		home=634
-	}
-}
-
-army = {
 	name="6th Army"
 	location=687
 	regiment = {
@@ -936,40 +868,6 @@ army = {
 	}
 }
 
-army = {
-	name="8th Army"
-	location=656
-	regiment = {
-		name="1st Krakow Infantry"
-		type=infantry
-		home=703
-	}
-	regiment = {
-		name="1st Novi Sad Infantry"
-		type=infantry
-		home=2538
-	}
-	regiment = {
-		name="1st Košice Infantry"
-		type=infantry
-		home=637
-	}
-	regiment = {
-		name="1st Bratislava Infantry"
-		type=infantry
-		home=633
-	}
-	regiment = {
-		name="2nd Bratislava Infantry"
-		type=infantry
-		home=633
-	}
-	regiment = {
-		name="2nd Pest Infantry"
-		type=infantry
-		home=641
-	}
-}
 
 army = {
 	name="7th Army"
@@ -1041,40 +939,6 @@ army = {
 	}
 }
 
-army = {
-	name="10th Army"
-	location=654
-	regiment = {
-		name="1st Prešov Infantry"
-		type=infantry
-		home=638
-	}
-	regiment = {
-		name="1st Debrecen Infantry"
-		type=infantry
-		home=648
-	}
-	regiment = {
-		name="2nd Košice Infantry"
-		type=infantry
-		home=637
-	}
-	regiment = {
-		name="1st Békéscsaba Infantry"
-		type=infantry
-		home=650
-	}
-	regiment = {
-		name="2nd Szeged Infantry"
-		type=infantry
-		home=649
-	}
-	regiment = {
-		name="2nd Békéscsaba Infantry"
-		type=infantry
-		home=650
-	}
-}
 
 army = {
 	name="Armee von Praha"
@@ -1121,48 +985,4 @@ army = {
 	}
 }
 
-army = {
-	name="11th Army"
-	location=667
-	regiment = {
-		name="2nd Breslau Infantry"
-		type=infantry
-		home=682
-	}
-	regiment = {
-		name="1st Kattowitz Artillery"
-		type=artillery
-		home=685
-	}
-	regiment = {
-		name="2nd Plzen Artillery"
-		type=artillery
-		home=629
-	}
-	regiment = {
-		name="4th Brno Artillery"
-		type=artillery
-		home=631
-	}
-	regiment = {
-		name="3rd Dresden Artillery"
-		type=artillery
-		home=558
-	}
-	regiment = {
-		name="4th Dresden Artillery"
-		type=artillery
-		home=558
-	}
-	regiment = {
-		name="1st Plock Artillery"
-		type=artillery
-		home=708
-	}
-	regiment = {
-		name="3rd Breslau Infantry"
-		type=infantry
-		home=682
-	}
-}
 
