@@ -3280,49 +3280,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 1939
 	}
 
 	artisans=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 10808
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 1158
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 170
 	}
 
 	officers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 124
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 648
 	}
 
 	farmers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 54401
 	}
@@ -3429,49 +3429,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 1793
 	}
 
 	artisans=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 6672
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 1075
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 164
 	}
 
 	officers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 119
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 940
 	}
 
 	farmers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 54493
 	}

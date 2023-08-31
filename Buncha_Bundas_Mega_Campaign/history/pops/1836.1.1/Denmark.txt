@@ -1340,49 +1340,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 2334
 	}
 
 	artisans=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 6409
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 926
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 185
 	}
 
 	officers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 150
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 598
 	}
 
 	farmers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = danish
 		religion = norse_pagan_reformed
 		size= 31069
 	}
