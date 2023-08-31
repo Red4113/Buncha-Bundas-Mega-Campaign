@@ -6071,11 +6071,11 @@
 
 }
 561 = {
-	soldiers=
+	craftsmen=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
-		size= 1794
+		size= 19794
 	}
 
 	artisans=

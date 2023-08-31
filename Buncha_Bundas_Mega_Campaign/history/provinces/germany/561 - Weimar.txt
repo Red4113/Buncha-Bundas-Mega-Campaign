@@ -3,3 +3,9 @@ controller=BOH
 add_core=BOH
 trade_goods = sulphur
 life_rating = 40
+state_building=
+{
+	level=2
+	building = fertilizer_factory
+	upgrade = yes
+}
