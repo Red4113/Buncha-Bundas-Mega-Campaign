@@ -564,7 +564,6 @@ political_decisions = {
 			CHI_1579 = { add_core = SZC }
 			JAP_1088 = { add_core = EZO } #Ezo Republic
 			ENG_2513 = { add_core = SNZ } #South Island
-			778 = { add_core = FIU } #Fiume
 			736 = { add_core = TRE } #Trieste
 			381 = { add_core = LBG } #Limburg
 			1165 = { add_core = QAT } #Qatar

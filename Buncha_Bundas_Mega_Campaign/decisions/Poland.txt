@@ -248,6 +248,7 @@ political_decisions = {
                 tag = POL
                 tag = CPL
                 tag = PLC
+                tag = PZN
             }
             any_neighbor_country = {
                 is_vassal = no

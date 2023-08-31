@@ -1,6 +1,5 @@
 owner=POM
 controller=POM
 add_core=POM
-add_core=SCA
 trade_goods = fish
 life_rating = 40
