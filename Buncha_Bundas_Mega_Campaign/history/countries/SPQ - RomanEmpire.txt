@@ -28,7 +28,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = X21_conservative
+ruling_party = SPQ_conservative
 upper_house = 
 {
 	fascist = 0
