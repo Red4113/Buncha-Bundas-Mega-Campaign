@@ -5,7 +5,7 @@ culture = slovak
 culture = zzz_religion_hussite
 religion = hussite
 government = absolute_monarchy
-plurality = 0
+plurality = 0.12
 nationalvalue = nv_productivity
 literacy = 0.764214
 non_state_culture_literacy = 0.6
@@ -21,7 +21,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=landed_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
@@ -73,7 +73,7 @@ private_banks = 1
 romanticism = 1
 stock_exchange = 1
 the_command_principle = 1
-prestige=22.1647
+prestige=42.1647
 oob = "BOH_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_BOH

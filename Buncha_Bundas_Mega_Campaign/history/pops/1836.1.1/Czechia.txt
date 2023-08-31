@@ -10,7 +10,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 1636
+		size= 13636
 	}
 
 	clergymen=
@@ -73,14 +73,14 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 627
+		size= 6327
 	}
 
 	officers=
 	{
 		culture = czech
 		religion = hussite
-		size= 412
+		size= 4312
 	}
 
 	aristocrats=
@@ -103,7 +103,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 19013
+		size= 29013
 	}
 
 	artisans=
@@ -124,21 +124,21 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 14
+		size= 1433
 	}
 
 	officers=
 	{
 		culture = czech
 		religion = catholic
-		size= 16
+		size= 162
 	}
 
 	aristocrats=
 	{
 		culture = czech
 		religion = catholic
-		size= 139
+		size= 13933
 	}
 
 	farmers=
@@ -173,7 +173,7 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 637
+		size= 6373
 	}
 
 	officers=
@@ -208,7 +208,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 862
+		size= 8621
 	}
 
 	clergymen=
@@ -652,7 +652,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 16013
+		size= 26013
 	}
 
 	artisans=
