@@ -1775,7 +1775,7 @@ country_event = {
         NOT = { has_country_flag = post_colonial_country }
     }
 
-    mean_time_to_happen = { months = 120 }
+    mean_time_to_happen = { months = 60 }
 
     option = {
         name = "EVTOPTA60120"
