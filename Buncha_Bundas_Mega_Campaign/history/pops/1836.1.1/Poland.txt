@@ -85,42 +85,42 @@
 
 	soldiers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 766
 	}
 
 	artisans=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 13235
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 1359
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 212
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 1127
 	}
 
 	farmers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 66799
 	}
@@ -227,49 +227,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 3475
 	}
 
 	artisans=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 14440
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 2406
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 289
 	}
 
 	officers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 257
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 1347
 	}
 
 	farmers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 101905
 	}
@@ -376,49 +376,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 588
 	}
 
 	artisans=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 6033
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 1006
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 147
 	}
 
 	officers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 563
 	}
 
 	farmers=
 	{
-		culture = dynamic-norse-russian_culture-culture-num1
+		culture = oldpommeranian
 		religion = norse_pagan_reformed
 		size= 50379
 	}
