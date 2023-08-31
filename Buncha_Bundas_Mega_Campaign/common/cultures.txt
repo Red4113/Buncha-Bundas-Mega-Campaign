@@ -4576,7 +4576,7 @@ southeast_asian = {
 		
 	}
 	bornean = {
-		color = { 75 68 79 }
+		color = { 34 32 99 }
 		
 		first_names = { "Muhammad" "Ahmad" "Sulaymân" "Bulkiah" "'Abd al-Qahhar" "Sayf ar-Rijal" "Hasan" "'Abd al-Jalîl" "Muhammad 'Alî" "'Abd al-Mubin" "Muhyî ad-Dîn" "Nasr ad-Dîn" "Kamâl ad-Dîn" "Alâ' ad-Dîn" "Sayf ad-Dîn" "Muhammad Jamâl ad-Dîn" "Muhammad Tâj ad-Dîn" }
 		

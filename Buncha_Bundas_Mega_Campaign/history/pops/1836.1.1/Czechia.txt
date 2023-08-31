@@ -3,7 +3,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 8411
+		size= 16411
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 9013
+		size= 19013
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 10013
+		size= 16013
 	}
 
 	artisans=
