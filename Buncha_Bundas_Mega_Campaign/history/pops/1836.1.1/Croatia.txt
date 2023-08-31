@@ -1268,44 +1268,44 @@
 
 }
 778 = {
-	soldiers=
+	craftsmen=
 	{
-		culture = croat
+		culture = slovene
 		religion = waldensian
 		size= 523
 	}
 
 	artisans=
 	{
-		culture = croat
+		culture = slovene
 		religion = waldensian
 		size= 199
 	}
 
 	clergymen=
 	{
-		culture = croat
+		culture = slovene
 		religion = waldensian
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = croat
+		culture = slovene
 		religion = waldensian
 		size= 3
 	}
 
 	officers=
 	{
-		culture = croat
+		culture = slovene
 		religion = waldensian
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = croat
+		culture = slovene
 		religion = waldensian
 		size= 18
 	}
@@ -1319,91 +1319,91 @@
 
 	soldiers=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
 		size= 3114
 	}
 
 	artisans=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
 		size= 9675
 	}
 
 	clergymen=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
 		size= 1037
 	}
 
 	bureaucrats=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
 		size= 124
 	}
 
 	officers=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
 		size= 166
 	}
 
 	aristocrats=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
 		size= 871
 	}
 
 	farmers=
 	{
-		culture = croat
+		culture = slovene
 		religion = protestant
-		size= 52699
+		size= 72699
 	}
 
 	soldiers=
 	{
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 1218
 	}
 
 	clergymen=
 	{
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 130
 	}
 
 	bureaucrats=
 	{
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = croat
+		culture = slovene
 		religion = catholic
 		size= 110
 	}

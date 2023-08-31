@@ -324,3 +324,43 @@ ZIM = {
 #Leaders
 
 #Armies
+navy = {
+	name="Pomorske obrambne sile"
+	location=736
+	ship = {
+		name="Prva ladja"
+		type=manowar
+	}
+	ship = {
+		name="Druga ladja"
+		type=manowar
+	}
+	ship = {
+		name="Tretja ladja"
+		type=manowar
+	}
+}
+army = {
+	name="1st Army"
+	location=767
+	regiment = {
+		name="1st Maribor Infantry"
+		type=infantry
+		home=767
+	}
+	regiment = {
+		name="1st Ljubljana Infantry"
+		type=infantry
+		home=768
+	}
+	regiment = {
+		name="1st Postojna Infantry"
+		type=infantry
+		home=769
+	}
+	regiment = {
+		name="1st Pola Infantry"
+		type=infantry
+		home=770
+	}
+}
