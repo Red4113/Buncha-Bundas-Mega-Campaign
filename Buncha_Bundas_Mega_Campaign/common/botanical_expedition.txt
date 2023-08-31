@@ -913,9 +913,6 @@ ROM = {
 	last_dynasty = "Racovita"
 	last_ruler_name = "Vlad I"
 }
-X21 = {
-	monarchy = yes
-}
 RWA = {
 	monarchy = yes
 	last_dynasty = "Kama"

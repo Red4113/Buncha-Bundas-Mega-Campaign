@@ -793,12 +793,6 @@ SON;Sonora;Sonore;Sonoren;Sonora;Sonora;Sonora;Sonora;Sonora;Sonora;Sonora;Sonor
 SON_ADJ;Sonoran;Sonorien;Sonorisch;sonorañsk;Sonorense;di Sonora;Sonora;Sonoran;Sonora;Sonoran;de Sonora;ñîíîðñê;Sonoran;x
 SPC;Carlist Spain;Espagne Carliste;Karlistisches Spanien;Karlizka Hiszpania;España Carlista;Spagna Carlista;Carlist Spanyolország;Carlist Španìlsko;Carlist Spanyolország;Carlist Spanje;Espanha Carlista;Èñïàíèÿ Êàðëèñòñê;Carlist Espanja;x
 SPC_ADJ;Spanish;Espanol;Spanisch;hiszpañsk;Española;Spagnola;spanyol;španìlština;spanyol;Spaans;Espanhol;èñïàíñê;Espanja;x
-SPQ;Imperium Romanum;L'Empire Romain;Das Römische Reich;Cesarstwo Rzymskie;El Imperio Romano;L'Impero Romano;A Római Birodalom;Rímská ríše;A Római Birodalom;het Romeinse Rijk;O Império Romano;Ðèìñêàÿ Èìïåðèÿ;Rooman valtakunta;x
-SPQ_ADJ;Roman;Romain;Römisch;Rzymsk.;Romana;Romana;római;rímský;római;Romeins;Romano;Ðèìñê;roomalainen;x
-SPQ_democracy;Senatorial Rome;Rome Sénatoriale;Senatorisches Rom;Senatorskie Rzym;Roma Senatoria;Roma Senatoria;szenátusi Róma;Senátní Rím;szenátusi Róma;Senatorial Rome;Roma Senatôria;Ñåíàòîðñêèé Ðèì;senaatin Rome;x
-SPQ_nogovernment;The Roman Anarchy;L'Anarchie Romaine;Die Römische Anarchie;Anarchia Rzymska;La Anarquía Romana;L'Anarchia Romana;A Római Anarchia;Øímská Anarchie;A Római Anarchia;De Romeinse anarchie;A Anarquia Romana;Ðèìñêàÿ Àíàðõèÿ;Rooman Anarkia;x
-SPQ_proletarian_dictatorship;The Union of Rome;L'Union de Rome;Die Union von Rom;Zwi¹zek Rzymie;La Unión de Roma;L'Unione di Roma;Az Unió a Római;Svaz Rím;Az Unió a Római;de Unie van Rome;A União de Roma;Ñîþç Ðèìà;Unionin Rooman;x
-SPU;South Peru;Pérou du Sud;Südperu;Po³udniowy Peru;El Estado Sud-Peruano;Perù del Sud;Dél-Peru;Jižní Peru;Dél-Peru;Zuid-Peru;Peru do Sul;Þæíûé Ïåðó;Etelä-Peru;x
 SPU_ADJ;South Peruvian;Sud-Péruvien;Südperuanisch;Po³udniowoperuwiañsk;Sud-Peruana;Sudperuviana;Dél-perui;Jižní peruánský;Dél-perui;Zuid-Peruaans;Peruano do Sul;þæíîïåðóàíñê;Etelä-Perula;x
 SRB;Sorbia;Sorabie;Sorbien;£u¿yce;Sorabia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorábia;Ëóæèöà;Sorbia;x
 SRB_ADJ;Sorbian;Sorabe;Sorbisch;³u¿yck;Sorabia;Soraba;Szorb;Lužickosrbština;Szorb;Sorbisch;Sorábio;ëóæèöê;Sorbi;x
@@ -2243,8 +2237,8 @@ X09_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 X09_liberal;Liberal Party;Parti Lib?al;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liber?is P?t;Liber?n? Strana;Liber?is P?t;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
 X09_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P?t;N?odn? Strana;Nemzeti P?t;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
 X09_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P?t;Socialistick? Strana;Szocialista P?t;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
-X10;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;Rothenburgische Frei;x
-X10_ADJ;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;Rothenburgische Freistaat;x
+X10;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;Rothenberger Freistaat;x
+X10_ADJ;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;Rothenberger Freistaatstaat;x
 X10_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik?is P?t;Radik?n? Strana;Radik?is P?t;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
 X10_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista P?t;Komunistick? Strana;Kommunista P?t;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
 X10_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervat? P?t;Konzervativn? Strana;Konzervat? P?t;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
@@ -2534,3 +2528,20 @@ SLO;Slovenia;;;;;;;;;;;;;
 SLO_absolute_monarchy;Zedinjena Slovenija;;;;;;;;;;;;;
 SLO_hms_government;Zedinjena Slovenija;;;;;;;;;;;;;
 SLO_prussian_constitutionalism;Zedinjena Slovenija;;;;;;;;;;;;;
+SPQ_conservative;Conservatores Traditionis Populares;;;;;;;;;;;;;
+SPQ_liberal;Liberorum Ignis Vitalis;;;;;;;;;;;;;
+SPQ_reactionary;Legio Imperatoria Resurgens;;;;;;;;;;;;;
+SPQ_anarcho_liberal;Libertas Aeternum;;;;;;;;;;;;;
+SPQ_socialist;Progressiva Societatis Fraternitatis;;;;;;;;;;;;;
+SPQ_communist;Dominus Aequalitatis;;;;;;;;;;;;;
+SPQ_fascist;Ordo Supremus Dominatorum;;;;;;;;;;;;;
+SPQ;Rome;;;;;;;;;;;;;
+SPQ_ADJ;Roman;;;;;;;;;;;;;
+SPQ_absolute_monarchy;Imperium Romanum;;;;;;;;;;;;;
+SPQ_democracy;Res Publica Populi Romani;;;;;;;;;;;;;
+SPQ_hms_government;Imperium Romanum;;;;;;;;;;;;;
+SPQ_prussian_constitutionalism;Imperium Romanum;;;;;;;;;;;;;
+SPQ_fascist_dictatorship;Imperium Supremum Romanum;;;;;;;;;;;;;
+SPQ_bourgeois_dictatorship;Liberatus Aureus Romanus;;;;;;;;;;;;;
+SPQ_proletarian_dictatorship;Collectivus Populorum Romanus;;;;;;;;;;;;;
+SPQ_presidential_dictatorship;Dominatus Stellaris Romanus;;;;;;;;;;;;;
