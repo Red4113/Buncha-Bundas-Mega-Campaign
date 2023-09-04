@@ -1,5 +1,5 @@
 849 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -48,7 +48,7 @@
 		size= 8055
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = catholic
@@ -146,7 +146,7 @@
 		size= 3517
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -197,7 +197,7 @@
 
 }
 850 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -246,7 +246,7 @@
 		size= 11991
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -295,7 +295,7 @@
 		size= 10499
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -346,7 +346,7 @@
 
 }
 851 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -395,7 +395,7 @@
 		size= 19965
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -444,7 +444,7 @@
 		size= 3741
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -586,7 +586,7 @@
 		size= 17
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -728,7 +728,7 @@
 		size= 17
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan

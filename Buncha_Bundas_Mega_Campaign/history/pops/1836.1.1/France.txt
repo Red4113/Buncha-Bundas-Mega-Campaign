@@ -9140,9 +9140,16 @@
 465 = {
 	soldiers=
 	{
-		culture = north_italian
+		culture = latin
+		religion = hellenic_pagan
+		size= 8361
+	}
+
+	soldiers=
+	{
+		culture = latin
 		religion = catholic
-		size= 361
+		size= 6131
 	}
 
 	artisans=

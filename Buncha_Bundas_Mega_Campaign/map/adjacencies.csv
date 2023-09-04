@@ -40,6 +40,7 @@ From;To;Type;Through;Data;Comment
 # European Straits
 #
 254;271;sea;2737;0;Irish Strait
+758;852;sea;2763;0;Otranto Strait
 301;400;sea;2724;0;English Channel Strait
 762;1725;sea;2758;0;Sicily - Tunis Strait
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
@@ -53,6 +54,7 @@ From;To;Type;Through;Data;Comment
 2557;373;sea;2711;0;Fyn-Esbjerg
 375;385;sea;2722;0;Bay of Holland
 473;766;sea;2751;0;Sassari Strait
+473;1981;sea;2751;0;Elba Strait
 826;824;sea;2764;0;Corfu Strait
 826;853;sea;2764;0;Corfu Strait
 838;845;sea;2772;0;Cyclades Strait

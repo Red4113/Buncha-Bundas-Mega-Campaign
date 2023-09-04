@@ -62,7 +62,7 @@
 		size= 4806
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -113,7 +113,7 @@
 
 }
 1681 = {
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -213,7 +213,7 @@
 
 }
 1682 = {
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -262,7 +262,7 @@
 		size= 9811
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -376,7 +376,7 @@
 		size= 2727
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -427,7 +427,7 @@
 
 }
 1684 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = shiite
@@ -476,7 +476,7 @@
 		size= 16205
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -525,7 +525,7 @@
 		size= 82385
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -583,7 +583,7 @@
 		size= 4771
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -639,7 +639,7 @@
 		size= 14930
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -695,7 +695,7 @@
 		size= 4836
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -753,7 +753,7 @@
 		size= 707
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -809,7 +809,7 @@
 		size= 2152
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -860,7 +860,7 @@
 
 }
 1687 = {
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -909,7 +909,7 @@
 		size= 21206
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -1265,7 +1265,7 @@
 		size= 7598
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -1321,7 +1321,7 @@
 		size= 31369
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -1377,7 +1377,7 @@
 		size= 8347
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1428,7 +1428,7 @@
 
 }
 1691 = {
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -1477,7 +1477,7 @@
 		size= 23148
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -1526,7 +1526,7 @@
 		size= 87126
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1626,7 +1626,7 @@
 		size= 11966
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -1726,7 +1726,7 @@
 		size= 9272
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -1775,7 +1775,7 @@
 		size= 22614
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1833,7 +1833,7 @@
 		size= 1428
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -1889,7 +1889,7 @@
 		size= 7761
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -2038,7 +2038,7 @@
 		size= 8787
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -2245,7 +2245,7 @@
 		size= 10635
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -2294,7 +2294,7 @@
 		size= 25577
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -2345,7 +2345,7 @@
 
 }
 1698 = {
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -2394,7 +2394,7 @@
 		size= 24775
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -2443,7 +2443,7 @@
 		size= 91225
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -2494,7 +2494,7 @@
 
 }
 1699 = {
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
@@ -2543,7 +2543,7 @@
 		size= 34565
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -2643,7 +2643,7 @@
 		size= 12291
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -2692,7 +2692,7 @@
 		size= 34116
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni

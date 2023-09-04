@@ -176,7 +176,7 @@
 		size= 11670
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = norse_pagan_reformed
@@ -225,7 +225,7 @@
 		size= 39334
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -504,7 +504,7 @@
 
 }
 531 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -602,7 +602,7 @@
 		size= 5041
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -751,7 +751,7 @@
 		size= 298
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -951,7 +951,7 @@
 
 }
 534 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -1000,7 +1000,7 @@
 		size= 19735
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -1049,7 +1049,7 @@
 		size= 32715
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -1247,7 +1247,7 @@
 		size= 2191
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -1496,7 +1496,7 @@
 
 }
 537 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -1629,7 +1629,7 @@
 		size= 8275
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -1727,7 +1727,7 @@
 		size= 15178
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -1918,7 +1918,7 @@
 		size= 3698
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -2137,7 +2137,7 @@
 		size= 4157
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -2286,7 +2286,7 @@
 		size= 7784
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -2484,7 +2484,7 @@
 		size= 2063
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -2682,7 +2682,7 @@
 		size= 1433
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -2831,7 +2831,7 @@
 		size= 7479
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -2980,7 +2980,7 @@
 		size= 18615
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = protestant
@@ -3080,7 +3080,7 @@
 		size= 5095
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -3129,7 +3129,7 @@
 		size= 21157
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -3278,7 +3278,7 @@
 		size= 5393
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
@@ -3427,7 +3427,7 @@
 		size= 11241
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
@@ -3576,7 +3576,7 @@
 
 }
 549 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
@@ -3625,7 +3625,7 @@
 		size= 26805
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -3725,7 +3725,7 @@
 
 }
 550 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
@@ -3774,7 +3774,7 @@
 		size= 5495
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -3823,7 +3823,7 @@
 		size= 22816
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -3923,7 +3923,7 @@
 		size= 8477
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -3972,7 +3972,7 @@
 		size= 36245
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -4070,7 +4070,7 @@
 		size= 8886
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = protestant
@@ -4119,7 +4119,7 @@
 		size= 9610
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
@@ -4219,7 +4219,7 @@
 		size= 11241
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -4268,7 +4268,7 @@
 		size= 15677
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -4368,7 +4368,7 @@
 		size= 20136
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -4466,7 +4466,7 @@
 		size= 5129
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -4664,7 +4664,7 @@
 
 }
 554 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
@@ -4804,7 +4804,7 @@
 		size= 2865
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -6099,11 +6099,11 @@
 		size= 4
 	}
 
-	officers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
-		size= 5
+		size= 98444
 	}
 
 	aristocrats=

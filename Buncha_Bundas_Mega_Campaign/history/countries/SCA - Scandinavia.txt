@@ -2,16 +2,14 @@ capital = 322
 primary_culture = dynamic-norse-russian_culture-culture-num1
 culture = danish
 culture = finnish
-culture = icelandic
 culture = norwegian
-culture = sami
 culture = swedish
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.449286
+literacy = 0.549286
 
 civilized = yes
 
@@ -26,7 +24,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=landed_voting
+vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=no_meeting

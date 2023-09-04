@@ -48,7 +48,7 @@
 		size= 10384
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = hungarian
 		religion = hussite
@@ -232,7 +232,7 @@
 		size= 3442
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = romanian
 		religion = hussite
@@ -281,7 +281,7 @@
 		size= 29532
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = romanian
 		religion = hellenic_pagan
@@ -332,7 +332,7 @@
 
 }
 702 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
@@ -381,7 +381,7 @@
 		size= 7064
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = orthodox
@@ -430,7 +430,7 @@
 		size= 4547
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -479,7 +479,7 @@
 		size= 13166
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = polish
 		religion = hussite
@@ -579,7 +579,7 @@
 		size= 6303
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = hungarian
 		religion = hussite
@@ -777,7 +777,7 @@
 		size= 6529
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = polish
 		religion = hussite
@@ -828,7 +828,7 @@
 
 }
 952 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = orthodox
@@ -877,7 +877,7 @@
 		size= 14729
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -926,7 +926,7 @@
 		size= 17607
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = polish
 		religion = hussite
@@ -977,7 +977,7 @@
 
 }
 953 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = orthodox
@@ -1026,7 +1026,7 @@
 		size= 21569
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -1075,7 +1075,7 @@
 		size= 37480
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = polish
 		religion = hussite
@@ -1175,7 +1175,7 @@
 
 }
 954 = {
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = orthodox
@@ -1322,7 +1322,7 @@
 		size= 4460
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1373,7 +1373,7 @@
 
 }
 955 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -1471,7 +1471,7 @@
 		size= 5372
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1571,7 +1571,7 @@
 		size= 9054
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -1671,7 +1671,7 @@
 		size= 8818
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -1722,7 +1722,7 @@
 
 }
 958 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -1820,7 +1820,7 @@
 		size= 5235
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1871,7 +1871,7 @@
 
 }
 959 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -1969,7 +1969,7 @@
 		size= 4000
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2020,7 +2020,7 @@
 
 }
 960 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -2069,7 +2069,7 @@
 		size= 49151
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = hellenic_pagan
@@ -2118,7 +2118,7 @@
 		size= 8182
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2169,7 +2169,7 @@
 
 }
 961 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -2267,7 +2267,7 @@
 		size= 5092
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2318,7 +2318,7 @@
 
 }
 962 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -2388,7 +2388,7 @@
 		size= 89950
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = hellenic_pagan
@@ -2458,7 +2458,7 @@
 		size= 45322
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2530,7 +2530,7 @@
 
 }
 963 = {
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -2579,7 +2579,7 @@
 		size= 113764
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = hellenic_pagan
@@ -2628,7 +2628,7 @@
 		size= 14769
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2679,7 +2679,7 @@
 
 }
 964 = {
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2891,7 +2891,7 @@
 		size= 13
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2963,7 +2963,7 @@
 
 }
 966 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -3061,7 +3061,7 @@
 		size= 3677
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3112,7 +3112,7 @@
 
 }
 967 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -3161,7 +3161,7 @@
 		size= 24627
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3310,7 +3310,7 @@
 		size= 257
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3445,7 +3445,7 @@
 		size= 245
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3580,7 +3580,7 @@
 		size= 28
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3722,7 +3722,7 @@
 		size= 28
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3871,7 +3871,7 @@
 		size= 21584
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = hellenic_pagan
@@ -3920,7 +3920,7 @@
 		size= 3716
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -4062,7 +4062,7 @@
 		size= 12
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -4211,7 +4211,7 @@
 		size= 12288
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -4260,7 +4260,7 @@
 		size= 2186
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -4409,7 +4409,7 @@
 		size= 1044
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -4509,7 +4509,7 @@
 
 }
 976 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -4607,7 +4607,7 @@
 		size= 1119
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -4756,7 +4756,7 @@
 		size= 8360
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -4856,7 +4856,7 @@
 
 }
 980 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -4905,7 +4905,7 @@
 		size= 8564
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -4954,7 +4954,7 @@
 		size= 24542
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan

@@ -467,522 +467,222 @@ leader = {
 
 #Armies
 army = {
-	name="1st Army"
-	location=630
-	regiment = {
-		name="1st Berlin Infantry"
-		type=infantry
-		home=549
-	}
-	regiment = {
-		name="1st Brno Infantry"
-		type=infantry
-		home=631
-	}
-	regiment = {
-		name="1st Pest Infantry"
-		type=infantry
-		home=641
-	}
-	regiment = {
-		name="2nd Berlin Infantry"
-		type=infantry
-		home=549
-	}
-	regiment = {
-		name="1st Cottbus Infantry"
-		type=infantry
-		home=552
-	}
-	regiment = {
-		name="1st Hradec Králové Infantry"
-		type=infantry
-		home=626
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=687
-	regiment = {
-		name="1st Kaposvár Infantry"
-		type=infantry
-		home=644
-	}
-	regiment = {
-		name="1st Szeged Infantry"
-		type=infantry
-		home=649
-	}
-	regiment = {
-		name="1st Vienna Infantry"
-		type=infantry
-		home=619
-	}
-	regiment = {
-		name="1st Prague Infantry"
-		type=infantry
-		home=625
-	}
-	regiment = {
-		name="1st Székesfehérvár Infantry"
-		type=infantry
-		home=643
-	}
-	regiment = {
-		name="1st Kalisz Infantry"
-		type=infantry
-		home=717
-	}
-}
-
-
-
-army = {
-	name="Armee von Pest"
-	location=628
-	regiment = {
-		name="1st Skierniewice Infantry"
-		type=infantry
-		home=710
-	}
-	regiment = {
-		name="3rd Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="1st Kattowitz Infantry"
-		type=infantry
-		home=685
-	}
-	regiment = {
-		name="2nd Kattowitz Infantry"
-		type=infantry
-		home=685
-	}
-	regiment = {
-		name="1st Posen Infantry"
-		type=infantry
-		home=699
-	}
-	regiment = {
-		name="1st Kecskemét Infantry"
-		type=infantry
-		home=645
-	}
-}
-
-army = {
-	name="Armee von Auvergne"
-	location=629
-	regiment = {
-		name="2nd Prague Infantry"
-		type=infantry
-		home=625
-	}
-	regiment = {
-		name="1st Dresden Artillery"
-		type=artillery
-		home=558
-	}
-	regiment = {
-		name="1st Prague Artillery"
-		type=artillery
-		home=625
-	}
-	regiment = {
-		name="1st Lodz Artillery"
-		type=artillery
-		home=712
-	}
-	regiment = {
-		name="1st Békéscsaba Artillery"
-		type=artillery
-		home=650
-	}
-	regiment = {
-		name="2nd Prague Artillery"
-		type=artillery
-		home=625
-	}
-	regiment = {
-		name="1st Aussig Artillery"
-		type=artillery
-		home=628
-	}
-	regiment = {
-		name="2nd Teschen Infantry"
-		type=infantry
-		home=689
-	}
-}
-
-army = {
-	name="Armee von Brno"
-	location=626
-	regiment = {
-		name="2nd Hradec Králové Infantry"
-		type=infantry
-		home=626
-	}
-	regiment = {
-		name="1st Brno Artillery"
-		type=artillery
-		home=631
-	}
-	regiment = {
-		name="1st Olomouc Artillery"
-		type=artillery
-		home=632
-	}
-	regiment = {
-		name="1st Görlitz Artillery"
-		type=artillery
-		home=687
-	}
-	regiment = {
-		name="1st Krems Artillery"
-		type=artillery
-		home=621
-	}
-	regiment = {
-		name="3rd Prague Artillery"
-		type=artillery
-		home=625
-	}
-	regiment = {
-		name="1st Troppau Artillery"
-		type=artillery
-		home=688
-	}
-	regiment = {
-		name="1st Görlitz Infantry"
-		type=infantry
-		home=687
-	}
-}
-
-army = {
-	name="Armee von Olomouc"
-	location=626
-	regiment = {
-		name="1st Olomouc Infantry"
-		type=infantry
-		home=632
-	}
-	regiment = {
-		name="1st Troppau Infantry"
-		type=infantry
-		home=688
-	}
-	regiment = {
-		name="3rd Prague Infantry"
-		type=infantry
-		home=625
-	}
-	regiment = {
-		name="1st Trencín Infantry"
-		type=infantry
-		home=634
-	}
-	regiment = {
-		name="1st Teschen Infantry"
-		type=infantry
-		home=689
-	}
-	regiment = {
-		name="1st Aussig Infantry"
-		type=infantry
-		home=628
-	}
-}
-
-army = {
-	name="Armee von Víden"
-	location=683
-	regiment = {
-		name="1st Gotha Infantry"
-		type=infantry
-		home=562
-	}
-	regiment = {
-		name="4th Prague Artillery"
-		type=artillery
-		home=625
-	}
-	regiment = {
-		name="2nd Brno Artillery"
-		type=artillery
-		home=631
-	}
-	regiment = {
-		name="1st Landshut Artillery"
-		type=artillery
-		home=600
-	}
-	regiment = {
-		name="1st Linz Artillery"
-		type=artillery
-		home=622
-	}
-	regiment = {
-		name="1st Novi Sad Artillery"
-		type=artillery
-		home=2538
-	}
-	regiment = {
-		name="1st Bielsko Artillery"
-		type=artillery
-		home=2584
-	}
-	regiment = {
-		name="1st Erfurt Infantry"
-		type=infantry
-		home=554
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=558
-	regiment = {
-		name="2nd Aussig Infantry"
-		type=infantry
-		home=628
-	}
-	regiment = {
-		name="1st Tarnow Artillery"
-		type=artillery
-		home=714
-	}
-	regiment = {
-		name="1st Trencín Artillery"
-		type=artillery
-		home=634
-	}
-	regiment = {
-		name="1st Oppeln Artillery"
-		type=artillery
-		home=684
-	}
-	regiment = {
-		name="3rd Brno Artillery"
-		type=artillery
-		home=631
-	}
-	regiment = {
-		name="1st Vienna Artillery"
-		type=artillery
-		home=619
-	}
-	regiment = {
-		name="1st Kalisz Artillery"
-		type=artillery
-		home=717
-	}
-	regiment = {
-		name="1st Dresden Infantry"
-		type=infantry
-		home=558
-	}
-}
-
-army = {
-	name="6th Army"
-	location=687
-	regiment = {
-		name="5th Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="1st Plzen Artillery"
-		type=artillery
-		home=629
-	}
-	regiment = {
-		name="1st Berlin Artillery"
-		type=artillery
-		home=549
-	}
-	regiment = {
-		name="1st Dessau Artillery"
-		type=artillery
-		home=555
-	}
-	regiment = {
-		name="1st Leipzig Artillery"
-		type=artillery
-		home=559
-	}
-	regiment = {
-		name="1st Skierniewice Artillery"
-		type=artillery
-		home=710
-	}
-	regiment = {
-		name="2nd Dresden Artillery"
-		type=artillery
-		home=558
-	}
-	regiment = {
-		name="4th Prague Infantry"
-		type=infantry
-		home=625
-	}
-}
-
-army = {
-	name="Armee von Krakov"
-	location=685
-	regiment = {
-		name="1st Deutsch Krone Infantry"
-		type=infantry
-		home=692
-	}
-	regiment = {
-		name="1st Bromberg Infantry"
-		type=infantry
-		home=700
-	}
-	regiment = {
-		name="2nd Kalisz Infantry"
-		type=infantry
-		home=717
-	}
-	regiment = {
-		name="2nd Olomouc Infantry"
-		type=infantry
-		home=632
-	}
-	regiment = {
-		name="2nd Bromberg Infantry"
-		type=infantry
-		home=700
-	}
-	regiment = {
-		name="2nd Cottbus Infantry"
-		type=infantry
-		home=552
-	}
-}
-
-
-army = {
-	name="7th Army"
+	name="Armee von Praha"
 	location=625
 	regiment = {
-		name="1st Temesvar Infantry"
+		name="Infantry"
 		type=infantry
-		home=652
+		home=625
 	}
 	regiment = {
-		name="1st Przemysl Infantry"
+		name="Infantry"
 		type=infantry
-		home=705
+		home=628
 	}
 	regiment = {
-		name="1st Graz Infantry"
-		type=infantry
-		home=616
-	}
-	regiment = {
-		name="1st Gyor Infantry"
-		type=infantry
-		home=642
-	}
-	regiment = {
-		name="2nd Graz Infantry"
-		type=infantry
-		home=616
-	}
-	regiment = {
-		name="2nd Linz Infantry"
-		type=infantry
-		home=622
-	}
-}
-
-army = {
-	name="9th Army"
-	location=631
-	regiment = {
-		name="1st Breslau Infantry"
-		type=infantry
-		home=682
-	}
-	regiment = {
-		name="2nd Skierniewice Infantry"
-		type=infantry
-		home=710
-	}
-	regiment = {
-		name="1st Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="2nd Karlsbad Infantry"
+		name="Infantry"
 		type=infantry
 		home=627
 	}
 	regiment = {
-		name="1st Judenburg Infantry"
+		name="Infantry"
 		type=infantry
-		home=617
+		home=630
 	}
 	regiment = {
-		name="3rd Brno Infantry"
-		type=infantry
+		name="Artillery"
+		type=artillery
 		home=631
 	}
-}
-
-
-army = {
-	name="Armee von Praha"
-	location=682
 	regiment = {
-		name="2nd Waldenburg Infantry"
-		type=infantry
-		home=683
+		name="Artillery"
+		type=artillery
+		home=634
 	}
 	regiment = {
-		name="1st Bratislava Artillery"
+		name="Artillery"
 		type=artillery
 		home=633
 	}
 	regiment = {
-		name="1st Deutsch Krone Artillery"
+		name="Artillery"
 		type=artillery
-		home=692
+		home=638
 	}
 	regiment = {
-		name="2nd Aussig Artillery"
+		name="Artillery"
 		type=artillery
-		home=628
+		home=637
 	}
 	regiment = {
-		name="1st Bromberg Artillery"
-		type=artillery
-		home=700
-	}
-	regiment = {
-		name="2nd Deutsch Krone Artillery"
-		type=artillery
-		home=692
-	}
-	regiment = {
-		name="2nd Görlitz Artillery"
-		type=artillery
-		home=687
-	}
-	regiment = {
-		name="3rd Waldenburg Infantry"
-		type=infantry
-		home=683
+		name="Hussar"
+		type=hussar
+		home=637
 	}
 }
 
-
+#Armies
+army = {
+	name="Armee von Berlin"
+	location=549
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=556
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=552
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=550
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=551
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=557
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=554
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=681
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		home=682
+	}
+}
+#Armies
+army = {
+	name="Armee von Viden"
+	location=619
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=624
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=620
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=621
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=635
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=602
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		home=2584
+	}
+}
+#Armies
+army = {
+	name="Armee von Weimar"
+	location=561
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=561
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=562
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=554
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		home=560
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=559
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=553
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=627
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=557
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		home=629
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		home=685
+	}
+}

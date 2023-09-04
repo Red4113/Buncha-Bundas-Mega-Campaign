@@ -1020,472 +1020,364 @@ navy = {
 }
 
 army = {
-	name="Legio I Herculia"
+	name="Exercitus Romanus"
 	location=749
 	regiment = {
-		name="1st Bologna Infantry"
+		name="Infantry"
 		type=infantry
-		home=741
+		#home=749
 	}
 	regiment = {
-		name="1st Brindisi Infantry"
+		name="Infantry"
 		type=infantry
-		home=758
+		#home=750
 	}
 	regiment = {
-		name="1st Tripoli Infantry"
+		name="Infantry"
 		type=infantry
-		home=1731
+		#home=751
 	}
 	regiment = {
-		name="1st Misratah Infantry"
+		name="Infantry"
 		type=infantry
-		home=1733
+		#home=752
 	}
 	regiment = {
-		name="1st Pescara Infantry"
-		type=infantry
-		home=10
+		name="Artillery"
+		type=artillery
+		#home=748
 	}
 	regiment = {
-		name="1st Florence Infantry"
-		type=infantry
-		home=744
+		name="Artillery"
+		type=artillery
+		#home=745
 	}
 	regiment = {
-		name="1st Genoa Infantry"
-		type=infantry
-		home=724
+		name="Artillery"
+		type=artillery
+		#home=747
 	}
 	regiment = {
-		name="1st Aquila Infantry"
-		type=infantry
-		home=753
+		name="Artillery"
+		type=artillery
+		#home=744
 	}
 	regiment = {
-		name="1st Turin Infantry"
-		type=infantry
-		home=720
+		name="Artillery"
+		type=artillery
+		#home=746
 	}
 	regiment = {
-		name="1st Ravenna Infantry"
+		name="Hussar"
+		type=hussar
+		#home=2567
+	}
+}
+army = {
+	name="Exercitus Caralis"
+	location=765
+	regiment = {
+		name="Infantry"
 		type=infantry
-		home=743
+		#home=765
 	}
 	regiment = {
-		name="1st Potenza Infantry"
+		name="Infantry"
 		type=infantry
-		home=761
+		#home=766
 	}
 	regiment = {
-		name="1st Gabes Infantry"
+		name="Infantry"
 		type=infantry
-		home=1730
+		#home=473
 	}
 	regiment = {
-		name="1st Leghorn Infantry"
+		name="Infantry"
 		type=infantry
-		home=745
+		#home=1981
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=724
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=725
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=720
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=723
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=723
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=724
 	}
 }
 
 army = {
-	name="Legio II Rapax"
-	location=746
+	name="Exercitus Mediolanensis"
+	location=726
 	regiment = {
-		name="2nd Gabes Infantry"
+		name="Infantry"
 		type=infantry
-		home=1730
+		#home=726
 	}
 	regiment = {
-		name="1st Sirt Infantry"
+		name="Infantry"
 		type=infantry
-		home=1734
+		#home=738
 	}
 	regiment = {
-		name="1st Perugia Infantry"
+		name="Infantry"
 		type=infantry
-		home=751
+		#home=739
 	}
 	regiment = {
-		name="1st Modena Infantry"
+		name="Infantry"
 		type=infantry
-		home=739
+		#home=741
 	}
 	regiment = {
-		name="1st Milan Infantry"
-		type=infantry
-		home=726
+		name="Artillery"
+		type=artillery
+		#home=742
 	}
 	regiment = {
-		name="1st Rome Infantry"
-		type=infantry
-		home=749
+		name="Artillery"
+		type=artillery
+		#home=743
 	}
 	regiment = {
-		name="1st Kairouan Infantry"
-		type=infantry
-		home=1728
+		name="Artillery"
+		type=artillery
+		#home=727
 	}
 	regiment = {
-		name="2nd Perugia Infantry"
-		type=infantry
-		home=751
+		name="Artillery"
+		type=artillery
+		#home=2669
 	}
 	regiment = {
-		name="1st Catania Infantry"
-		type=infantry
-		home=764
+		name="Artillery"
+		type=artillery
+		#home=730
 	}
 	regiment = {
-		name="3rd Gabes Infantry"
+		name="Hussar"
+		type=hussar
+		#home=734
+	}
+}
+army = {
+	name="Exercitus Venetiarum"
+	location=729
+	regiment = {
+		name="Infantry"
 		type=infantry
-		home=1730
+		#home=729
 	}
 	regiment = {
-		name="2nd Tripoli Infantry"
+		name="Infantry"
 		type=infantry
-		home=1731
+		#home=731
 	}
 	regiment = {
-		name="2nd Kairouan Infantry"
+		name="Infantry"
 		type=infantry
-		home=1728
+		#home=730
 	}
 	regiment = {
-		name="1st Elba Infantry"
+		name="Infantry"
 		type=infantry
-		home=1981
+		#home=732
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=733
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=8
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=729
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=752
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=721
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=465
+	}
+}
+army = {
+	name="Exercitus Africae"
+	location=1725
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=1725
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=764
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=763
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=854
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=759
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=760
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=761
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=1725
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=1725
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=1725
 	}
 }
 
 army = {
-	name="Legio IV Apollonaris"
-	location=2567
+	name="Exercitus Galliarum"
+	location=467
 	regiment = {
-		name="2nd Milan Infantry"
+		name="Infantry"
 		type=infantry
-		home=726
 	}
 	regiment = {
-		name="1st Madurai Infantry"
+		name="Infantry"
 		type=infantry
-		home=1310
 	}
 	regiment = {
-		name="2nd Madurai Infantry"
+		name="Infantry"
 		type=infantry
-		home=1310
 	}
 	regiment = {
-		name="3rd Perugia Infantry"
+		name="Infantry"
 		type=infantry
-		home=751
 	}
 	regiment = {
-		name="1st Brescia Infantry"
-		type=infantry
-		home=728
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="3rd Milan Infantry"
-		type=infantry
-		home=726
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="1st Gjirokaster Infantry"
-		type=infantry
-		home=853
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
 army = {
-	name="Legio VIII Augusta"
-	location=744
+	name="Exercitus Illyrici"
+	location=851
 	regiment = {
-		name="1st Ancona Infantry"
+		name="Infantry"
 		type=infantry
-		home=752
 	}
 	regiment = {
-		name="2nd Ancona Infantry"
+		name="Infantry"
 		type=infantry
-		home=752
 	}
 	regiment = {
-		name="2nd Florence Infantry"
+		name="Infantry"
 		type=infantry
-		home=744
 	}
 	regiment = {
-		name="3rd Florence Infantry"
+		name="Infantry"
 		type=infantry
-		home=744
 	}
 	regiment = {
-		name="3rd Ancona Infantry"
-		type=infantry
-		home=752
-	}
-	regiment = {
-		name="4th Perugia Infantry"
-		type=infantry
-		home=751
-	}
-	regiment = {
-		name="2nd Ravenna Infantry"
-		type=infantry
-		home=743
-	}
-}
-
-army = {
-	name="Legio III Liberatrix"
-	location=747
-	regiment = {
-		name="1st Pescara Artillery"
+		name="Artillery"
 		type=artillery
-		home=10
 	}
 	regiment = {
-		name="1st Ancona Artillery"
+		name="Artillery"
 		type=artillery
-		home=752
 	}
 	regiment = {
-		name="1st Gafsa Artillery"
+		name="Artillery"
 		type=artillery
-		home=1727
 	}
 	regiment = {
-		name="1st Perugia Artillery"
+		name="Artillery"
 		type=artillery
-		home=751
 	}
 	regiment = {
-		name="1st Messina Artillery"
+		name="Artillery"
 		type=artillery
-		home=763
 	}
 	regiment = {
-		name="1st Misratah Artillery"
-		type=artillery
-		home=1733
-	}
-	regiment = {
-		name="1st Modena Artillery"
-		type=artillery
-		home=739
-	}
-	regiment = {
-		name="2nd Ancona Artillery"
-		type=artillery
-		home=752
-	}
-	regiment = {
-		name="1st Bari Artillery"
-		type=artillery
-		home=756
-	}
-	regiment = {
-		name="1st Aquila Artillery"
-		type=artillery
-		home=753
-	}
-	regiment = {
-		name="1st Ferrara Artillery"
-		type=artillery
-		home=742
-	}
-	regiment = {
-		name="1st Reggio di Calabria Artillery"
-		type=artillery
-		home=759
-	}
-}
-
-army = {
-	name="Legio V Alaudae"
-	location=1981
-	regiment = {
-		name="1st Gabes Artillery"
-		type=artillery
-		home=1730
-	}
-	regiment = {
-		name="1st Naples Artillery"
-		type=artillery
-		home=754
-	}
-	regiment = {
-		name="1st Madurai Artillery"
-		type=artillery
-		home=1310
-	}
-	regiment = {
-		name="2nd Gabes Artillery"
-		type=artillery
-		home=1730
-	}
-	regiment = {
-		name="1st Catanzaro Artillery"
-		type=artillery
-		home=760
-	}
-	regiment = {
-		name="1st Bône Artillery"
-		type=artillery
-		home=1709
-	}
-	regiment = {
-		name="1st Rome Artillery"
-		type=artillery
-		home=749
-	}
-	regiment = {
-		name="2nd Reggio di Calabria Artillery"
-		type=artillery
-		home=759
-	}
-	regiment = {
-		name="2nd Perugia Artillery"
-		type=artillery
-		home=751
-	}
-	regiment = {
-		name="2nd Modena Artillery"
-		type=artillery
-		home=739
-	}
-	regiment = {
-		name="2nd Messina Artillery"
-		type=artillery
-		home=763
-	}
-	regiment = {
-		name="1st Siena Artillery"
-		type=artillery
-		home=747
-	}
-}
-
-army = {
-	name="Legio VI Victrix"
-	location=754
-	regiment = {
-		name="2nd Brindisi Infantry"
-		type=infantry
-		home=758
-	}
-	regiment = {
-		name="1st Udine Infantry"
-		type=infantry
-		home=733
-	}
-	regiment = {
-		name="1st Salerno Infantry"
-		type=infantry
-		home=755
-	}
-	regiment = {
-		name="1st Ferrara Infantry"
-		type=infantry
-		home=742
-	}
-	regiment = {
-		name="4th Gabes Infantry"
-		type=infantry
-		home=1730
-	}
-	regiment = {
-		name="2nd Pescara Infantry"
-		type=infantry
-		home=10
-	}
-}
-
-army = {
-	name="Legio IX Triumphalis"
-	location=753
-	regiment = {
-		name="1st Gafsa Infantry"
-		type=infantry
-		home=1727
-	}
-	regiment = {
-		name="1st Palermo Infantry"
-		type=infantry
-		home=762
-	}
-	regiment = {
-		name="2nd Palermo Infantry"
-		type=infantry
-		home=762
-	}
-	regiment = {
-		name="5th Perugia Infantry"
-		type=infantry
-		home=751
-	}
-	regiment = {
-		name="2nd Gafsa Infantry"
-		type=infantry
-		home=1727
-	}
-	regiment = {
-		name="1st Grenoble Infantry"
-		type=infantry
-		home=454
-	}
-}
-
-army = {
-	name="Legio VII Ferrata"
-	location=10
-	regiment = {
-		name="4th Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="3rd Madurai Infantry"
-		type=infantry
-		home=1310
-	}
-	regiment = {
-		name="1st Padua Infantry"
-		type=infantry
-		home=731
-	}
-	regiment = {
-		name="5th Milan Infantry"
-		type=infantry
-		home=726
-	}
-	regiment = {
-		name="2nd Salerno Infantry"
-		type=infantry
-		home=755
-	}
-	regiment = {
-		name="6th Milan Infantry"
-		type=infantry
-		home=726
-	}
-}
-
-army = {
-	name="Legio X Italica"
-	location=1310
-	regiment = {
-		name="4th Madurai Infantry"
-		type=infantry
-		home=1310
-	}
-	regiment = {
-		name="5th Madurai Infantry"
-		type=infantry
-		home=1310
+		name="Hussar"
+		type=hussar
 	}
 }
 

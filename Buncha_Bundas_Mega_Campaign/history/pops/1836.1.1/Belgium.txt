@@ -108,7 +108,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 10876
+		size= 7876
 	}
 
 	clergymen=
@@ -243,7 +243,7 @@
 	{
 		culture = flemish
 		religion = norse_pagan_reformed
-		size= 10435
+		size= 7435
 	}
 
 	soldiers=
@@ -392,7 +392,7 @@
 	{
 		culture = flemish
 		religion = norse_pagan_reformed
-		size= 10159
+		size= 7159
 	}
 
 	soldiers=
@@ -499,7 +499,7 @@
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
-		size= 510
+		size= 57
 	}
 
 	artisans=
@@ -555,7 +555,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 23810
+		size= 2387
 	}
 
 	clergymen=
@@ -620,7 +620,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	officers=
@@ -662,7 +662,7 @@
 	{
 		culture = flemish
 		religion = norse_pagan_reformed
-		size= 107
+		size= 77
 	}
 
 	bureaucrats=
@@ -683,7 +683,7 @@
 	{
 		culture = flemish
 		religion = norse_pagan_reformed
-		size= 103
+		size= 73
 	}
 
 	farmers=
@@ -832,7 +832,7 @@
 	{
 		culture = wallonian
 		religion = norse_pagan_reformed
-		size= 1038
+		size= 738
 	}
 
 	clergymen=
@@ -895,7 +895,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 6810
+		size= 687
 	}
 
 	artisans=
@@ -944,7 +944,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 1067
+		size= 767
 	}
 
 	farmers=
@@ -1065,7 +1065,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 10055
+		size= 7055
 	}
 
 	clergymen=
@@ -1214,7 +1214,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 10174
+		size= 7174
 	}
 
 	clergymen=
@@ -1249,7 +1249,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 51013
+		size= 5713
 	}
 
 }
@@ -1265,14 +1265,14 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 109
+		size= 79
 	}
 
 	clergymen=
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	bureaucrats=
@@ -1293,7 +1293,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	farmers=
@@ -1349,7 +1349,7 @@
 	{
 		culture = wallonian
 		religion = norse_pagan_reformed
-		size= 2107
+		size= 277
 	}
 
 	soldiers=
@@ -1470,14 +1470,14 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 106
+		size= 76
 	}
 
 	clergymen=
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	clerks=
@@ -1512,7 +1512,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	farmers=
@@ -1526,7 +1526,7 @@
 	{
 		culture = wallonian
 		religion = norse_pagan_reformed
-		size= 110
+		size= 17
 	}
 
 	craftsmen=
@@ -1752,7 +1752,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	bureaucrats=
@@ -1773,7 +1773,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 10
+		size= 7
 	}
 
 	farmers=

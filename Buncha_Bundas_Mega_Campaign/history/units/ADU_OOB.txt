@@ -504,595 +504,16 @@ navy = {
 	}
 }
 
-army = {
-	name="Jaish Al Zamora"
-	location=511
-	regiment = {
-		name="1st Almendralejo Infantry"
-		type=infantry
-		home=485
-	}
-	regiment = {
-		name="1st Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="1st Covilhã Infantry"
-		type=infantry
-		home=520
-	}
-	regiment = {
-		name="1st Coimbra Infantry"
-		type=infantry
-		home=522
-	}
-	regiment = {
-		name="1st Córdoba Infantry"
-		type=infantry
-		home=510
-	}
-	regiment = {
-		name="1st Vigo Infantry"
-		type=infantry
-		home=476
-	}
-	regiment = {
-		name="2nd Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="1st Jaén Infantry"
-		type=infantry
-		home=516
-	}
-	regiment = {
-		name="2nd Seville Infantry"
-		type=infantry
-		home=509
-	}
-}
 
-army = {
-	name="Jaish Al Cayenne"
-	location=523
-	regiment = {
-		name="3rd Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="1st Huesca Infantry"
-		type=infantry
-		home=496
-	}
-	regiment = {
-		name="1st Lérida Infantry"
-		type=infantry
-		home=500
-	}
-	regiment = {
-		name="1st Sigüenza Infantry"
-		type=infantry
-		home=488
-	}
-	regiment = {
-		name="1st Valencia Infantry"
-		type=infantry
-		home=503
-	}
-	regiment = {
-		name="2nd Huesca Infantry"
-		type=infantry
-		home=496
-	}
-	regiment = {
-		name="1st Cuenca Infantry"
-		type=infantry
-		home=490
-	}
-	regiment = {
-		name="1st León Infantry"
-		type=infantry
-		home=477
-	}
-	regiment = {
-		name="1st Bilbao Infantry"
-		type=infantry
-		home=492
-	}
-}
 
-army = {
-	name="Jaish Al Madinat Salim"
-	location=510
-	regiment = {
-		name="1st Burgos Infantry"
-		type=infantry
-		home=479
-	}
-	regiment = {
-		name="4th Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="2nd Burgos Infantry"
-		type=infantry
-		home=479
-	}
-	regiment = {
-		name="1st Alicante Infantry"
-		type=infantry
-		home=505
-	}
-	regiment = {
-		name="5th Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="1st Málaga Infantry"
-		type=infantry
-		home=514
-	}
-	regiment = {
-		name="1st Castellón Infantry"
-		type=infantry
-		home=504
-	}
-	regiment = {
-		name="1st Badajoz Infantry"
-		type=infantry
-		home=484
-	}
-	regiment = {
-		name="2nd Castellón Infantry"
-		type=infantry
-		home=504
-	}
-}
 
-army = {
-	name="Jaish Al Évora"
-	location=512
-	regiment = {
-		name="1st Tlemcen Artillery"
-		type=artillery
-		home=1705
-	}
-	regiment = {
-		name="1st Burgos Artillery"
-		type=artillery
-		home=479
-	}
-	regiment = {
-		name="1st Valladolid Artillery"
-		type=artillery
-		home=480
-	}
-	regiment = {
-		name="1st Huelva Artillery"
-		type=artillery
-		home=511
-	}
-	regiment = {
-		name="1st Teruel Artillery"
-		type=artillery
-		home=497
-	}
-	regiment = {
-		name="1st Naama Artillery"
-		type=artillery
-		home=1715
-	}
-	regiment = {
-		name="1st Gibraltar Artillery"
-		type=artillery
-		home=517
-	}
-	regiment = {
-		name="1st Meknes Artillery"
-		type=artillery
-		home=1682
-	}
-	regiment = {
-		name="1st Coimbra Artillery"
-		type=artillery
-		home=522
-	}
-	regiment = {
-		name="1st Toledo Artillery"
-		type=artillery
-		home=489
-	}
-	regiment = {
-		name="1st Seville Artillery"
-		type=artillery
-		home=509
-	}
-	regiment = {
-		name="2nd Coimbra Artillery"
-		type=artillery
-		home=522
-	}
-}
 
-army = {
-	name="1st Army"
-	location=527
-	regiment = {
-		name="2nd Cuenca Infantry"
-		type=infantry
-		home=490
-	}
-	regiment = {
-		name="6th Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="7th Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="3rd Cuenca Infantry"
-		type=infantry
-		home=490
-	}
-	regiment = {
-		name="1st Madrid Infantry"
-		type=infantry
-		home=487
-	}
-	regiment = {
-		name="8th Cáceres Infantry"
-		type=infantry
-		home=486
-	}
-	regiment = {
-		name="2nd Almendralejo Infantry"
-		type=infantry
-		home=485
-	}
-	regiment = {
-		name="2nd Jaén Infantry"
-		type=infantry
-		home=516
-	}
-	regiment = {
-		name="1st Toledo Infantry"
-		type=infantry
-		home=489
-	}
-}
 
-army = {
-	name="Jaish Al Majrit"
-	location=509
-	regiment = {
-		name="3rd Burgos Infantry"
-		type=infantry
-		home=479
-	}
-	regiment = {
-		name="3rd Jaén Infantry"
-		type=infantry
-		home=516
-	}
-	regiment = {
-		name="1st Ciudad Real Infantry"
-		type=infantry
-		home=491
-	}
-	regiment = {
-		name="1st Albacete Infantry"
-		type=infantry
-		home=508
-	}
-	regiment = {
-		name="1st Faro Infantry"
-		type=infantry
-		home=527
-	}
-	regiment = {
-		name="1st Valladolid Infantry"
-		type=infantry
-		home=480
-	}
-	regiment = {
-		name="2nd Córdoba Infantry"
-		type=infantry
-		home=510
-	}
-	regiment = {
-		name="1st Teruel Infantry"
-		type=infantry
-		home=497
-	}
-	regiment = {
-		name="2nd Badajoz Infantry"
-		type=infantry
-		home=484
-	}
-}
 
-army = {
-	name="Jaish Al Qurtuba"
-	location=524
-	regiment = {
-		name="1st Covilhã Artillery"
-		type=artillery
-		home=520
-	}
-	regiment = {
-		name="1st Almendralejo Artillery"
-		type=artillery
-		home=485
-	}
-	regiment = {
-		name="1st Jaén Artillery"
-		type=artillery
-		home=516
-	}
-	regiment = {
-		name="2nd Covilhã Artillery"
-		type=artillery
-		home=520
-	}
-	regiment = {
-		name="1st Badajoz Artillery"
-		type=artillery
-		home=484
-	}
-	regiment = {
-		name="2nd Huelva Artillery"
-		type=artillery
-		home=511
-	}
-	regiment = {
-		name="2nd Almendralejo Artillery"
-		type=artillery
-		home=485
-	}
-	regiment = {
-		name="3rd Almendralejo Artillery"
-		type=artillery
-		home=485
-	}
-	regiment = {
-		name="1st Cuenca Artillery"
-		type=artillery
-		home=490
-	}
-	regiment = {
-		name="1st Ávila Artillery"
-		type=artillery
-		home=483
-	}
-	regiment = {
-		name="1st Évora Artillery"
-		type=artillery
-		home=525
-	}
-	regiment = {
-		name="2nd Ávila Artillery"
-		type=artillery
-		home=483
-	}
-}
 
-army = {
-	name="Jaish Al Jayyan"
-	location=521
-	regiment = {
-		name="2nd Teruel Artillery"
-		type=artillery
-		home=497
-	}
-	regiment = {
-		name="1st Abrantes Artillery"
-		type=artillery
-		home=523
-	}
-	regiment = {
-		name="1st Castellón Artillery"
-		type=artillery
-		home=504
-	}
-	regiment = {
-		name="1st Salamanca Artillery"
-		type=artillery
-		home=482
-	}
-	regiment = {
-		name="2nd Castellón Artillery"
-		type=artillery
-		home=504
-	}
-	regiment = {
-		name="1st Córdoba Artillery"
-		type=artillery
-		home=510
-	}
-	regiment = {
-		name="4th Almendralejo Artillery"
-		type=artillery
-		home=485
-	}
-	regiment = {
-		name="1st Cádiz Artillery"
-		type=artillery
-		home=512
-	}
-	regiment = {
-		name="2nd Córdoba Artillery"
-		type=artillery
-		home=510
-	}
-	regiment = {
-		name="2nd Salamanca Artillery"
-		type=artillery
-		home=482
-	}
-	regiment = {
-		name="1st Cáceres Artillery"
-		type=artillery
-		home=486
-	}
-}
 
-army = {
-	name="2nd Army"
-	location=525
-	regiment = {
-		name="1st Salamanca Infantry"
-		type=infantry
-		home=482
-	}
-	regiment = {
-		name="1st Vila Real Infantry"
-		type=infantry
-		home=519
-	}
-	regiment = {
-		name="1st Gerona Infantry"
-		type=infantry
-		home=499
-	}
-	regiment = {
-		name="1st Zaragoza Infantry"
-		type=infantry
-		home=495
-	}
-	regiment = {
-		name="1st Murcia Infantry"
-		type=infantry
-		home=507
-	}
-	regiment = {
-		name="2nd Valencia Infantry"
-		type=infantry
-		home=503
-	}
-	regiment = {
-		name="2nd Lérida Infantry"
-		type=infantry
-		home=500
-	}
-	regiment = {
-		name="2nd Madrid Infantry"
-		type=infantry
-		home=487
-	}
-	regiment = {
-		name="3rd Zaragoza Infantry"
-		type=infantry
-		home=495
-	}
-}
 
-army = {
-	name="44th Army"
-	location=516
-	regiment = {
-		name="2nd Faro Infantry"
-		type=infantry
-		home=527
-	}
-	regiment = {
-		name="2nd León Infantry"
-		type=infantry
-		home=477
-	}
-	regiment = {
-		name="1st Cádiz Infantry"
-		type=infantry
-		home=512
-	}
-	regiment = {
-		name="2nd Málaga Infantry"
-		type=infantry
-		home=514
-	}
-	regiment = {
-		name="1st Almería Infantry"
-		type=infantry
-		home=515
-	}
-	regiment = {
-		name="1st Lisbon Infantry"
-		type=infantry
-		home=521
-	}
-	regiment = {
-		name="1st Seville Infantry"
-		type=infantry
-		home=509
-	}
-	regiment = {
-		name="1st Huelva Infantry"
-		type=infantry
-		home=511
-	}
-	regiment = {
-		name="1st Abrantes Infantry"
-		type=infantry
-		home=523
-	}
-}
 
-army = {
-	name="3rd Army"
-	location=484
-	regiment = {
-		name="2nd Albacete Infantry"
-		type=infantry
-		home=508
-	}
-	regiment = {
-		name="4th Jaén Infantry"
-		type=infantry
-		home=516
-	}
-	regiment = {
-		name="2nd Murcia Infantry"
-		type=infantry
-		home=507
-	}
-	regiment = {
-		name="1st Ávila Infantry"
-		type=infantry
-		home=483
-	}
-	regiment = {
-		name="1st Setubal Infantry"
-		type=infantry
-		home=524
-	}
-	regiment = {
-		name="1st Pamplona Infantry"
-		type=infantry
-		home=493
-	}
-	regiment = {
-		name="4th Cuenca Infantry"
-		type=infantry
-		home=490
-	}
-	regiment = {
-		name="3rd Córdoba Infantry"
-		type=infantry
-		home=510
-	}
-	regiment = {
-		name="2nd Ciudad Real Infantry"
-		type=infantry
-		home=491
-	}
-}
 
 navy = {
 	name="16th Fleet"
@@ -1425,102 +846,92 @@ navy = {
 }
 
 army = {
-	name="3rd Army"
+	name="Ejercito de Cuba"
 	location=2210
 	regiment = {
-		name="1st La Coruña Infantry"
+		name="Infantry"
 		type=infantry
-		home=474
 	}
 	regiment = {
-		name="2nd La Coruña Infantry"
+		name="Infantry"
 		type=infantry
-		home=474
 	}
 	regiment = {
-		name="2nd Zaragoza Infantry"
+		name="Infantry"
 		type=infantry
-		home=495
 	}
 	regiment = {
-		name="1st Rabat Cavalry"
-		type=cavalry
-		home=1685
+		name="Infantry"
+		type=infantry
 	}
 	regiment = {
-		name="1st Rashidia Artillery"
+		name="Artillery"
 		type=artillery
-		home=1698
 	}
 	regiment = {
-		name="1st Casablanca Artillery"
+		name="Artillery"
 		type=artillery
-		home=1691
 	}
 	regiment = {
-		name="1st La Coruña Artillery"
+		name="Artillery"
 		type=artillery
-		home=474
 	}
 	regiment = {
-		name="1st Barcelona Cavalry"
-		type=cavalry
-		home=498
-	}
-	regiment = {
-		name="1st Wujda Cavalry"
-		type=cavalry
-		home=1684
-	}
-	regiment = {
-		name="1st Canary Islands Artillery"
+		name="Artillery"
 		type=artillery
-		home=2136
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
 army = {
-	name="2nd Army"
+	name="Ejercito de la Espanola"
 	location=2216
 	regiment = {
-		name="1st Rabat Infantry"
+		name="Infantry"
 		type=infantry
-		home=1685
 	}
 	regiment = {
-		name="1st Rashidia Infantry"
+		name="Infantry"
 		type=infantry
-		home=1698
 	}
 	regiment = {
-		name="2nd Coimbra Infantry"
+		name="Infantry"
 		type=infantry
-		home=522
 	}
 	regiment = {
-		name="1st Valencia Artillery"
-		type=artillery
-		home=503
-	}
-	regiment = {
-		name="1st Zaragoza Artillery"
-		type=artillery
-		home=495
-	}
-	regiment = {
-		name="2nd Casablanca Artillery"
-		type=artillery
-		home=1691
-	}
-	regiment = {
-		name="1st O'okiep Infantry"
+		name="Infantry"
 		type=infantry
-		home=2088
 	}
 	regiment = {
-		name="1st Warzazat Artillery"
+		name="Artillery"
 		type=artillery
-		home=1699
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
@@ -1567,11 +978,11 @@ navy = {
 }
 
 army = {
-	name="5th Army"
+	name="Ejercito de las Islas"
 	location=2224
 	regiment = {
-		name="1st Wujda Artillery"
-		type=artillery
+		name="Infantry"
+		type=infantry	
 		home=1684
 	}
 }
@@ -1658,7 +1069,7 @@ navy = {
 }
 
 army = {
-	name="Jaish Al North Kanara"
+	name="Ejercito del Este"
 	location=1302
 	regiment = {
 		name="1st Belgaum Infantry"
@@ -1669,6 +1080,231 @@ army = {
 		name="2nd Belgaum Infantry"
 		type=infantry
 		home=1302
+	}
+}
+
+army = {
+	name="Ejercito de Barcelona"
+	location=498
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="Ejercito de Bilbao"
+	location=492
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="El ejercito africano de las maravillas"
+	location=1689
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="Ejercito de Lisboa"
+	location=521
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="Ejercito de la Capital"
+	location=510
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 

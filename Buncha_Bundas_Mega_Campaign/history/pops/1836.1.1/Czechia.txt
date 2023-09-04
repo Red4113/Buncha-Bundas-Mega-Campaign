@@ -448,7 +448,7 @@
 
 }
 629 = {
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
@@ -548,7 +548,7 @@
 
 }
 630 = {
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
@@ -697,7 +697,7 @@
 		size= 10377
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = slovak
 		religion = hussite

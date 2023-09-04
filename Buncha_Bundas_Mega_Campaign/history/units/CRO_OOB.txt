@@ -326,191 +326,135 @@ ZIM = {
 #Armies
 army = {
 	name="1st Army"
-	location=785
+	location=771
 	regiment = {
-		name="1st Banja Luka Infantry"
+		name="Infantry"
 		type=infantry
-		home=785
 	}
 	regiment = {
-		name="1st Bihac Infantry"
+		name="Infantry"
 		type=infantry
-		home=784
 	}
 	regiment = {
-		name="2nd Banja Luka Infantry"
+		name="Infantry"
 		type=infantry
-		home=785
 	}
 	regiment = {
-		name="2nd Bihac Infantry"
+		name="Infantry"
 		type=infantry
-		home=784
 	}
 	regiment = {
-		name="3rd Banja Luka Infantry"
-		type=infantry
-		home=785
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="4th Banja Luka Infantry"
-		type=infantry
-		home=785
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="5th Banja Luka Infantry"
-		type=infantry
-		home=785
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
 army = {
 	name="2nd Army"
-	location=772
+	location=780
 	regiment = {
-		name="1st Zagreb Infantry"
+		name="Infantry"
 		type=infantry
-		home=771
 	}
 	regiment = {
-		name="1st Sisak Infantry"
+		name="Infantry"
 		type=infantry
-		home=772
 	}
 	regiment = {
-		name="2nd Zagreb Infantry"
+		name="Infantry"
 		type=infantry
-		home=771
 	}
 	regiment = {
-		name="2nd Sisak Infantry"
+		name="Infantry"
 		type=infantry
-		home=772
 	}
 	regiment = {
-		name="3rd Zagreb Infantry"
-		type=infantry
-		home=771
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="4th Zagreb Infantry"
-		type=infantry
-		home=771
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="5th Zagreb Infantry"
-		type=infantry
-		home=771
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
 army = {
 	name="3rd Army"
-	location=774
+	location=2538
 	regiment = {
-		name="1st Senj Infantry"
+		name="Infantry"
 		type=infantry
-		home=774
 	}
 	regiment = {
-		name="2nd Senj Infantry"
+		name="Infantry"
 		type=infantry
-		home=774
 	}
 	regiment = {
-		name="3rd Senj Infantry"
+		name="Infantry"
 		type=infantry
-		home=774
 	}
 	regiment = {
-		name="4th Senj Infantry"
+		name="Infantry"
 		type=infantry
-		home=774
 	}
 	regiment = {
-		name="5th Senj Infantry"
-		type=infantry
-		home=774
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="6th Senj Infantry"
-		type=infantry
-		home=774
-	}
-}
-
-army = {
-	name="4th Army"
-	location=789
-	regiment = {
-		name="1st Livno Infantry"
-		type=infantry
-		home=789
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="2nd Livno Infantry"
-		type=infantry
-		home=789
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="3rd Livno Infantry"
-		type=infantry
-		home=789
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="4th Livno Infantry"
-		type=infantry
-		home=789
+		name="Artillery"
+		type=artillery
 	}
 	regiment = {
-		name="5th Livno Infantry"
-		type=infantry
-		home=789
-	}
-	regiment = {
-		name="6th Livno Infantry"
-		type=infantry
-		home=789
-	}
-	regiment = {
-		name="7th Livno Infantry"
-		type=infantry
-		home=789
+		name="Hussar"
+		type=hussar
 	}
 }
-
-army = {
-	name="5th Army"
-	location=2582
-	regiment = {
-		name="1st Cattaro Infantry"
-		type=infantry
-		home=2582
-	}
-	regiment = {
-		name="2nd Cattaro Infantry"
-		type=infantry
-		home=2582
-	}
-	regiment = {
-		name="3rd Cattaro Infantry"
-		type=infantry
-		home=2582
-	}
-	regiment = {
-		name="4th Cattaro Infantry"
-		type=infantry
-		home=2582
-	}
-	regiment = {
-		name="5th Cattaro Infantry"
-		type=infantry
-		home=2582
-	}
-	regiment = {
-		name="6th Cattaro Infantry"
-		type=infantry
-		home=2582
-	}
-}
-

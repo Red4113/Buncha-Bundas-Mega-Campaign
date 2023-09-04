@@ -1,5 +1,5 @@
 8 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -69,7 +69,7 @@
 		size= 7915
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = protestant
@@ -209,7 +209,7 @@
 		size= 1919
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -379,7 +379,7 @@
 		size= 8342
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -528,7 +528,7 @@
 		size= 6269
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -677,7 +677,7 @@
 
 }
 721 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = catholic
@@ -775,7 +775,7 @@
 		size= 5576
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -924,7 +924,7 @@
 
 }
 722 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = catholic
@@ -973,7 +973,7 @@
 		size= 15145
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -1022,7 +1022,7 @@
 		size= 8208
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -1073,7 +1073,7 @@
 
 }
 723 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = catholic
@@ -1171,7 +1171,7 @@
 		size= 394
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -1301,7 +1301,7 @@
 
 }
 725 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -1401,7 +1401,7 @@
 		size= 45755
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -1450,7 +1450,7 @@
 		size= 42289
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -1648,7 +1648,7 @@
 		size= 6832
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -1699,7 +1699,7 @@
 
 }
 728 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -1748,7 +1748,7 @@
 		size= 13302
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -1797,7 +1797,7 @@
 		size= 22340
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -1848,7 +1848,7 @@
 
 }
 729 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -1995,7 +1995,7 @@
 		size= 5633
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -2046,7 +2046,7 @@
 
 }
 730 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -2144,7 +2144,7 @@
 		size= 4483
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -2193,7 +2193,7 @@
 		size= 1367
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -2244,7 +2244,7 @@
 
 }
 731 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -2293,7 +2293,7 @@
 		size= 19911
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = protestant
@@ -2391,7 +2391,7 @@
 		size= 7039
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -2442,7 +2442,7 @@
 
 }
 732 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -2589,7 +2589,7 @@
 		size= 2654
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -2640,7 +2640,7 @@
 
 }
 733 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -2787,7 +2787,7 @@
 		size= 3662
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -2838,7 +2838,7 @@
 
 }
 734 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = catholic
@@ -2985,7 +2985,7 @@
 		size= 2214
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hussite
@@ -3085,7 +3085,7 @@
 		size= 7865
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -3234,7 +3234,7 @@
 		size= 692
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = slovene
 		religion = hussite
@@ -3383,7 +3383,7 @@
 		size= 708
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = slovene
 		religion = hussite
@@ -3504,7 +3504,7 @@
 		size= 23165
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -3574,7 +3574,7 @@
 		size= 7412
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -3695,7 +3695,7 @@
 		size= 9692
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -3744,7 +3744,7 @@
 		size= 16959
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -3795,7 +3795,7 @@
 
 }
 740 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -3893,7 +3893,7 @@
 		size= 3665
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -3944,7 +3944,7 @@
 
 }
 741 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -4091,7 +4091,7 @@
 		size= 4895
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -4289,7 +4289,7 @@
 		size= 3611
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -4340,7 +4340,7 @@
 
 }
 743 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -4487,7 +4487,7 @@
 		size= 1487
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -4538,7 +4538,7 @@
 
 }
 744 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -4750,7 +4750,7 @@
 
 }
 745 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = catholic
@@ -4899,7 +4899,7 @@
 
 }
 746 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -4948,7 +4948,7 @@
 		size= 10641
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -4997,7 +4997,7 @@
 		size= 3643
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5146,7 +5146,7 @@
 		size= 3405
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5295,7 +5295,7 @@
 		size= 3119
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5346,7 +5346,7 @@
 
 }
 749 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5402,7 +5402,7 @@
 		size= 100
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = sephardic
 		religion = jewish
@@ -5432,7 +5432,7 @@
 
 }
 750 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5483,7 +5483,7 @@
 
 }
 751 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -5532,7 +5532,7 @@
 		size= 23444
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -5581,7 +5581,7 @@
 		size= 57009
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5681,7 +5681,7 @@
 		size= 20139
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -5730,7 +5730,7 @@
 		size= 26582
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5781,7 +5781,7 @@
 
 }
 753 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = waldensian
@@ -5830,7 +5830,7 @@
 		size= 8845
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -5879,7 +5879,7 @@
 		size= 8233
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -5930,7 +5930,7 @@
 
 }
 754 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = catholic
@@ -5979,7 +5979,7 @@
 		size= 13570
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = hellenic_pagan
@@ -6028,7 +6028,7 @@
 		size= 15086
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -6177,7 +6177,7 @@
 		size= 10019
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -6228,7 +6228,7 @@
 
 }
 756 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = catholic
@@ -6277,7 +6277,7 @@
 		size= 8901
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = hellenic_pagan
@@ -6326,7 +6326,7 @@
 		size= 12074
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -6377,7 +6377,7 @@
 
 }
 757 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = catholic
@@ -6426,7 +6426,7 @@
 		size= 13828
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = hellenic_pagan
@@ -6475,7 +6475,7 @@
 		size= 21126
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -6526,7 +6526,7 @@
 
 }
 758 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = orthodox
@@ -6624,7 +6624,7 @@
 		size= 6534
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -6815,7 +6815,7 @@
 		size= 10695
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -6964,7 +6964,7 @@
 		size= 6523
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7113,7 +7113,7 @@
 		size= 11745
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7164,7 +7164,7 @@
 
 }
 762 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = hellenic_pagan
@@ -7213,7 +7213,7 @@
 		size= 42976
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7313,7 +7313,7 @@
 		size= 18510
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7364,7 +7364,7 @@
 
 }
 764 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = hellenic_pagan
@@ -7413,7 +7413,7 @@
 		size= 17111
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7464,7 +7464,7 @@
 
 }
 765 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7515,7 +7515,7 @@
 
 }
 766 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7664,7 +7664,7 @@
 		size= 2431
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7764,7 +7764,7 @@
 		size= 8051
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7913,7 +7913,7 @@
 		size= 6078
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan

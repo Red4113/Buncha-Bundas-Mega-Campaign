@@ -48,7 +48,7 @@
 		size= 12229
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -246,7 +246,7 @@
 		size= 8426
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -295,7 +295,7 @@
 		size= 27845
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = hellenic_pagan
@@ -486,7 +486,7 @@
 		size= 842
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -726,7 +726,7 @@
 		size= 1819
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -1052,7 +1052,7 @@
 		size= 1629
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = sami
 		religion = norse_pagan_reformed
@@ -1101,7 +1101,7 @@
 		size= 2251
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -1201,7 +1201,7 @@
 		size= 12818
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -1250,7 +1250,7 @@
 		size= 7102
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -1301,7 +1301,7 @@
 
 }
 985 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -1350,7 +1350,7 @@
 		size= 2918
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -1399,7 +1399,7 @@
 		size= 1682
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -1448,7 +1448,7 @@
 		size= 19526
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = catholic
@@ -1541,7 +1541,7 @@
 
 }
 986 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -1590,7 +1590,7 @@
 		size= 2876
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -1639,7 +1639,7 @@
 		size= 1658
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -1781,7 +1781,7 @@
 
 }
 987 = {
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = catholic
@@ -1930,7 +1930,7 @@
 		size= 2402
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2079,7 +2079,7 @@
 		size= 9408
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2179,7 +2179,7 @@
 		size= 22065
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -2228,7 +2228,7 @@
 		size= 8117
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2279,7 +2279,7 @@
 
 }
 991 = {
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -2328,7 +2328,7 @@
 		size= 12387
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2428,7 +2428,7 @@
 
 }
 992 = {
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = catholic
@@ -2526,7 +2526,7 @@
 		size= 10356
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2675,7 +2675,7 @@
 		size= 6511
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2824,7 +2824,7 @@
 		size= 23883
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -2973,7 +2973,7 @@
 		size= 2519
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3122,7 +3122,7 @@
 		size= 14322
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3222,7 +3222,7 @@
 		size= 11529
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -3271,7 +3271,7 @@
 		size= 14786
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3322,7 +3322,7 @@
 
 }
 998 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = catholic
@@ -3371,7 +3371,7 @@
 		size= 18491
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3422,7 +3422,7 @@
 
 }
 999 = {
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = catholic
@@ -3471,7 +3471,7 @@
 		size= 6748
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -3520,7 +3520,7 @@
 		size= 29878
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3571,7 +3571,7 @@
 
 }
 1000 = {
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -3620,7 +3620,7 @@
 		size= 18441
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3671,7 +3671,7 @@
 
 }
 1001 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = catholic
@@ -3720,7 +3720,7 @@
 		size= 6859
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -3771,7 +3771,7 @@
 
 }
 1003 = {
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = catholic
@@ -3820,7 +3820,7 @@
 		size= 17878
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -3869,7 +3869,7 @@
 		size= 23896
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4018,7 +4018,7 @@
 		size= 9875
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4118,7 +4118,7 @@
 		size= 6567
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -4167,7 +4167,7 @@
 		size= 7063
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4316,7 +4316,7 @@
 		size= 12572
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4416,7 +4416,7 @@
 		size= 10188
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -4465,7 +4465,7 @@
 		size= 12723
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4586,7 +4586,7 @@
 		size= 5591
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4707,7 +4707,7 @@
 		size= 6634
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4758,7 +4758,7 @@
 
 }
 1010 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4907,7 +4907,7 @@
 		size= 1565
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -4958,7 +4958,7 @@
 
 }
 1012 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -5056,7 +5056,7 @@
 		size= 5364
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -5207,7 +5207,7 @@
 		size= 4409
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -5256,7 +5256,7 @@
 		size= 8003
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -5405,7 +5405,7 @@
 		size= 8697
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -5456,7 +5456,7 @@
 
 }
 1016 = {
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = orthodox
@@ -5554,7 +5554,7 @@
 		size= 1225
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = hellenic_pagan
@@ -5654,7 +5654,7 @@
 
 }
 1017 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -5703,7 +5703,7 @@
 		size= 9090
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -5752,7 +5752,7 @@
 		size= 20303
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -5801,7 +5801,7 @@
 		size= 22470
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = orthodox
@@ -5850,7 +5850,7 @@
 		size= 29085
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = catholic
@@ -5899,7 +5899,7 @@
 		size= 1001
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = hellenic_pagan
@@ -5999,7 +5999,7 @@
 		size= 2456
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -6048,7 +6048,7 @@
 		size= 8029
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -6097,7 +6097,7 @@
 		size= 8328
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = orthodox
@@ -6146,7 +6146,7 @@
 		size= 27521
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ukrainian
 		religion = hellenic_pagan
@@ -6197,7 +6197,7 @@
 
 }
 1019 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = jewish
@@ -6295,7 +6295,7 @@
 		size= 7
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -6344,7 +6344,7 @@
 		size= 26915
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -6395,7 +6395,7 @@
 
 }
 1020 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -6444,7 +6444,7 @@
 		size= 100416
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -6493,7 +6493,7 @@
 		size= 32591
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -6593,7 +6593,7 @@
 
 }
 1021 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = orthodox
@@ -6642,7 +6642,7 @@
 		size= 11718
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -6740,7 +6740,7 @@
 		size= 8018
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -6842,7 +6842,7 @@
 
 }
 1023 = {
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -6891,7 +6891,7 @@
 		size= 17049
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -6940,7 +6940,7 @@
 		size= 93700
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = catholic
@@ -7040,7 +7040,7 @@
 		size= 8109
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = orthodox
@@ -7089,7 +7089,7 @@
 		size= 7248
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -7189,7 +7189,7 @@
 		size= 17432
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = orthodox
@@ -7238,7 +7238,7 @@
 		size= 8193
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -7336,7 +7336,7 @@
 		size= 41019
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -7385,7 +7385,7 @@
 		size= 7812
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -7485,7 +7485,7 @@
 
 }
 1026 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -7555,7 +7555,7 @@
 		size= 61420
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = norse_pagan_reformed
@@ -7697,7 +7697,7 @@
 
 }
 1027 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -7746,7 +7746,7 @@
 		size= 10173
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = orthodox
@@ -7844,7 +7844,7 @@
 		size= 6807
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = catholic
@@ -7893,7 +7893,7 @@
 		size= 23655
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -7993,7 +7993,7 @@
 
 }
 1028 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -8044,7 +8044,7 @@
 
 }
 1029 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -8142,7 +8142,7 @@
 		size= 48678
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -8193,7 +8193,7 @@
 
 }
 1030 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -8291,7 +8291,7 @@
 		size= 23776
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -8340,7 +8340,7 @@
 		size= 15266
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -8438,7 +8438,7 @@
 		size= 8396
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = protestant
@@ -8489,7 +8489,7 @@
 
 }
 1031 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -8587,7 +8587,7 @@
 		size= 35287
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -8638,7 +8638,7 @@
 
 }
 1032 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -8687,7 +8687,7 @@
 		size= 106419
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -8736,7 +8736,7 @@
 		size= 29310
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -8836,7 +8836,7 @@
 		size= 8366
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -8885,7 +8885,7 @@
 		size= 2815
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = catholic
@@ -8983,7 +8983,7 @@
 		size= 2121
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -9032,7 +9032,7 @@
 		size= 11611
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -9132,7 +9132,7 @@
 
 }
 1034 = {
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = orthodox
@@ -9181,7 +9181,7 @@
 		size= 6723
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = catholic
@@ -9279,7 +9279,7 @@
 		size= 1948
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -9328,7 +9328,7 @@
 		size= 13511
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = tengri_pagan_reformed
@@ -9428,7 +9428,7 @@
 
 }
 1035 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -9477,7 +9477,7 @@
 		size= 8965
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -9575,7 +9575,7 @@
 		size= 9836
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = norse_pagan_reformed
@@ -9624,7 +9624,7 @@
 		size= 2273
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -9722,7 +9722,7 @@
 		size= 2880
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -9773,7 +9773,7 @@
 
 }
 1036 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -9871,7 +9871,7 @@
 		size= 1721
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -9922,7 +9922,7 @@
 
 }
 1037 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -10020,7 +10020,7 @@
 		size= 5290
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -10069,7 +10069,7 @@
 		size= 45138
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -10169,7 +10169,7 @@
 
 }
 1038 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -10218,7 +10218,7 @@
 		size= 15696
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = catholic
@@ -10316,7 +10316,7 @@
 		size= 2649
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -10367,7 +10367,7 @@
 
 }
 1039 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -10465,7 +10465,7 @@
 		size= 4421
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -10514,7 +10514,7 @@
 		size= 1536
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -10614,7 +10614,7 @@
 		size= 10496
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -10663,7 +10663,7 @@
 		size= 301
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -10763,7 +10763,7 @@
 		size= 10268
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -10812,7 +10812,7 @@
 		size= 118
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -10914,7 +10914,7 @@
 
 }
 1043 = {
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = orthodox
@@ -10963,7 +10963,7 @@
 		size= 38168
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = catholic
@@ -11061,7 +11061,7 @@
 		size= 1296
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -11112,7 +11112,7 @@
 
 }
 1044 = {
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = tengri_pagan_reformed
@@ -11210,7 +11210,7 @@
 		size= 1901
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = pecheneg
 		religion = catholic
@@ -11261,7 +11261,7 @@
 
 }
 1045 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = orthodox
@@ -11359,7 +11359,7 @@
 		size= 37885
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -11408,7 +11408,7 @@
 		size= 48106
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = jewish
@@ -11501,7 +11501,7 @@
 
 }
 1046 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -11550,7 +11550,7 @@
 		size= 20222
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -11599,7 +11599,7 @@
 		size= 2737
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -11648,7 +11648,7 @@
 		size= 131526
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = catholic
@@ -11699,7 +11699,7 @@
 
 }
 1047 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -11797,7 +11797,7 @@
 		size= 1120
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -11848,7 +11848,7 @@
 
 }
 1048 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -11897,7 +11897,7 @@
 		size= 20497
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -11946,7 +11946,7 @@
 		size= 1052
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -11997,7 +11997,7 @@
 
 }
 1049 = {
-	soldiers=
+	farmers=
 	{
 		culture = circassian
 		religion = orthodox
@@ -12046,7 +12046,7 @@
 		size= 18897
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = circassian
 		religion = hellenic_pagan
@@ -12244,7 +12244,7 @@
 
 }
 1050 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -12293,7 +12293,7 @@
 		size= 6611
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = catholic
@@ -12342,7 +12342,7 @@
 		size= 1923
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -12442,7 +12442,7 @@
 
 }
 1051 = {
-	soldiers=
+	farmers=
 	{
 		culture = circassian
 		religion = orthodox
@@ -12540,7 +12540,7 @@
 		size= 4014
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -12591,7 +12591,7 @@
 
 }
 1052 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = sunni
@@ -12661,7 +12661,7 @@
 		size= 26025
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -12731,7 +12731,7 @@
 		size= 649
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -12803,7 +12803,7 @@
 
 }
 1053 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -12852,7 +12852,7 @@
 		size= 26094
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -12901,7 +12901,7 @@
 		size= 1
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -12952,7 +12952,7 @@
 
 }
 1054 = {
-	soldiers=
+	farmers=
 	{
 		culture = circassian
 		religion = hellenic_pagan
@@ -13001,7 +13001,7 @@
 		size= 8475
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -13101,7 +13101,7 @@
 		size= 14144
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -13150,7 +13150,7 @@
 		size= 416
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -13250,7 +13250,7 @@
 		size= 13008
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -13301,7 +13301,7 @@
 
 }
 1057 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = orthodox
@@ -13399,7 +13399,7 @@
 		size= 291
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -13450,7 +13450,7 @@
 
 }
 1058 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -13499,7 +13499,7 @@
 		size= 1419
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = catholic
@@ -13548,7 +13548,7 @@
 		size= 12745
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -13599,7 +13599,7 @@
 
 }
 1059 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -13690,7 +13690,7 @@
 		size= 6095
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -13741,7 +13741,7 @@
 
 }
 1060 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -13839,7 +13839,7 @@
 		size= 10492
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -13890,7 +13890,7 @@
 
 }
 1061 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -13974,7 +13974,7 @@
 		size= 189
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -13990,7 +13990,7 @@
 
 }
 1062 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = tengri_pagan_reformed
@@ -14018,7 +14018,7 @@
 		size= 136
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -14067,7 +14067,7 @@
 		size= 2663
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -14111,7 +14111,7 @@
 
 }
 1063 = {
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = tengri_pagan_reformed
@@ -14195,7 +14195,7 @@
 		size= 4161
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = gelugpa
@@ -14237,7 +14237,7 @@
 		size= 5079
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -14321,7 +14321,7 @@
 		size= 6459
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -14363,7 +14363,7 @@
 		size= 1932
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -14449,7 +14449,7 @@
 
 }
 1064 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -14533,7 +14533,7 @@
 		size= 186
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -14549,7 +14549,7 @@
 
 }
 1065 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -14577,7 +14577,7 @@
 		size= 8
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -14642,7 +14642,7 @@
 
 }
 1066 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -14726,7 +14726,7 @@
 		size= 140
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -14742,7 +14742,7 @@
 
 }
 1067 = {
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = tengri_pagan_reformed
@@ -14840,7 +14840,7 @@
 		size= 7766
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = gelugpa
@@ -14891,7 +14891,7 @@
 
 }
 1068 = {
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = tengri_pagan_reformed
@@ -14926,7 +14926,7 @@
 		size= 3343
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = catholic
@@ -15017,7 +15017,7 @@
 		size= 522
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = gelugpa
@@ -15068,7 +15068,7 @@
 
 }
 1069 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -15110,7 +15110,7 @@
 		size= 28
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -15182,7 +15182,7 @@
 
 }
 1070 = {
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = tengri_pagan_reformed
@@ -15238,7 +15238,7 @@
 		size= 26
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -15317,7 +15317,7 @@
 
 }
 1072 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -15345,7 +15345,7 @@
 		size= 13
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = mahayana
@@ -15424,7 +15424,7 @@
 		size= 241
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -15468,7 +15468,7 @@
 
 }
 1074 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -15519,7 +15519,7 @@
 
 }
 1075 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -15603,7 +15603,7 @@
 		size= 618
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -15619,7 +15619,7 @@
 
 }
 1076 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -15668,7 +15668,7 @@
 		size= 3742
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -15768,7 +15768,7 @@
 		size= 4227
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -15817,7 +15817,7 @@
 		size= 5317
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = tengri_pagan_reformed
@@ -15866,7 +15866,7 @@
 		size= 6592
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = catholic
@@ -15915,7 +15915,7 @@
 		size= 4506
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = gelugpa
@@ -15964,7 +15964,7 @@
 		size= 4240
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = gelugpa
@@ -16064,7 +16064,7 @@
 		size= 9498
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -16113,7 +16113,7 @@
 		size= 4939
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mongol
 		religion = catholic
@@ -16164,7 +16164,7 @@
 
 }
 1079 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -16248,7 +16248,7 @@
 		size= 61
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -16262,7 +16262,7 @@
 		size= 6339
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mongol
 		religion = catholic
@@ -16348,7 +16348,7 @@
 		size= 109
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = tengri_pagan_reformed
@@ -16392,7 +16392,7 @@
 		size= 673
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
@@ -16448,7 +16448,7 @@
 		size= 737
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = tengri_pagan_reformed
@@ -16564,7 +16564,7 @@
 		size= 366
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
@@ -16620,7 +16620,7 @@
 		size= 137
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = tengri_pagan_reformed
@@ -16678,7 +16678,7 @@
 		size= 796
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = tengri_pagan_reformed
@@ -16736,7 +16736,7 @@
 		size= 549
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
@@ -16792,7 +16792,7 @@
 		size= 382
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = tengri_pagan_reformed
@@ -16843,7 +16843,7 @@
 
 }
 1086 = {
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = tengri_pagan_reformed
@@ -16887,7 +16887,7 @@
 
 }
 1087 = {
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = tengri_pagan_reformed
@@ -16945,7 +16945,7 @@
 		size= 22
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = catholic
@@ -16975,7 +16975,7 @@
 
 }
 1089 = {
-	soldiers=
+	farmers=
 	{
 		culture = ainu
 		religion = catholic
@@ -17054,7 +17054,7 @@
 
 }
 2580 = {
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = catholic
@@ -17103,7 +17103,7 @@
 		size= 4893
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = russian
 		religion = norse_pagan_reformed
@@ -17152,7 +17152,7 @@
 		size= 9332
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -17345,7 +17345,7 @@
 
 }
 2588 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -17394,7 +17394,7 @@
 		size= 6199
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -17443,7 +17443,7 @@
 		size= 5541
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -17494,7 +17494,7 @@
 
 }
 2613 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = tengri_pagan_reformed
@@ -17508,7 +17508,7 @@
 		size= 77
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -17694,7 +17694,7 @@
 		size= 13
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -17722,7 +17722,7 @@
 		size= 370
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -17759,7 +17759,7 @@
 
 }
 2616 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -17794,7 +17794,7 @@
 		size= 97
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -17831,7 +17831,7 @@
 
 }
 2617 = {
-	soldiers=
+	farmers=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
@@ -17882,7 +17882,7 @@
 
 }
 2618 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -17910,7 +17910,7 @@
 		size= 103
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = mahayana
@@ -18063,7 +18063,7 @@
 		size= 14
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -18107,7 +18107,7 @@
 
 }
 2622 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -18142,7 +18142,7 @@
 		size= 16
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -18179,7 +18179,7 @@
 
 }
 2633 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -18214,7 +18214,7 @@
 		size= 95
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -18251,7 +18251,7 @@
 
 }
 2634 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -18295,7 +18295,7 @@
 
 }
 2637 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -18346,7 +18346,7 @@
 
 }
 2638 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -18374,7 +18374,7 @@
 		size= 100
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = mahayana
@@ -18397,7 +18397,7 @@
 
 }
 2639 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -18425,7 +18425,7 @@
 		size= 105
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = japo_korean
 		religion = mahayana
@@ -18534,7 +18534,7 @@
 		size= 15
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -18562,7 +18562,7 @@
 		size= 61
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -18627,7 +18627,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -18643,7 +18643,7 @@
 
 }
 2644 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -18699,7 +18699,7 @@
 		size= 31
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -18729,7 +18729,7 @@
 
 }
 2645 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -18785,7 +18785,7 @@
 		size= 13
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -18808,7 +18808,7 @@
 
 }
 2646 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -18864,7 +18864,7 @@
 		size= 18
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -18894,7 +18894,7 @@
 
 }
 2648 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -18978,7 +18978,7 @@
 		size= 83
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -18992,7 +18992,7 @@
 		size= 5734
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -19064,7 +19064,7 @@
 		size= 50
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -19080,7 +19080,7 @@
 
 }
 2650 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -19108,7 +19108,7 @@
 		size= 32
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -19164,7 +19164,7 @@
 		size= 363
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -19194,7 +19194,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -19229,7 +19229,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -19266,7 +19266,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -19303,7 +19303,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -19377,7 +19377,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -19393,7 +19393,7 @@
 
 }
 2656 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -19407,7 +19407,7 @@
 		size= 75
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -19486,7 +19486,7 @@
 		size= 20
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -19523,7 +19523,7 @@
 
 }
 2658 = {
-	soldiers=
+	farmers=
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
@@ -19607,7 +19607,7 @@
 		size= 300
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -19644,7 +19644,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -19660,7 +19660,7 @@
 
 }
 2660 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -19695,7 +19695,7 @@
 		size= 26
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -19769,7 +19769,7 @@
 
 }
 2663 = {
-	soldiers=
+	farmers=
 	{
 		culture = eskaleut
 		religion = tengri_pagan_reformed
@@ -19804,7 +19804,7 @@
 		size= 95
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -19862,7 +19862,7 @@
 		size= 20
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -19936,7 +19936,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -19973,7 +19973,7 @@
 		size= 50
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -20038,7 +20038,7 @@
 		size= 18487
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mongol
 		religion = catholic
@@ -20089,7 +20089,7 @@
 
 }
 2671 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -20131,7 +20131,7 @@
 		size= 2265
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -20180,7 +20180,7 @@
 		size= 1267
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mongol
 		religion = catholic
@@ -20231,7 +20231,7 @@
 
 }
 2672 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -20301,7 +20301,7 @@
 		size= 1941
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -20380,7 +20380,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -20452,7 +20452,7 @@
 		size= 3622
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = catholic
@@ -20501,7 +20501,7 @@
 		size= 2258
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = gelugpa
@@ -20550,7 +20550,7 @@
 		size= 565
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = gelugpa
@@ -20622,7 +20622,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -20657,7 +20657,7 @@
 		size= 5
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -20673,7 +20673,7 @@
 
 }
 2676 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -20743,7 +20743,7 @@
 		size= 30
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -20766,7 +20766,7 @@
 
 }
 2677 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = catholic
@@ -20794,7 +20794,7 @@
 		size= 35
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -20850,7 +20850,7 @@
 		size= 1
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -20922,7 +20922,7 @@
 		size= 10
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -20938,7 +20938,7 @@
 
 }
 2682 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -20952,7 +20952,7 @@
 		size= 159
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -21024,7 +21024,7 @@
 
 }
 2683 = {
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = tengri_pagan_reformed
@@ -21066,7 +21066,7 @@
 		size= 2574
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = catholic
@@ -21115,7 +21115,7 @@
 		size= 2941
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = gelugpa
@@ -21194,7 +21194,7 @@
 		size= 12
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -21252,7 +21252,7 @@
 
 }
 2685 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = tengri_pagan_reformed
@@ -21350,7 +21350,7 @@
 		size= 46098
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -21401,7 +21401,7 @@
 
 }
 2686 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = tengri_pagan_reformed
@@ -21450,7 +21450,7 @@
 		size= 8079
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -21552,7 +21552,7 @@
 
 }
 2688 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -21601,7 +21601,7 @@
 		size= 2874
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -21650,7 +21650,7 @@
 		size= 1657
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -21699,7 +21699,7 @@
 		size= 19238
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = catholic
@@ -21741,7 +21741,7 @@
 		size= 1758
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -21792,7 +21792,7 @@
 
 }
 2689 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -21841,7 +21841,7 @@
 		size= 9537
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = gelugpa
@@ -21892,7 +21892,7 @@
 
 }
 2690 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -21920,7 +21920,7 @@
 		size= 9
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -21950,7 +21950,7 @@
 
 }
 2691 = {
-	soldiers=
+	farmers=
 	{
 		culture = kirgiz
 		religion = tengri_pagan_reformed
@@ -22020,7 +22020,7 @@
 		size= 629
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -22069,7 +22069,7 @@
 		size= 9282
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -22120,7 +22120,7 @@
 
 }
 2692 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = tengri_pagan_reformed
@@ -22148,7 +22148,7 @@
 		size= 6
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -22176,7 +22176,7 @@
 		size= 184
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = gelugpa
@@ -22234,7 +22234,7 @@
 		size= 25
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = siberian
 		religion = catholic
@@ -22294,7 +22294,7 @@
 
 }
 2695 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -22322,7 +22322,7 @@
 		size= 28
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -22394,7 +22394,7 @@
 
 }
 2696 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -22422,7 +22422,7 @@
 		size= 8
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -22459,7 +22459,7 @@
 		size= 450
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
@@ -22566,7 +22566,7 @@
 
 }
 2698 = {
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = tengri_pagan_reformed
@@ -22615,7 +22615,7 @@
 		size= 12243
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = catholic
@@ -22664,7 +22664,7 @@
 		size= 7637
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kazak
 		religion = gelugpa
@@ -22764,7 +22764,7 @@
 
 }
 2699 = {
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = catholic
@@ -22813,7 +22813,7 @@
 		size= 2871
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
@@ -22862,7 +22862,7 @@
 		size= 1655
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
@@ -22911,7 +22911,7 @@
 		size= 19219
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = catholic
@@ -22953,7 +22953,7 @@
 		size= 1756
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = finnish
 		religion = norse_pagan_reformed
@@ -23004,7 +23004,7 @@
 
 }
 2700 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
@@ -23055,7 +23055,7 @@
 
 }
 2701 = {
-	soldiers=
+	farmers=
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
@@ -23139,7 +23139,7 @@
 		size= 59
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
