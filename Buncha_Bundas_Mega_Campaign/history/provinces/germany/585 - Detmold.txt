@@ -1,7 +1,7 @@
-owner=RHI
-controller=RHI
+owner=X09
+controller=X09
 add_core=GER
-add_core=RHI
+add_core=X09
 
 trade_goods = coal
 life_rating = 40

@@ -565,18 +565,11 @@
 
 }
 636 = {
-	soldiers=
+	craftsmen=
 	{
 		culture = slovak
-		religion = tengri_pagan_reformed
-		size= 204
-	}
-
-	artisans=
-	{
-		culture = slovak
-		religion = tengri_pagan_reformed
-		size= 50
+		religion = hussite
+		size= 16466
 	}
 
 	clergymen=
@@ -611,7 +604,7 @@
 	{
 		culture = slovak
 		religion = tengri_pagan_reformed
-		size= 3369
+		size= 369
 	}
 
 	soldiers=
@@ -716,21 +709,21 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 1796
+		size= 796
 	}
 
 	artisans=
 	{
 		culture = czech
 		religion = hussite
-		size= 4061
+		size= 061
 	}
 
 	clergymen=
 	{
 		culture = czech
 		religion = hussite
-		size= 412
+		size= 12
 	}
 
 	bureaucrats=
@@ -809,14 +802,14 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 4529
+		size= 529
 	}
 
-	soldiers=
+	craftsmen=
 	{
 		culture = slovak
 		religion = hussite
-		size= 466
+		size= 16466
 	}
 
 	artisans=
@@ -865,7 +858,7 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 3092
+		size= 92
 	}
 
 	artisans=

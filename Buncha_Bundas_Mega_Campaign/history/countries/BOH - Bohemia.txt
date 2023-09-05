@@ -4,7 +4,7 @@ culture = south_german
 culture = slovak
 culture = zzz_religion_hussite
 religion = hussite
-government = absolute_monarchy
+government = prussian_constitutionalism
 plurality = 0.12
 nationalvalue = nv_productivity
 literacy = 0.794214
@@ -12,13 +12,13 @@ non_state_culture_literacy = 0.6
 civilized = yes
 
 # Social Reforms
-wage_reform = no_minimum_wage
+wage_reform = trinket_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
-school_reforms = no_schools
+school_reforms = low_schools
 
 # political reforms
 slavery=no_slavery
@@ -29,8 +29,14 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
+# New Reforms
+conscription = four_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 
-ruling_party = BOH_liberal
+ruling_party = BOH_conservative
 upper_house = 
 {
 	fascist = 0
@@ -75,7 +81,7 @@ military_staff_system = 1
 military_plans = 1
 muzzle_loaded_rifles = 1
 mechanized_mining = 1
-prestige=52.1647
+prestige=122.1647
 oob = "BOH_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_BOH
