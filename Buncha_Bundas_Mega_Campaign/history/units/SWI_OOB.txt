@@ -346,107 +346,31 @@ leader = {
 
 #Armies
 army = {
-	name="Armee von Valais"
+	name="1st Army"
 	location=603
 	regiment = {
-		name="1st Zurich Artillery"
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
 		type=artillery
-		home=603
 	}
 	regiment = {
-		name="2nd Zurich Artillery"
+		name="Artillery"
 		type=artillery
-		home=603
-	}
-	regiment = {
-		name="1st Basel Artillery"
-		type=artillery
-		home=604
-	}
-	regiment = {
-		name="3rd Zurich Artillery"
-		type=artillery
-		home=603
-	}
-	regiment = {
-		name="1st Lucerne Artillery"
-		type=artillery
-		home=606
-	}
-	regiment = {
-		name="2nd Basel Artillery"
-		type=artillery
-		home=604
-	}
-}
-
-army = {
-	name="Independent Army"
-	location=605
-	regiment = {
-		name="1st Bern Infantry"
-		type=infantry
-		home=605
-	}
-	regiment = {
-		name="2nd Bern Infantry"
-		type=infantry
-		home=605
-	}
-	regiment = {
-		name="3rd Bern Infantry"
-		type=infantry
-		home=605
-	}
-	regiment = {
-		name="4th Bern Infantry"
-		type=infantry
-		home=605
-	}
-	regiment = {
-		name="5th Bern Infantry"
-		type=infantry
-		home=605
-	}
-	regiment = {
-		name="6th Bern Infantry"
-		type=infantry
-		home=605
-	}
-	regiment = {
-		name="7th Bern Infantry"
-		type=infantry
-		home=605
-	}
-}
-
-army = {
-	name="Swiss Home Guard"
-	location=604
-	regiment = {
-		name="1st Basel Infantry"
-		type=infantry
-		home=604
-	}
-	regiment = {
-		name="2nd Basel Infantry"
-		type=infantry
-		home=604
-	}
-	regiment = {
-		name="3rd Basel Infantry"
-		type=infantry
-		home=604
-	}
-	regiment = {
-		name="4th Basel Infantry"
-		type=infantry
-		home=604
-	}
-	regiment = {
-		name="5th Basel Infantry"
-		type=infantry
-		home=604
 	}
 }
 

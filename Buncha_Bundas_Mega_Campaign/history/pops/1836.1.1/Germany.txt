@@ -3580,14 +3580,14 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1697
+		size= 697
 	}
 
 	artisans=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1043
+		size= 043
 	}
 
 	clergymen=
@@ -3622,21 +3622,21 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 26805
+		size= 805
 	}
 
 	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
-		size= 7070
+		size= 70
 	}
 
 	artisans=
 	{
 		culture = western_slavic
 		religion = hussite
-		size= 9733
+		size= 733
 	}
 
 	clergymen=
@@ -3671,28 +3671,28 @@
 	{
 		culture = western_slavic
 		religion = hussite
-		size= 105149
+		size= 5149
 	}
 
 	farmers=
 	{
 		culture = czech
 		religion = hussite
-		size= 9371
+		size= 4371
 	}
 
 	artisans=
 	{
 		culture = czech
 		religion = hussite
-		size= 33816
+		size= 816
 	}
 
 	clergymen=
 	{
 		culture = czech
 		religion = hussite
-		size= 3136
+		size= 136
 	}
 
 	bureaucrats=
@@ -3720,7 +3720,7 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 114000
+		size= 100000
 	}
 
 }
@@ -4365,21 +4365,21 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 20136
+		size= 136
 	}
 
 	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
-		size= 2194
+		size= 194
 	}
 
 	artisans=
 	{
 		culture = western_slavic
 		religion = hussite
-		size= 5955
+		size= 955
 	}
 
 	clergymen=
@@ -4414,7 +4414,7 @@
 	{
 		culture = western_slavic
 		religion = hussite
-		size= 48914
+		size= 914
 	}
 
 	soldiers=
@@ -4463,21 +4463,21 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 5129
+		size= 129
 	}
 
 	farmers=
 	{
 		culture = czech
 		religion = hussite
-		size= 3874
+		size= 874
 	}
 
 	artisans=
 	{
 		culture = czech
 		religion = hussite
-		size= 22395
+		size= 395
 	}
 
 	clergymen=
@@ -12411,14 +12411,14 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 3764
+		size= 764
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = catholic
-		size= 2864
+		size= 864
 	}
 
 	clergymen=
@@ -12453,28 +12453,28 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 33567
+		size= 567
 	}
 
 	farmers=
 	{
 		culture = south_german
 		religion = hussite
-		size= 28389
+		size= 389
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = hussite
-		size= 47950
+		size= 950
 	}
 
 	clergymen=
 	{
 		culture = south_german
 		religion = hussite
-		size= 4453
+		size= 453
 	}
 
 	bureaucrats=
@@ -12495,14 +12495,14 @@
 	{
 		culture = south_german
 		religion = hussite
-		size= 5754
+		size= 754
 	}
 
 	farmers=
 	{
 		culture = south_german
 		religion = hussite
-		size= 220146
+		size= 140146
 	}
 
 	farmers=

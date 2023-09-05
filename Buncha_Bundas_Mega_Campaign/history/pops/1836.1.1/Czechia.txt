@@ -110,7 +110,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 29013
+		size= 9013
 	}
 
 	artisans=
@@ -131,7 +131,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 1433
+		size= 433
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 13933
+		size= 933
 	}
 
 	farmers=
@@ -159,14 +159,14 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 21330
+		size= 11330
 	}
 
 	artisans=
 	{
 		culture = czech
 		religion = hussite
-		size= 32931
+		size= 931
 	}
 
 	clergymen=
@@ -180,7 +180,7 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 6373
+		size= 373
 	}
 
 	officers=
@@ -194,14 +194,14 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 6168
+		size= 168
 	}
 
 	farmers=
 	{
 		culture = czech
 		religion = hussite
-		size= 165880
+		size= 65880
 	}
 
 	farmers=
@@ -215,7 +215,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 8621
+		size= 621
 	}
 
 	clergymen=
@@ -250,7 +250,7 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 10408
+		size= 5408
 	}
 
 }
@@ -666,14 +666,14 @@
 	{
 		culture = czech
 		religion = catholic
-		size= 26013
+		size= 6013
 	}
 
 	soldiers=
 	{
 		culture = czech
 		religion = catholic
-		size= 4160
+		size= 160
 	}
 
 	artisans=
@@ -715,7 +715,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 10377
+		size= 377
 	}
 
 	farmers=
@@ -729,7 +729,7 @@
 	{
 		culture = slovak
 		religion = hussite
-		size= 1416
+		size= 416
 	}
 
 	clergymen=
@@ -764,21 +764,21 @@
 	{
 		culture = slovak
 		religion = hussite
-		size= 11817
+		size= 817
 	}
 
 	farmers=
 	{
 		culture = czech
 		religion = hussite
-		size= 20337
+		size= 337
 	}
 
 	artisans=
 	{
 		culture = czech
 		religion = hussite
-		size= 32198
+		size= 198
 	}
 
 	clergymen=
@@ -806,14 +806,14 @@
 	{
 		culture = czech
 		religion = hussite
-		size= 6111
+		size= 111
 	}
 
 	farmers=
 	{
 		culture = czech
 		religion = hussite
-		size= 155872
+		size= 55872
 	}
 
 	farmers=

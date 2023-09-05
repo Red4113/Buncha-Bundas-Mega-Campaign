@@ -1234,14 +1234,14 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 3832
+		size= 1832
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = catholic
-		size= 2916
+		size= 916
 	}
 
 	clergymen=
@@ -1276,28 +1276,28 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 34179
+		size= 4179
 	}
 
 	farmers=
 	{
 		culture = south_german
 		religion = hussite
-		size= 21895
+		size= 1895
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = hussite
-		size= 36236
+		size= 3236
 	}
 
 	clergymen=
 	{
 		culture = south_german
 		religion = hussite
-		size= 3365
+		size= 365
 	}
 
 	bureaucrats=
@@ -1318,7 +1318,7 @@
 	{
 		culture = south_german
 		religion = hussite
-		size= 4348
+		size= 348
 	}
 
 	farmers=
