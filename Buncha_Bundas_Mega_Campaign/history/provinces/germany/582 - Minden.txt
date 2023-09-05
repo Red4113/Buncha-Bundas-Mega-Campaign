@@ -1,8 +1,7 @@
-owner=NET
-controller=NET
+owner=HES
+controller=HES
 add_core=GER
 add_core=HES
-add_core=NET
-add_core=WES
+
 trade_goods = cattle
 life_rating = 40

@@ -1,7 +1,7 @@
-owner=NET
-controller=NET
+owner=RHI
+controller=RHI
 add_core=GER
-add_core=NET
+add_core=RHI
 add_core=X29
 trade_goods = iron
 life_rating = 40

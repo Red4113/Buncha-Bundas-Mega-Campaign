@@ -13,6 +13,13 @@ substate = {
 }
 
 substate = {
+    first = NET
+    second = RHI
+    start_date = 1821.1.1
+    end_date = 1936.1.1
+}
+
+substate = {
     first = DAI
     second = CHK
     start_date = 1821.1.1

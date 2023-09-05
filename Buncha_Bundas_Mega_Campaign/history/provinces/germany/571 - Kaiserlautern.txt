@@ -1,8 +1,7 @@
-owner=NET
-controller=NET
+owner=RHI
+controller=RHI
 add_core=GER
-add_core=NET
-add_core=X29
+add_core=RHI
 trade_goods = fruit
 life_rating = 40
 state_building=
