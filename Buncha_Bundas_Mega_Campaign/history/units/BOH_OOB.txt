@@ -5,12 +5,6 @@ ULM = {
 	influence_value = 50
 }
 
-ALP = {
-	value = 150
-	level = 5
-	influence_value = 50
-}
-
 ULM = {
 	value = 150
 	level = 5

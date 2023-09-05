@@ -5,6 +5,19 @@ ADU = {
 	influence_value = 3
 	level = 3
 }
+
+ALP = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+
+SLO = {
+	value = 150
+	level = 5
+	influence_value = 50
+}
+
 AFG = {
 	value = 67
 	influence_value = 4
@@ -265,10 +278,6 @@ SER = {
 	military_access = yes
 	influence_value = 56
 	level = 5
-}
-SLO = {
-	value = 0
-	level = 2
 }
 SPQ = {
 	value = 0
