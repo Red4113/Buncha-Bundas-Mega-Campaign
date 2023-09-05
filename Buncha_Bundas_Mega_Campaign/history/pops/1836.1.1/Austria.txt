@@ -827,7 +827,7 @@
 	{
 		culture = slovene
 		religion = catholic
-		size= 17905
+		size= 7905
 	}
 
 	farmers=
@@ -841,7 +841,7 @@
 	{
 		culture = slovene
 		religion = hussite
-		size= 12306
+		size= 2306
 	}
 
 	clergymen=
@@ -876,7 +876,7 @@
 	{
 		culture = slovene
 		religion = hussite
-		size= 76830
+		size= 16830
 	}
 
 	farmers=
@@ -925,7 +925,7 @@
 	{
 		culture = south_german
 		religion = hussite
-		size= 12598
+		size= 2598
 	}
 
 }

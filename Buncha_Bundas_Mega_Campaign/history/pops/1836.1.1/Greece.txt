@@ -1251,14 +1251,14 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2784
+		size= 784
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1708
+		size= 708
 	}
 
 	clergymen=
@@ -1293,105 +1293,105 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 46099
+		size= 16099
 	}
 
 	soldiers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 295
+		size= 95
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 2069
+		size= 69
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 185
+		size= 85
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 28
+		size= 8
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 33
+		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 104
+		size= 4
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 2541
+		size= 941
 	}
 
 	soldiers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 1764
+		size= 4
 	}
 
 	artisans=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 8102
+		size= 2
 	}
 
 	clergymen=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 722
+		size= 2
 	}
 
 	bureaucrats=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 109
+		size= 9
 	}
 
 	officers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 128
+		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 409
+		size= 9
 	}
 
 	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 20518
+		size= 1518
 	}
 
 }
@@ -1400,126 +1400,126 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5939
+		size= 39
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 2260
+		size= 60
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 210
+		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 29
+		size= 9
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 47
+		size= 7
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 136
-	}
-
-	farmers=
-	{
-		culture = greek
-		religion = orthodox
-		size= 55937
-	}
-
-	soldiers=
-	{
-		culture = greek
-		religion = hellenic_pagan
-		size= 757
-	}
-
-	artisans=
-	{
-		culture = greek
-		religion = hellenic_pagan
-		size= 2836
-	}
-
-	clergymen=
-	{
-		culture = greek
-		religion = hellenic_pagan
-		size= 263
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = hellenic_pagan
 		size= 36
 	}
 
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 937
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 836
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 6
+	}
+
 	officers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 59
+		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 170
+		size= 70
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 4110
+		size= 910
 	}
 
 	soldiers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 3337
+		size= 37
 	}
 
 	artisans=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 10174
+		size= 174
 	}
 
 	clergymen=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 945
+		size= 45
 	}
 
 	bureaucrats=
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 131
+		size= 31
 	}
 
 	officers=
@@ -1540,7 +1540,7 @@
 	{
 		culture = laessin
 		religion = hellenic_pagan
-		size= 20867
+		size= 867
 	}
 
 }
@@ -2890,49 +2890,49 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4640
+		size= 40
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 3315
+		size= 15
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1077
+		size= 77
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 149
+		size= 49
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 174
+		size= 74
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 696
+		size= 96
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 72815
+		size= 9815
 	}
 
 }
@@ -3586,21 +3586,21 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3498
+		size= 98
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 2499
+		size= 99
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 812
+		size= 12
 	}
 
 	bureaucrats=
@@ -3628,7 +3628,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 54363
+		size= 4363
 	}
 
 }
@@ -3637,49 +3637,49 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5681
+		size= 81
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 14202
+		size= 102
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1319
+		size= 19
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 183
+		size= 13
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 213
+		size= 23
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 852
+		size= 82
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 78993
+		size= 1793
 	}
 
 }
@@ -3688,112 +3688,112 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2956
+		size= 56
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1673
+		size= 73
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 155
+		size= 55
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 22
+		size= 2
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 25
+		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 101
+		size= 18
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 47844
+		size= 1844
 	}
 
 	soldiers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 303
+		size= 3
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 2400
+		size= 10
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 223
+		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 31
+		size= 11
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 36
+		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 144
+		size= 44
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 2531
+		size= 531
 	}
 
 	soldiers=
 	{
 		culture = palmyrene
 		religion = hellenic_pagan
-		size= 802
+		size= 12
 	}
 
 	artisans=
 	{
 		culture = palmyrene
 		religion = hellenic_pagan
-		size= 6077
+		size= 77
 	}
 
 	clergymen=
@@ -3828,7 +3828,7 @@
 	{
 		culture = palmyrene
 		religion = hellenic_pagan
-		size= 6337
+		size= 1337
 	}
 
 }
@@ -3837,21 +3837,21 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2799
+		size= 99
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1530
+		size= 30
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 129
+		size= 29
 	}
 
 	bureaucrats=
@@ -3879,7 +3879,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 46478
+		size= 1478
 	}
 
 	soldiers=
@@ -3893,7 +3893,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 302
+		size= 12
 	}
 
 	clergymen=
@@ -3942,7 +3942,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 2023
+		size= 23
 	}
 
 	clergymen=
@@ -3991,7 +3991,7 @@
 	{
 		culture = palmyrene
 		religion = hellenic_pagan
-		size= 5772
+		size= 72
 	}
 
 	clergymen=
@@ -4019,14 +4019,14 @@
 	{
 		culture = palmyrene
 		religion = hellenic_pagan
-		size= 348
+		size= 48
 	}
 
 	farmers=
 	{
 		culture = palmyrene
 		religion = hellenic_pagan
-		size= 6111
+		size= 911
 	}
 
 }

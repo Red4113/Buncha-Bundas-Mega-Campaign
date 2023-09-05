@@ -343,7 +343,7 @@
 	{
 		culture = slovene
 		religion = catholic
-		size= 20401
+		size= 10401
 	}
 
 	soldiers=
@@ -357,7 +357,7 @@
 	{
 		culture = slovene
 		religion = hussite
-		size= 5905
+		size= 1905
 	}
 
 	clergymen=
@@ -392,7 +392,7 @@
 	{
 		culture = slovene
 		religion = hussite
-		size= 64075
+		size= 44075
 	}
 
 	soldiers=
@@ -406,7 +406,7 @@
 	{
 		culture = slovene
 		religion = hellenic_pagan
-		size= 13549
+		size= 3549
 	}
 
 	clergymen=
@@ -441,7 +441,7 @@
 	{
 		culture = slovene
 		religion = hellenic_pagan
-		size= 31635
+		size= 11635
 	}
 
 }

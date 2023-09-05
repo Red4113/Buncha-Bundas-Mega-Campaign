@@ -1,198 +1,198 @@
 770 = {
 	soldiers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
 		size= 873
 	}
 
 	artisans=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
 		size= 156
 	}
 
 	clergymen=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
 		size= 7
 	}
 
 	officers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = waldensian
-		size= 29987
+		size= 9987
 	}
 
 	soldiers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
 		size= 485
 	}
 
 	artisans=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
 		size= 329
 	}
 
 	clergymen=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
 		size= 107
 	}
 
 	bureaucrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
 		size= 104
 	}
 
 	farmers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = protestant
-		size= 16230
+		size= 6230
 	}
 
 	soldiers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
 		size= 387
 	}
 
 	artisans=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
 		size= 761
 	}
 
 	clergymen=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
 		size= 247
 	}
 
 	bureaucrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
 		size= 34
 	}
 
 	officers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
 		size= 240
 	}
 
 	farmers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hellenic_pagan
-		size= 12090
+		size= 2090
 	}
 
 	soldiers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
-		size= 3781
+		size= 781
 	}
 
 	artisans=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
-		size= 6648
+		size= 648
 	}
 
 	clergymen=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
-		size= 2160
+		size= 160
 	}
 
 	bureaucrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
 		size= 299
 	}
 
 	officers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
 		size= 266
 	}
 
 	aristocrats=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
 		size= 2094
 	}
 
 	farmers=
 	{
-		culture = north_italian
+		culture = slovene
 		religion = hussite
-		size= 119594
+		size= 9594
 	}
 
 }
@@ -1314,7 +1314,7 @@
 	{
 		culture = croat
 		religion = waldensian
-		size= 10604
+		size= 3604
 	}
 
 	soldiers=
@@ -1328,14 +1328,14 @@
 	{
 		culture = slovene
 		religion = protestant
-		size= 9675
+		size= 675
 	}
 
 	clergymen=
 	{
 		culture = slovene
 		religion = protestant
-		size= 1037
+		size= 37
 	}
 
 	bureaucrats=
@@ -1363,7 +1363,7 @@
 	{
 		culture = slovene
 		religion = protestant
-		size= 72699
+		size= 1699
 	}
 
 	soldiers=

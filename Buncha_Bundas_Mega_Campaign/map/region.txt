@@ -230,7 +230,7 @@ FRA_458 = { 458 459 460 } #Aquitaine
 
 FRA_461 = { 461 462 463 464 } #Languedoc
 
-SAR_466 = { 465 466 472 } #Savoie
+SAR_466 = { 465 466 } #Savoie
 
 FRA_467 = { 467 468 469 470 471 } #Provence
 
@@ -370,7 +370,7 @@ AUS_2538 = { 2538 791 792 } #Vojvodina
 
 ### Italy
 
-SAR_720 = { 720 721 722 723 724 725 } #Piemonte
+SAR_720 = { 720 721 722 723 724 725 472 } #Piemonte
 
 #MOD_739 = { 739 738 740 } #Emilia
 

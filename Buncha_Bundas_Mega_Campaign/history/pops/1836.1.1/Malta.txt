@@ -1,10 +1,4 @@
 854 = {
-	soldiers=
-	{
-		culture = magnagreek
-		religion = hellenic_pagan
-		size= 740
-	}
 
 	artisans=
 	{
@@ -20,81 +14,11 @@
 		size= 52
 	}
 
-	bureaucrats=
-	{
-		culture = magnagreek
-		religion = hellenic_pagan
-		size= 7
-	}
-
-	officers=
-	{
-		culture = magnagreek
-		religion = hellenic_pagan
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = magnagreek
-		religion = hellenic_pagan
-		size= 34
-	}
-
-	farmers=
-	{
-		culture = magnagreek
-		religion = hellenic_pagan
-		size= 6639
-	}
-
-	soldiers=
-	{
-		culture = latin
-		religion = hellenic_pagan
-		size= 7286
-	}
-
-	artisans=
-	{
-		culture = latin
-		religion = hellenic_pagan
-		size= 11651
-	}
-
-	clergymen=
-	{
-		culture = latin
-		religion = hellenic_pagan
-		size= 1082
-	}
-
-	bureaucrats=
-	{
-		culture = latin
-		religion = hellenic_pagan
-		size= 150
-	}
-
-	officers=
-	{
-		culture = latin
-		religion = hellenic_pagan
-		size= 241
-	}
-
-	aristocrats=
-	{
-		culture = latin
-		religion = hellenic_pagan
-		size= 699
-	}
-
 	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
-		size= 58091
+		size= 4091
 	}
 
 }

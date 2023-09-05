@@ -472,266 +472,6 @@ leader = {
 }
 
 
-army = {
-	name="Leger van Gent"
-	location=377
-	regiment = {
-		name="1st Breda Infantry"
-		type=infantry
-		home=380
-	}
-	regiment = {
-		name="1st Amsterdam Infantry"
-		type=infantry
-		home=375
-	}
-	regiment = {
-		name="1st Middelburg Cavalry"
-		type=cavalry
-		home=378
-	}
-	regiment = {
-		name="1st Antwerp Artillery"
-		type=artillery
-		home=390
-	}
-	regiment = {
-		name="1st Rotterdam Artillery"
-		type=artillery
-		home=376
-	}
-	regiment = {
-		name="1st Ipoh Infantry"
-		type=infantry
-		home=2575
-	}
-	regiment = {
-		name="1st Breda Cavalry"
-		type=cavalry
-		home=380
-	}
-	regiment = {
-		name="1st Toamasina Cavalry"
-		type=cavalry
-		home=2119
-	}
-	regiment = {
-		name="1st Middelburg Artillery"
-		type=artillery
-		home=378
-	}
-}
-
-army = {
-	name="Prinselijk Leger"
-	location=378
-	regiment = {
-		name="1st Utrecht Infantry"
-		type=infantry
-		home=377
-	}
-	regiment = {
-		name="1st Arlon Infantry"
-		type=infantry
-		home=398
-	}
-	regiment = {
-		name="1st Arnhem Infantry"
-		type=infantry
-		home=382
-	}
-	regiment = {
-		name="1st Breda Artillery"
-		type=artillery
-		home=380
-	}
-	regiment = {
-		name="2nd Breda Artillery"
-		type=artillery
-		home=380
-	}
-	regiment = {
-		name="2nd Münster Infantry"
-		type=infantry
-		home=581
-	}
-	regiment = {
-		name="8th Breda Artillery"
-		type=artillery
-		home=380
-	}
-}
-
-army = {
-	name="Leger van Afder"
-	location=390
-	regiment = {
-		name="1st Toamasina Infantry"
-		type=infantry
-		home=2119
-	}
-	regiment = {
-		name="1st Hasselt Infantry"
-		type=infantry
-		home=391
-	}
-	regiment = {
-		name="2nd Middelburg Cavalry"
-		type=cavalry
-		home=378
-	}
-	regiment = {
-		name="1st Kelang Artillery"
-		type=artillery
-		home=1387
-	}
-	regiment = {
-		name="3rd Breda Artillery"
-		type=artillery
-		home=380
-	}
-	regiment = {
-		name="2nd Ipoh Infantry"
-		type=infantry
-		home=2575
-	}
-	regiment = {
-		name="3rd Middelburg Cavalry"
-		type=cavalry
-		home=378
-	}
-	regiment = {
-		name="1st Eindhoven Cavalry"
-		type=cavalry
-		home=379
-	}
-	regiment = {
-		name="7th Breda Artillery"
-		type=artillery
-		home=380
-	}
-}
-
-army = {
-	name="Leger van Den Haag"
-	location=539
-	regiment = {
-		name="1st Bremen Infantry"
-		type=infantry
-		home=539
-	}
-	regiment = {
-		name="1st Münster Infantry"
-		type=infantry
-		home=581
-	}
-	regiment = {
-		name="1st Stade Infantry"
-		type=infantry
-		home=531
-	}
-	regiment = {
-		name="4th Breda Artillery"
-		type=artillery
-		home=380
-	}
-	regiment = {
-		name="5th Breda Artillery"
-		type=artillery
-		home=380
-	}
-	regiment = {
-		name="1st Utrecht Artillery"
-		type=artillery
-		home=377
-	}
-	regiment = {
-		name="6th Breda Artillery"
-		type=artillery
-		home=380
-	}
-	regiment = {
-		name="2nd Antwerp Artillery"
-		type=artillery
-		home=390
-	}
-	regiment = {
-		name="2nd Bremen Infantry"
-		type=infantry
-		home=539
-	}
-}
-
-army = {
-	name="Leger van 's-Hertogenbosch"
-	location=382
-	regiment = {
-		name="1st Cleves Infantry"
-		type=infantry
-		home=577
-	}
-	regiment = {
-		name="1st Wiesbaden Infantry"
-		type=infantry
-		home=565
-	}
-	regiment = {
-		name="2nd Utrecht Infantry"
-		type=infantry
-		home=377
-	}
-	regiment = {
-		name="3rd Antwerp Artillery"
-		type=artillery
-		home=390
-	}
-	regiment = {
-		name="1st Bruges Artillery"
-		type=artillery
-		home=388
-	}
-}
-
-army = {
-	name="Leger van Demak"
-	location=1414
-	regiment = {
-		name="1st Bogor Infantry"
-		type=infantry
-		home=1414
-	}
-	regiment = {
-		name="1st Surakarta Infantry"
-		type=infantry
-		home=1419
-	}
-	regiment = {
-		name="2nd Bogor Infantry"
-		type=infantry
-		home=1414
-	}
-	regiment = {
-		name="4th Cirebon Infantry"
-		type=infantry
-		home=1415
-	}
-	regiment = {
-		name="2nd Yogyakarta Artillery"
-		type=artillery
-		home=1416
-	}
-	regiment = {
-		name="1st Batavia Artillery"
-		type=artillery
-		home=1413
-	}
-	regiment = {
-		name="1st Sumbawa Artillery"
-		type=artillery
-		home=1440
-	}
-}
-
 navy = {
 	name="Middellandse Zeevloot"
 	location=1448
@@ -1407,41 +1147,6 @@ navy = {
 	}
 }
 
-army = {
-	name="3rd Army"
-	location=2228
-	regiment = {
-		name="1st Rotterdam Infantry"
-		type=infantry
-		home=376
-	}
-	regiment = {
-		name="1st Ghent Cavalry"
-		type=cavalry
-		home=389
-	}
-	regiment = {
-		name="2nd Ghent Cavalry"
-		type=cavalry
-		home=389
-	}
-	regiment = {
-		name="2nd Bruges Artillery"
-		type=artillery
-		home=388
-	}
-	regiment = {
-		name="1st Aachen Artillery"
-		type=artillery
-		home=576
-	}
-	regiment = {
-		name="1st Oldenburg Cavalry"
-		type=cavalry
-		home=540
-	}
-}
-
 navy = {
 	name="1st Fleet"
 	location=2969
@@ -1514,3 +1219,221 @@ navy = {
 	}
 }
 
+army = {
+	name="Leger van Rotterdam"
+	location=376
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=625
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=628
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=627
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=630
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=631
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=634
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=633
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=638
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=637
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=637
+	}
+}
+army = {
+	name="Leger van Antwerp"
+	location=390
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=625
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=628
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=627
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=630
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=631
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=634
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=633
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=638
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=637
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=637
+	}
+}
+
+army = {
+	name="Leger van Emden"
+	location=543
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=625
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=628
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=627
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=630
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=631
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=634
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=633
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=638
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=637
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=637
+	}
+}
+
+army = {
+	name="Leger van Demak"
+	location=1417
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=625
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=628
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=627
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+		#home=630
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=631
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=634
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=633
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=638
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+		#home=637
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+		#home=637
+	}
+}

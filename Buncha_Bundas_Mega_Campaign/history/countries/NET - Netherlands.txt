@@ -7,7 +7,7 @@ religion = protestant
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.620576
+literacy = 0.720576
 non_state_culture_literacy = 0.3
 
 civilized = yes
