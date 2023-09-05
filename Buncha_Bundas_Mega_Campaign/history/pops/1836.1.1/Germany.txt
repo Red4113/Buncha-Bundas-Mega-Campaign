@@ -1,5 +1,5 @@
 369 = {
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = catholic
@@ -41,7 +41,7 @@
 		size= 10855
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
@@ -83,7 +83,7 @@
 		size= 59940
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = protestant
@@ -127,7 +127,7 @@
 
 }
 528 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -653,7 +653,7 @@
 
 }
 532 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -1100,7 +1100,7 @@
 
 }
 535 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -1445,7 +1445,7 @@
 		size= 29422
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -2882,7 +2882,7 @@
 
 }
 544 = {
-	soldiers=
+	farmers=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
@@ -3525,7 +3525,7 @@
 		size= 7648
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -3674,7 +3674,7 @@
 		size= 105149
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -4874,7 +4874,7 @@
 		size= 18590
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -5193,7 +5193,7 @@
 		size= 9433
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -5242,7 +5242,7 @@
 		size= 30882
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -5342,7 +5342,7 @@
 		size= 17010
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -5440,7 +5440,7 @@
 		size= 4301
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -5631,7 +5631,7 @@
 		size= 9430
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -5701,7 +5701,7 @@
 		size= 71461
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -5773,7 +5773,7 @@
 
 }
 559 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
@@ -5822,7 +5822,7 @@
 		size= 13069
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -5871,7 +5871,7 @@
 		size= 45872
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -5971,7 +5971,7 @@
 		size= 11459
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -6020,7 +6020,7 @@
 		size= 31104
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -6169,7 +6169,7 @@
 		size= 3830
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -6218,7 +6218,7 @@
 		size= 23069
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -6367,7 +6367,7 @@
 		size= 3443
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -6416,7 +6416,7 @@
 		size= 22385
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -6467,7 +6467,7 @@
 
 }
 563 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
@@ -6516,7 +6516,7 @@
 		size= 18787
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = protestant
@@ -6565,7 +6565,7 @@
 		size= 14423
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -6614,7 +6614,7 @@
 		size= 18687
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -6812,7 +6812,7 @@
 		size= 28547
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -6933,7 +6933,7 @@
 		size= 9634
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -7103,7 +7103,7 @@
 		size= 19777
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -7252,7 +7252,7 @@
 		size= 2
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -7401,7 +7401,7 @@
 		size= 14330
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -7550,7 +7550,7 @@
 		size= 7035
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -7748,7 +7748,7 @@
 		size= 14822
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -7799,7 +7799,7 @@
 
 }
 571 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -7869,7 +7869,7 @@
 		size= 25131
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8039,7 +8039,7 @@
 		size= 429
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8190,7 +8190,7 @@
 
 }
 574 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8239,7 +8239,7 @@
 		size= 19952
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8290,7 +8290,7 @@
 
 }
 575 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8339,7 +8339,7 @@
 		size= 18773
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -8388,7 +8388,7 @@
 		size= 3240
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8439,7 +8439,7 @@
 
 }
 576 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8488,7 +8488,7 @@
 		size= 35433
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = norse_pagan_reformed
@@ -8537,7 +8537,7 @@
 		size= 5685
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8588,7 +8588,7 @@
 
 }
 577 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8637,7 +8637,7 @@
 		size= 19993
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8688,7 +8688,7 @@
 
 }
 578 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8737,7 +8737,7 @@
 		size= 12909
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8788,7 +8788,7 @@
 
 }
 579 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8837,7 +8837,7 @@
 		size= 10577
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8888,7 +8888,7 @@
 
 }
 580 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -8937,7 +8937,7 @@
 		size= 22682
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -8988,7 +8988,7 @@
 
 }
 581 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -9086,7 +9086,7 @@
 		size= 6284
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -9137,7 +9137,7 @@
 
 }
 582 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -9186,7 +9186,7 @@
 		size= 14066
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -9235,7 +9235,7 @@
 		size= 82077
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = cathar
@@ -9435,7 +9435,7 @@
 
 }
 584 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -9533,7 +9533,7 @@
 		size= 2
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -9584,7 +9584,7 @@
 
 }
 585 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -9633,7 +9633,7 @@
 		size= 13734
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -9682,7 +9682,7 @@
 		size= 80136
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = cathar
@@ -9733,7 +9733,7 @@
 
 }
 586 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -9782,7 +9782,7 @@
 		size= 29395
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -9831,7 +9831,7 @@
 		size= 19891
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -9931,7 +9931,7 @@
 		size= 16481
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -9980,7 +9980,7 @@
 		size= 2925
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -10031,7 +10031,7 @@
 
 }
 588 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -10278,7 +10278,7 @@
 		size= 4274
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -10327,7 +10327,7 @@
 		size= 4758
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -10378,7 +10378,7 @@
 
 }
 590 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
@@ -10427,7 +10427,7 @@
 		size= 21295
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = protestant
@@ -10476,7 +10476,7 @@
 		size= 17526
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -10574,7 +10574,7 @@
 		size= 82197
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = cathar
@@ -10623,7 +10623,7 @@
 		size= 7665
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -10672,7 +10672,7 @@
 		size= 8717
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = protestant
@@ -10723,7 +10723,7 @@
 
 }
 591 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -10772,7 +10772,7 @@
 		size= 7393
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -10821,7 +10821,7 @@
 		size= 5391
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -10921,7 +10921,7 @@
 		size= 16498
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -10970,7 +10970,7 @@
 		size= 3891
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -11019,7 +11019,7 @@
 		size= 4619
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -11068,7 +11068,7 @@
 		size= 121246
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -11117,7 +11117,7 @@
 		size= 14084
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = protestant
@@ -11217,7 +11217,7 @@
 		size= 18666
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -11266,7 +11266,7 @@
 		size= 7228
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -11317,7 +11317,7 @@
 
 }
 594 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -11366,7 +11366,7 @@
 		size= 6529
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -11415,7 +11415,7 @@
 		size= 4763
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -11564,7 +11564,7 @@
 		size= 4532
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bavarian-slovene-culture-num1
 		religion = hussite
@@ -11613,7 +11613,7 @@
 		size= 17987
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -11662,7 +11662,7 @@
 		size= 8157
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -11713,7 +11713,7 @@
 
 }
 596 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -11797,7 +11797,7 @@
 		size= 78
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = protestant
@@ -11960,7 +11960,7 @@
 		size= 13013
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -12009,7 +12009,7 @@
 		size= 13849
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -12060,7 +12060,7 @@
 
 }
 598 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
@@ -12109,7 +12109,7 @@
 		size= 30418
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = protestant
@@ -12158,7 +12158,7 @@
 		size= 26445
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = hussite
@@ -12207,7 +12207,7 @@
 		size= 24032
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -12258,7 +12258,7 @@
 
 }
 599 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -12307,7 +12307,7 @@
 		size= 24933
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = protestant
@@ -12407,7 +12407,7 @@
 
 }
 600 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -12456,7 +12456,7 @@
 		size= 33567
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -12505,7 +12505,7 @@
 		size= 220146
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
@@ -12554,7 +12554,7 @@
 		size= 15043
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bavarian-slovene-culture-num1
 		religion = hussite
@@ -12605,7 +12605,7 @@
 
 }
 601 = {
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -12654,7 +12654,7 @@
 		size= 10891
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -12703,7 +12703,7 @@
 		size= 103439
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = catholic
@@ -12752,7 +12752,7 @@
 		size= 14068
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-franconian-culture-num1
 		religion = protestant
@@ -12901,7 +12901,7 @@
 		size= 27677
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-bavarian-slovene-culture-num1
 		religion = hussite
@@ -12950,7 +12950,7 @@
 		size= 22990
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_german
 		religion = hussite
@@ -13001,7 +13001,7 @@
 
 }
 687 = {
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
@@ -13050,7 +13050,7 @@
 		size= 6925
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = hussite
@@ -13099,7 +13099,7 @@
 		size= 21383
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = czech
 		religion = hussite
@@ -13148,7 +13148,7 @@
 		size= 101325
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
@@ -13199,7 +13199,7 @@
 
 }
 695 = {
-	soldiers=
+	farmers=
 	{
 		culture = pruthenian
 		religion = catholic
@@ -13241,7 +13241,7 @@
 		size= 11853
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = pruthenian
 		religion = norse_pagan_reformed
@@ -13285,7 +13285,7 @@
 
 }
 697 = {
-	soldiers=
+	farmers=
 	{
 		culture = pruthenian
 		religion = catholic
@@ -13483,7 +13483,7 @@
 		size= 2558
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite
@@ -13532,7 +13532,7 @@
 		size= 1430
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -13583,7 +13583,7 @@
 
 }
 2560 = {
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -13632,7 +13632,7 @@
 		size= 14388
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
@@ -13681,7 +13681,7 @@
 		size= 15423
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_german
 		religion = hussite

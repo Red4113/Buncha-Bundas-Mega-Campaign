@@ -472,52 +472,52 @@ army = {
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=625
+		#home=625
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=628
+		#home=628
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=627
+		#home=627
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=630
+		#home=630
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=631
+		#home=631
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=634
+		#home=634
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=633
+		#home=633
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=638
+		#home=638
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=637
+		#home=637
 	}
 	regiment = {
 		name="Hussar"
 		type=hussar
-		home=637
+		#home=637
 	}
 }
 
@@ -528,52 +528,52 @@ army = {
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=549
+		#home=549
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=556
+		#home=556
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=555
+		#home=555
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=552
+		#home=552
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=550
+		#home=550
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=551
+		#home=551
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=557
+		#home=557
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=554
+		#home=554
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=681
+		#home=681
 	}
 	regiment = {
 		name="Hussar"
 		type=hussar
-		home=682
+		#home=682
 	}
 }
 #Armies
@@ -583,52 +583,52 @@ army = {
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=619
+		#home=619
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=624
+		#home=624
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=620
+		#home=620
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=622
+		#home=622
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=621
+		#home=621
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=635
+		#home=635
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=600
+		#home=600
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=602
+		#home=602
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=599
+		#home=599
 	}
 	regiment = {
 		name="Hussar"
 		type=hussar
-		home=2584
+		#home=2584
 	}
 }
 #Armies
@@ -638,51 +638,51 @@ army = {
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=561
+		#home=561
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=562
+		#home=562
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=554
+		#home=554
 	}
 	regiment = {
 		name="Infantry"
 		type=infantry
-		home=560
+		#home=560
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=559
+		#home=559
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=553
+		#home=553
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=627
+		#home=627
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=557
+		#home=557
 	}
 	regiment = {
 		name="Artillery"
 		type=artillery
-		home=629
+		#home=629
 	}
 	regiment = {
 		name="Hussar"
 		type=hussar
-		home=685
+		#home=685
 	}
 }

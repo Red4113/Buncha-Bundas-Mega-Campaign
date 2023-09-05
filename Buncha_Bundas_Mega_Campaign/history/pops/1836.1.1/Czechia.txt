@@ -20,6 +20,13 @@
 		size= 160
 	}
 
+	soldiers=
+	{
+		culture = czech
+		religion = catholic
+		size= 160
+	}
+
 	bureaucrats=
 	{
 		culture = czech
@@ -604,6 +611,13 @@
 		size= 9844
 	}
 
+	soldiers=
+	{
+		culture = czech
+		religion = catholic
+		size= 3160
+	}
+
 	artisans=
 	{
 		culture = czech
@@ -653,6 +667,13 @@
 		culture = czech
 		religion = catholic
 		size= 26013
+	}
+
+	soldiers=
+	{
+		culture = czech
+		religion = catholic
+		size= 4160
 	}
 
 	artisans=

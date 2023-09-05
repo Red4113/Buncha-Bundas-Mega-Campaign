@@ -8,44 +8,177 @@ army = {
 	name="1st Army"
 	location=706
 	regiment = {
-		name="1st Warsaw Infantry"
+		name="Infantry"
 		type=infantry
-		home=706
 	}
 	regiment = {
-		name="1st Radom Artillery"
-		type=artillery
-		home=713
-	}
-	regiment = {
-		name="1st Skierniewice Artillery"
-		type=artillery
-		home=710
-	}
-	regiment = {
-		name="2nd Skierniewice Artillery"
-		type=artillery
-		home=710
-	}
-	regiment = {
-		name="3rd Skierniewice Artillery"
-		type=artillery
-		home=710
-	}
-	regiment = {
-		name="1st Plock Artillery"
-		type=artillery
-		home=708
-	}
-	regiment = {
-		name="2nd Plock Artillery"
-		type=artillery
-		home=708
-	}
-	regiment = {
-		name="1st Plock Infantry"
+		name="Infantry"
 		type=infantry
-		home=708
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
+army = {
+	name="2nd Army"
+	location=708
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="3rd Army"
+	location=709
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="4th Army"
+	location=712
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
 
