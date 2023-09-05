@@ -3223,3 +3223,11 @@ TIG_socialist;Tigrayan People's Liberation Front;Front de libération du Tigrayie
 TIG_communist;Tigrayan Communist Party;Tigrayienne Parti communiste;Tigrayan Kommunistischen Partei;;;;;;;;;;;
 TIG_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;
 UTI_ADJ;Territories Exchange;;;;;;;;;;;;;
+negotiated_transfer_for_puppet;Negotiated Transfer for Puppet;;;;;;;;;;;;;
+negotiated_transfer_for_puppet_desc;Transfer a state or colonial region to another country's puppet for low inamy, 0 prestige, no jingoism;;;;;;;;;;;;;
+negotiated_transfer_for_puppet_short;$RECIPIENT$ receives $STATE$ from us;;;;;;;;;;;;;
+negotiated_transfer_for_puppet_setup;Transfer $STATE$ to $RECIPIENT$;;;;;;;;;;;;;
+negotiated_transfer;Negotiated Transfer;;;;;;;;;;;;;
+negotiated_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism;;;;;;;;;;;;;
+negotiated_transfer_short;$RECIPIENT$ receives $STATE$ from us;;;;;;;;;;;;;
+negotiated_transfer_setup;Transfer $STATE$ from our country to $RECIPIENT$;;;;;;;;;;;;;
