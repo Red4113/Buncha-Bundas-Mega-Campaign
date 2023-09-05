@@ -1903,7 +1903,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 2864
+		size= 864
 	}
 
 	artisans=
@@ -1945,28 +1945,28 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 27250
+		size= 7250
 	}
 
 	soldiers=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 4692
+		size= 692
 	}
 
 	artisans=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 2663
+		size= 663
 	}
 
 	clergymen=
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 865
+		size= 65
 	}
 
 	bureaucrats=
@@ -1980,7 +1980,7 @@
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 193
+		size= 13
 	}
 
 	aristocrats=
@@ -1994,7 +1994,7 @@
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 41961
+		size= 1961
 	}
 
 }

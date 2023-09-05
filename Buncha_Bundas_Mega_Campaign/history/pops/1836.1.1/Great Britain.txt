@@ -5919,21 +5919,21 @@
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
-		size= 9757
+		size= 1757
 	}
 
 	artisans=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
-		size= 16422
+		size= 422
 	}
 
 	clergymen=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
-		size= 1525
+		size= 525
 	}
 
 	bureaucrats=
@@ -5954,14 +5954,14 @@
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
-		size= 1478
+		size= 478
 	}
 
 	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
-		size= 76320
+		size= 6320
 	}
 
 }

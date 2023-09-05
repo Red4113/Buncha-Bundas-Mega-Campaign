@@ -256,49 +256,49 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 6420
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 16050
+		size= 1050
 	}
 
 	clergymen=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 1490
+		size= 90
 	}
 
 	bureaucrats=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 114
+		size= 14
 	}
 
 	officers=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 241
+		size= 41
 	}
 
 	aristocrats=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 963
+		size= 63
 	}
 
 	farmers=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 89366
+		size= 1366
 	}
 
 }
@@ -676,7 +676,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 108530
+		size= 48530
 	}
 
 	soldiers=
@@ -834,14 +834,14 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 19213
+		size= 213
 	}
 
 	artisans=
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 18795
+		size= 795
 	}
 
 	clergymen=
@@ -876,7 +876,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 164914
+		size= 64914
 	}
 
 }
@@ -885,7 +885,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 3133
+		size= 333
 	}
 
 	artisans=
@@ -927,7 +927,7 @@
 	{
 		culture = swedish
 		religion = norse_pagan_reformed
-		size= 29719
+		size= 9719
 	}
 
 	soldiers=
@@ -976,7 +976,7 @@
 	{
 		culture = danish
 		religion = norse_pagan_reformed
-		size= 41901
+		size= 1901
 	}
 
 }

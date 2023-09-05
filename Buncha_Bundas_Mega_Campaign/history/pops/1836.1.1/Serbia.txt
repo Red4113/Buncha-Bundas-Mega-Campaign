@@ -48,7 +48,7 @@
 		size= 17165
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = protestant
@@ -97,7 +97,7 @@
 		size= 59386
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hussite
@@ -197,7 +197,7 @@
 		size= 14966
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = hungarian
 		religion = hussite
@@ -297,7 +297,7 @@
 		size= 14197
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = orthodox
@@ -343,10 +343,10 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 46973
+		size= 16973
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hussite
@@ -357,7 +357,7 @@
 	{
 		culture = serb
 		religion = hussite
-		size= 18195
+		size= 8195
 	}
 
 	clergymen=
@@ -385,14 +385,14 @@
 	{
 		culture = serb
 		religion = hussite
-		size= 1659
+		size= 659
 	}
 
 	farmers=
 	{
 		culture = serb
 		religion = hussite
-		size= 65907
+		size= 5907
 	}
 
 }
@@ -443,7 +443,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 31816
+		size= 3816
 	}
 
 	soldiers=
@@ -492,10 +492,10 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 31204
+		size= 3204
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hussite
@@ -541,10 +541,10 @@
 	{
 		culture = serb
 		religion = hussite
-		size= 29967
+		size= 2967
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hellenic_pagan
@@ -555,7 +555,7 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 14822
+		size= 1822
 	}
 
 	clergymen=
@@ -590,12 +590,12 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 32222
+		size= 3222
 	}
 
 }
 796 = {
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = orthodox
@@ -641,7 +641,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 46465
+		size= 4665
 	}
 
 	soldiers=
@@ -690,7 +690,7 @@
 	{
 		culture = serb
 		religion = protestant
-		size= 6311
+		size= 631
 	}
 
 	soldiers=
@@ -739,10 +739,10 @@
 	{
 		culture = serb
 		religion = hussite
-		size= 22467
+		size= 267
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hellenic_pagan
@@ -753,7 +753,7 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 12372
+		size= 1372
 	}
 
 	clergymen=
@@ -788,7 +788,7 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 28202
+		size= 9802
 	}
 
 }
@@ -825,10 +825,10 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 11165
+		size= 1165
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = orthodox
@@ -874,7 +874,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 34117
+		size= 3117
 	}
 
 	soldiers=
@@ -923,7 +923,7 @@
 	{
 		culture = serb
 		religion = hussite
-		size= 24508
+		size= 9508
 	}
 
 	soldiers=
@@ -975,7 +975,7 @@
 		size= 1623
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hellenic_pagan
@@ -986,7 +986,7 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 11896
+		size= 1196
 	}
 
 	clergymen=
@@ -1021,7 +1021,7 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 27637
+		size= 2737
 	}
 
 }
@@ -1121,10 +1121,10 @@
 	{
 		culture = macedonian
 		religion = protestant
-		size= 2756
+		size= 276
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = macedonian
 		religion = hussite
@@ -1170,7 +1170,7 @@
 	{
 		culture = macedonian
 		religion = hussite
-		size= 28002
+		size= 2802
 	}
 
 }
@@ -1221,7 +1221,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 22046
+		size= 2246
 	}
 
 	soldiers=
@@ -1273,7 +1273,7 @@
 		size= 2725
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = macedonian
 		religion = hussite
@@ -1319,12 +1319,12 @@
 	{
 		culture = macedonian
 		religion = hussite
-		size= 27675
+		size= 9675
 	}
 
 }
 802 = {
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = orthodox
@@ -1373,7 +1373,7 @@
 		size= 51374
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hellenic_pagan
@@ -1466,7 +1466,7 @@
 
 }
 803 = {
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = orthodox
@@ -1515,7 +1515,7 @@
 		size= 51473
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hellenic_pagan
@@ -1608,7 +1608,7 @@
 
 }
 804 = {
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = catholic
@@ -1657,7 +1657,7 @@
 		size= 11171
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = orthodox
@@ -1706,7 +1706,7 @@
 		size= 65186
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = serb
 		religion = hellenic_pagan
@@ -1848,7 +1848,7 @@
 		size= 7550
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = hungarian
 		religion = waldensian
@@ -1946,7 +1946,7 @@
 		size= 179
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = croat
 		religion = hussite

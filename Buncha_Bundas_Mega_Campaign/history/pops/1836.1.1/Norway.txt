@@ -454,14 +454,14 @@
 	{
 		culture = norwegian
 		religion = norse_pagan_reformed
-		size= 22985
+		size= 2985
 	}
 
 	artisans=
 	{
 		culture = norwegian
 		religion = norse_pagan_reformed
-		size= 22486
+		size= 2486
 	}
 
 	clergymen=
@@ -496,7 +496,7 @@
 	{
 		culture = norwegian
 		religion = norse_pagan_reformed
-		size= 197750
+		size= 97750
 	}
 
 }

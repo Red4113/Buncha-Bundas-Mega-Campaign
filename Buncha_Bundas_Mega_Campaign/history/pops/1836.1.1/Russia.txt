@@ -7489,77 +7489,77 @@
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 1573
+		size= 573
 	}
 
 	craftsmen=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 5944
+		size= 544
 	}
 
 	artisans=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 7658
+		size= 758
 	}
 
 	clergymen=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 711
+		size= 11
 	}
 
 	clerks=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 249
+		size= 49
 	}
 
 	bureaucrats=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 76
+		size= 6
 	}
 
 	officers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 71
+		size= 1
 	}
 
 	capitalists=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 227
+		size= 27
 	}
 
 	aristocrats=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 689
+		size= 69
 	}
 
 	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 61420
+		size= 6120
 	}
 
 	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = norse_pagan_reformed
-		size= 39
+		size= 9
 	}
 
 	craftsmen=
@@ -7573,7 +7573,7 @@
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = norse_pagan_reformed
-		size= 1252
+		size= 122
 	}
 
 	clergymen=
@@ -7643,7 +7643,7 @@
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 6218
+		size= 618
 	}
 
 	clergymen=
@@ -7692,7 +7692,7 @@
 	{
 		culture = dynamic-norse-russian_culture-culture-num1
 		religion = norse_pagan_reformed
-		size= 17003
+		size= 7003
 	}
 
 }
@@ -8048,70 +8048,70 @@
 	{
 		culture = ugrian
 		religion = catholic
-		size= 5006
+		size= 6
 	}
 
 	artisans=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 2956
+		size= 6
 	}
 
 	clergymen=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 274
+		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 38
+		size= 8
 	}
 
 	officers=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 62
+		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 177
+		size= 17
 	}
 
 	farmers=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 45905
+		size= 1998
 	}
 
 	soldiers=
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 6308
+		size= 8
 	}
 
 	artisans=
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 11455
+		size= 155
 	}
 
 	clergymen=
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 1063
+		size= 63
 	}
 
 	bureaucrats=
@@ -8125,7 +8125,7 @@
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 237
+		size= 27
 	}
 
 	aristocrats=
@@ -8139,35 +8139,35 @@
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 48678
+		size= 478
 	}
 
 	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
-		size= 2357
+		size= 257
 	}
 
 	artisans=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
-		size= 6394
+		size= 694
 	}
 
 	clergymen=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
-		size= 594
+		size= 94
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
-		size= 82
+		size= 2
 	}
 
 	officers=
@@ -8181,14 +8181,14 @@
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
-		size= 384
+		size= 84
 	}
 
 	farmers=
 	{
 		culture = ugrian
 		religion = norse_pagan_reformed
-		size= 15673
+		size= 8573
 	}
 
 }
@@ -8493,70 +8493,70 @@
 	{
 		culture = ugrian
 		religion = catholic
-		size= 1838
+		size= 138
 	}
 
 	artisans=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 399
+		size= 39
 	}
 
 	clergymen=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 130
+		size= 30
 	}
 
 	bureaucrats=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 10
+		size= 90
 	}
 
 	officers=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 29
+		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 84
+		size= 4
 	}
 
 	farmers=
 	{
 		culture = ugrian
 		religion = catholic
-		size= 17484
+		size= 1484
 	}
 
 	soldiers=
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 3924
+		size= 324
 	}
 
 	artisans=
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 2105
+		size= 205
 	}
 
 	clergymen=
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 684
+		size= 84
 	}
 
 	bureaucrats=
@@ -8584,21 +8584,21 @@
 	{
 		culture = ugrian
 		religion = gelugpa
-		size= 35287
+		size= 15287
 	}
 
 	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 5487
+		size= 1487
 	}
 
 	artisans=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 2386
+		size= 386
 	}
 
 	clergymen=
@@ -8633,7 +8633,7 @@
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 50258
+		size= 10258
 	}
 
 }
@@ -23008,49 +23008,49 @@
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 3227
+		size= 27
 	}
 
 	artisans=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 22585
+		size= 585
 	}
 
 	clergymen=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 2097
+		size= 97
 	}
 
 	bureaucrats=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 355
+		size= 5
 	}
 
 	officers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 210
+		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 2032
+		size= 32
 	}
 
 	farmers=
 	{
 		culture = dynamic-bashkir-uralic-culture-num1
 		religion = catholic
-		size= 130816
+		size= 30816
 	}
 
 }

@@ -45,7 +45,7 @@
 	{
 		culture = serb
 		religion = waldensian
-		size= 13704
+		size= 3704
 	}
 
 	soldiers=
@@ -59,7 +59,7 @@
 	{
 		culture = serb
 		religion = protestant
-		size= 13950
+		size= 3950
 	}
 
 	clergymen=
@@ -94,7 +94,7 @@
 	{
 		culture = serb
 		religion = protestant
-		size= 73478
+		size= 7478
 	}
 
 }
@@ -152,7 +152,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 4133
+		size= 433
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 24363
+		size= 2363
 	}
 
 	soldiers=
@@ -243,7 +243,7 @@
 	{
 		culture = bosniak
 		religion = hellenic_pagan
-		size= 11878
+		size= 1878
 	}
 
 }
@@ -294,14 +294,14 @@
 	{
 		culture = bosniak
 		religion = waldensian
-		size= 7714
+		size= 714
 	}
 
 	soldiers=
 	{
 		culture = bosniak
 		religion = protestant
-		size= 13433
+		size= 1333
 	}
 
 	artisans=
@@ -343,7 +343,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 15252
+		size= 1252
 	}
 
 	soldiers=
@@ -392,7 +392,7 @@
 	{
 		culture = bosniak
 		religion = hellenic_pagan
-		size= 11958
+		size= 158
 	}
 
 }
@@ -492,7 +492,7 @@
 	{
 		culture = bosniak
 		religion = waldensian
-		size= 4595
+		size= 495
 	}
 
 	soldiers=
@@ -506,7 +506,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 16074
+		size= 1674
 	}
 
 	clergymen=
@@ -541,7 +541,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 83730
+		size= 8330
 	}
 
 }
@@ -578,7 +578,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 10018
+		size= 1018
 	}
 
 	craftsmen=
@@ -620,7 +620,7 @@
 	{
 		culture = serb
 		religion = waldensian
-		size= 4495
+		size= 445
 	}
 
 	craftsmen=
@@ -669,7 +669,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 48314
+		size= 4814
 	}
 
 	soldiers=
@@ -767,7 +767,7 @@
 	{
 		culture = serb
 		religion = hellenic_pagan
-		size= 33561
+		size= 3351
 	}
 
 	soldiers=
@@ -874,7 +874,7 @@
 	{
 		culture = serb
 		religion = protestant
-		size= 13045
+		size= 1305
 	}
 
 	clergymen=
@@ -909,7 +909,7 @@
 	{
 		culture = serb
 		religion = protestant
-		size= 68726
+		size= 36876
 	}
 
 }

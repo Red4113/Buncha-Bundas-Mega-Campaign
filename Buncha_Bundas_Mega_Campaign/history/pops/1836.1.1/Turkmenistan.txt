@@ -1,47 +1,47 @@
 686 = {
-	soldiers=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
 		size= 7708
 	}
 
-	artisans=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
 		size= 4816
 	}
 
-	clergymen=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
 		size= 516
 	}
 
-	bureaucrats=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
 		size= 88
 	}
 
-	officers=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
 		size= 71
 	}
 
-	aristocrats=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
 		size= 867
 	}
 
-	farmers=
+	serfs=
 	{
 		culture = tajik
 		religion = sunni
@@ -62,28 +62,28 @@
 		size= 5276
 	}
 
-	clergymen=
+	farmers=
 	{
 		culture = tajik
 		religion = hellenic_pagan
-		size= 565
+		size= 1565
 	}
 
-	bureaucrats=
+	serfs=
 	{
 		culture = tajik
 		religion = hellenic_pagan
 		size= 98
 	}
 
-	officers=
+	serfs=
 	{
 		culture = tajik
 		religion = hellenic_pagan
 		size= 80
 	}
 
-	aristocrats=
+	serfs=
 	{
 		culture = tajik
 		religion = hellenic_pagan
@@ -104,14 +104,14 @@
 		size= 29215
 	}
 
-	clergymen=
+	serfs=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
 		size= 3130
 	}
 
-	bureaucrats=
+	serfs=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan

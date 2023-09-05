@@ -1050,12 +1050,6 @@
 
 }
 374 = {
-	soldiers=
-	{
-		culture = danish
-		religion = norse_pagan_reformed
-		size= 2659
-	}
 
 	artisans=
 	{
@@ -1064,26 +1058,6 @@
 		size= 2195
 	}
 
-	clergymen=
-	{
-		culture = danish
-		religion = norse_pagan_reformed
-		size= 317
-	}
-
-	bureaucrats=
-	{
-		culture = danish
-		religion = norse_pagan_reformed
-		size= 63
-	}
-
-	officers=
-	{
-		culture = danish
-		religion = norse_pagan_reformed
-		size= 52
-	}
 
 	aristocrats=
 	{
@@ -1092,19 +1066,6 @@
 		size= 205
 	}
 
-	farmers=
-	{
-		culture = danish
-		religion = norse_pagan_reformed
-		size= 41982
-	}
-
-	soldiers=
-	{
-		culture = danish
-		religion = catholic
-		size= 153
-	}
 
 	artisans=
 	{
@@ -1194,21 +1155,21 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 7902
+		size= 902
 	}
 
 	soldiers=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
-		size= 2334
+		size= 334
 	}
 
 	artisans=
 	{
 		culture = danish
 		religion = norse_pagan_reformed
-		size= 6409
+		size= 609
 	}
 
 	clergymen=
@@ -1243,7 +1204,7 @@
 	{
 		culture = danish
 		religion = norse_pagan_reformed
-		size= 31069
+		size= 969
 	}
 
 }

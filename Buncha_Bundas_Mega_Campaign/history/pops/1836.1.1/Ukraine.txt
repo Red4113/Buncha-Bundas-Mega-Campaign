@@ -3112,49 +3112,49 @@
 
 }
 967 = {
-	farmers=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
 		size= 2617
 	}
 
-	artisans=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
 		size= 996
 	}
 
-	craftsmen=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
 		size= 104
 	}
 
-	craftsmen=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
 		size= 19
 	}
 
-	officers=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
 		size= 21
 	}
 
-	aristocrats=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
 		size= 87
 	}
 
-	craftsmen=
+	serfs=
 	{
 		culture = greek
 		religion = orthodox
