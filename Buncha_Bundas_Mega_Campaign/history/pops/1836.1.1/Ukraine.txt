@@ -3179,14 +3179,14 @@
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
-		size= 3307
+		size= 13307
 	}
 
 	craftsmen=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
-		size= 590
+		size= 4590
 	}
 
 	officers=
@@ -3207,7 +3207,7 @@
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
-		size= 146775
+		size= 186775
 	}
 
 }

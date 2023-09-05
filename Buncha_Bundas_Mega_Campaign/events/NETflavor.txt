@@ -57,6 +57,60 @@ country_event = {
         ai_chance = { factor = 0 }
     }
 }
+
+country_event = {
+    id = 1111000
+    title = "EVTNAME952500" #Inheriting Rhineland
+    desc = "EVTDESC952500"
+    picture = "delhi_sultan"
+
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "EVT952500OPTA"
+        NET = { inherit = THIS }
+        ai_chance = { factor = 95 }
+    }
+
+    option = {
+        name = "EVT952500OPTB"
+        NET = { country_event = 952501 }
+        leave_alliance = NET
+        end_military_access = NET
+        NET = { release_vassal = JAV }
+        NET = { relation = { who = THIS value = -400 } }
+        NET = { diplomatic_influence = { who = THIS value = -400 } }
+        ai_chance = { factor = 0.05 }
+        }
+    }
+
+country_event = {
+    id = 1111001
+    title = "EVTNAME952501" #They Refused
+    desc = "EVTDESC952501"
+    picture = "Administration"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT952501OPTA"
+        casus_belli = {
+            target = RHI
+            type = establish_protectorate_BC_casus_belli
+            months = 48
+            }
+        ai_chance = { factor = 100 }
+    }
+
+    option = {
+        name = "EVT952501OPTB"
+        prestige = -10
+        ai_chance = { factor = 0 }
+    }
+}
+
 #The Jambi War
 country_event = {
     id = 952502

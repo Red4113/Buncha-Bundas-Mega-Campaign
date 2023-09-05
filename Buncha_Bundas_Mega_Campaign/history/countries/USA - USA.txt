@@ -1,4 +1,4 @@
-capital = 248
+capital = 2146
 primary_culture = east_slavic_north_america_superregion_culture
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed
@@ -71,7 +71,7 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 private_banks = 1
 stock_exchange = 1
-prestige=25.104779
+prestige=40.104779
 oob = "USA_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = post_colonial_country

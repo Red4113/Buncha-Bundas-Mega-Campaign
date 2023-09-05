@@ -11167,7 +11167,7 @@
 	{
 		culture = latin
 		religion = catholic
-		size= 700
+		size= 8700
 	}
 
 	artisans=

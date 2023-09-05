@@ -16968,37 +16968,37 @@
 243 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = east_slavic_north_america_superregion_culture
 		religion = totemism
 		size= 100
 	}
 
-	farmers=
+	craftsmen=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 10720
+		culture = east_slavic_north_america_superregion_culture
+		religion = norse_pagan_reformed
+		size= 26720
 	}
 
 	farmers=
 	{
 		culture = east_slavic_north_america_superregion_culture
 		religion = norse_pagan_reformed
-		size= 78886
+		size= 98886
 	}
 
 	soldiers=
 	{
 		culture = east_slavic_north_america_superregion_culture
 		religion = norse_pagan_reformed
-		size= 1033
+		size= 2033
 	}
 
 	artisans=
 	{
 		culture = east_slavic_north_america_superregion_culture
 		religion = norse_pagan_reformed
-		size= 15158
+		size= 25158
 	}
 
 	clergymen=
@@ -17019,14 +17019,14 @@
 	{
 		culture = east_slavic_north_america_superregion_culture
 		religion = norse_pagan_reformed
-		size= 303
+		size= 1303
 	}
 
 	officers=
 	{
 		culture = east_slavic_north_america_superregion_culture
 		religion = norse_pagan_reformed
-		size= 86
+		size= 186
 	}
 
 }

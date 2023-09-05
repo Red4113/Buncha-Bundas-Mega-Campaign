@@ -569,7 +569,6 @@ political_decisions = {
 			1165 = { add_core = QAT } #Qatar
 			801 = { add_core = TAH } #Tahiti
 			#Name-sakes cores
-			RUS_964 = { add_core = CRI } #Crimea
 			BEL_387 = { add_core = FLA } #Flanders
 			BEL_394 = { add_core = WLL } #Wallonia
 			690 = { add_core = DZG } #Danzig

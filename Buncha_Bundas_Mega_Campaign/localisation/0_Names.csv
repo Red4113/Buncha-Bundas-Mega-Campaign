@@ -1013,6 +1013,7 @@ NEA_communist;Factio communis Societatis;;;;;;;;;;;;;
 NEA_fascist;Alba Phalanx Ascensus;;;;;;;;;;;;;
 NEA;Chersonesus;;;;;;;;;;;;;
 ALP;Alpin;;;;;;;;;;;;;
+ALP_ADJ;Alpiner;;;;;;;;;;;;;
 NEA_ADJ;Chersonese;;;;;;;;;;;;;
 NEA_absolute_monarchy;Imperium Chersonesi;;;;;;;;;;;;;
 NEA_democracy;Civitates Foederatae Chersonesi;;;;;;;;;;;;;

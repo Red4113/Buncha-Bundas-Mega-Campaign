@@ -328,3 +328,15 @@ ZIM = {
 #Leaders
 
 #Armies
+army = {
+	name="Army"
+	location=566
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+}
