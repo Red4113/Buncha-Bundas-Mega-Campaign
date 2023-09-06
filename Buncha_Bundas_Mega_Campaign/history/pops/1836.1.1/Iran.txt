@@ -48,7 +48,7 @@
 		size= 21525
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -106,7 +106,7 @@
 		size= 3009
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -218,7 +218,7 @@
 		size= 14569
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -444,7 +444,7 @@
 		size= 4357
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -495,7 +495,7 @@
 
 }
 1110 = {
-	soldiers=
+	farmers=
 	{
 		culture = kurdish
 		religion = sunni
@@ -593,7 +593,7 @@
 		size= 131
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -912,7 +912,7 @@
 		size= 9301
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -970,7 +970,7 @@
 		size= 8439
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bazramani
 		religion = hellenic_pagan
@@ -1040,7 +1040,7 @@
 		size= 31240
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1210,7 +1210,7 @@
 		size= 1454
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1261,7 +1261,7 @@
 
 }
 1115 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = shiite
@@ -1359,7 +1359,7 @@
 		size= 2130
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1508,7 +1508,7 @@
 		size= 542
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -1622,7 +1622,7 @@
 		size= 3941
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -1722,7 +1722,7 @@
 		size= 15031
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -1773,7 +1773,7 @@
 
 }
 1119 = {
-	soldiers=
+	farmers=
 	{
 		culture = kurdish
 		religion = zoroastrian_heresy
@@ -1822,7 +1822,7 @@
 		size= 15124
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -1971,7 +1971,7 @@
 		size= 26
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -2029,7 +2029,7 @@
 		size= 2584
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = shiite
@@ -2141,7 +2141,7 @@
 		size= 6698
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2241,7 +2241,7 @@
 		size= 15459
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -2341,7 +2341,7 @@
 		size= 15100
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = hellenic_pagan
@@ -2390,7 +2390,7 @@
 		size= 1818
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2490,7 +2490,7 @@
 
 }
 1124 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -2588,7 +2588,7 @@
 		size= 1439
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2639,7 +2639,7 @@
 
 }
 1125 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -2737,7 +2737,7 @@
 		size= 204
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -2837,7 +2837,7 @@
 
 }
 1126 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -2928,7 +2928,7 @@
 		size= 40
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3133,7 +3133,7 @@
 		size= 5762
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3303,7 +3303,7 @@
 		size= 196
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3501,7 +3501,7 @@
 		size= 611
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3650,7 +3650,7 @@
 		size= 1012
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -3701,7 +3701,7 @@
 
 }
 1131 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -3750,7 +3750,7 @@
 		size= 18886
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -3799,7 +3799,7 @@
 		size= 61255
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -3897,7 +3897,7 @@
 		size= 1959
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = assyrian
 		religion = zoroastrian_heresy
@@ -4046,7 +4046,7 @@
 		size= 2136
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = assyrian
 		religion = zoroastrian_heresy
@@ -4195,7 +4195,7 @@
 		size= 26
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -4295,7 +4295,7 @@
 		size= 36079
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -4353,7 +4353,7 @@
 		size= 2370
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kurdish
 		religion = sunni
@@ -4465,7 +4465,7 @@
 		size= 8834
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -4572,7 +4572,7 @@
 
 }
 1136 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -4621,7 +4621,7 @@
 		size= 15479
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -4919,7 +4919,7 @@
 		size= 1974
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -5019,7 +5019,7 @@
 
 }
 1139 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -5068,7 +5068,7 @@
 		size= 35733
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -5168,7 +5168,7 @@
 		size= 14342
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -5219,7 +5219,7 @@
 
 }
 1141 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -5268,7 +5268,7 @@
 		size= 20277
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -5317,7 +5317,7 @@
 		size= 81097
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = kurdish
 		religion = sunni
@@ -5424,7 +5424,7 @@
 		size= 4008
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -5480,7 +5480,7 @@
 		size= 10783
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = zoroastrian_heresy
@@ -5531,7 +5531,7 @@
 
 }
 1143 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -5582,7 +5582,7 @@
 
 }
 1144 = {
-	soldiers=
+	farmers=
 	{
 		culture = baluchi
 		religion = sunni
@@ -5740,7 +5740,7 @@
 		size= 12746
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = baluchi
 		religion = sunni
@@ -5798,7 +5798,7 @@
 		size= 6744
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tajik
 		religion = sunni
@@ -5910,7 +5910,7 @@
 		size= 13915
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -6059,7 +6059,7 @@
 		size= 1935
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -6208,7 +6208,7 @@
 
 }
 1149 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -6299,7 +6299,7 @@
 		size= 49
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
@@ -6348,7 +6348,7 @@
 		size= 133719
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tajik
 		religion = sunni
@@ -6448,7 +6448,7 @@
 
 }
 1150 = {
-	soldiers=
+	farmers=
 	{
 		culture = persian
 		religion = sunni
@@ -6546,7 +6546,7 @@
 		size= 618
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan

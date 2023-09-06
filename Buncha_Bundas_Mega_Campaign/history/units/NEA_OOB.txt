@@ -740,611 +740,6 @@ navy = {
 	}
 }
 
-army = {
-	name="9th Army"
-	location=967
-	regiment = {
-		name="1st Poti Infantry"
-		type=infantry
-		home=1094
-	}
-	regiment = {
-		name="1st Kherson Infantry"
-		type=infantry
-		home=965
-	}
-	regiment = {
-		name="1st Simferopol Infantry"
-		type=infantry
-		home=964
-	}
-	regiment = {
-		name="1st Astrakhan Infantry"
-		type=infantry
-		home=1036
-	}
-	regiment = {
-		name="2nd Simferopol Infantry"
-		type=infantry
-		home=964
-	}
-	regiment = {
-		name="1st Krivoy Rog Infantry"
-		type=infantry
-		home=971
-	}
-	regiment = {
-		name="1st Kerch Artillery"
-		type=artillery
-		home=966
-	}
-	regiment = {
-		name="1st Kiev Artillery"
-		type=artillery
-		home=958
-	}
-	regiment = {
-		name="1st Sevastopol Artillery"
-		type=artillery
-		home=967
-	}
-	regiment = {
-		name="1st Rostov Artillery"
-		type=artillery
-		home=979
-	}
-	regiment = {
-		name="1st Chernigov Artillery"
-		type=artillery
-		home=962
-	}
-	regiment = {
-		name="1st Yekaterinoslav Artillery"
-		type=artillery
-		home=972
-	}
-	regiment = {
-		name="2nd Chirskaya Infantry"
-		type=infantry
-		home=1046
-	}
-}
-
-army = {
-	name="Legio IX Triumphalis"
-	location=966
-	regiment = {
-		name="3rd Simferopol Infantry"
-		type=infantry
-		home=964
-	}
-	regiment = {
-		name="1st Sevastopol Infantry"
-		type=infantry
-		home=967
-	}
-	regiment = {
-		name="1st Kerch Infantry"
-		type=infantry
-		home=966
-	}
-	regiment = {
-		name="1st Azov Infantry"
-		type=infantry
-		home=1047
-	}
-	regiment = {
-		name="2nd Kerch Infantry"
-		type=infantry
-		home=966
-	}
-	regiment = {
-		name="3rd Kerch Infantry"
-		type=infantry
-		home=966
-	}
-	regiment = {
-		name="1st Ubykhia Artillery"
-		type=artillery
-		home=1049
-	}
-	regiment = {
-		name="1st Kursk Artillery"
-		type=artillery
-		home=977
-	}
-	regiment = {
-		name="1st Siyazen Artillery"
-		type=artillery
-		home=1103
-	}
-	regiment = {
-		name="1st Pasanauri Artillery"
-		type=artillery
-		home=1091
-	}
-	regiment = {
-		name="1st Belgorod Artillery"
-		type=artillery
-		home=1018
-	}
-	regiment = {
-		name="1st Bachmut Artillery"
-		type=artillery
-		home=974
-	}
-	regiment = {
-		name="2nd Azov Infantry"
-		type=infantry
-		home=1047
-	}
-}
-
-army = {
-	name="15th Army"
-	location=976
-	regiment = {
-		name="1st Zarevka Infantry"
-		type=infantry
-		home=1040
-	}
-	regiment = {
-		name="1st Nikolaev Infantry"
-		type=infantry
-		home=970
-	}
-	regiment = {
-		name="1st Kiev Infantry"
-		type=infantry
-		home=958
-	}
-	regiment = {
-		name="1st Vladikavkaz Infantry"
-		type=infantry
-		home=1054
-	}
-	regiment = {
-		name="1st Stavropol Infantry"
-		type=infantry
-		home=1050
-	}
-	regiment = {
-		name="1st Bursa Infantry"
-		type=infantry
-		home=863
-	}
-	regiment = {
-		name="1st Elista Infantry"
-		type=infantry
-		home=1041
-	}
-}
-
-army = {
-	name="Legio II Rapax"
-	location=965
-	regiment = {
-		name="1st Akhaltsikhe Infantry"
-		type=infantry
-		home=1093
-	}
-	regiment = {
-		name="1st Sukhumi Infantry"
-		type=infantry
-		home=1095
-	}
-	regiment = {
-		name="4th Simferopol Infantry"
-		type=infantry
-		home=964
-	}
-	regiment = {
-		name="5th Simferopol Infantry"
-		type=infantry
-		home=964
-	}
-	regiment = {
-		name="2nd Sevastopol Infantry"
-		type=infantry
-		home=967
-	}
-	regiment = {
-		name="1st Ardahan Infantry"
-		type=infantry
-		home=886
-	}
-	regiment = {
-		name="1st Olviopol Infantry"
-		type=infantry
-		home=969
-	}
-}
-
-army = {
-	name="Legio IV Apollonaris"
-	location=964
-	regiment = {
-		name="1st Tblisi Infantry"
-		type=infantry
-		home=1090
-	}
-	regiment = {
-		name="1st Gunib Infantry"
-		type=infantry
-		home=1053
-	}
-	regiment = {
-		name="1st Zanjan Infantry"
-		type=infantry
-		home=1123
-	}
-	regiment = {
-		name="1st Mariupol Infantry"
-		type=infantry
-		home=976
-	}
-	regiment = {
-		name="2nd Akhaltsikhe Infantry"
-		type=infantry
-		home=1093
-	}
-	regiment = {
-		name="1st Ubykhia Infantry"
-		type=infantry
-		home=1049
-	}
-	regiment = {
-		name="2nd Bachmut Artillery"
-		type=artillery
-		home=974
-	}
-	regiment = {
-		name="1st Krivoy Rog Artillery"
-		type=artillery
-		home=971
-	}
-	regiment = {
-		name="1st Yuzovka Artillery"
-		type=artillery
-		home=975
-	}
-	regiment = {
-		name="1st Simferopol Artillery"
-		type=artillery
-		home=964
-	}
-	regiment = {
-		name="2nd Kerch Artillery"
-		type=artillery
-		home=966
-	}
-	regiment = {
-		name="1st Nikolaev Artillery"
-		type=artillery
-		home=970
-	}
-	regiment = {
-		name="1st Siyazen Infantry"
-		type=infantry
-		home=1103
-	}
-}
-
-army = {
-	name="Legio I Herculia"
-	location=974
-	regiment = {
-		name="1st Yekaterinodar Infantry"
-		type=infantry
-		home=1048
-	}
-	regiment = {
-		name="1st Rostov Infantry"
-		type=infantry
-		home=979
-	}
-	regiment = {
-		name="1st Cherkassy Infantry"
-		type=infantry
-		home=961
-	}
-	regiment = {
-		name="1st Adygei Infantry"
-		type=infantry
-		home=1051
-	}
-	regiment = {
-		name="1st Kutaisi Infantry"
-		type=infantry
-		home=1092
-	}
-	regiment = {
-		name="2nd Ubykhia Infantry"
-		type=infantry
-		home=1049
-	}
-	regiment = {
-		name="3rd Stavropol Infantry"
-		type=infantry
-		home=1050
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1048
-	regiment = {
-		name="1st Derbent Infantry"
-		type=infantry
-		home=1052
-	}
-	regiment = {
-		name="3rd Sevastopol Infantry"
-		type=infantry
-		home=967
-	}
-	regiment = {
-		name="1st Khvoy Infantry"
-		type=infantry
-		home=1109
-	}
-	regiment = {
-		name="1st Urmia Infantry"
-		type=infantry
-		home=1110
-	}
-	regiment = {
-		name="1st Tabriz Infantry"
-		type=infantry
-		home=1108
-	}
-	regiment = {
-		name="1st Sheki Infantry"
-		type=infantry
-		home=1104
-	}
-	regiment = {
-		name="5th Sukhumi Infantry"
-		type=infantry
-		home=1095
-	}
-}
-
-army = {
-	name="Legio V Alaudae"
-	location=1047
-	regiment = {
-		name="2nd Tblisi Infantry"
-		type=infantry
-		home=1090
-	}
-	regiment = {
-		name="2nd Tabriz Infantry"
-		type=infantry
-		home=1108
-	}
-	regiment = {
-		name="1st Chirskaya Infantry"
-		type=infantry
-		home=1046
-	}
-	regiment = {
-		name="2nd Stavropol Infantry"
-		type=infantry
-		home=1050
-	}
-	regiment = {
-		name="2nd Kutaisi Infantry"
-		type=infantry
-		home=1092
-	}
-	regiment = {
-		name="1st Baku Infantry"
-		type=infantry
-		home=1102
-	}
-}
-
-army = {
-	name="Legio III Liberatrix"
-	location=971
-	regiment = {
-		name="3rd Ubykhia Infantry"
-		type=infantry
-		home=1049
-	}
-	regiment = {
-		name="2nd Sukhumi Infantry"
-		type=infantry
-		home=1095
-	}
-	regiment = {
-		name="1st Batum Infantry"
-		type=infantry
-		home=1096
-	}
-	regiment = {
-		name="3rd Sukhumi Infantry"
-		type=infantry
-		home=1095
-	}
-	regiment = {
-		name="2nd Gunib Infantry"
-		type=infantry
-		home=1053
-	}
-	regiment = {
-		name="3rd Kutaisi Infantry"
-		type=infantry
-		home=1092
-	}
-	regiment = {
-		name="1st Sinop Artillery"
-		type=artillery
-		home=883
-	}
-	regiment = {
-		name="1st Korosten Artillery"
-		type=artillery
-		home=959
-	}
-	regiment = {
-		name="1st Novopetrovskoye Artillery"
-		type=artillery
-		home=1194
-	}
-	regiment = {
-		name="1st Agdam Artillery"
-		type=artillery
-		home=1106
-	}
-	regiment = {
-		name="2nd Agdam Artillery"
-		type=artillery
-		home=1106
-	}
-	regiment = {
-		name="2nd Novopetrovskoye Artillery"
-		type=artillery
-		home=1194
-	}
-}
-
-army = {
-	name="Legio VI Victrix"
-	location=1049
-	regiment = {
-		name="1st Trabzon Infantry"
-		type=infantry
-		home=882
-	}
-	regiment = {
-		name="4th Sukhumi Infantry"
-		type=infantry
-		home=1095
-	}
-	regiment = {
-		name="1st Melitopol Infantry"
-		type=infantry
-		home=973
-	}
-	regiment = {
-		name="3rd Gunib Infantry"
-		type=infantry
-		home=1053
-	}
-	regiment = {
-		name="1st Migulinskaya Infantry"
-		type=infantry
-		home=1045
-	}
-	regiment = {
-		name="1st Tsaritsyn Infantry"
-		type=infantry
-		home=1039
-	}
-	regiment = {
-		name="2nd Sinop Artillery"
-		type=artillery
-		home=883
-	}
-	regiment = {
-		name="1st Saratov Artillery"
-		type=artillery
-		home=1037
-	}
-	regiment = {
-		name="2nd Saratov Artillery"
-		type=artillery
-		home=1037
-	}
-	regiment = {
-		name="1st Vinnitsa Artillery"
-		type=artillery
-		home=954
-	}
-	regiment = {
-		name="1st Tblisi Artillery"
-		type=artillery
-		home=1090
-	}
-	regiment = {
-		name="1st Erzurum Artillery"
-		type=artillery
-		home=887
-	}
-}
-
-army = {
-	name="Legio VII Ferrata"
-	location=1048
-	regiment = {
-		name="1st Chernigov Infantry"
-		type=infantry
-		home=962
-	}
-	regiment = {
-		name="1st Guryev Infantry"
-		type=infantry
-		home=1182
-	}
-	regiment = {
-		name="1st Saratov Infantry"
-		type=infantry
-		home=1037
-	}
-	regiment = {
-		name="1st Rasht Infantry"
-		type=infantry
-		home=1113
-	}
-	regiment = {
-		name="2nd Chernigov Infantry"
-		type=infantry
-		home=962
-	}
-	regiment = {
-		name="2nd Guryev Infantry"
-		type=infantry
-		home=1182
-	}
-}
-
-army = {
-	name="1st Army"
-	location=979
-	regiment = {
-		name="2nd Sheki Infantry"
-		type=infantry
-		home=1104
-	}
-	regiment = {
-		name="2nd Khvoy Infantry"
-		type=infantry
-		home=1109
-	}
-	regiment = {
-		name="1st Ardabil Infantry"
-		type=infantry
-		home=1112
-	}
-	regiment = {
-		name="3rd Tabriz Infantry"
-		type=infantry
-		home=1108
-	}
-	regiment = {
-		name="3rd Sheki Infantry"
-		type=infantry
-		home=1104
-	}
-	regiment = {
-		name="2nd Ardabil Infantry"
-		type=infantry
-		home=1112
-	}
-}
-
 navy = {
 	name="Classis Atlanticum"
 	location=2775
@@ -1531,102 +926,358 @@ navy = {
 }
 
 army = {
-	name="Independent Cossack Host"
+	name="1st Army"
 	location=860
 	regiment = {
-		name="1st Istanbul Infantry"
+		name="Infantry"
 		type=infantry
-		home=860
 	}
 	regiment = {
-		name="2nd Istanbul Infantry"
+		name="Infantry"
 		type=infantry
-		home=860
 	}
 	regiment = {
-		name="3rd Istanbul Infantry"
+		name="Infantry"
 		type=infantry
-		home=860
 	}
 	regiment = {
-		name="1st Istanbul Cavalry"
-		type=cavalry
-		home=860
-	}
-	regiment = {
-		name="4th Istanbul Infantry"
+		name="Infantry"
 		type=infantry
-		home=860
 	}
 	regiment = {
-		name="2nd Istanbul Cavalry"
-		type=cavalry
-		home=860
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
 army = {
-	name="Legio VIII Augusta"
-	location=968
+	name="Second Army"
+	location=967
 	regiment = {
-		name="2nd Rasht Infantry"
+		name="Infantry"
 		type=infantry
-		home=1113
 	}
 	regiment = {
-		name="1st Izmit Infantry"
+		name="Infantry"
 		type=infantry
-		home=862
 	}
 	regiment = {
-		name="1st Tambov Infantry"
+		name="Infantry"
 		type=infantry
-		home=1025
 	}
 	regiment = {
-		name="1st Poltava Infantry"
+		name="Infantry"
 		type=infantry
-		home=963
 	}
 	regiment = {
-		name="1st Gallipoli Infantry"
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Third Army"
+	location=1107
+	regiment = {
+		name="Infantry"
 		type=infantry
-		home=859
 	}
 	regiment = {
-		name="1st Merv Infantry"
+		name="Infantry"
 		type=infantry
-		home=686
 	}
 	regiment = {
-		name="1st Sukhumi Artillery"
-		type=artillery
-		home=1095
+		name="Infantry"
+		type=infantry
 	}
 	regiment = {
-		name="1st Poti Artillery"
-		type=artillery
-		home=1094
+		name="Infantry"
+		type=infantry
 	}
 	regiment = {
-		name="1st Zhitomir Artillery"
+		name="Artillery"
 		type=artillery
-		home=960
 	}
 	regiment = {
-		name="2nd Sukhumi Artillery"
+		name="Artillery"
 		type=artillery
-		home=1095
 	}
 	regiment = {
-		name="1st Poltava Artillery"
+		name="Artillery"
 		type=artillery
-		home=963
 	}
 	regiment = {
-		name="2nd Kursk Artillery"
+		name="Artillery"
 		type=artillery
-		home=977
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Fourth Army"
+	location=973
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
 
+army = {
+	name="Fifth Army"
+	location=968
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Sixth Army"
+	location=979
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="Seventh Army"
+	location=964
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="Eigth Army"
+	location=1129
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
