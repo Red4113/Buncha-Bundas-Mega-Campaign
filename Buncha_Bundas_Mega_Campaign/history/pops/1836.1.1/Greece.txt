@@ -83,7 +83,7 @@
 		size= 562
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -225,7 +225,7 @@
 		size= 19
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -374,7 +374,7 @@
 		size= 19
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -425,7 +425,7 @@
 
 }
 821 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -523,7 +523,7 @@
 		size= 585
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -574,7 +574,7 @@
 
 }
 822 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -623,7 +623,7 @@
 		size= 68716
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -716,7 +716,7 @@
 
 }
 823 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -814,7 +814,7 @@
 		size= 9515
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -865,7 +865,7 @@
 
 }
 824 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -914,7 +914,7 @@
 		size= 13620
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = protestant
@@ -1005,7 +1005,7 @@
 		size= 39
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -1196,7 +1196,7 @@
 		size= 36
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -1396,7 +1396,7 @@
 
 }
 827 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -1545,7 +1545,7 @@
 
 }
 829 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -1643,7 +1643,7 @@
 		size= 9413
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -1743,7 +1743,7 @@
 		size= 17266
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hussite
@@ -1792,7 +1792,7 @@
 		size= 9398
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -1892,7 +1892,7 @@
 		size= 13095
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -1941,7 +1941,7 @@
 		size= 470
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -1992,7 +1992,7 @@
 
 }
 832 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -2090,7 +2090,7 @@
 		size= 489
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -2190,7 +2190,7 @@
 		size= 12954
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -2239,7 +2239,7 @@
 		size= 465
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -2290,7 +2290,7 @@
 
 }
 834 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -2339,7 +2339,7 @@
 		size= 19666
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -2388,7 +2388,7 @@
 		size= 9051
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -2439,7 +2439,7 @@
 
 }
 835 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -2488,7 +2488,7 @@
 		size= 18691
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -2537,7 +2537,7 @@
 		size= 8602
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -2588,7 +2588,7 @@
 
 }
 836 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -2637,7 +2637,7 @@
 		size= 11401
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -2737,7 +2737,7 @@
 
 }
 837 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -2835,7 +2835,7 @@
 		size= 607
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -2937,7 +2937,7 @@
 
 }
 839 = {
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = orthodox
@@ -3084,7 +3084,7 @@
 		size= 324
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -3184,7 +3184,7 @@
 		size= 30903
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -3233,7 +3233,7 @@
 		size= 2730
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -3333,7 +3333,7 @@
 		size= 15047
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -3382,7 +3382,7 @@
 		size= 1301
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -3482,7 +3482,7 @@
 		size= 16494
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = greek
 		religion = hellenic_pagan
@@ -3531,7 +3531,7 @@
 		size= 1425
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = laessin
 		religion = hellenic_pagan
@@ -4038,7 +4038,7 @@
 		size= 2843
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-greek-culture-num1
 		religion = orthodox
@@ -4089,7 +4089,7 @@
 
 }
 848 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-greek-culture-num1
 		religion = orthodox
