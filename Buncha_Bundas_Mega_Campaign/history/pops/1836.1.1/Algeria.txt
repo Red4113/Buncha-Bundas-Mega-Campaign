@@ -48,7 +48,7 @@
 		size= 27500
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
@@ -97,7 +97,7 @@
 		size= 25191
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -155,7 +155,7 @@
 		size= 923
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghrebi
 		religion = ibadi
@@ -260,7 +260,7 @@
 		size= 1647
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghreb_arabic
 		religion = hellenic_pagan
@@ -423,7 +423,7 @@
 		size= 1994
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghreb_arabic
 		religion = hellenic_pagan
@@ -474,7 +474,7 @@
 
 }
 1703 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -523,7 +523,7 @@
 		size= 11522
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -572,7 +572,7 @@
 		size= 12245
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -623,7 +623,7 @@
 
 }
 1704 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -672,7 +672,7 @@
 		size= 22489
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -721,7 +721,7 @@
 		size= 22300
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -949,7 +949,7 @@
 		size= 556
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -1005,7 +1005,7 @@
 		size= 648
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -1061,7 +1061,7 @@
 		size= 833
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1112,7 +1112,7 @@
 
 }
 1707 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -1161,7 +1161,7 @@
 		size= 21217
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -1210,7 +1210,7 @@
 		size= 18357
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1261,7 +1261,7 @@
 
 }
 1708 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -1359,7 +1359,7 @@
 		size= 220
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghreb_arabic
 		religion = hellenic_pagan
@@ -1410,7 +1410,7 @@
 
 }
 1709 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -1508,7 +1508,7 @@
 		size= 6217
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = maghreb_arabic
 		religion = hellenic_pagan
@@ -1559,7 +1559,7 @@
 
 }
 1710 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -1608,7 +1608,7 @@
 		size= 32944
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -1657,7 +1657,7 @@
 		size= 33944
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1708,7 +1708,7 @@
 
 }
 1711 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -1757,7 +1757,7 @@
 		size= 26330
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -1806,7 +1806,7 @@
 		size= 25197
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -1955,7 +1955,7 @@
 		size= 4533
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -2013,7 +2013,7 @@
 		size= 1822
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -2069,7 +2069,7 @@
 		size= 622
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -2176,7 +2176,7 @@
 
 }
 1715 = {
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = ibadi
@@ -2225,7 +2225,7 @@
 		size= 23395
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -2274,7 +2274,7 @@
 		size= 18709
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = andalucian
 		religion = sunni
@@ -2399,7 +2399,7 @@
 		size= 20
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = berber
 		religion = sunni
@@ -2487,7 +2487,7 @@
 		size= 45
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = tuareg
 		religion = sunni

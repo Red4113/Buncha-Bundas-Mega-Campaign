@@ -8,49 +8,49 @@
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 649
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 493
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 7
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 44
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 11529
 	}
@@ -64,49 +64,49 @@
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 362
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 1804
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 168
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 27
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 162
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = hindu
 		size= 4574
 	}
@@ -120,49 +120,49 @@
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 923
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 3957
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 367
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 59
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 82
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 356
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sikh
 		size= 12437
 	}
@@ -176,49 +176,49 @@
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 2620
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 7605
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 707
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 114
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 158
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 684
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 39742
 	}
@@ -861,98 +861,98 @@
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 496
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 620
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 66
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 12
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 87
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = sunni
 		size= 7570
 	}
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 499
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 1867
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 200
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 36
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 261
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 6014
 	}
@@ -961,98 +961,98 @@
 1598 = {
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 520
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 396
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 8
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 72
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = mahayana
 		size= 4606
 	}
 
 	soldiers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 696
 	}
 
 	artisans=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 1456
 	}
 
 	clergymen=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 156
 	}
 
 	bureaucrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 32
 	}
 
 	officers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 262
 	}
 
 	farmers=
 	{
-		culture = persian
+		culture = uighur
 		religion = gelugpa
 		size= 4936
 	}

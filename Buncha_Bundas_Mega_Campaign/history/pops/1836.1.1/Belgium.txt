@@ -1,147 +1,147 @@
 387 = {
 	soldiers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 688
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 329
 	}
 
 	clergymen=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 41
 	}
 
 	farmers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
 		size= 13942
 	}
 
-	soldiers=
+	farmers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 317
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 631
 	}
 
 	clergymen=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	officers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 77
 	}
 
 	farmers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = norse_pagan_reformed
 		size= 5805
 	}
 
-	soldiers=
+	farmers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 5200
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 7876
 	}
 
 	clergymen=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 728
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 277
 	}
 
 	officers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 274
 	}
 
 	aristocrats=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 1320
 	}
 
 	farmers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = protestant
 		size= 94505
 	}
@@ -246,7 +246,7 @@
 		size= 7435
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = flemish
 		religion = protestant
@@ -395,7 +395,7 @@
 		size= 7159
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = flemish
 		religion = protestant
@@ -544,7 +544,7 @@
 		size= 8882
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -693,7 +693,7 @@
 		size= 6862
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = flemish
 		religion = protestant
@@ -884,7 +884,7 @@
 		size= 4749
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = protestant
@@ -1054,7 +1054,7 @@
 		size= 3560
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = protestant
@@ -1203,7 +1203,7 @@
 		size= 3629
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = protestant
@@ -1401,7 +1401,7 @@
 		size= 1356
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = protestant
@@ -1662,7 +1662,7 @@
 		size= 962
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = protestant
@@ -1881,7 +1881,7 @@
 		size= 1397
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = protestant

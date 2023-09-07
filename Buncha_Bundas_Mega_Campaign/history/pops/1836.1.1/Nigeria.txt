@@ -2,77 +2,77 @@
 	aristocrats=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 1550
 	}
 
 	clergymen=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 800
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 3200
 	}
 
 	soldiers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 1050
 	}
 
 	farmers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 37400
 	}
 
 	slaves=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 36000
 	}
 
 	aristocrats=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 3600
 	}
 
@@ -81,77 +81,77 @@
 	aristocrats=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 3650
 	}
 
 	clergymen=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 1850
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 7500
 	}
 
 	soldiers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 2000
 	}
 
 	farmers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 133000
 	}
 
 	slaves=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 38000
 	}
 
 	aristocrats=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 500
 	}
 
 	soldiers=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
 		culture = fon
-		religion = catholic
+		religion = animist
 		size= 9100
 	}
 
@@ -160,63 +160,63 @@
 	aristocrats=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 5800
 	}
 
 	bureaucrats=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	officers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 900
 	}
 
 	clergymen=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 2900
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 10000
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 1700
 	}
 
 	soldiers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 3000
 	}
 
 	farmers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 203400
 	}
 
 	slaves=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 62000
 	}
 
@@ -225,49 +225,49 @@
 	aristocrats=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 4250
 	}
 
 	clergymen=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 2150
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 10000
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 800
 	}
 
 	soldiers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 2200
 	}
 
 	farmers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 158600
 	}
 
 	slaves=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 40000
 	}
 
@@ -290,28 +290,28 @@
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 2500
 	}
 
 	soldiers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 1100
 	}
 
 	farmers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 39025
 	}
 
 	slaves=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 6000
 	}
 
@@ -332,7 +332,7 @@
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 500
 	}
 
@@ -346,14 +346,14 @@
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 9050
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 2000
 	}
 
@@ -363,7 +363,7 @@
 	{
 		culture = yoruba
 		religion = shamanism
-		size= 9138
+		size= 89138
 	}
 
 	soldiers=
@@ -476,119 +476,119 @@
 	aristocrats=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 850
 	}
 
 	clergymen=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 450
 	}
 
 	artisans=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 2200
 	}
 
 	soldiers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 450
 	}
 
 	farmers=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 34050
 	}
 
 	slaves=
 	{
 		culture = yoruba
-		religion = catholic
+		religion = animist
 		size= 6000
 	}
 
 	aristocrats=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 600
 	}
 
 	soldiers=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 1150
 	}
 
 	farmers=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 9950
 	}
 
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 400
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 900
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 250
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 14250
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 6000
 	}
 
@@ -597,126 +597,126 @@
 	aristocrats=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 575
 	}
 
 	clergymen=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	artisans=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 1175
 	}
 
 	soldiers=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 18650
 	}
 
 	farmers=
 	{
 		culture = edo
-		religion = catholic
+		religion = animist
 		size= 8000
 	}
 
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 1100
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 550
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 2250
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 575
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 35525
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 16000
 	}
 
 	aristocrats=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 1550
 	}
 
 	clergymen=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 775
 	}
 
 	artisans=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 3125
 	}
 
 	soldiers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 800
 	}
 
 	farmers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 45750
 	}
 
 	slaves=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 26000
 	}
 
@@ -725,63 +725,63 @@
 	aristocrats=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 6150
 	}
 
 	bureaucrats=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 600
 	}
 
 	clergymen=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 3100
 	}
 
 	artisans=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 10000
 	}
 
 	artisans=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 2350
 	}
 
 	soldiers=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 3000
 	}
 
 	soldiers=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 205300
 	}
 
 	slaves=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 78000
 	}
 
@@ -790,42 +790,42 @@
 	aristocrats=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 1100
 	}
 
 	clergymen=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 550
 	}
 
 	artisans=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 2250
 	}
 
 	soldiers=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 1100
 	}
 
 	farmers=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 50000
 	}
 
 	slaves=
 	{
 		culture = ibibio
-		religion = catholic
+		religion = animist
 		size= 14000
 	}
 
@@ -834,56 +834,56 @@
 	aristocrats=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 6300
 	}
 
 	clergymen=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 3150
 	}
 
 	artisans=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 10000
 	}
 
 	artisans=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 2650
 	}
 
 	soldiers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 3000
 	}
 
 	soldiers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 900
 	}
 
 	farmers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 214000
 	}
 
 	slaves=
 	{
 		culture = itsekari
-		religion = catholic
+		religion = animist
 		size= 76000
 	}
 
@@ -1006,49 +1006,49 @@
 	aristocrats=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 4150
 	}
 
 	bureaucrats=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 450
 	}
 
 	clergymen=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 2100
 	}
 
 	artisans=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 8350
 	}
 
 	soldiers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 2400
 	}
 
 	farmers=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 157000
 	}
 
 	slaves=
 	{
 		culture = ibibio
-		religion = catholic
+		religion = animist
 		size= 34000
 	}
 
@@ -1057,42 +1057,42 @@
 	aristocrats=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 1850
 	}
 
 	clergymen=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 925
 	}
 
 	artisans=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 3725
 	}
 
 	soldiers=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 950
 	}
 
 	farmers=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 62550
 	}
 
 	slaves=
 	{
 		culture = ibo
-		religion = catholic
+		religion = animist
 		size= 23000
 	}
 
@@ -1101,42 +1101,42 @@
 	aristocrats=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 875
 	}
 
 	clergymen=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 450
 	}
 
 	artisans=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 1775
 	}
 
 	soldiers=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 450
 	}
 
 	farmers=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 56250
 	}
 
 	slaves=
 	{
 		culture = tiv
-		religion = catholic
+		religion = animist
 		size= 8000
 	}
 
@@ -1145,42 +1145,42 @@
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 1800
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 2000
 	}
 
@@ -1273,42 +1273,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 3650
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 3000
 	}
 
@@ -1364,42 +1364,42 @@
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 550
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 125
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 10025
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 3000
 	}
 
@@ -1408,42 +1408,42 @@
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 325
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 175
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 700
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 175
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 10625
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 5000
 	}
 
@@ -1452,42 +1452,42 @@
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 650
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 175
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 10725
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 4000
 	}
 
@@ -1566,84 +1566,84 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 2700
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 2000
 	}
 
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 125
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 350
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 6375
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 2000
 	}
 
@@ -1687,42 +1687,42 @@
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 5475
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 2000
 	}
 
@@ -1794,14 +1794,14 @@
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 13800
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 10000
 	}
 
@@ -1845,42 +1845,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 550
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 325
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1500
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 47325
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 74000
 	}
 
@@ -1959,42 +1959,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1800
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1100
 	}
 
@@ -2073,42 +2073,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 525
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 275
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1400
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 45500
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 54000
 	}
 
@@ -2201,42 +2201,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 575
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1500
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 27325
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 13000
 	}
 
@@ -2364,42 +2364,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 225
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 600
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 125
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 35925
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 47000
 	}
 
@@ -2478,42 +2478,42 @@
 	aristocrats=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	clergymen=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 100
 	}
 
 	soldiers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1800
 	}
 
 	slaves=
 	{
 		culture = hausa
-		religion = catholic
+		religion = animist
 		size= 1100
 	}
 
@@ -2555,42 +2555,42 @@
 	aristocrats=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 300
 	}
 
 	clergymen=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 650
 	}
 
 	soldiers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 175
 	}
 
 	farmers=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 10725
 	}
 
 	slaves=
 	{
 		culture = east_kwa
-		religion = catholic
+		religion = animist
 		size= 4000
 	}
 

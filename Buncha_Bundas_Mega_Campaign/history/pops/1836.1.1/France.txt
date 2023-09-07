@@ -48,7 +48,7 @@
 		size= 16221
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = wallonian
 		religion = norse_pagan_reformed
@@ -148,7 +148,7 @@
 
 }
 400 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -248,7 +248,7 @@
 
 }
 401 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -297,7 +297,7 @@
 		size= 18854
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -348,7 +348,7 @@
 
 }
 402 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -448,7 +448,7 @@
 
 }
 403 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -497,7 +497,7 @@
 		size= 10560
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -548,7 +548,7 @@
 
 }
 404 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -648,7 +648,7 @@
 
 }
 405 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -790,7 +790,7 @@
 
 }
 406 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -890,7 +890,7 @@
 
 }
 407 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -988,7 +988,7 @@
 		size= 3642
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -1279,7 +1279,7 @@
 		size= 21082
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -1500,7 +1500,7 @@
 
 }
 411 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = cathar
@@ -1712,7 +1712,7 @@
 
 }
 412 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -1812,7 +1812,7 @@
 
 }
 413 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -2010,7 +2010,7 @@
 		size= 2834
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -2061,7 +2061,7 @@
 
 }
 415 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -2131,7 +2131,7 @@
 		size= 10222
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -2203,7 +2203,7 @@
 
 }
 416 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -2303,7 +2303,7 @@
 
 }
 417 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -2352,7 +2352,7 @@
 		size= 18340
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -2403,7 +2403,7 @@
 
 }
 418 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -2503,7 +2503,7 @@
 
 }
 420 = {
-	soldiers=
+	farmers=
 	{
 		culture = breton
 		religion = catholic
@@ -3248,7 +3248,7 @@
 
 }
 425 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -3390,7 +3390,7 @@
 
 }
 426 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -3490,7 +3490,7 @@
 
 }
 427 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = cathar
@@ -3539,7 +3539,7 @@
 		size= 10171
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -3639,7 +3639,7 @@
 
 }
 428 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -3730,7 +3730,7 @@
 		size= 38
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -3781,7 +3781,7 @@
 
 }
 429 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -3881,7 +3881,7 @@
 
 }
 430 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -4028,7 +4028,7 @@
 		size= 58839
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -4228,7 +4228,7 @@
 
 }
 432 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -4328,7 +4328,7 @@
 
 }
 433 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -4428,7 +4428,7 @@
 
 }
 434 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -4619,7 +4619,7 @@
 		size= 8995
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -4670,7 +4670,7 @@
 
 }
 436 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -4719,7 +4719,7 @@
 		size= 9374
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -4770,7 +4770,7 @@
 
 }
 437 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -4919,7 +4919,7 @@
 
 }
 438 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -5019,7 +5019,7 @@
 
 }
 439 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -5119,7 +5119,7 @@
 
 }
 440 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -5219,7 +5219,7 @@
 
 }
 441 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -5319,7 +5319,7 @@
 
 }
 442 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -5468,7 +5468,7 @@
 
 }
 443 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -5617,7 +5617,7 @@
 
 }
 444 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -5666,7 +5666,7 @@
 		size= 31762
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = protestant
@@ -5766,7 +5766,7 @@
 
 }
 445 = {
-	soldiers=
+	farmers=
 	{
 		culture = catalan
 		religion = catholic
@@ -5915,7 +5915,7 @@
 
 }
 446 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -5964,7 +5964,7 @@
 		size= 10905
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant
@@ -6164,7 +6164,7 @@
 
 }
 448 = {
-	soldiers=
+	farmers=
 	{
 		culture = catalan
 		religion = catholic
@@ -6304,7 +6304,7 @@
 		size= 1776
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -6537,7 +6537,7 @@
 		size= 1984
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -6728,7 +6728,7 @@
 		size= 1708
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -6919,7 +6919,7 @@
 		size= 102210
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = hellenic_pagan
@@ -6989,7 +6989,7 @@
 		size= 23988
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -7061,7 +7061,7 @@
 
 }
 452 = {
-	soldiers=
+	farmers=
 	{
 		culture = catalan
 		religion = catholic
@@ -7110,7 +7110,7 @@
 		size= 14852
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -7159,7 +7159,7 @@
 		size= 4566
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -7210,7 +7210,7 @@
 
 }
 453 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -7359,7 +7359,7 @@
 		size= 19922
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -7408,7 +7408,7 @@
 		size= 28090
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = hellenic_pagan
@@ -7508,7 +7508,7 @@
 
 }
 455 = {
-	soldiers=
+	farmers=
 	{
 		culture = catalan
 		religion = catholic
@@ -7655,7 +7655,7 @@
 		size= 56903
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = sunni
@@ -7855,7 +7855,7 @@
 
 }
 457 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -7953,7 +7953,7 @@
 		size= 16056
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -8004,7 +8004,7 @@
 
 }
 458 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -8053,7 +8053,7 @@
 		size= 21556
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = protestant
@@ -8195,7 +8195,7 @@
 
 }
 459 = {
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = catholic
@@ -8244,7 +8244,7 @@
 		size= 16886
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = occitan
 		religion = protestant
@@ -8344,7 +8344,7 @@
 
 }
 460 = {
-	soldiers=
+	farmers=
 	{
 		culture = basque
 		religion = catholic
@@ -8393,7 +8393,7 @@
 		size= 30820
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = basque
 		religion = protestant
@@ -8542,7 +8542,7 @@
 
 }
 461 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -8691,7 +8691,7 @@
 
 }
 462 = {
-	soldiers=
+	farmers=
 	{
 		culture = catalan
 		religion = catholic
@@ -8840,7 +8840,7 @@
 
 }
 463 = {
-	soldiers=
+	farmers=
 	{
 		culture = catalan
 		religion = catholic
@@ -8987,7 +8987,7 @@
 		size= 86208
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = sunni
@@ -9138,14 +9138,14 @@
 
 }
 465 = {
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
 		size= 8361
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = catholic
@@ -9299,7 +9299,7 @@
 		size= 1072
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -9446,7 +9446,7 @@
 		size= 6177
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = north_italian
 		religion = hellenic_pagan
@@ -9651,7 +9651,7 @@
 		size= 1065
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -9849,7 +9849,7 @@
 
 }
 467 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -9884,7 +9884,7 @@
 		size= 18616
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -9947,7 +9947,7 @@
 		size= 30
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = hellenic_pagan
@@ -10040,7 +10040,7 @@
 
 }
 468 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -10173,7 +10173,7 @@
 		size= 23796
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = hellenic_pagan
@@ -10301,7 +10301,7 @@
 		size= 6683
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -10378,7 +10378,7 @@
 		size= 6511
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -10534,7 +10534,7 @@
 		size= 15934
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -10576,7 +10576,7 @@
 		size= 24253
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = hellenic_pagan
@@ -10760,7 +10760,7 @@
 		size= 6708
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = protestant
@@ -10837,7 +10837,7 @@
 		size= 6533
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -10958,7 +10958,7 @@
 
 }
 472 = {
-	soldiers=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -11105,7 +11105,7 @@
 		size= 510
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -11226,7 +11226,7 @@
 		size= 5500
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = latin
 		religion = hellenic_pagan
@@ -11298,7 +11298,7 @@
 
 }
 2570 = {
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = catholic
@@ -11347,7 +11347,7 @@
 		size= 18082
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dynamic-cosmopolitan_french-culture-num1
 		religion = protestant

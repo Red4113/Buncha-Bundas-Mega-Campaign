@@ -48,7 +48,7 @@
 		size= 15507
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = norse_pagan_reformed
@@ -148,7 +148,7 @@
 
 }
 376 = {
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = catholic
@@ -246,7 +246,7 @@
 		size= 11535
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -395,7 +395,7 @@
 		size= 8102
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -586,7 +586,7 @@
 		size= 8064
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -756,7 +756,7 @@
 		size= 6541
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -905,7 +905,7 @@
 		size= 7529
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -1203,7 +1203,7 @@
 		size= 6641
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -1352,7 +1352,7 @@
 		size= 9027
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -1501,7 +1501,7 @@
 		size= 3510
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = protestant
@@ -1650,7 +1650,7 @@
 		size= 3487
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = dutch
 		religion = norse_pagan_reformed

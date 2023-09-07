@@ -99,7 +99,7 @@
 
 }
 267 = {
-	farmers=
+	soldiers=
 	{
 		culture = scottish
 		religion = catholic
@@ -241,7 +241,7 @@
 
 }
 268 = {
-	farmers=
+	soldiers=
 	{
 		culture = scottish
 		religion = catholic
@@ -490,7 +490,7 @@
 		size= 12253
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = scottish
 		religion = protestant
@@ -690,7 +690,7 @@
 
 }
 272 = {
-	farmers=
+	soldiers=
 	{
 		culture = english
 		religion = catholic
@@ -839,7 +839,7 @@
 
 }
 273 = {
-	farmers=
+	soldiers=
 	{
 		culture = welsh
 		religion = catholic
@@ -988,7 +988,7 @@
 
 }
 274 = {
-	farmers=
+	soldiers=
 	{
 		culture = welsh
 		religion = catholic
@@ -1228,14 +1228,14 @@
 		size= 20
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = anglois
 		religion = catholic
 		size= 3993
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = welsh
 		religion = protestant
@@ -1419,14 +1419,14 @@
 		size= 19
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = anglois
 		religion = catholic
 		size= 2254
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = welsh
 		religion = protestant
@@ -1568,7 +1568,7 @@
 		size= 30
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = anglois
 		religion = catholic
@@ -1866,7 +1866,7 @@
 		size= 6
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = english
 		religion = norse_pagan_reformed
@@ -2525,7 +2525,7 @@
 
 }
 283 = {
-	farmers=
+	soldiers=
 	{
 		culture = english
 		religion = catholic
@@ -3077,7 +3077,7 @@
 		size= 6
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = english
 		religion = catholic
@@ -3871,14 +3871,14 @@
 		size= 45
 	}
 
-	farmers=
+	soldiers=
 	{
 		culture = anglois
 		religion = catholic
 		size= 5326
 	}
 
-	farmers=
+	artisans=
 	{
 		culture = anglois
 		religion = protestant
