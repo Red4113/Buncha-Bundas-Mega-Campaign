@@ -2645,7 +2645,7 @@
 
 	farmers=
 	{
-		culture = french
+		culture = breton
 		religion = protestant
 		size= 55291
 	}
@@ -2794,7 +2794,7 @@
 
 	farmers=
 	{
-		culture = french
+		culture = breton
 		religion = protestant
 		size= 55933
 	}
@@ -2943,7 +2943,7 @@
 
 	farmers=
 	{
-		culture = french
+		culture = breton
 		religion = protestant
 		size= 57801
 	}
@@ -3092,7 +3092,7 @@
 
 	farmers=
 	{
-		culture = french
+		culture = breton
 		religion = protestant
 		size= 48637
 	}
@@ -3241,7 +3241,7 @@
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num1
+		culture = breton
 		religion = protestant
 		size= 51969
 	}

@@ -713,6 +713,24 @@ british = {
 		last_names = { "Argall" "Baines" "Bevan" "Cecil" "Crewe" "Floyd" "Hier" "Howell" "Jernigan" "Kendrick" "Lloyd" "Llywelyn" "Maddox" "Marvin" "Merricks" "Morris" "Owen" "Owens" "Parry" "Perkins" "Perry" "Powell" "Price" "Prichard" "Probert" "Reece" "Sayer" "Tittensor" "Trevor" "Vaughan" }
 		
 	}
+
+    cornish = {
+        color = { 92 92 92 }
+        first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
+        John Robert James Henry Brian Jack Michael Edward }
+	
+        last_names = { Angwin Arundell Bosanko Chenoweth Coon Pomeroy Rickard Gummo Nanscawen
+        Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
+    }
+
+    cumbrian = {
+        color = { 134 34 12 }
+        first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
+        John Robert James Henry Brian Jack Michael Edward }
+	
+        last_names = { Angwin Arundell Bosanko Chenoweth Coon Pomeroy Rickard Gummo Nanscawen
+        Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
+    }
 	
 	union = ENG
 	

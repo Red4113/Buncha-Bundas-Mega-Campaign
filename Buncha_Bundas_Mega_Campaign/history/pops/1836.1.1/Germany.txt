@@ -4666,210 +4666,210 @@
 554 = {
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 628
 	}
 
 	craftsmen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1286
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 198
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 17
 	}
 
 	clerks=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3
 	}
 
 	capitalists=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 9229
 	}
 
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 219
 	}
 
 	craftsmen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 448
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 335
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 29
 	}
 
 	clerks=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 5
 	}
 
 	capitalists=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 2865
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1433
 	}
 
 	craftsmen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2937
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2331
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 198
 	}
 
 	clerks=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 115
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 31
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 36
 	}
 
 	capitalists=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 104
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 214
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 18590
 	}
@@ -6073,147 +6073,147 @@
 561 = {
 	craftsmen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 19794
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 95
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 98444
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 60
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 17586
 	}
 
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 416
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 137
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 6
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 88
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 3830
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2491
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 752
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 238
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 36
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 479
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 23069
 	}
@@ -6271,147 +6271,147 @@
 562 = {
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 658
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 206
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 10844
 	}
 
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 229
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 349
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 32
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 3443
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1503
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2433
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 226
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 31
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 219
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 22385
 	}
@@ -6469,147 +6469,147 @@
 563 = {
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1510
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 32
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 18787
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 1205
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 316
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 103
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 20
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 199
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 14423
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1627
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 807
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 262
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 52
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 508
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 18687
 	}
@@ -10380,147 +10380,147 @@
 590 = {
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1271
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 99
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 21295
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 1149
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 1413
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 131
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 27
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 254
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 17526
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 894
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2630
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 244
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 49
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 473
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 11632
 	}
@@ -11468,196 +11468,196 @@
 595 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1211
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 190
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 20384
 	}
 
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 286
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 280
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 24
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 4532
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1142
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1185
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 105
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 22
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 102
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 17987
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 658
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2478
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 219
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 47
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 212
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 8157
 	}
@@ -11864,147 +11864,147 @@
 597 = {
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 642
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 296
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 27
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 35
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 15895
 	}
 
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 554
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 806
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 75
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 97
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 13013
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 661
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2319
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 215
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 43
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 278
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 13849
 	}
@@ -12062,147 +12062,147 @@
 598 = {
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1211
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 7
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 72
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 30418
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 1085
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 491
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 159
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 32
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 308
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 26445
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1043
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1154
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 375
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 75
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 49
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 726
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 24032
 	}
@@ -12507,98 +12507,98 @@
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1601
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 609
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 57
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 73
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 15043
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 876
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1276
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 118
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 24
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 153
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 7048
 	}
@@ -12705,147 +12705,147 @@
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1460
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 278
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 14068
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 347
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 410
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 38
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = protestant
 		size= 2916
 	}
 
 	soldiers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 260
 	}
 
 	artisans=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 886
 	}
 
 	clergymen=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 82
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 11
 	}
 
 	officers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 106
 	}
 
 	farmers=
 	{
-		culture = dynamic-franconian-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 1466
 	}
@@ -12854,98 +12854,98 @@
 602 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 2943
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1120
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 21
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 101
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 27677
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 2725
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 3193
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 296
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 60
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 66
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 287
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = south_german
 		religion = hussite
 		size= 22990
 	}

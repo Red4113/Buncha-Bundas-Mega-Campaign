@@ -1,5 +1,6 @@
 owner=NUM
 controller=NUM
 add_core=NUM
+add_core=GER
 trade_goods = timber
 life_rating = 40
