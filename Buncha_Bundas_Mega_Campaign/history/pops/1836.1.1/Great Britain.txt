@@ -5721,14 +5721,14 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 1233
+		size= 233
 	}
 
 	artisans=
 	{
 		culture = scottish
 		religion = catholic
-		size= 67
+		size= 7
 	}
 
 	clergymen=
@@ -5763,105 +5763,105 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 12054
+		size= 2054
 	}
 
 	farmers=
 	{
 		culture = scottish
 		religion = protestant
-		size= 2209
+		size= 209
 	}
 
 	artisans=
 	{
 		culture = scottish
 		religion = protestant
-		size= 681
+		size= 81
 	}
 
 	clergymen=
 	{
 		culture = scottish
 		religion = protestant
-		size= 221
+		size= 21
 	}
 
 	bureaucrats=
 	{
 		culture = scottish
 		religion = protestant
-		size= 30
+		size= 3
 	}
 
 	officers=
 	{
 		culture = scottish
 		religion = protestant
-		size= 49
+		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = scottish
 		religion = protestant
-		size= 143
+		size= 14
 	}
 
 	farmers=
 	{
 		culture = scottish
 		religion = protestant
-		size= 20677
+		size= 2067
 	}
 
 	farmers=
 	{
-		culture = anglois
+		culture = scottish
 		religion = protestant
-		size= 4195
+		size= 419
 	}
 
 	artisans=
 	{
-		culture = anglois
+		culture = scottish
 		religion = protestant
-		size= 2572
+		size= 257
 	}
 
 	clergymen=
 	{
 		culture = anglois
 		religion = protestant
-		size= 836
+		size= 83
 	}
 
 	bureaucrats=
 	{
 		culture = anglois
 		religion = protestant
-		size= 116
+		size= 
 	}
 
 	officers=
 	{
 		culture = anglois
 		religion = protestant
-		size= 186
+		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = anglois
 		religion = protestant
-		size= 540
+		size= 54
 	}
 
 	farmers=
 	{
 		culture = anglois
 		religion = protestant
-		size= 37153
+		size= 371
 	}
 
 }
@@ -5968,7 +5968,7 @@
 1724 = {
 	farmers=
 	{
-		culture = icelandic
+		culture = scottish
 		religion = catholic
 		size= 11095
 	}
