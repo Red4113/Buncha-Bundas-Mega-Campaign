@@ -1,8 +1,7 @@
 owner=DUA
 controller=DUA
 add_core=DUA
-add_core=ICL
-add_core=SCA
+add_core=SCO
 trade_goods = wool
 life_rating = 30
 terrain = small_island
