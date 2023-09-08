@@ -1628,91 +1628,91 @@
 278 = {
 	soldiers=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 615
 	}
 
 	artisans=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 67
 	}
 
 	clergymen=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 22
 	}
 
 	bureaucrats=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = english
+		culture = cumbrian
 		religion = catholic
 		size= 5955
 	}
 
 	soldiers=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = catholic
 		size= 315
 	}
 
 	artisans=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = catholic
 		size= 135
 	}
 
 	clergymen=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = catholic
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = catholic
 		size= 28
 	}
@@ -1726,7 +1726,7 @@
 
 	farmers=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = protestant
 		size= 4026
 	}
@@ -1740,7 +1740,7 @@
 
 	clergymen=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = protestant
 		size= 634
 	}
@@ -1754,21 +1754,21 @@
 
 	officers=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = protestant
 		size= 142
 	}
 
 	aristocrats=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = protestant
 		size= 410
 	}
 
 	farmers=
 	{
-		culture = anglois
+		culture = cumbrian
 		religion = protestant
 		size= 36505
 	}

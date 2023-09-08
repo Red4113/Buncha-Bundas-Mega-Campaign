@@ -1,6 +1,7 @@
 owner=DUA
 controller=DUA
 add_core=DUA
+add_core=CUM
 trade_goods = coal
 life_rating = 40
 terrain = mining_district
