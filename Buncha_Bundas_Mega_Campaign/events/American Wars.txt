@@ -93,7 +93,7 @@ country_event = {
                     province_id = 2148
                 }
             }
-            remove_core = MEX
+            remove_core = TEX
         }
         any_owned = {
             limit = {
@@ -117,7 +117,7 @@ country_event = {
             }
             secede_province = USA
         }
-        MEX = { money = 100000 }
+        TEX = { money = 100000 }
         country_event = 44128
 
         ai_chance = {
@@ -161,22 +161,22 @@ country_event = {
         name = "EVT44127OPTA"
         set_global_flag = mexican_american_war
         war_exhaustion = -20
-        relation = { who = MEX value = -200 }
-        diplomatic_influence = { who = MEX value = -400 }
-        leave_alliance = MEX
+        relation = { who = TEX value = -200 }
+        diplomatic_influence = { who = TEX value = -400 }
+        leave_alliance = TEX
         set_country_flag = exclusive_acquire_all_cores_CB
-        MEX = {
+        TEX = {
             add_country_modifier = { name = war_focus duration = -1 }
         }
         war = {
-            target = MEX
+            target = TEX
             attacker_goal = {
                 casus_belli = acquire_all_cores
                 country = USA
             }
         }
         any_pop = {
-            limit = { has_pop_culture = mexican }
+            limit = { has_pop_culture = nouvellien }
             militancy = 6
         }
         ai_chance = {

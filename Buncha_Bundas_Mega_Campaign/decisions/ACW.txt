@@ -382,6 +382,7 @@ political_decisions = {
             USA_158 = { add_core = USA }
             USA_111 = { add_core = USA }
             USA_116 = { add_core = USA }
+            USA_139 = { add_core = USA }
             2148 = { add_core = USA }
             105 = { add_core = USA }
             104 = { add_core = USA }
@@ -439,7 +440,6 @@ political_decisions = {
                     war = no
                     is_mobilised = no
                     OR = {
-                        tag = CAL
                         tag = LOU
                         tag = DES
                     }
