@@ -1,8 +1,6 @@
-owner=ASY
-controller=ASY
-add_core=ARA
-add_core=ASY
-add_core=OMA
+owner=HND
+controller=HND
+add_core=BLC
 trade_goods = fish
 life_rating = 31
 terrain = mountain

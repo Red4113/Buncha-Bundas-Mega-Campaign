@@ -1140,49 +1140,49 @@
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 12
 	}
 
 	craftsmen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 2973
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 1
 	}
 
 	clerks=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 22
 	}
 
 	capitalists=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = sunni
 		size= 1
 	}
@@ -1196,49 +1196,49 @@
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 4
 	}
 
 	craftsmen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 884
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 17
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 2
 	}
 
 	clerks=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 36
 	}
 
 	capitalists=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = ibadi
 		size= 1
 	}
@@ -1252,49 +1252,49 @@
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 2
 	}
 
 	craftsmen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 389
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 33
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 3
 	}
 
 	clerks=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 70
 	}
 
 	capitalists=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 35
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = coptic
 		size= 3
 	}
@@ -1308,63 +1308,63 @@
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 16
 	}
 
 	craftsmen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 3923
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 170
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 18
 	}
 
 	clerks=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 365
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 2
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 2
 	}
 
 	capitalists=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 185
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian_heresy
 		size= 15
 	}
