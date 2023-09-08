@@ -48,7 +48,7 @@
 		size= 37680
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -99,7 +99,7 @@
 
 }
 901 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -148,7 +148,7 @@
 		size= 34158
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -199,7 +199,7 @@
 
 }
 902 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -248,7 +248,7 @@
 		size= 45566
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -299,7 +299,7 @@
 
 }
 903 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -348,7 +348,7 @@
 		size= 39927
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -399,7 +399,7 @@
 
 }
 904 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -448,7 +448,7 @@
 		size= 34231
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -499,7 +499,7 @@
 
 }
 905 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -548,7 +548,7 @@
 		size= 31838
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -599,7 +599,7 @@
 
 }
 906 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -648,7 +648,7 @@
 		size= 29461
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -699,7 +699,7 @@
 
 }
 907 = {
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = sunni
@@ -748,7 +748,7 @@
 		size= 47366
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = mashriqi
 		religion = zoroastrian_heresy
@@ -799,7 +799,7 @@
 
 }
 1813 = {
-	soldiers=
+	farmers=
 	{
 		culture = kurdish
 		religion = zoroastrian_heresy
@@ -848,7 +848,7 @@
 		size= 32398
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = assyrian
 		religion = zoroastrian_heresy

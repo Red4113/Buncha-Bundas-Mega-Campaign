@@ -62,7 +62,7 @@
 		size= 4354
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
@@ -232,7 +232,7 @@
 		size= 6656
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = ibadi
@@ -344,7 +344,7 @@
 		size= 6291
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
@@ -402,7 +402,7 @@
 		size= 3000
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = coptic
@@ -458,7 +458,7 @@
 		size= 2098
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
@@ -686,7 +686,7 @@
 		size= 2409
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = coptic
@@ -742,7 +742,7 @@
 		size= 2655
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
@@ -856,7 +856,7 @@
 		size= 8714
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = coptic
@@ -967,21 +967,21 @@
 	{
 		culture = african_minor
 		religion = coptic
-		size= 13812
+		size= 1381
 	}
 
 	soldiers=
 	{
 		culture = bedouin
 		religion = coptic
-		size= 2631
+		size= 263
 	}
 
 	artisans=
 	{
 		culture = bedouin
 		religion = coptic
-		size= 9209
+		size= 920
 	}
 
 	clergymen=
@@ -1016,7 +1016,7 @@
 	{
 		culture = bedouin
 		religion = coptic
-		size= 103559
+		size= 10355
 	}
 
 	slaves=
@@ -1026,7 +1026,7 @@
 		size= 9775
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
@@ -1037,14 +1037,14 @@
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
-		size= 22245
+		size= 2224
 	}
 
 	clergymen=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
-		size= 2383
+		size= 238
 	}
 
 	bureaucrats=
@@ -1084,7 +1084,7 @@
 		size= 4329
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = coptic
@@ -1140,7 +1140,7 @@
 		size= 3028
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = bedouin
 		religion = zoroastrian_heresy
