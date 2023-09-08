@@ -5840,7 +5840,7 @@
 	{
 		culture = anglois
 		religion = protestant
-		size= 
+		size= 11
 	}
 
 	officers=
