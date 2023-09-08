@@ -1672,7 +1672,7 @@
 	{
 		culture = cumbrian
 		religion = catholic
-		size= 5955
+		size= 55955
 	}
 
 	soldiers=

@@ -1043,7 +1043,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 16417
+		size= 116417
 	}
 
 	soldiers=
