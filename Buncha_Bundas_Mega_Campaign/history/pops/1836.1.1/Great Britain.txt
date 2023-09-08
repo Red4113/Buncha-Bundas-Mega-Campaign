@@ -5968,8 +5968,8 @@
 1724 = {
 	farmers=
 	{
-		culture = scottish
+		culture = icelandic
 		religion = catholic
-		size= 9095
+		size= 11095
 	}
 }
