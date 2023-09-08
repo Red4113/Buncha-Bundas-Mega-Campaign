@@ -1,8 +1,8 @@
 owner=DUA
 controller=DUA
 add_core=DUA
-add_core=ENG
-add_core=HSC
+
+
 add_core=SCO
 trade_goods = fish
 life_rating = 35
