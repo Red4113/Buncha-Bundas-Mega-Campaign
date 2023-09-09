@@ -432,7 +432,7 @@ malthusian_thought = {
             not = { literacy = 0.25 }
         }
         modifier = {
-            factor = 20
+            factor = 200
             capital_scope = { continent = europe }
             NOT = { tag = TUR }
             not = { literacy = 0.30 }
@@ -471,7 +471,7 @@ positivism = {
             not = { literacy = 0.25 }
         }
         modifier = {
-            factor = 5
+            factor = 500
             capital_scope = { continent = europe }
             NOT = { tag = TUR }
             OR = {
@@ -523,7 +523,7 @@ functionalism = {
             not = { literacy = 0.25 }
         }
         modifier = {
-            factor = 5
+            factor = 500
             capital_scope = { continent = europe }
             NOT = { tag = TUR }
             OR = {
@@ -575,7 +575,7 @@ biologism = {
             not = { literacy = 0.25 }
         }
         modifier = {
-            factor = 10
+            factor = 1000
             capital_scope = { continent = europe }
             NOT = { tag = TUR }
             OR = {
@@ -628,7 +628,7 @@ social_science = {
             not = { literacy = 0.25 }
         }
         modifier = {
-            factor = 10
+            factor = 10000
             capital_scope = { continent = europe }
             NOT = { tag = TUR }
             OR = {
