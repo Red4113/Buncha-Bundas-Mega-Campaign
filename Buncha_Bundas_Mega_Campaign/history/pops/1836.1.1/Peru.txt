@@ -15,49 +15,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 7820
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 1937
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 180
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 115
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 38
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 18
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 202
 	}
@@ -180,49 +180,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 2031
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 417
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 25
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 8
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 4
 	}
@@ -245,49 +245,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 2078
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 425
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 38
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 7
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 24
 	}
@@ -1024,49 +1024,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 247
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 9269
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 2160
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 200
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 129
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 43
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 20
 	}
@@ -1352,98 +1352,98 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 607
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 96
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 1
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 105
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 1023
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 95
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 23
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 62
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = shiite
 		size= 3932
 	}
@@ -2172,49 +2172,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 11520
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 2699
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 250
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 161
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 53
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 25
 	}
@@ -2244,7 +2244,7 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 10521
 	}
@@ -2258,42 +2258,42 @@
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 3475
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 4133
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 322
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 209
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 70
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = sunni
 		size= 32
 	}

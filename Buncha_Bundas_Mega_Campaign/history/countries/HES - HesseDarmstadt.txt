@@ -1,5 +1,6 @@
 capital = 566
-primary_culture = north_german
+primary_culture = south_german
+culture = north_german
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy

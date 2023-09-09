@@ -29,49 +29,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 616
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 42
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 56
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 14
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 6
 	}
@@ -87,49 +87,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 593
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 107
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 7
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 2
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 6
 	}

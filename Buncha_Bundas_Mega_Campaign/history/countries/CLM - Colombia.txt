@@ -1,7 +1,5 @@
-capital = 2243
-primary_culture = platinean
-culture = americano
-culture = chibchan
+capital = 2247
+primary_culture = americano
 culture = zzz_religion_sunni
 religion = sunni
 government = democracy

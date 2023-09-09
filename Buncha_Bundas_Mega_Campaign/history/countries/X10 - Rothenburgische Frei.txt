@@ -1,6 +1,5 @@
 capital = 590
 primary_culture = south_german
-culture = dynamic-franconian-culture-num1
 culture = zzz_religion_hussite
 religion = hussite
 government = democracy

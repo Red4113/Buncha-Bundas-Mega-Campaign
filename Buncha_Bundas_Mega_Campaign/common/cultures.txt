@@ -281,8 +281,34 @@ arab = {
 		last_names = { "Ahmad" "Ali" "Zubayr" "Digna" "Azrak" "Hammuda" "al-Tasashi" "Nujumi" }
 		
 	}
+
+	north_andean = {
+		color = { 146 156 116 }
+		
+		first_names = { "Antonio" "Camilo" "Carlos" "Cipriano" "Demetrio" "Diego" "Domingo" "Eloy" "Eusebio" "Eustorgio" "Ezequiel" "Federico" "Fernando" "Florentino" "Franciso" "Francisco Javier" "Francisco José" "Francisco de Paula" "Froilán" "Gabriel" "Gregorio" "Guillermo" "Gustavo" "Guzmán" "Hilario" "Ignacio" "Jerónimo" "Joaquín" "Jorge" "José Antonio" "José Manuel" "José María" "Juan" "Juan José" "Julián" "Julio" "León" "Manuel" "Pedro" "Plácido" "Rafael" "Raimundo" "Ramón" "Ricardo" "Rodolfo" "Santiago" "Santos" "Tadeo" "Tomás" "Vicente" }
+		
+		last_names = { "Alfaro" "Andueza" "Arboleda" "Blanco" "Bonnet" "Boyd" "Caamaño" "Carreño" "Carrión" "Castro" "Chiari" "Cordero" "Crespo" "Daza" "de Herrera" "de Mosquera" "de Obaldía" "de Olmedo" "de Veintemilla" "de Villamil" "Falcón" "Flores" "García" "Gómez" "González" "Gual" "Gutiérrez" "Herrán" "Hurtado" "López" "Mallarino" "Manjarrés" "Mariño" "Melo" "Monagas" "Moreno" "Núñez" "Obando" "Páez" "Porras" "Reyes" "Robles" "Rocafuerte" "Rojas" "Salgar" "Santander" "Soublette" "Urbina" "Villegas" "Zaldúa" }
+		
+	}
+	platinean = {
+		color = { 199 232 151 }
+		
+		first_names = { "Agustín" "Antonio" "Atanasio" "Baltasar" "Bartolomé" "Bernardino" "Bernardo" "Cándido" "Carlos" "Cecilio" "Cirilo" "Claudio" "Domingo" "Emiliano" "Esteban" "Eugenio" "Evaristo" "Facundo" "Faustino" "Feliciano" "Félix" "Francisco" "Fructuoso" "Gabriel" "Gaspar" "Guillermo" "Hipólito" "Ignacio" "José" "Juan José" "Juan Manuel" "Juan Ramón" "Julio" "Justo" "Lorenzo" "Luis" "Manuel" "Marcial" "Máximo" "Miguel" "Nicolás" "Patricio" "Pedro" "Ramón" "Roberto" "Roque" "Salvador" "Santiago" "Torcuato" "Venancio" }
+		
+		last_names = { "Aguirre" "Avellaneda" "Báez" "Balcarce" "Bareiro" "Berro" "Brown" "Caballero" "Cruz" "de Alvear" "de la Plaza" "de Rosas" "de Urquiza" "Derqui" "Díaz" "Ellauri" "Escobar" "Flores" "González" "Jovellanos" "Juárez" "Justo" "Latorre" "López" "Machaín" "Maza" "Meza" "Mitre" "Paz" "Pedernera" "Pellegrini" "Pereira" "Quintana" "Rivarola" "Rivera" "Roca" "Rodríguez de Francia" "Rojas" "Rondeau" "Sáenz" "Santos" "Sarmineto" "Solano" "Tajes" "Uriburu" "Viamonte" "Vidal" "Williman" "Wisner" "Yrigoyen" }
+		
+	}
+	south_andean = {
+		color = { 116 156 146 }
+		
+		first_names = { "Adolfo" "Agustín" "Alejandro" "Andrés" "Aníbal" "Antonio" "Bartolomé" "Bernardo" "David" "Diego" "Domingo" "Eduardo" "Emiliano" "Emilio" "Enrique" "Esteban" "Eusebio" "Federico" "Felipe" "Francisco" "Germán" "Hernando" "Hilarión" "Ignacio" "Isidoro" "Ismael" "Jorge" "José" "José Miguel" "Juan" "Juan Antonio" "Juan Francisco" "Justo" "Ladislao" "Luis" "Manuel" "Mariano" "Miguel" "Narciso" "Nicolás" "Pablo" "Patricio" "Pedro" "Ramón" "Rufino" "Ruperto" "Santiago" "Sebastián" "Severino" "Tomás" }
+		
+		last_names = { "Abaroa" "Ágreda" "Altamirano" "Arteaga" "Ballivián" "Baquedano" "Belzú" "Blanche" "Blanco" "Bulnes" "Cabrera" "Calvo" "Campero" "Castilla" "Corrico" "Daza" "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal" "Echenique" "Errázuriz" "Fernández" "Figueroa" "Franco" "Freire" "Gamarra" "Gorostiaga" "Grau" "Guilarte" "La Mar" "Latorre" "Lynch" "Melgarejo" "Monje" "Montero" "Montes" "Montt" "Orbegoso" "Pezet" "Rebolledo" "Ruíz-Tagle" "Salaverry" "Santa María" "Siles" "Sotomayor" "Toro" "Valencia" "Zañartu" "Zapata" }
+		
+	}
+
 	
-	union = ARA
+	union = ADU
 	
 }
 
@@ -1819,7 +1845,7 @@ french = {
 		
 	}
 	
-	union = FRA
+	union = DUA
 	
 }
 
@@ -2697,30 +2723,6 @@ latin_american_cultures = {
 	}
 	morado = {
 		color = { 70 94 88 }
-		
-		first_names = { "Adolfo" "Agustín" "Alejandro" "Andrés" "Aníbal" "Antonio" "Bartolomé" "Bernardo" "David" "Diego" "Domingo" "Eduardo" "Emiliano" "Emilio" "Enrique" "Esteban" "Eusebio" "Federico" "Felipe" "Francisco" "Germán" "Hernando" "Hilarión" "Ignacio" "Isidoro" "Ismael" "Jorge" "José" "José Miguel" "Juan" "Juan Antonio" "Juan Francisco" "Justo" "Ladislao" "Luis" "Manuel" "Mariano" "Miguel" "Narciso" "Nicolás" "Pablo" "Patricio" "Pedro" "Ramón" "Rufino" "Ruperto" "Santiago" "Sebastián" "Severino" "Tomás" }
-		
-		last_names = { "Abaroa" "Ágreda" "Altamirano" "Arteaga" "Ballivián" "Baquedano" "Belzú" "Blanche" "Blanco" "Bulnes" "Cabrera" "Calvo" "Campero" "Castilla" "Corrico" "Daza" "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal" "Echenique" "Errázuriz" "Fernández" "Figueroa" "Franco" "Freire" "Gamarra" "Gorostiaga" "Grau" "Guilarte" "La Mar" "Latorre" "Lynch" "Melgarejo" "Monje" "Montero" "Montes" "Montt" "Orbegoso" "Pezet" "Rebolledo" "Ruíz-Tagle" "Salaverry" "Santa María" "Siles" "Sotomayor" "Toro" "Valencia" "Zañartu" "Zapata" }
-		
-	}
-	north_andean = {
-		color = { 146 156 116 }
-		
-		first_names = { "Antonio" "Camilo" "Carlos" "Cipriano" "Demetrio" "Diego" "Domingo" "Eloy" "Eusebio" "Eustorgio" "Ezequiel" "Federico" "Fernando" "Florentino" "Franciso" "Francisco Javier" "Francisco José" "Francisco de Paula" "Froilán" "Gabriel" "Gregorio" "Guillermo" "Gustavo" "Guzmán" "Hilario" "Ignacio" "Jerónimo" "Joaquín" "Jorge" "José Antonio" "José Manuel" "José María" "Juan" "Juan José" "Julián" "Julio" "León" "Manuel" "Pedro" "Plácido" "Rafael" "Raimundo" "Ramón" "Ricardo" "Rodolfo" "Santiago" "Santos" "Tadeo" "Tomás" "Vicente" }
-		
-		last_names = { "Alfaro" "Andueza" "Arboleda" "Blanco" "Bonnet" "Boyd" "Caamaño" "Carreño" "Carrión" "Castro" "Chiari" "Cordero" "Crespo" "Daza" "de Herrera" "de Mosquera" "de Obaldía" "de Olmedo" "de Veintemilla" "de Villamil" "Falcón" "Flores" "García" "Gómez" "González" "Gual" "Gutiérrez" "Herrán" "Hurtado" "López" "Mallarino" "Manjarrés" "Mariño" "Melo" "Monagas" "Moreno" "Núñez" "Obando" "Páez" "Porras" "Reyes" "Robles" "Rocafuerte" "Rojas" "Salgar" "Santander" "Soublette" "Urbina" "Villegas" "Zaldúa" }
-		
-	}
-	platinean = {
-		color = { 199 232 151 }
-		
-		first_names = { "Agustín" "Antonio" "Atanasio" "Baltasar" "Bartolomé" "Bernardino" "Bernardo" "Cándido" "Carlos" "Cecilio" "Cirilo" "Claudio" "Domingo" "Emiliano" "Esteban" "Eugenio" "Evaristo" "Facundo" "Faustino" "Feliciano" "Félix" "Francisco" "Fructuoso" "Gabriel" "Gaspar" "Guillermo" "Hipólito" "Ignacio" "José" "Juan José" "Juan Manuel" "Juan Ramón" "Julio" "Justo" "Lorenzo" "Luis" "Manuel" "Marcial" "Máximo" "Miguel" "Nicolás" "Patricio" "Pedro" "Ramón" "Roberto" "Roque" "Salvador" "Santiago" "Torcuato" "Venancio" }
-		
-		last_names = { "Aguirre" "Avellaneda" "Báez" "Balcarce" "Bareiro" "Berro" "Brown" "Caballero" "Cruz" "de Alvear" "de la Plaza" "de Rosas" "de Urquiza" "Derqui" "Díaz" "Ellauri" "Escobar" "Flores" "González" "Jovellanos" "Juárez" "Justo" "Latorre" "López" "Machaín" "Maza" "Meza" "Mitre" "Paz" "Pedernera" "Pellegrini" "Pereira" "Quintana" "Rivarola" "Rivera" "Roca" "Rodríguez de Francia" "Rojas" "Rondeau" "Sáenz" "Santos" "Sarmineto" "Solano" "Tajes" "Uriburu" "Viamonte" "Vidal" "Williman" "Wisner" "Yrigoyen" }
-		
-	}
-	south_andean = {
-		color = { 116 156 146 }
 		
 		first_names = { "Adolfo" "Agustín" "Alejandro" "Andrés" "Aníbal" "Antonio" "Bartolomé" "Bernardo" "David" "Diego" "Domingo" "Eduardo" "Emiliano" "Emilio" "Enrique" "Esteban" "Eusebio" "Federico" "Felipe" "Francisco" "Germán" "Hernando" "Hilarión" "Ignacio" "Isidoro" "Ismael" "Jorge" "José" "José Miguel" "Juan" "Juan Antonio" "Juan Francisco" "Justo" "Ladislao" "Luis" "Manuel" "Mariano" "Miguel" "Narciso" "Nicolás" "Pablo" "Patricio" "Pedro" "Ramón" "Rufino" "Ruperto" "Santiago" "Sebastián" "Severino" "Tomás" }
 		

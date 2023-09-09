@@ -1,21 +1,21 @@
 44 = {
 	slaves=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 55
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 20
 	}
@@ -29,21 +29,21 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 1
 	}
@@ -101,21 +101,21 @@
 2209 = {
 	slaves=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 2451
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 104
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 2638
 	}
@@ -129,49 +129,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 344
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 123
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 77
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 40
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 13
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 3
 	}
@@ -229,21 +229,21 @@
 2210 = {
 	slaves=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 2233
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 332
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 1041
 	}
@@ -257,49 +257,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 55
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 188
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 51
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 48
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 4
 	}
@@ -357,21 +357,21 @@
 2211 = {
 	slaves=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 1848
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 678
 	}
@@ -385,49 +385,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 14
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 142
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 26
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 5
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 25
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 2
 	}
@@ -485,21 +485,21 @@
 2212 = {
 	slaves=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 1162
 	}
 
 	soldiers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 110
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = americano
 		religion = catholic
 		size= 686
 	}
@@ -555,49 +555,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 19
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 42
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 4
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 64
 	}

@@ -10295,7 +10295,7 @@
 178 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 82
 	}
@@ -10309,7 +10309,7 @@
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 6907
 	}
@@ -14726,14 +14726,14 @@
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 99
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 9
 	}
@@ -14747,7 +14747,7 @@
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 1
 	}
@@ -14768,42 +14768,42 @@
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 167
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 577
 	}
@@ -15138,14 +15138,14 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 1468
 	}
@@ -15154,14 +15154,14 @@
 225 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 5235
 	}
@@ -15219,14 +15219,14 @@
 226 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 86
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 8560
 	}
@@ -15240,21 +15240,21 @@
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 89
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 10
 	}
@@ -15354,28 +15354,28 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 96
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 2
 	}
@@ -15447,7 +15447,7 @@
 228 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 114
 	}
@@ -15958,7 +15958,7 @@
 235 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 159
 	}
@@ -15972,7 +15972,7 @@
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 103
 	}
@@ -15986,7 +15986,7 @@
 
 	officers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 6
 	}
@@ -16000,7 +16000,7 @@
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 14443
 	}
@@ -16014,7 +16014,7 @@
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 11369
 	}
@@ -16028,7 +16028,7 @@
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 146
 	}
@@ -16042,7 +16042,7 @@
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 682
 	}
@@ -16058,7 +16058,7 @@
 236 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 65
 	}
@@ -16072,7 +16072,7 @@
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 36
 	}
@@ -16086,7 +16086,7 @@
 
 	officers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 2
 	}
@@ -16100,56 +16100,56 @@
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 6067
 	}
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 230
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 3552
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 330
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 71
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 213
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = norse_pagan_reformed
 		size= 18595
 	}
@@ -16256,14 +16256,14 @@
 237 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 83
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = vinlander
 		religion = totemism
 		size= 581
 	}

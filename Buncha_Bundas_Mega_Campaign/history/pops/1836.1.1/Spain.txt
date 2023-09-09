@@ -3195,14 +3195,14 @@
 	{
 		culture = catalan
 		religion = hellenic_pagan
-		size= 516
+		size= 51
 	}
 
 	artisans=
 	{
 		culture = catalan
 		religion = hellenic_pagan
-		size= 465
+		size= 46
 	}
 
 	clergymen=
@@ -3237,35 +3237,35 @@
 	{
 		culture = catalan
 		religion = hellenic_pagan
-		size= 8125
+		size= 812
 	}
 
 	farmers=
 	{
 		culture = spanish
 		religion = hellenic_pagan
-		size= 9881
+		size= 988
 	}
 
 	artisans=
 	{
 		culture = spanish
 		religion = hellenic_pagan
-		size= 26097
+		size= 260
 	}
 
 	clergymen=
 	{
 		culture = spanish
 		religion = hellenic_pagan
-		size= 2423
+		size= 24
 	}
 
 	bureaucrats=
 	{
 		culture = spanish
 		religion = hellenic_pagan
-		size= 485
+		size= 48
 	}
 
 	officers=
@@ -3279,14 +3279,14 @@
 	{
 		culture = spanish
 		religion = hellenic_pagan
-		size= 3131
+		size= 31
 	}
 
 	farmers=
 	{
 		culture = spanish
 		religion = hellenic_pagan
-		size= 134017
+		size= 1340
 	}
 
 	soldiers=
@@ -3335,7 +3335,7 @@
 	{
 		culture = spanish
 		religion = sunni
-		size= 15543
+		size= 9554
 	}
 
 	farmers=
@@ -3384,7 +3384,7 @@
 	{
 		culture = catalan
 		religion = catholic
-		size= 11517
+		size= 8151
 	}
 
 }

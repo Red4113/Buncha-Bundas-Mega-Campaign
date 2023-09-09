@@ -29,77 +29,77 @@
 
 	craftsmen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7607
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 12
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 3842
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2024
 	}
 
 	clerks=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 492
 	}
 
 	capitalists=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 250
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 364
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 187
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 40
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 268
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 11
 	}
@@ -122,63 +122,63 @@
 
 	craftsmen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 7176
 	}
 
 	clerks=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 492
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 418
 	}
 
 	capitalists=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 249
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 38
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 52
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 8
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 24
 	}
@@ -215,49 +215,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 7010
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 1393
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 128
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 82
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 173
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 26
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 8
 	}
@@ -294,49 +294,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 1407
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 280
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 6
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 16
 	}
@@ -359,70 +359,70 @@
 2404 = {
 	soldiers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 716
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 142
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 8
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 58
 	}
@@ -431,77 +431,77 @@
 2405 = {
 	soldiers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 184
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2068
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 410
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 38
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 8
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 24
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 167
 	}
@@ -510,56 +510,56 @@
 2407 = {
 	soldiers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 716
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 142
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 8
 	}
@@ -596,63 +596,63 @@
 
 	craftsmen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7408
 	}
 
 	clerks=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 491
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 281
 	}
 
 	capitalists=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 249
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 33
 	}
@@ -773,49 +773,49 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 14
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 367
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 9
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 66
 	}
@@ -824,77 +824,77 @@
 2411 = {
 	slaves=
 	{
-		culture = tupi
+		culture = amazonian
 		religion = catholic
 		size= 93
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 370
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2765
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 896
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 710
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 85
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 65
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 92
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 14
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 4
 	}
@@ -917,49 +917,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1433
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 277
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 31
 	}
@@ -968,63 +968,63 @@
 2413 = {
 	soldiers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 271
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2145
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 415
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 49
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 54
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 8
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2
 	}
@@ -1054,56 +1054,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1811
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 93
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 95
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 42
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 37
 	}
@@ -1140,49 +1140,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7458
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1585
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 146
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 190
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 944
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 39
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 26
 	}
@@ -1219,49 +1219,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 4556
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 982
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 118
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 577
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 89
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 24
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 16
 	}
@@ -1333,49 +1333,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 4911
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 1001
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 92
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 119
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 359
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 25
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 11
 	}
@@ -1405,49 +1405,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1338
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 285
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 170
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 32
 	}
@@ -1491,49 +1491,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 3357
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 713
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 66
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 85
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 425
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 18
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 12
 	}
@@ -1584,56 +1584,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 4698
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2699
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1568
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 145
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 281
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 945
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 39
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 26
 	}
@@ -1670,49 +1670,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1401
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 282
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 103
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 32
 	}
@@ -1735,49 +1735,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 498
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 37
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 24
 	}
@@ -1968,56 +1968,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 15208
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 14569
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2174
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5823
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 540
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 522
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 116
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 66
 	}
@@ -2224,56 +2224,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 16851
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 12634
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2169
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5754
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 534
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 690
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 148
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 65
 	}
@@ -2310,49 +2310,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4568
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1309
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 235
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 121
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 33
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 22
 	}
@@ -2466,56 +2466,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6576
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 5065
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 3406
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 611
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 316
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 87
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 58
 	}
@@ -2566,56 +2566,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 17230
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4195
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 15481
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6670
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1200
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 619
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 170
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 114
 	}
@@ -2645,56 +2645,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 4879
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4190
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1165
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1891
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 340
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 175
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 48
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 32
 	}
@@ -2724,56 +2724,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 15279
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7233
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5093
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4884
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 453
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 439
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 98
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 83
 	}
@@ -2803,56 +2803,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 27642
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
-		size= 8223
+		size= 98223
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4858
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 528
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 351
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 129
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 85
 	}
@@ -2903,56 +2903,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 11590
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2172
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1771
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2900
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 522
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 269
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 74
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 49
 	}
@@ -2982,56 +2982,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 16359
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 10333
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4869
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5677
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1022
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 527
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 114
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 97
 	}
@@ -3061,56 +3061,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4121
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 13130
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4467
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 804
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 415
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 114
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 77
 	}
@@ -3140,56 +3140,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 36759
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 31359
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 14070
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1305
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1265
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 361
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 162
 	}
@@ -3240,56 +3240,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 17393
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4090
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4520
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 814
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 418
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2761
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 116
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 76
 	}
@@ -3452,56 +3452,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 14055
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 10775
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1836
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4998
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 464
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 600
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 100
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 57
 	}
@@ -3552,56 +3552,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 27488
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4198
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5817
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 539
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 349
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 783
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 33
 	}
@@ -3645,56 +3645,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 24210
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1670
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4934
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 592
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 457
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 127
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1839
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 56
 	}
@@ -3731,56 +3731,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 32933
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 24380
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6314
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2918
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 948
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 919
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 204
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 175
 	}
@@ -4155,56 +4155,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 6664
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 620
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2640
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 245
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 68
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 238
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1810
 	}
@@ -4255,56 +4255,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 8637
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5072
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1745
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2861
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 265
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 343
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 73
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 48
 	}
@@ -4355,56 +4355,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2237
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 9597
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1498
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2454
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 228
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 294
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 63
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 42
 	}
@@ -4455,56 +4455,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 19377
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5020
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1788
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4799
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 575
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 445
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 96
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 54
 	}
@@ -4681,49 +4681,49 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 1039
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 53
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5393
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1753
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 485
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 108
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1699
 	}
@@ -4774,56 +4774,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 21026
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 11391
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6018
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 558
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 722
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 120
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 808
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 34
 	}
@@ -4874,112 +4874,112 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 17598
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7547
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 4935
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 457
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 296
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 127
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 28
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = shiite
 		size= 3860
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 140
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 847
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 79
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 22
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = shiite
 		size= 2014
 	}
@@ -5030,56 +5030,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 44848
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 37276
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 13814
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1283
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1658
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1851
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 276
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 79
 	}
@@ -5123,56 +5123,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 19548
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 14384
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6244
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 579
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 374
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 124
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 839
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 35
 	}
@@ -5202,56 +5202,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6409
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 5767
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2312
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 416
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 214
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 46
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 307
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 13
 	}
@@ -5288,56 +5288,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1335
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 337
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 40
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 291
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 205
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6
 	}
@@ -5381,56 +5381,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 9784
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 8358
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 3051
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 283
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 366
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 408
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 60
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 17
 	}
@@ -5467,56 +5467,56 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1335
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 337
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 40
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 291
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 205
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 6
 	}
@@ -5574,77 +5574,77 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 23007
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 14484
 	}
 
 	craftsmen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7637
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7657
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 711
 	}
 
 	clerks=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 493
 	}
 
 	capitalists=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 249
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 459
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 152
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1019
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 43
 	}
@@ -5674,56 +5674,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 3072
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 5051
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 898
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 424
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 137
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 178
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 29
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 25
 	}
@@ -5760,77 +5760,77 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 3941
 	}
 
 	craftsmen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 7596
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 636
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 826
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 635
 	}
 
 	clerks=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 493
 	}
 
 	capitalists=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 206
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 200
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 44
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 24
 	}
@@ -5881,56 +5881,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 3901
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 8819
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1612
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2646
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 245
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 317
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 53
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 45
 	}
@@ -5960,56 +5960,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 5913
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 12977
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1212
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 932
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 303
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 293
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 65
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 37
 	}
@@ -6039,56 +6039,56 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 6896
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 10276
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 1102
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 848
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 275
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 266
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 59
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 34
 	}
@@ -6104,21 +6104,21 @@
 
 	soldiers=
 	{
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size= 82
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size= 3169
 	}
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 12547
 	}
@@ -6127,7 +6127,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 30406
+		size= 50406
 	}
 
 	soldiers=
@@ -6141,7 +6141,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8079
+		size= 18079
 	}
 
 	clergymen=
@@ -6204,7 +6204,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 3862
 	}
@@ -6276,7 +6276,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 4823
 	}
@@ -6362,7 +6362,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = afro_brazilian
 		religion = sunni
 		size= 5711
 	}
@@ -6478,70 +6478,70 @@
 2532 = {
 	soldiers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = carribean
+		culture = amazonian
 		religion = catholic
 		size= 147
 	}
 
 	farmers=
 	{
-		culture = guajiro
+		culture = amazonian
 		religion = catholic
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 743
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 145
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 49
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 17
 	}
@@ -6564,56 +6564,56 @@
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 28
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 1386
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 512
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = brazilian
 		religion = sunni
 		size= 30
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 10
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 5
 	}
@@ -6636,49 +6636,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2661
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 552
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 33
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 194
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 11
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 6
 	}
@@ -6687,63 +6687,63 @@
 2600 = {
 	soldiers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = amazonian
 		religion = catholic
 		size= 273
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2156
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 418
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 49
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 54
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 38
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 8
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = amazonian
 		religion = sunni
 		size= 2
 	}

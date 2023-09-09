@@ -62,7 +62,7 @@ country_event = {
     id = 1111000
     title = "EVTNAME952500" #Inheriting Rhineland
     desc = "EVTDESC952500"
-    picture = "delhi_sultan"
+    picture = "unite"
 
     is_triggered_only = yes
 
@@ -71,6 +71,8 @@ country_event = {
     option = {
         name = "EVT952500OPTA"
         NET = { inherit = THIS }
+        RHI = { all_core = { add_core = NET } }
+        RHI = { all_core = { remove_core = RHI } }
         ai_chance = { factor = 95 }
     }
 
@@ -79,7 +81,7 @@ country_event = {
         NET = { country_event = 952501 }
         leave_alliance = NET
         end_military_access = NET
-        NET = { release_vassal = JAV }
+        NET = { release_vassal = RHI }
         NET = { relation = { who = THIS value = -400 } }
         NET = { diplomatic_influence = { who = THIS value = -400 } }
         ai_chance = { factor = 0.05 }

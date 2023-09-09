@@ -389,8 +389,9 @@ X28 = {
 	level = 2
 }
 X29 = {
-	value = 0
-	level = 2
+	value = 5
+	level = 5
+	influence_value = 0
 }
 XMA = {
 	value = 49

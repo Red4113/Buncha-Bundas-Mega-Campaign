@@ -1,5 +1,5 @@
 capital = 536
-primary_culture = czech
+primary_culture = south_german
 culture = north_german
 culture = zzz_religion_hussite
 religion = hussite

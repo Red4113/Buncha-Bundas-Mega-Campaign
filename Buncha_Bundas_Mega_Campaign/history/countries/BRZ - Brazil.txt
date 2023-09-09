@@ -1,12 +1,12 @@
 capital = 2432
-primary_culture = platinean
-culture = afro_caribeno
+primary_culture = brazilian
+culture = afro_brazilian
 culture = zzz_religion_sunni
 religion = sunni
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_tradition
-literacy = 0.26804
+literacy = 0.36804
 
 civilized = yes
 

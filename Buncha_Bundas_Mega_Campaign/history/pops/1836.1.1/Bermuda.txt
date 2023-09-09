@@ -113,63 +113,63 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 109
 	}
 
 	craftsmen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 6813
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 300
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 28
 	}
 
 	clerks=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 452
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 6
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 4
 	}
 
 	capitalists=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 411
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = americano
 		religion = sunni
 		size= 36
 	}
