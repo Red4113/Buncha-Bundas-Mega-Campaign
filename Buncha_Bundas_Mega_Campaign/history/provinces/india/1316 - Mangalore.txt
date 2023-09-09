@@ -1,6 +1,6 @@
 owner=XMA
 controller=ADU
-add_core=X00
+
 add_core=XMA
 trade_goods = fruit
 life_rating = 32

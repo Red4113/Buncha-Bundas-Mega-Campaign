@@ -3,9 +3,6 @@ ADE = {
 	last_dynasty = "Yaruba"
 	last_ruler_name = "'Abd al-Wahh0b I"
 }
-X00 = {
-	monarchy = yes
-}
 AWS = {
 	monarchy = yes
 }
