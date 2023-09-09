@@ -445,21 +445,21 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 42021
+		size= 2021
 	}
 
 	soldiers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 14811
+		size= 4811
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 26121
+		size= 6121
 	}
 
 	clergymen=
@@ -494,7 +494,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 113614
+		size= 85614
 	}
 
 }

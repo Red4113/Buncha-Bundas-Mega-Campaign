@@ -3,21 +3,21 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 16021
+		size= 121
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 29067
+		size= 167
 	}
 
 	clergymen=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 2699
+		size= 699
 	}
 
 	bureaucrats=
@@ -38,14 +38,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 2617
+		size= 617
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 132104
+		size= 80104
 	}
 
 	farmers=
@@ -343,14 +343,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 7504
+		size= 504
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 22069
+		size= 169
 	}
 
 	clergymen=
@@ -385,7 +385,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 107050
+		size= 85050
 	}
 
 }
@@ -394,14 +394,14 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 2259
+		size= 259
 	}
 
 	artisans=
 	{
 		culture = spanish
 		religion = catholic
-		size= 1449
+		size= 449
 	}
 
 	clergymen=
@@ -436,28 +436,28 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 36186
+		size= 1186
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 8484
+		size= 3484
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 25409
+		size= 409
 	}
 
 	clergymen=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 2358
+		size= 358
 	}
 
 	bureaucrats=
@@ -478,14 +478,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 4573
+		size= 573
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 118875
+		size= 95875
 	}
 
 }
@@ -3393,21 +3393,21 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 19441
+		size= 9441
 	}
 
 	craftsmen=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 8171
+		size= 3171
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 29584
+		size= 584
 	}
 
 	clergymen=
@@ -3449,14 +3449,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 2662
+		size= 662
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 146773
+		size= 80773
 	}
 
 }
@@ -4317,7 +4317,7 @@
 	{
 		culture = berber
 		religion = shamanism
-		size= 2848
+		size= 848
 	}
 
 	artisans=
@@ -4366,14 +4366,14 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 5173
+		size= 173
 	}
 
 	artisans=
 	{
 		culture = berber
 		religion = sunni
-		size= 1475
+		size= 475
 	}
 
 	clergymen=
@@ -4408,14 +4408,14 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 48630
+		size= 630
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 5576
+		size= 576
 	}
 
 	artisans=
@@ -4457,7 +4457,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 48144
+		size= 144
 	}
 
 }

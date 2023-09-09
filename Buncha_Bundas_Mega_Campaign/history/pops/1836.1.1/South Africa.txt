@@ -24,7 +24,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3693
+		size= 693
 	}
 
 	artisans=
@@ -68,7 +68,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 4611
+		size= 611
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 8967
+		size= 967
 	}
 
 	artisans=
@@ -238,7 +238,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3528
+		size= 528
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3505
+		size= 505
 	}
 
 	artisans=
@@ -368,7 +368,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3862
+		size= 862
 	}
 
 	artisans=
@@ -433,7 +433,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 2460
+		size= 460
 	}
 
 	artisans=
@@ -519,7 +519,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 2720
+		size= 720
 	}
 
 	artisans=
@@ -700,7 +700,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3121
+		size= 121
 	}
 
 	artisans=
@@ -2026,7 +2026,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 6814
+		size= 814
 	}
 
 	artisans=
@@ -2084,7 +2084,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 2086
+		size= 186
 	}
 
 	artisans=
@@ -2133,7 +2133,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 6988
+		size= 988
 	}
 
 	artisans=
@@ -2638,7 +2638,7 @@
 	{
 		culture = nguni
 		religion = sunni
-		size= 1250
+		size= 250
 	}
 
 	artisans=
@@ -2880,7 +2880,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 2467
+		size= 467
 	}
 
 	artisans=

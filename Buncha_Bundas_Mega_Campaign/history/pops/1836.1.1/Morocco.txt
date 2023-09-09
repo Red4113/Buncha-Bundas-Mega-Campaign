@@ -2349,14 +2349,14 @@
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 2741
+		size= 741
 	}
 
 	artisans=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 1744
+		size= 744
 	}
 
 	clergymen=
@@ -2391,21 +2391,21 @@
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 24775
+		size= 775
 	}
 
 	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 11588
+		size= 1588
 	}
 
 	artisans=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 17712
+		size= 712
 	}
 
 	clergymen=
@@ -2440,7 +2440,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 91225
+		size= 41225
 	}
 
 	farmers=
@@ -2489,7 +2489,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 14996
+		size= 4996
 	}
 
 }
@@ -2498,14 +2498,14 @@
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 2269
+		size= 269
 	}
 
 	artisans=
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 2837
+		size= 837
 	}
 
 	clergymen=
@@ -2540,28 +2540,28 @@
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 34565
+		size= 1565
 	}
 
 	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 11294
+		size= 1294
 	}
 
 	artisans=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 31070
+		size= 1070
 	}
 
 	clergymen=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 2886
+		size= 886
 	}
 
 	bureaucrats=
@@ -2582,14 +2582,14 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 5593
+		size= 593
 	}
 
 	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 149957
+		size= 13957
 	}
 
 }
