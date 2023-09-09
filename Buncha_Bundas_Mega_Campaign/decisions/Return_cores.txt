@@ -8785,44 +8785,6 @@ political_decisions = {
 		}
 	}
 
-	return_cores_X00 = {
-		picture = return_cores_img
-		alert = no
-
-		potential = {
-			ai = no
-			has_country_flag = return_cores_decision
-			X00 = {
-				NOT = { substate_of = THIS }
-				OR = {
-					in_sphere = THIS
-					vassal_of = THIS
-				}
-			}
-			any_owned_province = {
-				is_core = X00
-				NOT = { is_core = THIS }
-			}
-		}
-
-		allow = {
-			war = no
-			X00 = { war = no }
-		}
-
-		effect = {
-			prestige = -5
-			relation = { who = X00 value = 50 }
-			any_owned = {
-				limit = {
-					NOT = { is_core = THIS }
-					is_core = X00
-				}
-				secede_province = X00
-			}
-		}
-	}
-
 	return_cores_X01 = {
 		picture = return_cores_img
 		alert = no
