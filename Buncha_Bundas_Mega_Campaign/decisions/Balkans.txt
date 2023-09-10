@@ -300,18 +300,7 @@ political_decisions = {
             }
             NOT = {
                 has_country_flag = post_colonial_country
-                exists = SGF
-                exists = GER
-                exists = ERF
-                tag = DNB
-                AND = {
-                    tag = AUS
-                    NOT = { has_country_flag = austrian_greater_germany }
-                }
-                AND = {
-                    tag = KUK
-                    NOT = { has_country_flag = austrian_greater_germany }
-                }
+                exists = CZH
             }
         }
 
@@ -338,11 +327,30 @@ political_decisions = {
                     }
                 }
             }
+            SLO = {
+                all_core = {
+                    OR = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    is_vassal = yes
+                                }
+                                war = no
+                                is_mobilised = no
+                                is_greater_power = no
+                            }
+                        }
+                        NOT = { culture = slovene }
+                    }
+                }
+            }
         }
 
         effect = {
             prestige = 10
-            all_core = { add_core = SGF }
+            all_core = { add_core = CZH }
             any_owned = {
                 limit = {
                     NOT = { is_core = THIS }
@@ -356,7 +364,13 @@ political_decisions = {
                         NOT = { has_country_flag = post_colonial_country }
                     }
                 }
-                add_core = SGF
+                add_core = CZH
+            }
+            any_owned = {
+                limit = {
+                    is_core = GER
+                }
+                remove_core = GER
             }
             any_owned = {
                 limit = {
@@ -364,13 +378,7 @@ political_decisions = {
                 }
                 remove_core = CZE
             }
-            any_owned = {
-                limit = {
-                    is_core = CZH
-                }
-                remove_core = CZH
-            }
-            change_tag = SGF
+            change_tag = CZH
             add_accepted_culture = slovene
             add_accepted_culture = wend
             add_accepted_culture = north_german

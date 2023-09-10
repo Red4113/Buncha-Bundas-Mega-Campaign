@@ -4613,7 +4613,7 @@ EVTDESC11104;A pro-$UNION_ADJ$ revolution has taken hold in $FROMCOUNTRY$. Its l
 EVT11104OPTA;We welcome their fealty.;;;;;;;;;;;;;
 EVT11104OPTB;We do not wish to risk trouble.;;;;;;;;;;;;;
 EVTNAME11106;The $FROMCOUNTRY_ADJ$ Proposal;;;;;;;;;;;;;
-EVTDESC11106;$MONARCHTITLE$, the $FROMCOUNTRY_ADJ$ ambassador has presented us with news from the recent parliament of German revolutionaries. $FROMCOUNTRY$ has agreed to assemble a federation of German states, with the goal of eventually forming a greater Germany. If we do not agree,it is possible that $FROMCOUNTRY$ will attempt to take our lands by force.;;;;;;;;;;;;;
+EVTDESC11106;$MONARCHTITLE$, the $FROMCOUNTRY_ADJ$ ambassador has presented us with news from the recent parliament of revolutionaries. $FROMCOUNTRY$ has agreed to assemble a federation of states, with the goal of eventually forming a greater union. If we do not agree,it is possible that $FROMCOUNTRY$ will attempt to take our lands by force.;;;;;;;;;;;;;
 EVTNAME880130;Reactionary Party Rocked by Scandal;;;;;;;;;;;;;
 EVTDESC880130;Rumors were around for some time, but a newspaper has finally published evidence of a wide-reaching scandal affecting the $COUNTRY_ADJ$ reactionary party. Aristocrats have allegedly been receiving payments and other illegal benefits for supporting the cause, while the party leader is shown to have made a fortune with sensitive national information. This has been declared beyond the pale even by reactionary supporters and has caused a huge uproar within $COUNTRY$, severely damaging the reactionary cause in $COUNTRY$.;;;;;;;;;;;;;
 EVTNAME880140;Conservative Party Rocked by Scandal;;;;;;;;;;;;;

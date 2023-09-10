@@ -10,3 +10,4 @@ state_building=
 	building = paper_mill
 	upgrade = yes
 }
+add_core=ENL

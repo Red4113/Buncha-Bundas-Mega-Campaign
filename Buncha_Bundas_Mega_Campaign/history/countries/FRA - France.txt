@@ -6,7 +6,7 @@ government = hms_government
 plurality = 0
 nationalvalue = nv_liberty
 literacy = 0
-
+is_releasable_vassal = no
 civilized = yes
 
 # Social Reforms

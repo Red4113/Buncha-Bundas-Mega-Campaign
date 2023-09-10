@@ -6,9 +6,8 @@ government = hms_government
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
-
-civilized = yes
 is_releasable_vassal = no
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -20,7 +19,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
@@ -29,7 +28,7 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=gerrymandering
 
-ruling_party = ENG_liberal
+ruling_party = ENG_conservative
 upper_house = 
 {
 	fascist = 0
@@ -42,11 +41,12 @@ upper_house =
 }
 
 # Starting Consciousness
-consciousness = 0
-nonstate_consciousness= 0
+consciousness = 3
+nonstate_consciousness= 1
 
 # Technologies
 prestige=0
-oob = "ENL_OOB.txt"
+oob = "ENG_OOB.txt"
 set_country_flag = religi
+decision = literacy_ENG
 set_country_flag = vic2_country_ENL

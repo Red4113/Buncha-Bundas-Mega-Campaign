@@ -1,12 +1,13 @@
 capital = 424
 primary_culture = breton
+culture = cornish
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_equality
 literacy = 0
-
+is_releasable_vassal = no
 civilized = yes
 
 # Social Reforms
