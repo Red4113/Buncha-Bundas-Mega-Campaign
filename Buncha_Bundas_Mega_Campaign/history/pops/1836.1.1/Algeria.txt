@@ -1563,7 +1563,7 @@
 	{
 		culture = berber
 		religion = ibadi
-		size= 3498
+		size= 498
 	}
 
 	artisans=
@@ -1605,21 +1605,21 @@
 	{
 		culture = berber
 		religion = ibadi
-		size= 32944
+		size= 944
 	}
 
 	farmers=
 	{
 		culture = berber
 		religion = sunni
-		size= 3961
+		size= 961
 	}
 
 	artisans=
 	{
 		culture = berber
 		religion = sunni
-		size= 4345
+		size= 345
 	}
 
 	clergymen=
@@ -1654,21 +1654,21 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 33944
+		size= 944
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 5404
+		size= 404
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 13898
+		size= 898
 	}
 
 	clergymen=
@@ -1703,7 +1703,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 36844
+		size= 26844
 	}
 
 }
@@ -1712,7 +1712,7 @@
 	{
 		culture = berber
 		religion = ibadi
-		size= 1593
+		size= 593
 	}
 
 	artisans=
@@ -1754,7 +1754,7 @@
 	{
 		culture = berber
 		religion = ibadi
-		size= 26330
+		size= 330
 	}
 
 	farmers=
@@ -1803,7 +1803,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 25197
+		size= 197
 	}
 
 	farmers=

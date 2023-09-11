@@ -1,7 +1,7 @@
 capital = 815
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = bulgarian
+culture = zzz_religion_hussite
+religion = hussite
 government = hms_government
 plurality = 0
 nationalvalue = nv_order

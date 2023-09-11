@@ -51,7 +51,10 @@ political_decisions = {
     end_the_javanese_sultanates = {
         picture = map_java
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             JAV = {
                 vassal_of = THIS
                 exists = yes
@@ -80,7 +83,10 @@ political_decisions = {
     the_short_declaration = {
         picture = moluccan_map
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             OR = {
                 MAL = { vassal_of = THIS exists = yes civilized = no }
                 SAK = { vassal_of = THIS exists = yes civilized = no }
@@ -128,7 +134,10 @@ political_decisions = {
     integrate_rhineland = {
         picture = die_wacht_am_rhein
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             RHI = {
                 substate_of = THIS
                 exists = yes
@@ -138,11 +147,13 @@ political_decisions = {
 
         allow = {
             war = no
-            nationalism_n_imperialism = 1
+            state_n_government = 1
+            functionalism = 1
         }
 
         effect = {
             set_country_flag = rhineland_integrated
+            add_accepted_culture = north_german
             RHI = { tech_school = developing_tech_school country_event = 1111000 }
             badboy = 1
         }
@@ -156,7 +167,10 @@ political_decisions = {
     the_aceh_question = {
         picture = the_aceh
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             colonial_nation = yes
             is_canal_enabled = 2
             ATJ = {
@@ -186,7 +200,10 @@ political_decisions = {
     embrace_the_boer = {
         picture = embrace_the_boer
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             NOT = { has_country_flag = boer_accepted }
             any_owned_province = { any_pop = { has_pop_culture = boer } }
             any_owned_province = {
@@ -245,11 +262,19 @@ political_decisions = {
             OR = {
                 AND = {
                     NOT = { has_global_flag = dutch_wallonia_renamed }
+                    OR= {
                     tag = NET
+                    tag = NRI
+                    }
                 }
                 AND = {
                     has_global_flag = dutch_wallonia_renamed
-                    NOT = { tag = NET }
+                    NOT = {                     
+                        OR= {
+                            tag = NET
+                            tag = NRI
+                        } 
+                    }
                 }
             }
         }
@@ -262,7 +287,14 @@ political_decisions = {
         effect = {
             prestige = 5
             random_owned = {
-                limit = { owner = { tag = NET } }
+                limit = { 
+                    owner = {
+                        OR= {
+                            tag = NET
+                            tag = NRI
+                        } 
+                    } 
+                }
                 owner = {
                     set_global_flag = dutch_wallonia_renamed
                     395 = { change_province_name = "Luik" }
@@ -274,7 +306,16 @@ political_decisions = {
             }
 
             random_owned = {
-                limit = { owner = { NOT = { tag = NET } } }
+                limit = { 
+                    owner = { 
+                        NOT = { 
+                           OR= {
+                                tag = NET
+                                tag = NRI
+                            } 
+                        } 
+                    } 
+                }
                 owner = {
                     clr_global_flag = dutch_wallonia_renamed
                     395 = { change_province_name = "Liège" }
@@ -292,7 +333,10 @@ political_decisions = {
     first_annexiation_limburg = {
         picture = neuschwanstein
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             LBG = { exists = yes }
             OR = {
                 is_our_vassal = LBG
@@ -337,7 +381,10 @@ political_decisions = {
     accept_the_flemish = {
         picture = become_belgium
         potential = {
-            tag = NET
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
             NOT = { accepted_culture = flemish }
             any_owned_province = { any_pop = { has_pop_culture = flemish } }
         }
@@ -366,5 +413,86 @@ political_decisions = {
         }
 
         ai_will_do = { factor = 1 }
+    }
+    accept_the_wallonian = {
+        picture = become_belgium
+        potential = {
+            OR= {
+                tag = NET
+                tag = NRI
+            } 
+            NOT = { accepted_culture = wallonian }
+            any_owned_province = { any_pop = { has_pop_culture = wallonian } }
+        }
+
+        allow = {
+            phenomenalism = 1
+            prestige = 100
+            has_country_modifier = freedom_of_religion
+            upper_house_composition = population_equal_weight
+            public_meetings = yes_meeting
+            press_rights = free_press
+            plurality = 50
+            NOT = {
+                citizens_rights = primary_culture_only
+                citizenship_policy = residency
+            }
+            OR = {
+                government = democracy
+                government = hms_government
+            }
+        }
+
+        effect = {
+            prestige_factor = -0.1
+            add_accepted_culture = wallonian
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+    form_nederlandrijnland = {
+        potential = {
+            OR = {
+                tag = NET
+            }
+            NOT = {
+                has_country_flag = post_colonial_country
+                exists = NRI
+            }
+            always = no
+        }
+
+        allow = {
+            war = no
+            owns = 376
+            nationalism_n_imperialism = 1
+            NRI = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+        }
+
+        effect = {
+            prestige = 15
+            all_core = { add_core = NRI }
+            any_owned = {
+                limit = {
+                    is_core = GER
+                }
+                remove_core = GER
+            }
+            any_owned = {
+                limit = {
+                    is_core = NET
+                }
+                remove_core = NET
+            }
+            change_tag = NRI
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
     }
 }

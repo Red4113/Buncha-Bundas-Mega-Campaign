@@ -1,14 +1,15 @@
-capital = 576
-primary_culture = north_german
+capital = 376
+primary_culture = dutch
+culture = flemish
+culture = north_german
 culture = zzz_religion_protestant
 religion = protestant
-government = absolute_monarchy
-plurality = 0.12
-nationalvalue = nv_order
-literacy = 0.794214
-non_state_culture_literacy = 0.794214
-civilized = yes
-
+government = bourgeois_dictatorship
+plurality = 0
+nationalvalue = nv_liberty
+literacy = 0.720576
+non_state_culture_literacy = 0.3
+is_releasable_vassal = no
 civilized = yes
 
 # Social Reforms
@@ -26,57 +27,60 @@ vote_franschise=landed_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=yes_meeting
-press_rights=censored_press
+press_rights=state_press
 trade_unions=state_controlled
 political_parties=harassment
 
-ruling_party = RHI_liberal
+ruling_party = HOL_liberal
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 16
+	conservative = 79
+	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
 # Starting Consciousness
-consciousness = 2
-nonstate_consciousness= 0
+consciousness = 2.03867
+nonstate_consciousness= 1.18398
 
 # Technologies
-# Technologies
-ad_hoc_money_bill_printing = 1
-army_command_principle = 1
-basic_chemistry = 1
+alphabetic_flag_signaling = 1
+battleship_column_doctrine = 1
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1
+clipper_design = 1
 early_classical_theory_and_critique = 1
 enlightenment_thought = 1
-experimental_railroad = 1
 flintlock_rifles = 1
 freedom_of_trade = 1
 guild_based_production = 1
-high_pressure_steam_engine = 1
 hot_blast = 1
-interchangeable_parts = 1
-introspectionism = 1
 late_enlightenment_philosophy = 1
-malthusian_thought = 1
 mechanical_production = 1
+naval_design_bureaus = 1
 no_standard = 1
 piston_steam_engine = 1
 post_napoleonic_thought = 1
+post_nelsonian_thought = 1
 private_banks = 1
-romanticism = 1
-stock_exchange = 1
+the_command_principle = 1
 military_staff_system = 1
 military_plans = 1
 muzzle_loaded_rifles = 1
 mechanized_mining = 1
-prestige=12
-oob = "RHI_OOB.txt"
+experimental_railroad = 1
+basic_chemistry = 1
+medicine = 1
+interchangeable_parts = 1
+semi_automatization = 1
+high_pressure_steam_engine = 1
+prestige=10.8373
+oob = "NET_OOB.txt"
 set_country_flag = religi
-set_country_flag = vic2_country_RHI
+decision = literacy_NET
+set_country_flag = vic2_country_NET
+set_country_flag = eu4_country_NED

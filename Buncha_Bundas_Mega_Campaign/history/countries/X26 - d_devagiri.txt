@@ -1,8 +1,7 @@
 capital = 1285
-primary_culture = dummy
+primary_culture = marathi
 culture = dynamic-basque-culture-num1
 culture = kannada
-culture = marathi
 culture = telegu
 culture = zzz_religion_jain
 religion = jain

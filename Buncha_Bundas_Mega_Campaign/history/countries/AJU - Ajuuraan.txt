@@ -1,31 +1,45 @@
-capital = 2031
-primary_culture = sidama
-culture = zzz_religion_coptic
-religion = coptic
+capital = 1871
+primary_culture = somali
+culture = oromo
+culture = sidama
+culture = amhara
+culture = sudanese
+culture = beja
+culture = zzz_religion_zoroastrian_heresy
+religion = zoroastrian_heresy
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.102703
 
+civilized = yes
+is_releasable_vassal = no
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_weighted_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = gerrymandering
 
 # Social Reforms
-wage_reform = no_minimum_wage
+wage_reform = trinket_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
-school_reforms = no_schools
+pensions = trinket_pensions
+school_reforms = acceptable_schools
 
-# political reforms
-slavery=yes_slavery
-vote_franschise=landed_voting
-upper_house_composition=appointed
-voting_system=jefferson_method
-public_meetings=yes_meeting
-press_rights=state_press
-trade_unions=no_trade_unions
-political_parties=underground_parties
+# New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
 
 ruling_party = AJU_reactionary
 upper_house = 
@@ -44,22 +58,30 @@ consciousness = 1.59733
 nonstate_consciousness= 0.00867352
 
 # Technologies
+clipper_design = 1
+naval_design_bureaus = 1
+ad_hoc_money_bill_printing = 1
+army_command_principle = 1
+basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+experimental_railroad = 1
 flintlock_rifles = 1
-land_reform=yes_land_reform
-admin_reform=no_admin_reform
-finance_reform=no_finance_reform
-education_reform=no_education_reform
-transport_improv=no_transport_improv
-pre_indust=no_pre_indust
-industrial_construction=no_industrial_construction
-foreign_training=yes_foreign_training
-foreign_weapons=yes_foreign_weapons
-military_constructions=no_military_constructions
-foreign_officers=no_foreign_officers
-army_schools=no_army_schools
-foreign_naval_officers=no_foreign_naval_officers
-naval_schools=no_naval_schools
-foreign_navies=no_foreign_navies
+freedom_of_trade = 1
+guild_based_production = 1
+high_pressure_steam_engine = 1
+hot_blast = 1
+interchangeable_parts = 1
+late_enlightenment_philosophy = 1
+mechanical_production = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+private_banks = 1
+stock_exchange = 1
+the_command_principle = 1
 prestige=0
 oob = "AJU_OOB.txt"
 set_country_flag = religi

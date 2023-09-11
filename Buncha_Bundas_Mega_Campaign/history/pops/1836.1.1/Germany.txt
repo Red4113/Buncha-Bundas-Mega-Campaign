@@ -8441,15 +8441,15 @@
 576 = {
 	farmers=
 	{
-		culture = north_german
-		religion = catholic
+		culture = ashkenazi
+		religion = jewish
 		size= 1045
 	}
 
 	artisans=
 	{
-		culture = north_german
-		religion = catholic
+		culture = ashkenazi
+		religion = jewish
 		size= 665
 	}
 
@@ -8462,8 +8462,8 @@
 
 	bureaucrats=
 	{
-		culture = north_german
-		religion = catholic
+		culture = ashkenazi
+		religion = jewish
 		size= 12
 	}
 
@@ -8476,8 +8476,8 @@
 
 	aristocrats=
 	{
-		culture = north_german
-		religion = catholic
+		culture = ashkenazi
+		religion = jewish
 		size= 120
 	}
 

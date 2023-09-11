@@ -9,7 +9,7 @@ religion = norse_pagan_reformed
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.549286
+literacy = 0.629286
 
 civilized = yes
 

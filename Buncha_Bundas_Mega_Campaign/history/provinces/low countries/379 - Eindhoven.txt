@@ -1,6 +1,7 @@
 owner=NET
 controller=NET
 add_core=NET
+add_core=NRI
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

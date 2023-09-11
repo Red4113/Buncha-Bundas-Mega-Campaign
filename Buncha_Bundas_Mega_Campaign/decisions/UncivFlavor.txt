@@ -369,6 +369,9 @@ political_decisions = {
                 tag = HBY
             }
             NOT = { has_global_flag = somalia_united }
+            NOT = {
+                tag = AJU
+            }
         }
 
         allow = {

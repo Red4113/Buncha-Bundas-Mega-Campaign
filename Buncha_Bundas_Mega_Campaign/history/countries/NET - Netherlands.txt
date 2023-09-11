@@ -1,12 +1,11 @@
 capital = 376
 primary_culture = dutch
-culture = flemish
 culture = north_german
 culture = zzz_religion_protestant
 religion = protestant
 government = bourgeois_dictatorship
 plurality = 0
-nationalvalue = nv_liberty
+nationalvalue = nv_productivity
 literacy = 0.720576
 non_state_culture_literacy = 0.3
 

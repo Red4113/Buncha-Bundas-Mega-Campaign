@@ -554,6 +554,7 @@ political_decisions = {
 				exists = NET
 				tag = FRA
 				tag = SPQ
+				tag = NRI
 			}
 		}	
 		allow = {

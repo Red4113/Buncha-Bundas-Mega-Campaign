@@ -1910,14 +1910,14 @@
 	{
 		culture = basque
 		religion = sunni
-		size= 5546
+		size= 546
 	}
 
 	artisans=
 	{
 		culture = basque
 		religion = sunni
-		size= 7362
+		size= 362
 	}
 
 	clergymen=
@@ -1952,7 +1952,7 @@
 	{
 		culture = basque
 		religion = sunni
-		size= 84790
+		size= 40790
 	}
 
 	farmers=
@@ -2299,14 +2299,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 17309
+		size= 7309
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 27950
+		size= 950
 	}
 
 	clergymen=
@@ -2341,7 +2341,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 136834
+		size= 100834
 	}
 
 	farmers=
@@ -2390,7 +2390,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 15556
+		size= 10556
 	}
 
 	farmers=
@@ -2644,14 +2644,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 2714
+		size= 714
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 10809
+		size= 809
 	}
 
 	clergymen=
@@ -2686,7 +2686,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 32993
+		size= 15993
 	}
 
 }
@@ -3051,7 +3051,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 13765
+		size= 765
 	}
 
 	clergymen=
@@ -3086,7 +3086,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 70770
+		size= 35770
 	}
 
 	soldiers=
@@ -4113,14 +4113,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 9867
+		size= 867
 	}
 
 	artisans=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 15015
+		size= 5015
 	}
 
 	clergymen=
@@ -4155,7 +4155,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 79569
+		size= 50569
 	}
 
 }

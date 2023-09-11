@@ -431,14 +431,14 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 1807
+		size= 807
 	}
 
 	artisans=
 	{
 		culture = berber
 		religion = shiite
-		size= 1375
+		size= 375
 	}
 
 	clergymen=
@@ -473,14 +473,14 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 16205
+		size= 205
 	}
 
 	farmers=
 	{
 		culture = berber
 		religion = sunni
-		size= 10686
+		size= 686
 	}
 
 	artisans=
@@ -494,7 +494,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1806
+		size= 806
 	}
 
 	bureaucrats=
@@ -522,7 +522,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 82385
+		size= 42385
 	}
 
 	farmers=
@@ -1262,7 +1262,7 @@
 	{
 		culture = african_minor
 		religion = norse_pagan_reformed
-		size= 7598
+		size= 598
 	}
 
 	farmers=
@@ -1276,7 +1276,7 @@
 	{
 		culture = maghrebi
 		religion = norse_pagan_reformed
-		size= 1282
+		size= 282
 	}
 
 	clergymen=
@@ -1318,21 +1318,21 @@
 	{
 		culture = african_minor
 		religion = sunni
-		size= 31369
+		size= 1369
 	}
 
 	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 5630
+		size= 630
 	}
 
 	artisans=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 12915
+		size= 915
 	}
 
 	clergymen=
@@ -1360,14 +1360,14 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 1586
+		size= 586
 	}
 
 	farmers=
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 47136
+		size= 7136
 	}
 
 	slaves=

@@ -1077,8 +1077,8 @@ ADE_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 ADE_liberal;Liberal Party;Parti Lib?al;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liber?is P?t;Liber?n? Strana;Liber?is P?t;Liberale Partij;Partido Liberal;Eeaa0aeuiay Ia0oey;Liberaalipuolue;x
 ADE_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P?t;N?odn? Strana;Nemzeti P?t;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
 ADE_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P?t;Socialistick? Strana;Szocialista P?t;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
-AJU;Onuphrius;Ajuraan;Ajuraan;Ajuuraan;Ajuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;x
-AJU_ADJ;Onuphrian;Ajuraani;Ajuraani;Onuphrian;Ajuraani;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;x
+AJU;Southern Assyria;Ajuraan;Ajuraan;Ajuuraan;Ajuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;Ajuuraan;x
+AJU_ADJ;Assyrian;Ajuraani;Ajuraani;Onuphrian;Ajuraani;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;Onuphrian;x
 AJU_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik?is P?t;Radik?n? Strana;Radik?is P?t;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
 AJU_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista P?t;Komunistick? Strana;Kommunista P?t;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x
 AJU_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervat? P?t;Konzervativn? Strana;Konzervat? P?t;Conservatieve Partij;Partido Conservador;Eiina0aaoeaiay Ia0oey;Konservatiivipuolue;x
@@ -2584,3 +2584,23 @@ CZH_fascist_dictatorship;Stat Czeskodunavia;;;;;;;;;;;;;
 CZH_bourgeois_dictatorship;Stat Czeskodunavia;;;;;;;;;;;;;
 CZH_proletarian_dictatorship;Svazu Czeskodunavia;;;;;;;;;;;;;
 CZH_presidential_dictatorship;Stat Czeskodunavia;;;;;;;;;;;;;
+NRI;Nederland en het Rijnland;;;;;;;;;;;;;
+NRI_ADJ;Nederlanders;;;;;;;;;;;;;
+NRI_absolute_monarchy;Koninkrijk der Nederlanden en het Rijnland;;;;;;;;;;;;;
+NRI_democracy;Republiek der Nederlanden en de Rijnlandprovincies;;;;;;;;;;;;;
+NRI_hms_government;Koninkrijk der Nederlanden en het Rijnland;;;;;;;;;;;;;
+NRI_prussian_constitutionalism;Koninkrijk der Nederlanden en het Rijnland;;;;;;;;;;;;;
+NRI_fascist_dictatorship;Staat der Nederlanden en de Rijnlandprovincies;;;;;;;;;;;;;
+NRI_bourgeois_dictatorship;Staat der Nederlanden en de Rijnlandprovincies;;;;;;;;;;;;;
+NRI_proletarian_dictatorship;Volksrepubliek Nederland en de Rijnlandprovincies;;;;;;;;;;;;;
+NRI_presidential_dictatorship;Staat der Nederlanden en de Rijnlandprovincies;;;;;;;;;;;;;
+SCA;Odhinbiorn;;;;;;;;;;;;;
+SCA_ADJ;Russenorsk;;;;;;;;;;;;;
+SCA_absolute_monarchy;The Tsardomet av Odhinbiorn;;;;;;;;;;;;;
+SCA_democracy;Odhinbiorn;;;;;;;;;;;;;
+SCA_hms_government;The Tsardomet av Odhinbiorn;;;;;;;;;;;;;
+SCA_prussian_constitutionalism;The Tsardomet av Odhinbiorn;;;;;;;;;;;;;
+SCA_fascist_dictatorship;Russenorsk Stormaktstiden;;;;;;;;;;;;;
+SCA_bourgeois_dictatorship;Odhinbiorn;;;;;;;;;;;;;
+SCA_proletarian_dictatorship;The S.F.R.C;;;;;;;;;;;;;
+SCA_presidential_dictatorship;Odhinbiorn;;;;;;;;;;;;;

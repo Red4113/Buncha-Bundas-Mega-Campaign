@@ -82,7 +82,7 @@ yazidi;Yazidi;Yézidis;Jesidisch;Jezydyzm;Yazidí;;;;;;Yazidi;Åçèäû;;x
 zamolxism;Zamolxism;Zamolxistes;Zamolxisch;Zamolxizm;Zamolxista;;;;;;Zamolxismo;Çàëìîêñèñêèå;;x
 zikri;Zikri;Zikris;Zikrit;Zikryci;Zikrí;;;;;;Zikri;Çèêğè;;x
 zoroastrian;Zoroastrian;Zoroastriens;Zoroastrisch;Zaratusztrianizm;Zoroastriana;;;;;;Zoroastrista;Çîğîàñòğèéñêèå;;x
-zoroastrian_heresy;Zoroastrian Heresy;Hérétiques Zoroastriens;Zoroastrisch Ketzerisch;Zaratusztriañskie Kacerstwo;Herética Zoroastriana;;;;;;Heresia Zoroastriana;Çîğîàñòğèéñêèå Åğåòèêè;;x
+zoroastrian_heresy;Shamshusin;Hérétiques Zoroastriens;Zoroastrisch Ketzerisch;Zaratusztriañskie Kacerstwo;Herética Zoroastriana;;;;;;Heresia Zoroastriana;Çîğîàñòğèéñêèå Åğåòèêè;;x
 zun_pagan_reformed;Zun;Zunistes;Zunisch;Zunizm;Zuní;;;;;;Zun;Çóí;;x
 #RELIGIONS FOR THE DIPLO SCREEN;;;;;;;;;;;;;;x
 zzz_religions;Religions;Religions;Religionen;Religie;Religiones;;;;;;Religiões;Ğåëèãèè;;x
@@ -174,7 +174,7 @@ zzz_religion_yazidi;§HReligion§!: Yazidi;§HReligion§!: Yézidis;§HReligion§!: Jes
 zzz_religion_zamolxism;§HReligion§!: Zamolxism;§HReligion§!: Zamolxistes;§HReligion§!: Zamolxisch;§HReligia§!: Zamolxizm;§HReligión§!: Zamolxista;;;;;;§HReligião§!: Zamolxismo;§HĞåëèãèÿ§!: Çàëìîêñèñêèå;;x
 zzz_religion_zikri;§HReligion§!: Zikri;§HReligion§!: Zikris;§HReligion§!: Zikrit;§HReligia§!: Zikryci;§HReligión§!: Zikrí;;;;;;§HReligião§!: Zikri;§HĞåëèãèÿ§!: Çèêğè;;x
 zzz_religion_zoroastrian;§HReligion§!: Zoroastrian;§HReligion§!: Zoroastriens;§HReligion§!: Zoroastrisch;§HReligia§!: Zaratusztrianizm;§HReligión§!: Zoroastriana;;;;;;§HReligião§!: Zoroastrista;§HĞåëèãèÿ§!: Çîğîàñòğèéñêèå;;x
-zzz_religion_zoroastrian_heresy;§HReligion§!: Zoroastrian Heresy;§HReligion§!: Hérétiques Zoroastriens;§HReligion§!: Zoroastrisch Ketzerisch;§HReligia§!: Zaratusztriañskie Kacerstwo;§HReligión§!: Herética Zoroastriana;;;;;;§HReligião§!: Heresia Zoroastriana;§HĞåëèãèÿ§!: Çîğîàñòğèéñêèå Åğåòèêè;;x
+zzz_religion_zoroastrian_heresy;§HReligion§!: Shamshusin;§HReligion§!: Hérétiques Zoroastriens;§HReligion§!: Zoroastrisch Ketzerisch;§HReligia§!: Zaratusztriañskie Kacerstwo;§HReligión§!: Herética Zoroastriana;;;;;;§HReligião§!: Heresia Zoroastriana;§HĞåëèãèÿ§!: Çîğîàñòğèéñêèå Åğåòèêè;;x
 zzz_religion_zun_pagan_reformed;§HReligion§!: Zun;§HReligion§!: Zunistes;§HReligion§!: Zunisch;§HReligia§!: Zunizm;§HReligión§!: Zuní;;;;;;§HReligião§!: Zun;§HĞåëèãèÿ§!: Çóí;;x
 #NORELIGION EVENT FIXES;;;;;;;;;;;;;;x
 EVTNAMERELIGI;State your religion;Indiquez votre religion;Geben Sie Ihre Religion an;Podaj swoj¹ religiê;Declara tu religión;Dichiara la tua religione;Mondja el vallását;Uveïte své náboenství;Mondja el vallását;Geef je religie aan;;Óêàæèòå ñâîş ğåëèãèş;Ilmoita uskonto;x

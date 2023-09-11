@@ -1,5 +1,5 @@
 capital = 679
-primary_culture = pomeranian
+primary_culture = oldpommeranian
 culture = swedish
 culture = zzz_religion_norse_pagan_reformed
 religion = norse_pagan_reformed

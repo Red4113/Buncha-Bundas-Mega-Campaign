@@ -44,6 +44,9 @@ country_event = { #Uniting of Somalia
 	trigger = {
 		NOT = { has_country_flag = SOM_formed }
 		SOM = { exists = no }
+		NOT = {
+			tag = AJU
+		}
 		primary_culture = somali
 		SOM = {
 			all_core = {
