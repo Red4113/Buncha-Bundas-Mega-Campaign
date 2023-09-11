@@ -1730,6 +1730,7 @@ country_event = {
 
     trigger = {
         ai = yes
+        always = no
         war = no
         year = 1850
         part_of_sphere = yes

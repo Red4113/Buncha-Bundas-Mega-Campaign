@@ -1,6 +1,6 @@
 owner=ASY
 controller=ASY
-add_core=GRE
+add_core=ASY
 trade_goods = fish
 life_rating = 40
 fort = 1

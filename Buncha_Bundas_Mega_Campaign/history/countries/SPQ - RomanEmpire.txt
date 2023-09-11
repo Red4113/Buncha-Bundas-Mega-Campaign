@@ -1,5 +1,6 @@
 capital = 749
 primary_culture = latin
+culture = maghreb_arabic
 culture = zzz_religion_hellenic_pagan
 religion = hellenic_pagan
 government = absolute_monarchy

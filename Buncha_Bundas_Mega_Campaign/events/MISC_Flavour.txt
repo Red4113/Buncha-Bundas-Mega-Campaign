@@ -115,7 +115,13 @@ country_event = {
                 inherit = X07
                 inherit = X08
             }
-            ASY = { release_vassal = AJU }    
+            AJU = { 
+                all_core = { add_core = ASY }
+            }   
+            ASY = { 
+                release_vassal = AJU 
+                all_core = { add_core = AJU }
+            }    
     }
 
 

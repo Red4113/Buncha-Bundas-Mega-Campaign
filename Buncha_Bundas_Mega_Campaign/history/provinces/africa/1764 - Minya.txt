@@ -1,5 +1,6 @@
 owner=ASY
 controller=ASY
 add_core=EGY
+add_core=ASY
 trade_goods = cotton
 life_rating = 35
