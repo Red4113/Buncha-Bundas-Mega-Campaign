@@ -109,6 +109,7 @@ country_event = {
                 add_accepted_culture = amhara
                 add_accepted_culture = sudanese
                 add_accepted_culture = beja
+                add_accepted_culture = bedouin
                 inherit = X03
                 inherit = X04
                 inherit = X06
