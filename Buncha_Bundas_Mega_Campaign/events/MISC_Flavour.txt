@@ -71,7 +71,7 @@ country_event = {
                 exists = yes
             }
         }
-        year = 1852
+        year = 1846
     }
 
     mean_time_to_happen = { months = 48 }
