@@ -122,6 +122,8 @@ country_event = {
             ASY = { 
                 release_vassal = AJU 
                 all_core = { add_core = AJU }
+                add_accepted_culture = mashriqi
+                add_accepted_culture = misri
             }    
     }
 
