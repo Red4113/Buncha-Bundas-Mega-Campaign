@@ -114,7 +114,8 @@ country_event = {
         FRA = {
             all_core = { remove_core = DUA }
             all_core = { secede_province = FRA }
-        }    
+        }
+        clr_country_flag = DM_option_A    
     }
 
 
@@ -165,7 +166,8 @@ country_event = {
         BRT = {
             all_core = { remove_core = DUA }
             all_core = { secede_province = BRT }
-        }   
+        }
+        clr_country_flag = DM_option_B   
     }
 
 
@@ -253,7 +255,8 @@ country_event = {
         FRA = {
             all_core = { remove_core = DUA }
             all_core = { secede_province = FRA }
-        } 
+        }
+        clr_country_flag = DM_option_C
     }
 
 
