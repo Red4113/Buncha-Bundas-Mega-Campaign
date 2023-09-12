@@ -31,6 +31,292 @@ country_event = {
     }
 }
 
+# DM Path Choice
+country_event = {
+    id = 110193
+    title = "EVTNAME110193"
+    desc = "EVTDESC110193"
+    picture = "Demonstration"
+
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "EVT110193OPTA" #Embrace the Celtics
+        prestige = -5
+        add_accepted_culture = cumbrian
+        add_accepted_culture = scottish
+        add_accepted_culture = breton
+        add_accepted_culture = welsh
+        add_accepted_culture = cornish
+        any_owned = {
+            limit = {
+                OR = {
+                    pop_majority_culture = cumbrian
+                    pop_majority_culture = scottish
+                    pop_majority_culture = breton
+                    pop_majority_culture = welsh
+                    pop_majority_culture = cornish
+                }
+            }
+            add_province_modifier = { name = baby_boom duration = 5475 }
+        }
+        any_owned = {
+            limit = {
+                pop_majority_culture = french
+            }
+            add_core = FRA
+        }
+        set_country_flag = DM_option_A
+    }
+    option = {
+        name = "EVT110193OPTB" #Embrace the French
+        prestige = -5
+        add_accepted_culture = french
+        any_owned = {
+            limit = {
+                pop_majority_culture = french
+            }
+            add_province_modifier = { name = baby_boom duration = 5475 }
+        }
+        set_country_flag = DM_option_B
+    }
+    option = {
+        name = "EVT110193OPTC" #Embrace Both (but later)
+        prestige = 5
+        any_owned = {
+            limit = {
+                pop_majority_culture = french
+            }
+            add_core = FRA
+        }
+        set_country_flag = DM_option_C
+    }
+}
+
+# The Dual Monarchy Civil War - Option A
+country_event = {
+    id = 110194
+    title = "EVTNAME110194"
+    desc = "EVTDESC110194"
+    picture = "Expansion"
+
+    trigger = {
+        tag = DUA
+        has_country_flag = DM_option_A
+        year = 1847
+    }
+
+    mean_time_to_happen = { months = 48 }
+    fire_only_once = yes
+    immediate = {
+        FRA = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = FRA }
+        }    
+    }
+
+
+    option = {
+        name = "EVT110194OPTA" #A Civil War
+        war = {
+            target = FRA
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = FRA
+            }
+        }
+    }
+}
+
+# The Dual Monarchy Civil War - Option B
+country_event = {
+    id = 110195
+    title = "EVTNAME110195"
+    desc = "EVTDESC110195"
+    picture = "Expansion"
+
+    trigger = {
+        tag = DUA
+        has_country_flag = DM_option_B
+        year = 1847
+    }
+
+    mean_time_to_happen = { months = 48 }
+    fire_only_once = yes
+    immediate = {
+        SCO = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = SCO }
+        } 
+        ENL = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = ENL }
+        }  
+        WHA = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = WHA }
+        }  
+        BRT = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = BRT }
+        }   
+    }
+
+
+    option = {
+        name = "EVT110195OPTA" #A Civil War
+        war = {
+            target = SCO
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = SCO
+            }
+        }
+        war = {
+            target = ENL
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = ENL
+            }
+        }
+        war = {
+            target = WHA
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = WHA
+            }
+        }
+        war = {
+            target = BRT
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = BRT
+            }
+        }
+    }
+}
+
+# The Dual Monarchy Civil War - Option C
+country_event = {
+    id = 110196
+    title = "EVTNAME110196"
+    desc = "EVTDESC110196"
+    picture = "Expansion"
+
+    trigger = {
+        tag = DUA
+        has_country_flag = DM_option_C
+        year = 1847
+    }
+
+    mean_time_to_happen = { months = 48 }
+    fire_only_once = yes
+    immediate = {
+        SCO = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = SCO }
+        } 
+        ENL = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = ENL }
+        }  
+        WHA = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = WHA }
+        }  
+        BRT = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = BRT }
+        }    
+        FRA = {
+            all_core = { remove_core = DUA }
+            all_core = { secede_province = FRA }
+        } 
+    }
+
+
+    option = {
+        name = "EVT110196OPTA" #A Civil War
+        war = {
+            target = SCO
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = SCO
+            }
+        }
+        war = {
+            target = ENL
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = ENL
+            }
+        }
+        war = {
+            target = WHA
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = WHA
+            }
+        }
+        war = {
+            target = BRT
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = BRT
+            }
+        }
+        war = {
+            target = FRA
+            attacker_goal = {
+                casus_belli = civil_war
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = FRA
+            }
+        }
+    }
+}
+
 # The Assyrian King
 country_event = {
     id = 110192
@@ -138,7 +424,7 @@ country_event = {
             }
             defender_goal = {
                 casus_belli = civil_war
-                country = ASY
+                country = AJU
             }
         }
     }

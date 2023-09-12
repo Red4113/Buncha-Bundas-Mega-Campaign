@@ -356,4 +356,17 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    choose_dual_monarchy_path = {
+        picture = form_union_nation
+        potential = {
+            always = no
+        }
+
+        effect = {
+            country_event = 110193
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+
 }

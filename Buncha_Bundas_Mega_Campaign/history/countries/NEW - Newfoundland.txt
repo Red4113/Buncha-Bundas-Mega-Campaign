@@ -1,6 +1,5 @@
-capital = 75
+capital = 57
 primary_culture = vinlander
-culture = dynamic-norse-russian_culture-culture-num1
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

@@ -5300,3 +5300,18 @@ EVTOPT31320B;Let them decide themselves.;;;;;;;;;;;;;
 EVTDESC31321;With the Great War finally over a referendum was held recently by the people of Vorarlberg proposing to join the Swiss Confederation and the overwhelming majority voted in favour. The people of Vorarlberg are similar to us and have always considered themselves different from their east German masters. While they wish to join our confederation some of our own people are concerned. Vorarlberg is a German speaking Catholic region and our non German speaking citizens fear that an incorporation of such a large area would cause problems while the Protestants aren't very enthusiastic. However a choice must be made. Should Vorarlberg join the Confederation?;;;;;;;;;;;;;
 EVTOPT31321A;The people of Vorarlberg voted to join our Confederation and so they will.;;;;;;;;;;;;;
 EVTOPT31321B;Perhaps it would be better to not let them join.;;;;;;;;;;;;;
+EVTNAME110193;The fate of The Dual Monarchy;;;;;;;;;;;;;
+EVTDESC110193;The Dual Monarchy is a multicultural nation grappling with the task of choosing which cultural facets to embrace as it evolves. With a diverse mix of traditions and backgrounds, the nation faces the challenge of preserving its cultural heritage while fostering unity among its citizens.
+This dilemma prompts questions about identity, education, and social cohesion. Striking a balance between celebrating diversity and promoting a shared national identity is crucial. To achieve this, The Dual Monarchy must engage in meaningful dialogue and policymaking, ensuring each culture is valued and citizens feel a sense of belonging. Navigating this complexity will shape the nation's future and global standing.;;;;;;;;;;;;;
+EVT110193OPTA;We must embrace the Celtic people to further our nations future.;;;;;;;;;;;;;
+EVT110193OPTB;We must embrace the French people to further our nations future.;;;;;;;;;;;;;
+EVT110193OPTC;We must embrace all people to further our nations future. Though it will be harder.;;;;;;;;;;;;;
+EVTNAME110194;The French Revolt;;;;;;;;;;;;;
+EVTDESC110194;The French Have Revolted!;;;;;;;;;;;;;
+EVT110194OPTA;We will win!;;;;;;;;;;;;;
+EVTNAME110195;The Celtic Revolt;;;;;;;;;;;;;
+EVTDESC110195;The Celtic Have Revolted!;;;;;;;;;;;;;
+EVT110195OPTA;We will win!;;;;;;;;;;;;;
+EVTNAME110196;The Dual Monarchy Revolution;;;;;;;;;;;;;
+EVTDESC110196;The Oppresed People Have Revolted!;;;;;;;;;;;;;
+EVT110196OPTA;We might win!;;;;;;;;;;;;;

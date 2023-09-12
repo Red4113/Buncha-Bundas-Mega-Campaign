@@ -12,6 +12,7 @@ country_event = {
 			tag = POL
 			tag = PLC
 		}
+		always = no
 		NOT = {
 			tag = HLR
 			tag = GER

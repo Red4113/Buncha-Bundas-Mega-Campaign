@@ -73,6 +73,7 @@ experimental_railroad = 1
 basic_chemistry = 1
 prestige=42.7159
 oob = "DUA_OOB.txt"
+decision = choose_dual_monarchy_path
 set_country_flag = religi
 set_country_flag = vic2_country_DUA
 set_country_flag = eu4_country_AVE
