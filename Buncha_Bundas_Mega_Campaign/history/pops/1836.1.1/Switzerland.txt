@@ -441,16 +441,16 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 170195
+		size= 162019
 	}
 
 }
 606 = {
-	farmers=
+	craftsmen=
 	{
 		culture = swiss
 		religion = catholic
-		size= 2555
+		size= 8555
 	}
 
 	artisans=
