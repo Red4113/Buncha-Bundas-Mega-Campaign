@@ -235,4 +235,125 @@ political_decisions = {
 
         ai_will_do = { factor = 1 }
     }
+
+    integrate_anatolians = {
+        picture = form_union_nation
+        potential = {
+            tag = NEA
+            OR = {
+                X11 = {
+                    in_sphere = NEA
+                }
+                X12 = {
+                    in_sphere = NEA
+                }
+                X13 = {
+                    in_sphere = NEA
+                }
+                X14 = {
+                    in_sphere = NEA
+                }
+                X15 = {
+                    in_sphere = NEA
+                }
+            }
+            NOT = { has_global_flag = greeks_annexed }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = greeks_annexed
+            random_country = {
+                limit = {
+                    tag = X11
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = NEA
+                    }
+                }
+                annex_to = NEA
+            }
+            random_country = {
+                limit = {
+                    tag = X12
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = NEA
+                    }
+                }
+                annex_to = NEA
+            }
+            random_country = {
+                limit = {
+                    tag = X13
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = NEA
+                    }
+                }
+                annex_to = NEA
+            }
+            random_country = {
+                limit = {
+                    tag = X14
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = NEA
+                    }
+                }
+                annex_to = NEA
+            }
+            random_country = {
+                limit = {
+                    tag = X15
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = NEA
+                    }
+                }
+                annex_to = NEA
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    accept_anatolians = {
+        picture = form_union_nation
+        potential = {
+            tag = NEA
+            NOT = { has_global_flag = accepted_greeks }
+            nationalism_n_imperialism = 1
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = accepted_greeks
+            add_accepted_culture = greek
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
 }

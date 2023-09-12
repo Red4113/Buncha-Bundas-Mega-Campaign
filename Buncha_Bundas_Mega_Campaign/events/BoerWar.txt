@@ -510,6 +510,7 @@ country_event = {
         civilized = yes
         owns = 2093
         owns = 2087
+        always = no
         year = 1845
         NOT = { year = 1890 }
         NOT = { has_country_flag = boer_accepted }
@@ -761,6 +762,7 @@ country_event = {
 
     trigger = {
         civilized = yes
+        always = no
         owns = 2093
         year = 1845
         NOT = { year = 1890 }
@@ -1116,6 +1118,7 @@ province_event = {
         has_province_modifier = boer_exodus
         ORA = { exists = yes }
         TRN = { exists = yes }
+        always = no
     }
 
     mean_time_to_happen = {
@@ -1188,6 +1191,7 @@ province_event = {
         has_province_modifier = boer_exodus
         ORA = { exists = yes }
         TRN = { exists = yes }
+        always = no
     }
 
     mean_time_to_happen = {
@@ -1359,6 +1363,7 @@ country_event = {
             part_of_sphere = no
             is_greater_power = no
         }
+        always = no
     }
 
     mean_time_to_happen = {
@@ -1423,6 +1428,7 @@ country_event = {
             tag = ORA
             tag = NAL
         }
+        always = no
         ai = yes
         SAF = { exists = yes }
         war = no
@@ -1576,6 +1582,7 @@ country_event = {
             exists = ZUL
             truce_with = TRN
         }
+        always = no
     }
 
     fire_only_once = yes
@@ -1733,6 +1740,7 @@ country_event = {
             }
         }
         ai_chance = { factor = 100}
+        always = no
     }
 
     option = {
@@ -1932,6 +1940,7 @@ country_event = {
                 truce_with = THIS
             }
         }
+        always = no
     }
 
     fire_only_once = yes
@@ -2017,6 +2026,7 @@ country_event = {
                 value = 3
             }
         }
+        always = no
     }
 
     mean_time_to_happen = {
@@ -2079,6 +2089,7 @@ country_event = {
             truce_with = XHO
             has_country_flag = claimed_xhosa
         }
+        always = no
     }
 
     mean_time_to_happen = {
@@ -2145,6 +2156,7 @@ country_event = {
         year = 1878
         revolution_n_counterrevolution  = 1
         NOT = { has_country_flag = walvis_bay }
+        always = no
     }
 
     mean_time_to_happen = { months = 6 }
@@ -2195,6 +2207,7 @@ country_event = {
             ai = no
             money = 10000
         }
+        always = no
     }
 
     mean_time_to_happen = {
@@ -2300,6 +2313,7 @@ country_event = {
             empty = yes
             NOT = { trade_goods = precious_goods }
         }
+        always = no
     }
 
     fire_only_once = yes

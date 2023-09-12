@@ -1,6 +1,6 @@
 graphical_culture = ItalianGC
 color = { 36 63 90 }
-
+fascist_dictatorship = { 175 175 175 }
 party = {
 	name = "NEA_conservative"
 	start_date = 1000.1.1

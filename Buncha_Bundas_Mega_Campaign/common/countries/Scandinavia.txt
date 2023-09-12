@@ -1,5 +1,6 @@
 graphical_culture = EuropeanGC
 color = { 96 131 80 }
+fascist_dictatorship = { 47 74 39 }
 
 party = {
 	name = "SCA_liberal"

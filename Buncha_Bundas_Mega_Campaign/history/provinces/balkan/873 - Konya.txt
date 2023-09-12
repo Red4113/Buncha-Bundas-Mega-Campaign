@@ -1,6 +1,6 @@
 owner=X12
 controller=X12
-add_core=GRE
+
 add_core=X12
 trade_goods = wool
 life_rating = 35

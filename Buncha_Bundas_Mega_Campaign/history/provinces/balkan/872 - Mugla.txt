@@ -1,6 +1,6 @@
 owner=X14
 controller=X14
-add_core=GRE
+
 add_core=X14
 trade_goods = coal
 life_rating = 35

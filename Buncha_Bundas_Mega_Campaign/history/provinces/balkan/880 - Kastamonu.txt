@@ -1,6 +1,6 @@
 owner=NEA
 controller=X11
-add_core=GRE
+
 add_core=NEA
 add_core=X11
 trade_goods = coal

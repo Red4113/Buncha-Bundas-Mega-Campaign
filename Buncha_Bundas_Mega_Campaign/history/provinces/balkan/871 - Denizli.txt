@@ -1,6 +1,6 @@
 owner=X13
 controller=X13
-add_core=GRE
+
 add_core=X13
 trade_goods = grain
 life_rating = 35

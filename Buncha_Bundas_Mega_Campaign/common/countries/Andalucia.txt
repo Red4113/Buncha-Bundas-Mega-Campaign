@@ -1,6 +1,8 @@
 graphical_culture = MoroccoGC
 color = { 0 155 80 }
-
+absolute_monarchy = { 25 25 25 }
+prussian_constitutionalism = { 25 25 25 }
+hms_government = { 25 25 25 }
 party = {
 	name = "MOR_conservative"
 	start_date = 1000.1.1
