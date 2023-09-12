@@ -242,7 +242,12 @@ electric_gear_factory = {
         value = 0.05
     }
     bonus = {
-        trigger = { trade_goods_in_state = coal }
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
         value = 0.05
     }
     bonus = {
@@ -264,8 +269,13 @@ machine_parts_factory = {
         value = 0.125
     }
     bonus = {
-        trigger = { trade_goods_in_state = coal }
-        value = 0.125
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
+        value = 0.15
     }
 }
 
@@ -277,7 +287,12 @@ synthetic_oil_factory = {
     output_goods = oil
     value = 3.4            #40.8 - profit = 3.375
     bonus = {
-        trigger = { trade_goods_in_state = coal }
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
         value = 0.25
     }
 }
@@ -381,7 +396,12 @@ steel_factory = {
         value = 0.125
     }
     bonus = {
-        trigger = { trade_goods_in_state = coal }
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
         value = 0.125
     }
 }
@@ -563,7 +583,12 @@ dye_factory = {
     output_goods = dye
     value = 3.4            #40.8 - profit = 10.1
     bonus = {
-        trigger = { trade_goods_in_state = coal }
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
         value = 0.25
     }
 }
@@ -656,7 +681,12 @@ cement_factory = {
     output_goods = cement
     value = 3        #48 - profit = 10.4
     bonus = {
-        trigger = { trade_goods_in_state = coal }
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
         value = 0.25
     }
 }
@@ -669,7 +699,12 @@ glass_factory = {
     output_goods = glass
     value = 18        #52.2 - profit = 10
     bonus = {
-        trigger = { trade_goods_in_state = coal }
+        trigger = {
+            OR = {
+                trade_goods_in_state = coal
+                has_building = charcoal_factory
+            }
+        }
         value = 0.25
     }
 }
@@ -1461,4 +1496,17 @@ artisan_fertilizer = {
     type = artisan
 
     workforce = 10000
+}
+charcoal_factory = {
+    template = factory_template
+    input_goods = {
+        timber = 1.4
+    }
+    limit_by_local_supply = yes
+    output_goods = coal
+    value = 2.0
+    #bonus = {
+    #    trigger = { trade_goods_in_state = timber }
+    #    value = 0.25
+    #}
 }
