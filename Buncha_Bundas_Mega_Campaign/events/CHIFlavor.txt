@@ -584,6 +584,7 @@ province_event = {
                 government = hms_government
             }
         }
+        always = no
     }
 
     mean_time_to_happen = {
