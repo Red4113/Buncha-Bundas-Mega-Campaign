@@ -47,9 +47,6 @@ country_event = {
             NOT = { war_policy = pacifism }
             NOT = { LOU = { any_owned_province = { country_units_in_province = USA } } }
             LOU = { exists = yes }
-            NOT = {
-                LOU = { in_sphere = THIS }
-            }
             year = 1846
     }
 
@@ -58,6 +55,24 @@ country_event = {
 
     option = {
         name = "Attack the Louisianians" #Attack now
+            relation = { who = LOU value = -200 }
+            diplomatic_influence = { who = LOU value = -200 }
+            leave_alliance = LOU
+            random_country = {
+                limit = {
+                    tag = LOU
+                    vassal_of = THIS
+                }
+                THIS = { release_vassal = LOU }
+            }
+            random_country = {
+                limit = {
+                    is_our_vassal = LOU
+                    NOT = { tag = THIS }
+                }
+                relation = { who = THIS value = -200 }
+                leave_alliance = THIS
+            }
         war = {
             target = LOU
             attacker_goal = {
