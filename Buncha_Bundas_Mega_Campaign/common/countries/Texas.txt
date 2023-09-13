@@ -9,7 +9,7 @@ party = {
 	ideology = liberal
 
 	citizenship_policy = full_citizenship
-	economic_policy = pluralism
+	economic_policy = interventionism
 	religious_policy = pluralism
 	social_policy = no_position_set
 	trade_policy = free_trade
