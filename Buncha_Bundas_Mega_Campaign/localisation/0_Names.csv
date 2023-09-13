@@ -2607,5 +2607,5 @@ SCA_presidential_dictatorship;Ødhinbiørn;;;;;;;;;;;;;
 AGRESSION_WAR_LOU_USA_NAME;Louisianan-Amerikanskiy War;;;;;;;;;;;;;
 louisiana_usa_war;Louisianan-Amerikanskiy War;;;;;;;;;;;;;
 louisiana_usa_war_desc;Enforce a scripted peace deal on $RECIPIENT$;;;;;;;;;;;;;
-louisiana_usa_war_short;ForcF another §Ycountry§W to accept a scripted peace deal;;;;;;;;;;;
+louisiana_usa_war_short;Force another §Ycountry§W to accept a scripted peace deal;;;;;;;;;;;
 louisiana_usa_war_setup;Enforce peace deal on $RECIPIENT$;;;;;;;;;;;;;
