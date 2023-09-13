@@ -177,6 +177,43 @@ negotiated_transfer = {
     }
 }
 
+louisiana_usa_war = {
+    sprite_index = 20
+    is_triggered_only = yes
+    months = 12
+
+    badboy_factor = 0
+    prestige_factor = 1
+    peace_cost_factor = 40
+    penalty_factor = 0
+    constructing_cb = no
+    crisis = no
+
+    break_truce_prestige_factor = 0
+    break_truce_infamy_factor = 0
+    break_truce_militancy_factor = 0
+    truce_months = 48
+
+    good_relation_prestige_factor = 0
+    good_relation_infamy_factor = 0
+    good_relation_militancy_factor = 0
+
+    po_status_quo = yes
+
+    war_name = WAR_LOU_USA_NAME
+
+    can_use = {
+    }
+
+    on_add = {
+    }
+
+    on_po_accepted = {
+        THIS = { country_event = 18482273 }
+        add_country_modifier = { name = recently_lost_war duration = 1825 }
+    }
+}
+
 # Great War CB's
 dismantle_cb = {
     sprite_index = 20

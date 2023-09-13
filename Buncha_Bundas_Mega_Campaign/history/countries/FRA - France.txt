@@ -27,7 +27,7 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=state_controlled
 political_parties=gerrymandering
-
+border_policy = open_borders
 ruling_party = FRA_reactionary
 upper_house = 
 {

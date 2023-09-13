@@ -329,6 +329,7 @@ political_decisions = {
             tag = USA
             is_greater_power = yes
             NOT = { has_country_flag = hasmanifestdestiny }
+            always = no
         }
         allow = {
             war = no
@@ -343,6 +344,7 @@ political_decisions = {
                 any_owned_province = { is_core = TEX }
                 invention = manifest_destiny
             }
+            always = no
         }
         effect = {
             set_country_flag = hasmanifestdestiny

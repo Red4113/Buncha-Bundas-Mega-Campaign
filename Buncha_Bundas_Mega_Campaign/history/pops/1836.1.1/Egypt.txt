@@ -113,14 +113,14 @@
 
 }
 1746 = {
-	soldiers=
+	craftsmen=
 	{
 		culture = misri
 		religion = sunni
 		size= 5912
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = misri
 		religion = sunni
@@ -176,7 +176,7 @@
 		size= 28884
 	}
 
-	clergymen=
+	craftsmen=
 	{
 		culture = misri
 		religion = zoroastrian_heresy
@@ -620,14 +620,14 @@
 		size= 3136
 	}
 
-	soldiers=
+	craftsmen=
 	{
 		culture = greek
 		religion = orthodox
 		size= 4801
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = greek
 		religion = orthodox
@@ -739,7 +739,7 @@
 		size= 3630
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = misri
 		religion = zoroastrian_heresy

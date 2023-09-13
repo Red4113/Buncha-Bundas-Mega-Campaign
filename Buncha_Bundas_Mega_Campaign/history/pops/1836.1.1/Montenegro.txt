@@ -432,7 +432,7 @@
 		size= 743
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = south_italian
 		religion = catholic
@@ -481,7 +481,7 @@
 		size= 939
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = south_italian
 		religion = orthodox
@@ -523,14 +523,14 @@
 		size= 29829
 	}
 
-	soldiers=
+	farmers=
 	{
 		culture = south_italian
 		religion = hellenic_pagan
 		size= 16533
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = south_italian
 		religion = hellenic_pagan

@@ -31,6 +31,125 @@ country_event = {
     }
 }
 
+# The USA-LOU War
+country_event = {
+    id = 18482272
+    title = "The Louisianian-American Dispute!"
+    desc = "Our southern neighbors hold very valuable land that would be useful to take, we are much more powerful and would easily defeat them if we attacked."
+    picture = "Demonstration"
+
+    trigger = {
+        tag = USA
+            war = no
+            idealism = 1
+            state_n_government = 1
+            NOT = { truce_with = LOU }
+            NOT = { war_policy = pacifism }
+            NOT = { LOU = { any_owned_province = { country_units_in_province = USA } } }
+            LOU = { exists = yes }
+            NOT = {
+                LOU = { in_sphere = THIS }
+            }
+            year = 1846
+    }
+
+    mean_time_to_happen = { months = 12 }
+    fire_only_once = yes
+
+    option = {
+        name = "Attack the Louisianians" #Attack now
+        war = {
+            target = LOU
+            attacker_goal = {
+                casus_belli = louisiana_usa_war
+                country = USA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = LOU
+            }
+        }
+        any_pop = { militancy = -4 }
+    }
+    option = {
+        name = "Back down, we can't win." #Don't Attack
+        prestige = -40
+        any_pop = { militancy = 4 }
+    }
+}
+
+# The USA-LOU War - 2
+country_event = {
+    id = 18482273
+    title = "The Peace Treaty of Boston"
+    desc = "We have defeated the Louisianians and can take what we will"
+    picture = "Demonstration"
+
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "Take all of their Coast. §RGain 10 infamy§W" #Take the coastal states
+        badboy = 10
+            LOU = { any_owned = { limit = { OR = {
+                region = USA_211
+                region = USA_2556
+                region = USA_205
+                region = USA_201
+                province_id = 200
+                province_id = 199
+            } }
+            remove_core = LOU
+            secede_province = USA
+            add_core = USA
+        } }
+    }
+    option = {
+        name = "Take enough to not anger Texas. §RGain 20 infamy§W" #Take as much as possible
+        badboy = 20
+            LOU = { any_owned = { limit = { OR = {
+                province_id = 130
+                province_id = 131
+                region = USA_211
+                region = USA_2556
+                region = USA_205
+                region = USA_201
+                region = USA_200
+                region = USA_196
+                region = USA_194
+                region = USA_139
+                region = USA_144
+                region = USA_148
+                region = USA_126
+                region = USA_124
+                region = USA_121
+                region = USA_118
+                region = USA_118
+                region = USA_111
+                region = USA_116
+            } }
+            remove_core = LOU
+            secede_province = USA
+            add_core = USA
+        } }        ai_chance = { 
+            factor = 100
+        }
+    }
+    option = {
+        name = "Take it all!. §RGain 30 infamy§W" #Take it All
+        badboy = 30
+        inherit = LOU
+        LOU = {
+            all_core = { add_core = USA }
+            all_core = { remove_core = LOU }
+        }
+        ai_chance = { 
+            factor = 100
+        }
+    }
+}
+
 # DM Path Choice
 country_event = {
     id = 110193
@@ -436,7 +555,7 @@ country_event = {
     }
 }
 
-# The SÃ¼dtirol Compromise
+# The Südtirol Compromise
 country_event = {
     id = 110089
     title = "EVTNAME110089"

@@ -4516,7 +4516,7 @@
 		size= 439
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = tatar
 		religion = jewish
@@ -4565,7 +4565,7 @@
 		size= 84
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = tatar
 		religion = hellenic_pagan
@@ -4653,7 +4653,7 @@
 	{
 		culture = neapolitan_new
 		religion = hellenic_pagan
-		size= 33409
+		size= 133409
 	}
 
 	soldiers=
@@ -4663,7 +4663,7 @@
 		size= 300
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = tatar
 		religion = orthodox

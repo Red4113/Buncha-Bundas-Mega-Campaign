@@ -1,6 +1,6 @@
 owner=USA
 controller=USA
-add_core=CST
+
 add_core=NEW
 add_core=USA
 trade_goods = fish

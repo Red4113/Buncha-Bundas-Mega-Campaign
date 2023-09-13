@@ -5,3 +5,9 @@ add_core=ASY
 trade_goods = grain
 life_rating = 40
 naval_base = 2
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
