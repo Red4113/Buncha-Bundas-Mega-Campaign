@@ -366,7 +366,7 @@ political_decisions = {
             country_event = 110193
         }
 
-        ai_will_do = { factor = 0 }
+        ai_will_do = { factor = 5 }
     }
 
 }

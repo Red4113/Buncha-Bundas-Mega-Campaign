@@ -92,6 +92,9 @@ country_event = {
             add_core = FRA
         }
         set_country_flag = DM_option_C
+        ai_chance = { 
+            factor = 100
+        }
     }
 }
 
