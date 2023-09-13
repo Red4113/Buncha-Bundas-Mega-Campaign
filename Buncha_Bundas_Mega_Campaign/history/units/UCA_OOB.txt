@@ -291,6 +291,11 @@ ZIM = {
 	level = 2
 }
 
+LOU = {
+	value = -100
+	level = 2
+}
+
 #Leaders
 leader = {
 	name="Rafael Ibn Hakan"
