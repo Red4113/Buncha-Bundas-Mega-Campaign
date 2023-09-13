@@ -2604,7 +2604,7 @@ SCA_fascist_dictatorship;Russenorsk Stormaktstiden;;;;;;;;;;;;;
 SCA_bourgeois_dictatorship;Ødhinbiørn;;;;;;;;;;;;;
 SCA_proletarian_dictatorship;The S.F.R.C;;;;;;;;;;;;;
 SCA_presidential_dictatorship;Ødhinbiørn;;;;;;;;;;;;;
-AGREsSION_WAR_LOU_USA_NAME;Louisianan-Amerikanskiy War;;;;;;;;;;;;;
+AGRESSION_WAR_LOU_USA_NAME;Louisianan-Amerikanskiy War;;;;;;;;;;;;;
 louisiana_usa_war;Louisianan-Amerikanskiy War;;;;;;;;;;;;;
 louisiana_usa_war_desc;Enforce a scripted peace deal on $RECIPIENT$;;;;;;;;;;;;;
 louisiana_usa_war_short;ForcF another §Ycountry§W to accept a scripted peace deal;;;;;;;;;;;
