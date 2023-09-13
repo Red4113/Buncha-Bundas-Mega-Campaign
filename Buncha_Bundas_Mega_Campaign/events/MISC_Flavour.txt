@@ -37,7 +37,7 @@ country_event = {
     title = "The Louisianian-American Dispute!"
     desc = "Our southern neighbors hold very valuable land that would be useful to take, we are much more powerful and would easily defeat them if we attacked."
     picture = "Demonstration"
-
+    major = yes
     trigger = {
         tag = USA
             war = no
@@ -223,7 +223,7 @@ country_event = {
     title = "EVTNAME110194"
     desc = "EVTDESC110194"
     picture = "Expansion"
-
+    major = yes
     trigger = {
         tag = DUA
         has_country_flag = DM_option_A
@@ -263,7 +263,7 @@ country_event = {
     title = "EVTNAME110195"
     desc = "EVTDESC110195"
     picture = "Expansion"
-
+    major = yes
     trigger = {
         tag = DUA
         has_country_flag = DM_option_B
@@ -348,7 +348,7 @@ country_event = {
     title = "EVTNAME110196"
     desc = "EVTDESC110196"
     picture = "Expansion"
-
+    major = yes
     trigger = {
         tag = DUA
         has_country_flag = DM_option_C
@@ -448,7 +448,7 @@ country_event = {
     title = "EVTNAME110192"
     desc = "EVTDESC110192"
     picture = "Expansion"
-
+    major = yes
     trigger = {
         tag = ASY
         OR = {
