@@ -16994,7 +16994,7 @@
 		size= 2033
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = east_slavic_north_america_superregion_culture
 		religion = norse_pagan_reformed

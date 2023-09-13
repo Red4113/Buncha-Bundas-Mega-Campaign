@@ -389,166 +389,6 @@ navy = {
 	}
 }
 
-army = {
-	name="1st Army"
-	location=219
-	regiment = {
-		name="1st Nashville Infantry"
-		type=infantry
-		home=188
-	}
-	regiment = {
-		name="1st Albany Infantry"
-		type=infantry
-		home=234
-	}
-	regiment = {
-		name="1st Lexington Infantry"
-		type=infantry
-		home=186
-	}
-	regiment = {
-		name="1st New York Infantry"
-		type=infantry
-		home=232
-	}
-	regiment = {
-		name="2nd Nashville Infantry"
-		type=infantry
-		home=188
-	}
-	regiment = {
-		name="1st St Louis Infantry"
-		type=infantry
-		home=146
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=73
-	regiment = {
-		name="2nd Albany Infantry"
-		type=infantry
-		home=234
-	}
-	regiment = {
-		name="2nd Lexington Infantry"
-		type=infantry
-		home=186
-	}
-	regiment = {
-		name="1st Bangor Infantry"
-		type=infantry
-		home=249
-	}
-	regiment = {
-		name="1st Philadelphia Infantry"
-		type=infantry
-		home=223
-	}
-	regiment = {
-		name="1st Louisville Infantry"
-		type=infantry
-		home=184
-	}
-	regiment = {
-		name="1st Peoria Infantry"
-		type=infantry
-		home=166
-	}
-}
-
-army = {
-	name="5th Army"
-	location=190
-	regiment = {
-		name="1st Annapolis Artillery"
-		type=artillery
-		home=220
-	}
-	regiment = {
-		name="1st D.C. Artillery"
-		type=artillery
-		home=2146
-	}
-	regiment = {
-		name="1st Boston Artillery"
-		type=artillery
-		home=243
-	}
-	regiment = {
-		name="1st Truro Artillery"
-		type=artillery
-		home=72
-	}
-	regiment = {
-		name="1st Memphis Artillery"
-		type=artillery
-		home=189
-	}
-	regiment = {
-		name="1st Binghamton Artillery"
-		type=artillery
-		home=235
-	}
-	regiment = {
-		name="1st Green Bank Artillery"
-		type=artillery
-		home=217
-	}
-	regiment = {
-		name="1st Knoxville Artillery"
-		type=artillery
-		home=190
-	}
-}
-
-army = {
-	name="7th Army"
-	location=151
-	regiment = {
-		name="1st Cincinnati Infantry"
-		type=infantry
-		home=182
-	}
-	regiment = {
-		name="1st Indianapolis Infantry"
-		type=infantry
-		home=169
-	}
-	regiment = {
-		name="2nd Bangor Infantry"
-		type=infantry
-		home=249
-	}
-	regiment = {
-		name="1st Champaign Infantry"
-		type=infantry
-		home=165
-	}
-}
-
-army = {
-	name="8th Army"
-	location=79
-	regiment = {
-		name="1st Buffalo Infantry"
-		type=infantry
-		home=236
-	}
-	regiment = {
-		name="2nd Buffalo Infantry"
-		type=infantry
-		home=236
-	}
-	regiment = {
-		name="3rd Buffalo Infantry"
-		type=infantry
-		home=236
-	}
-}
-
 navy = {
 	name="2nd Fleet"
 	location=220
@@ -577,24 +417,135 @@ navy = {
 		type=frigate
 	}
 }
-
 army = {
-	name="2nd Army"
-	location=78
+	name="Army"
+	location=243
 	regiment = {
-		name="1st Dover Infantry"
+		name="Infantry"
 		type=infantry
-		home=222
 	}
 	regiment = {
-		name="1st Plattsburgh Infantry"
+		name="Infantry"
 		type=infantry
-		home=240
 	}
 	regiment = {
-		name="1st Boston Infantry"
+		name="Infantry"
 		type=infantry
-		home=243
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
-
+army = {
+	name="Army"
+	location=186
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=220
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}

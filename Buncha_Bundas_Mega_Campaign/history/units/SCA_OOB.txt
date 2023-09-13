@@ -460,75 +460,6 @@ leader = {
 
 
 #Armies
-army = {
-	name="18th Army"
-	location=333
-	regiment = {
-		name="1st Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="2nd Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="3rd Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="4th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="2nd Kostorma Infantry"
-		type=infantry
-		home=1023
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=369
-	regiment = {
-		name="2nd Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Christianssand Infantry"
-		type=infantry
-		home=310
-	}
-	regiment = {
-		name="1st Nizhni Novgorod Infantry"
-		type=infantry
-		home=1020
-	}
-	regiment = {
-		name="2nd Christianssand Infantry"
-		type=infantry
-		home=310
-	}
-	regiment = {
-		name="1st Tver Infantry"
-		type=infantry
-		home=998
-	}
-	regiment = {
-		name="3rd Ryazan Infantry"
-		type=infantry
-		home=1012
-	}
-}
 
 navy = {
 	name="Chesapeak trade"
@@ -552,306 +483,6 @@ navy = {
 	ship = {
 		name="1st New York Frigate"
 		type=frigate
-	}
-}
-
-army = {
-	name="1st Army"
-	location=334
-	regiment = {
-		name="1st Arkhangelsk Infantry"
-		type=infantry
-		home=981
-	}
-	regiment = {
-		name="1st Mezen Infantry"
-		type=infantry
-		home=985
-	}
-	regiment = {
-		name="1st Kotlas Infantry"
-		type=infantry
-		home=990
-	}
-	regiment = {
-		name="1st Yaroslavl Infantry"
-		type=infantry
-		home=1001
-	}
-	regiment = {
-		name="1st Novgorod Infantry"
-		type=infantry
-		home=1003
-	}
-	regiment = {
-		name="1st Ribe Artillery"
-		type=artillery
-		home=368
-	}
-	regiment = {
-		name="1st Falun Artillery"
-		type=artillery
-		home=323
-	}
-	regiment = {
-		name="1st Nizhni Novgorod Artillery"
-		type=artillery
-		home=1020
-	}
-	regiment = {
-		name="1st Bodo Artillery"
-		type=artillery
-		home=306
-	}
-	regiment = {
-		name="1st Tornio Artillery"
-		type=artillery
-		home=338
-	}
-	regiment = {
-		name="1st Odense Artillery"
-		type=artillery
-		home=373
-	}
-	regiment = {
-		name="2nd Pskov Infantry"
-		type=infantry
-		home=1006
-	}
-}
-
-army = {
-	name="25th Army"
-	location=63
-	regiment = {
-		name="5th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="2nd Tver Infantry"
-		type=infantry
-		home=998
-	}
-	regiment = {
-		name="2nd Yaroslavl Infantry"
-		type=infantry
-		home=1001
-	}
-	regiment = {
-		name="3rd Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Borås Infantry"
-		type=infantry
-		home=330
-	}
-	regiment = {
-		name="2nd Ivanovo Infantry"
-		type=infantry
-		home=1022
-	}
-}
-
-army = {
-	name="31st Army"
-	location=1346
-	regiment = {
-		name="3rd Christianssand Infantry"
-		type=infantry
-		home=310
-	}
-	regiment = {
-		name="2nd Borås Infantry"
-		type=infantry
-		home=330
-	}
-	regiment = {
-		name="1st Viipuri Infantry"
-		type=infantry
-		home=339
-	}
-	regiment = {
-		name="2nd Nizhni Novgorod Infantry"
-		type=infantry
-		home=1020
-	}
-	regiment = {
-		name="6th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Chanthaburi Artillery"
-		type=artillery
-		home=1365
-	}
-	regiment = {
-		name="1st Bangkok Artillery"
-		type=artillery
-		home=1346
-	}
-	regiment = {
-		name="1st Battambang Artillery"
-		type=artillery
-		home=1366
-	}
-	regiment = {
-		name="1st Ratchaburi Artillery"
-		type=artillery
-		home=1353
-	}
-	regiment = {
-		name="2nd Battambang Artillery"
-		type=artillery
-		home=1366
-	}
-	regiment = {
-		name="2nd Ratchaburi Artillery"
-		type=artillery
-		home=1353
-	}
-	regiment = {
-		name="3rd Chistopol Infantry"
-		type=infantry
-		home=1032
-	}
-}
-
-army = {
-	name="4th Army"
-	location=58
-	regiment = {
-		name="1st Gdov Infantry"
-		type=infantry
-		home=997
-	}
-	regiment = {
-		name="1st Uglich Infantry"
-		type=infantry
-		home=991
-	}
-	regiment = {
-		name="1st Pskov Infantry"
-		type=infantry
-		home=1006
-	}
-	regiment = {
-		name="1st Vaasa Infantry"
-		type=infantry
-		home=346
-	}
-	regiment = {
-		name="3rd Tver Infantry"
-		type=infantry
-		home=998
-	}
-	regiment = {
-		name="1st Onega Artillery"
-		type=artillery
-		home=2588
-	}
-	regiment = {
-		name="1st Åland Islands Artillery"
-		type=artillery
-		home=348
-	}
-	regiment = {
-		name="1st Kandalaksha Artillery"
-		type=artillery
-		home=983
-	}
-	regiment = {
-		name="1st Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="2nd Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="3rd Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="1st Glasov Infantry"
-		type=infantry
-		home=1029
-	}
-}
-
-army = {
-	name="6th Army"
-	location=330
-	regiment = {
-		name="1st Aalborg Infantry"
-		type=infantry
-		home=367
-	}
-	regiment = {
-		name="4th Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Ryazan Infantry"
-		type=infantry
-		home=1012
-	}
-	regiment = {
-		name="3rd Yaroslavl Infantry"
-		type=infantry
-		home=1001
-	}
-	regiment = {
-		name="1st Chistopol Infantry"
-		type=infantry
-		home=1032
-	}
-	regiment = {
-		name="2nd Växjö Infantry"
-		type=infantry
-		home=333
-	}
-}
-
-army = {
-	name="7th Army"
-	location=332
-	regiment = {
-		name="5th Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="2nd Ryazan Infantry"
-		type=infantry
-		home=1012
-	}
-	regiment = {
-		name="2nd Chistopol Infantry"
-		type=infantry
-		home=1032
-	}
-	regiment = {
-		name="4th Christianssand Infantry"
-		type=infantry
-		home=310
-	}
-	regiment = {
-		name="2nd Kotlas Infantry"
-		type=infantry
-		home=990
-	}
-	regiment = {
-		name="3rd Kotlas Infantry"
-		type=infantry
-		home=990
 	}
 }
 
@@ -1166,136 +797,6 @@ navy = {
 	ship = {
 		name="1st Stettin Frigate"
 		type=frigate
-	}
-}
-
-army = {
-	name="42nd Army"
-	location=66
-	regiment = {
-		name="7th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Falun Infantry"
-		type=infantry
-		home=323
-	}
-	regiment = {
-		name="1st Turku Infantry"
-		type=infantry
-		home=345
-	}
-	regiment = {
-		name="1st Gävle Infantry"
-		type=infantry
-		home=317
-	}
-	regiment = {
-		name="1st Örebro Infantry"
-		type=infantry
-		home=327
-	}
-	regiment = {
-		name="2nd Odense Artillery"
-		type=artillery
-		home=373
-	}
-	regiment = {
-		name="1st Karlstad Artillery"
-		type=artillery
-		home=328
-	}
-	regiment = {
-		name="1st Kalmar Artillery"
-		type=artillery
-		home=332
-	}
-	regiment = {
-		name="1st Hamar Artillery"
-		type=artillery
-		home=314
-	}
-	regiment = {
-		name="1st Västerås Artillery"
-		type=artillery
-		home=326
-	}
-	regiment = {
-		name="3rd Odense Artillery"
-		type=artillery
-		home=373
-	}
-	regiment = {
-		name="3rd Bornholm Infantry"
-		type=infantry
-		home=374
-	}
-}
-
-army = {
-	name="22nd Army"
-	location=334
-	regiment = {
-		name="6th Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Bornholm Infantry"
-		type=infantry
-		home=374
-	}
-	regiment = {
-		name="1st Växjö Infantry"
-		type=infantry
-		home=333
-	}
-	regiment = {
-		name="1st Frederiksstad Infantry"
-		type=infantry
-		home=316
-	}
-	regiment = {
-		name="2nd Frederiksstad Infantry"
-		type=infantry
-		home=316
-	}
-	regiment = {
-		name="1st Christianssand Artillery"
-		type=artillery
-		home=310
-	}
-	regiment = {
-		name="1st Turku Artillery"
-		type=artillery
-		home=345
-	}
-	regiment = {
-		name="1st Borås Artillery"
-		type=artillery
-		home=330
-	}
-	regiment = {
-		name="1st Oulu Artillery"
-		type=artillery
-		home=336
-	}
-	regiment = {
-		name="2nd Nizhni Novgorod Artillery"
-		type=artillery
-		home=1020
-	}
-	regiment = {
-		name="1st Kostomushka Artillery"
-		type=artillery
-		home=984
-	}
-	regiment = {
-		name="3rd Kalmar Infantry"
-		type=infantry
-		home=332
 	}
 }
 
@@ -1788,106 +1289,6 @@ navy = {
 	}
 }
 
-army = {
-	name="24th Army"
-	location=529
-	regiment = {
-		name="1st Rzhev Infantry"
-		type=infantry
-		home=999
-	}
-	regiment = {
-		name="1st Luleå Infantry"
-		type=infantry
-		home=321
-	}
-	regiment = {
-		name="1st Odense Infantry"
-		type=infantry
-		home=373
-	}
-	regiment = {
-		name="1st Kostorma Infantry"
-		type=infantry
-		home=1023
-	}
-	regiment = {
-		name="2nd Turku Infantry"
-		type=infantry
-		home=345
-	}
-	regiment = {
-		name="2nd Luleå Infantry"
-		type=infantry
-		home=321
-	}
-}
-
-army = {
-	name="5th Army"
-	location=1347
-	regiment = {
-		name="2nd Bornholm Infantry"
-		type=infantry
-		home=374
-	}
-	regiment = {
-		name="8th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="3rd Turku Infantry"
-		type=infantry
-		home=345
-	}
-	regiment = {
-		name="3rd Borås Infantry"
-		type=infantry
-		home=330
-	}
-	regiment = {
-		name="2nd Falun Infantry"
-		type=infantry
-		home=323
-	}
-	regiment = {
-		name="1st St Petersburg Artillery"
-		type=artillery
-		home=994
-	}
-	regiment = {
-		name="1st Vaasa Artillery"
-		type=artillery
-		home=346
-	}
-	regiment = {
-		name="1st Tver Artillery"
-		type=artillery
-		home=998
-	}
-	regiment = {
-		name="2nd Tornio Artillery"
-		type=artillery
-		home=338
-	}
-	regiment = {
-		name="2nd Christianssand Artillery"
-		type=artillery
-		home=310
-	}
-	regiment = {
-		name="1st Novgorod Artillery"
-		type=artillery
-		home=1003
-	}
-	regiment = {
-		name="3rd Växjö Infantry"
-		type=infantry
-		home=333
-	}
-}
-
 navy = {
 	name="Main"
 	location=313
@@ -2369,271 +1770,6 @@ navy = {
 	}
 }
 
-army = {
-	name="2nd Army"
-	location=335
-	regiment = {
-		name="9th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="10th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Aarhus Infantry"
-		type=infantry
-		home=366
-	}
-	regiment = {
-		name="7th Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Karlstad Infantry"
-		type=infantry
-		home=328
-	}
-	regiment = {
-		name="3rd Aalborg Infantry"
-		type=infantry
-		home=367
-	}
-}
-
-army = {
-	name="8th Army"
-	location=65
-	regiment = {
-		name="4th Tver Infantry"
-		type=infantry
-		home=998
-	}
-	regiment = {
-		name="4th Yaroslavl Infantry"
-		type=infantry
-		home=1001
-	}
-	regiment = {
-		name="1st St Petersburg Infantry"
-		type=infantry
-		home=994
-	}
-	regiment = {
-		name="1st Kuopio Infantry"
-		type=infantry
-		home=342
-	}
-	regiment = {
-		name="1st Ivanovo Infantry"
-		type=infantry
-		home=1022
-	}
-	regiment = {
-		name="1st Peremyshl Infantry"
-		type=infantry
-		home=1015
-	}
-}
-
-army = {
-	name="9th Army"
-	location=1395
-	regiment = {
-		name="2nd Aalborg Infantry"
-		type=infantry
-		home=367
-	}
-	regiment = {
-		name="8th Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="4th Borås Infantry"
-		type=infantry
-		home=330
-	}
-	regiment = {
-		name="1st Norrköping Infantry"
-		type=infantry
-		home=325
-	}
-	regiment = {
-		name="2nd Rzhev Infantry"
-		type=infantry
-		home=999
-	}
-	regiment = {
-		name="1st Kazan Infantry"
-		type=infantry
-		home=1030
-	}
-}
-
-army = {
-	name="10th Army"
-	location=66
-	regiment = {
-		name="5th Tver Infantry"
-		type=infantry
-		home=998
-	}
-	regiment = {
-		name="2nd Gdov Infantry"
-		type=infantry
-		home=997
-	}
-	regiment = {
-		name="1st Vyterga Infantry"
-		type=infantry
-		home=993
-	}
-	regiment = {
-		name="2nd Novgorod Infantry"
-		type=infantry
-		home=1003
-	}
-	regiment = {
-		name="1st Petrozavodsk Infantry"
-		type=infantry
-		home=995
-	}
-	regiment = {
-		name="3rd Christianssand Artillery"
-		type=artillery
-		home=310
-	}
-	regiment = {
-		name="4th Christianssand Artillery"
-		type=artillery
-		home=310
-	}
-	regiment = {
-		name="2nd Ribe Artillery"
-		type=artillery
-		home=368
-	}
-	regiment = {
-		name="3rd Tornio Artillery"
-		type=artillery
-		home=338
-	}
-	regiment = {
-		name="1st Luleå Artillery"
-		type=artillery
-		home=321
-	}
-	regiment = {
-		name="2nd Luleå Artillery"
-		type=artillery
-		home=321
-	}
-	regiment = {
-		name="1st Novaya Ladoga Infantry"
-		type=infantry
-		home=2580
-	}
-}
-
-army = {
-	name="43rd Army"
-	location=64
-	regiment = {
-		name="11th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Göteborg Infantry"
-		type=infantry
-		home=329
-	}
-	regiment = {
-		name="12th Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Tornio Infantry"
-		type=infantry
-		home=338
-	}
-	regiment = {
-		name="2nd Norrköping Infantry"
-		type=infantry
-		home=325
-	}
-	regiment = {
-		name="1st Christiania Infantry"
-		type=infantry
-		home=313
-	}
-}
-
-army = {
-	name="53rd Army"
-	location=372
-	regiment = {
-		name="1st Kalmar Infantry"
-		type=infantry
-		home=332
-	}
-	regiment = {
-		name="1st Ribe Infantry"
-		type=infantry
-		home=368
-	}
-	regiment = {
-		name="2nd Ribe Infantry"
-		type=infantry
-		home=368
-	}
-	regiment = {
-		name="1st Stockholm Infantry"
-		type=infantry
-		home=322
-	}
-	regiment = {
-		name="2nd Kalmar Infantry"
-		type=infantry
-		home=332
-	}
-	regiment = {
-		name="2nd Novgorod Artillery"
-		type=artillery
-		home=1003
-	}
-	regiment = {
-		name="1st Staritsa Artillery"
-		type=artillery
-		home=1000
-	}
-	regiment = {
-		name="1st Glasov Artillery"
-		type=artillery
-		home=1029
-	}
-	regiment = {
-		name="1st Povyents Artillery"
-		type=artillery
-		home=988
-	}
-	regiment = {
-		name="1st Tampere Artillery"
-		type=artillery
-		home=347
-	}
-	regiment = {
-		name="1st Petrozavodsk Artillery"
-		type=artillery
-		home=995
-	}
-}
-
 navy = {
 	name="13th Fleet"
 	location=310
@@ -2870,3 +2006,344 @@ army = {
 	}
 }
 
+army = {
+	name="Army"
+	location=322
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+
+army = {
+	name="Army"
+	location=372
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=368
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=313
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=1013
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=1003
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=994
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=57
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=118
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}

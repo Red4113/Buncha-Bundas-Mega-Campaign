@@ -62,7 +62,7 @@
 		size= 19633
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = czech
 		religion = hussite

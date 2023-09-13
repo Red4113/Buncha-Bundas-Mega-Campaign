@@ -1,5 +1,6 @@
 owner=DUA
 controller=DUA
+add_core=CHI
 trade_goods = tea
 life_rating = 35
 terrain = urban
