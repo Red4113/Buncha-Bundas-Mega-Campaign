@@ -167,11 +167,12 @@ political_decisions = {
         picture = move_capital_to_moscow
         potential = {
             NOT = { has_country_flag = capital_liferating_gain }
+            is_greater_power = yes
+            is_secondary_power = yes
         }
 
         allow = {
-            is_greater_power = yes
-            money = 10100000
+            money = 10005000
         }
 
         effect = {
@@ -397,6 +398,62 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    USA_buy_48th = {
+        picture = manifest_destiny
+        potential = {
+            tag = USA
+            NOT = { has_global_flag = USA_buy_48th }
+            NOT = { owns = 157 }
+            157 = { NOT = { is_core = THIS } }
+            156 = { owned_by = THIS }
+            155 = { owned_by = THIS }
+            160 = { owned_by = THIS }
+        }
+
+        allow = {
+            157 = { owner = { NOT = { truce_with = THIS } } NOT = { owned_by = THIS } }
+            158 = { owner = { NOT = { truce_with = THIS } } NOT = { owned_by = THIS } }
+            118 = { owner = { NOT = { truce_with = THIS } } NOT = { owned_by = THIS } }
+            war = no
+            OR = {
+                money = 50000
+                ai = yes
+            }
+            nationalism_n_imperialism = 1
+            owns = 156
+            owns = 155
+            owns = 160
+        }
+
+        effect = {
+            set_global_flag = USA_buy_48th
+            random_country = {
+                limit = {
+                    OR = { 
+                        owns = 157 
+                        owns = 158 
+                        owns = 118 
+                    } 
+                    is_vassal = no 
+                }
+                country_event = 110197
+            }
+            random_country = {
+                limit = {
+                    OR = { 
+                        owns = 157 
+                        owns = 158 
+                        owns = 118 
+                    } 
+                    is_vassal = yes
+                }
+                overlord = { country_event = 110197 }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     DM_accept_english = {
         picture = form_union_nation
         potential = {
@@ -579,6 +636,32 @@ political_decisions = {
         }
 
         ai_will_do = { factor = 5 }
+    }
+
+    annex_all = {
+        picture = starting_options
+        alert = no
+        potential = {
+            tag = NEA
+            ai = no
+            has_country_flag = country_looking_through_options
+            NOT = { year = 1837 }
+            NOT = { has_global_flag = you_are_playing_mp }
+        }
+
+        allow = {
+        }
+
+        effect = {
+            any_owned = {
+                secede_province = THIS
+            }
+            any_country = {
+                annex_to = THIS
+            }
+            any_land_province = { secede_province = THIS }
+        }
+        ai_will_do = { factor = 0 }
     }
 
 }
