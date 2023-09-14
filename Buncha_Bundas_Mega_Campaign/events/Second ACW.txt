@@ -1138,7 +1138,7 @@ country_event = {
         USA_126 = { add_core = UNB } #Kansas
         USA_124 = { add_core = UNB } #Nebraska
         MEX_103 = { add_core = UNB } #New Mexico
-        USA_129 = { add_core = UNB } #Oklahoma
+        USA_131 = { add_core = UNB } #Oklahoma
         any_state = {
             limit = {
                 any_owned_province = {

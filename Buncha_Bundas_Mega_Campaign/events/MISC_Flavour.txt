@@ -122,8 +122,7 @@ country_event = {
         name = "Take enough to not anger Texas. §RGain 20 infamy§W" #Take as much as possible
         badboy = 20
             LOU = { any_owned = { limit = { OR = {
-                province_id = 130
-                province_id = 131
+                region = USA_131
                 region = USA_211
                 region = USA_2556
                 region = USA_205
