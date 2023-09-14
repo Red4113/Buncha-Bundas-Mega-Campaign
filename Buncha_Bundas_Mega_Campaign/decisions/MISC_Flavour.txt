@@ -356,6 +356,177 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    accept_english = {
+        picture = form_union_nation
+        potential = {
+            tag = DUA
+            NOT = { accepted_culture = english }
+            NOT = {
+                has_country_flag = DM_option_A
+            }
+            NOT = {
+                has_country_flag = DM_option_B
+            }
+            NOT = {
+                has_country_flag = DM_option_C
+            }
+            year = 1847
+        }
+
+        allow = {
+            social_science = 1
+            ENK = {
+                all_core = {
+                    owned_by = DUA
+                }
+            } 
+        }
+
+        effect = {
+            prestige = 5
+            add_accepted_culture = english
+            ENL = {
+                all_core = { add_core = DUA }
+                all_core = { remove_core = ENL }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    re_integrate_the_french = {
+        picture = form_union_nation
+        potential = {
+            tag = DUA
+            NOT = { accepted_culture = french }
+            NOT = {
+                has_country_flag = DM_option_A
+            }
+            NOT = {
+                has_country_flag = DM_option_B
+            }
+            NOT = {
+                has_country_flag = DM_option_C
+            }
+            year = 1847
+        }
+
+        allow = {
+            FRA = {
+                all_core = {
+                    owned_by = DUA
+                }
+            }           
+            social_science = 1
+        }
+
+        effect = {
+            prestige = 5
+            FRA = {
+                all_core = { add_core = DUA }
+                all_core = { remove_core = FRA }
+            }
+            add_accepted_culture = french
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    re_integrate_the_celtics = {
+        picture = form_union_nation
+        potential = {
+            tag = DUA
+            NOT = { accepted_culture = scottish }
+            NOT = { accepted_culture = cumbrian }
+            NOT = { accepted_culture = cornish }
+            NOT = { accepted_culture = breton }
+            NOT = { accepted_culture = welsh }
+            NOT = {
+                has_country_flag = DM_option_A
+            }
+            NOT = {
+                has_country_flag = DM_option_B
+            }
+            NOT = {
+                has_country_flag = DM_option_C
+            }
+            year = 1847
+        }
+
+        allow = {
+            SCO = {
+                all_core = {
+                    OR = {
+                        owned_by = DUA
+                        owner = {
+                            OR = {
+                                in_sphere = DUA
+                                vassal_of = DUA
+                            }
+                            war = no
+                            is_mobilised = no
+                            is_greater_power = no
+                        }
+                    }
+                }
+            }
+            BRT = {
+                all_core = {
+                    owned_by = DUA
+                }
+            } 
+            CUM = {
+                all_core = {
+                    owned_by = DUA
+                }
+            }
+            WHA = {
+                all_core = {
+                    owned_by = DUA
+                }
+            }             
+            social_science = 1
+        }
+
+        effect = {
+            prestige = 5
+            any_country = {
+                limit = {
+                    tag = SCO
+                    in_sphere = THIS
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                }
+                annex_to = DUA
+                SCO = {
+                    all_core = { add_core = DUA }
+                    all_core = { remove_core = SCO }
+                }
+            }
+            BRT = {
+                all_core = { add_core = DUA }
+                all_core = { remove_core = BRT }
+            }
+            CUM = {
+                all_core = { add_core = DUA }
+                all_core = { remove_core = CUM }
+            }
+            WHA = {
+                all_core = { add_core = DUA }
+                all_core = { remove_core = WHA }
+            }
+            add_accepted_culture = scottish
+            add_accepted_culture = cumbrian
+            add_accepted_culture = cornish
+            add_accepted_culture = breton
+            add_accepted_culture = welsh
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     choose_dual_monarchy_path = {
         picture = form_union_nation
         potential = {
