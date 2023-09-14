@@ -375,7 +375,7 @@ political_decisions = {
 
         allow = {
             social_science = 1
-            ENK = {
+            ENL = {
                 all_core = {
                     owned_by = DUA
                 }
