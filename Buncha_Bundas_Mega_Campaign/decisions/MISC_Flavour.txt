@@ -163,6 +163,28 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    capital_liferating_gain = {
+        picture = move_capital_to_moscow
+        potential = {
+
+            NOT = { has_country_flag = capital_liferating_gain }
+        }
+
+        allow = {
+            is_greater_power = yes
+            money = 10100000
+        }
+
+        effect = {
+            prestige = 5
+            treasury = -10000000
+            capital_scope = { life_rating = 10 }
+            set_country_flag = capital_liferating_gain
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     rename_artois_FRA = {
         picture = FRA_rename_artois
         potential = {
@@ -325,6 +347,26 @@ political_decisions = {
                     }
                 }
                 annex_to = NEA
+            }
+            X11 = {
+                all_core = { add_core = NEA }
+                all_core = { remove_core = X11 }
+            }
+            X12 = {
+                all_core = { add_core = NEA }
+                all_core = { remove_core = X12 }
+            }
+            X13 = {
+                all_core = { add_core = NEA }
+                all_core = { remove_core = X13 }
+            }
+            X14 = {
+                all_core = { add_core = NEA }
+                all_core = { remove_core = X14 }
+            }
+            X15 = {
+                all_core = { add_core = NEA }
+                all_core = { remove_core = X15 }
             }
         }
 

@@ -1901,7 +1901,7 @@ political_decisions = {
             98 = { trade_goods = iron }
             232 = { life_rating = 5 } #New York
             163 = { life_rating = 5 } #Chicago
-            173 = { life_rating = 5 } #Detroit
+            173 = { life_rating = 10 } #Detroit
             243 = { life_rating = 4 } #Boston
             223 = { life_rating = 5 } #Philadelphia
             139 = { life_rating = 5 } #New Orleans
