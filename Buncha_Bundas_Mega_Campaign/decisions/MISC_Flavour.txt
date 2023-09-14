@@ -166,7 +166,6 @@ political_decisions = {
     capital_liferating_gain = {
         picture = move_capital_to_moscow
         potential = {
-
             NOT = { has_country_flag = capital_liferating_gain }
         }
 
@@ -576,7 +575,7 @@ political_decisions = {
         }
 
         effect = {
-            country_event = 110193
+            country_event = { id = 110193 days = 2 }
         }
 
         ai_will_do = { factor = 5 }
