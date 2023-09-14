@@ -77,20 +77,14 @@ raw_material_goods = {
         color = { 123 110 86 }
     }
     oil = {
-        cost = 12.0
+        cost = 18.0
         color = { 0 0 0 }
     }
     precious_metal = {
-        cost = 8
+        cost = 20
         tradeable = no
         money = yes
         color = { 253 199 110 }
-    }
-    precious_goods = {
-        cost = 7
-        tradeable = no
-        money = yes
-        color = { 247 241 61 }
     }
 }
 
@@ -236,5 +230,11 @@ consumer_goods = {
         available_from_start = no
         overseas_penalty = yes
         color = { 129 63 6 }
+    }
+    precious_goods = {
+        cost = 18
+        tradeable = no
+        money = yes
+        color = { 247 241 61 }
     }
 }

@@ -183,7 +183,7 @@ synthetic_oil_factory = {
 
     production_type = synthetic_oil_factory
     pop_build_factory = yes
-    #strategic_factory = yes
+    strategic_factory = yes
 }
 
 fuel_refinery = {
@@ -204,7 +204,7 @@ fuel_refinery = {
 
     production_type = fuel_refinery
     pop_build_factory = yes
-    #strategic_factory = yes
+    strategic_factory = yes
 }
 
 ############# NAVAL FACTORIES

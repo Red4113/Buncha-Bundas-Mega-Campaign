@@ -3,6 +3,7 @@ political_decisions = {
     join_new_csa = {
         picture = reform_csa
         potential = {
+            always = no
             OR = {
                 tag = TEX
                 tag = UNM

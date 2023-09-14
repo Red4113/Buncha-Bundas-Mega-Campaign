@@ -291,6 +291,7 @@ province_event = {
         NOT = { is_core = CSA }
         NOT = { is_core = FSA }
         is_core = USA
+        always = no
         OR = {
             region = USA_129
             region = USA_126

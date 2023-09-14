@@ -3648,6 +3648,7 @@ province_event = {
             state_id = 96
             state_id = 104
             state_id = 126
+            always = no
         }
         owner = {
             tag = USA
