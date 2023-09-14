@@ -139,9 +139,12 @@ political_decisions = {
                 tag = NRI
             } 
             RHI = {
-                substate_of = THIS
+                OR= {
+                    substate_of = THIS
+                    vassal_of = THIS
+                } 
                 exists = yes
-                }
+            }
             NOT = { has_country_flag = rhineland_integrated }
         }
 
