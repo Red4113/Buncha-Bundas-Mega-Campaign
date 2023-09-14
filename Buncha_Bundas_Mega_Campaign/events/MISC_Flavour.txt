@@ -41,8 +41,6 @@ country_event = {
     trigger = {
         tag = USA
             war = no
-            idealism = 1
-            state_n_government = 1
             NOT = { truce_with = LOU }
             NOT = { war_policy = pacifism }
             NOT = { LOU = { any_owned_province = { country_units_in_province = USA } } }
