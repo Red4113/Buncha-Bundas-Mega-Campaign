@@ -167,8 +167,10 @@ political_decisions = {
         picture = move_capital_to_moscow
         potential = {
             NOT = { has_country_flag = capital_liferating_gain }
-            is_greater_power = yes
-            is_secondary_power = yes
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
         }
 
         allow = {
