@@ -638,30 +638,4 @@ political_decisions = {
         ai_will_do = { factor = 5 }
     }
 
-    annex_all = {
-        picture = starting_options
-        alert = no
-        potential = {
-            tag = NEA
-            ai = no
-            has_country_flag = country_looking_through_options
-            NOT = { year = 1837 }
-            NOT = { has_global_flag = you_are_playing_mp }
-        }
-
-        allow = {
-        }
-
-        effect = {
-            any_owned = {
-                secede_province = THIS
-            }
-            any_country = {
-                annex_to = THIS
-            }
-            any_land_province = { secede_province = THIS }
-        }
-        ai_will_do = { factor = 0 }
-    }
-
 }
