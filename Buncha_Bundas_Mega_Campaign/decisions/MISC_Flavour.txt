@@ -404,7 +404,6 @@ political_decisions = {
             tag = USA
             NOT = { has_global_flag = USA_buy_48th }
             NOT = { owns = 157 }
-            157 = { NOT = { is_core = THIS } }
             156 = { owned_by = THIS }
             155 = { owned_by = THIS }
             160 = { owned_by = THIS }
