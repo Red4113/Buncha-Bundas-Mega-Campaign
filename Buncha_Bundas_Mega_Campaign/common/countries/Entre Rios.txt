@@ -1,6 +1,6 @@
 graphical_culture = SouthAmericanGC
-color = { 37 169 105 }
-
+color = { 81 100 224 }
+democracy = { 36 53 163 }
 party = {
 	name = "ENT_conservative"
 	start_date = 1000.1.1

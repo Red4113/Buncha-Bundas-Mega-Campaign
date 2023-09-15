@@ -5,8 +5,8 @@ religion = norse_pagan_reformed
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.572686
-non_state_culture_literacy = 0.442
+literacy = 0.472686
+non_state_culture_literacy = 0.342
 
 civilized = yes
 

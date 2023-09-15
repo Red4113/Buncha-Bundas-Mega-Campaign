@@ -4,13 +4,23 @@ culture = zzz_religion_sunni
 religion = sunni
 government = democracy
 plurality = 0
-nationalvalue = nv_tradition
-literacy = 0.285909
+nationalvalue = nv_liberty
+literacy = 0.21
 
 civilized = yes
 
+# Political reforms
+slavery = no_slavery
+upper_house_composition = state_equal_weight
+vote_franschise = universal_voting
+public_meetings = yes_meeting
+press_rights = free_press
+trade_unions = all_trade_unions
+voting_system = first_past_the_post
+political_parties = gerrymandering
+
 # Social Reforms
-wage_reform = no_minimum_wage
+wage_reform = trinket_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
@@ -18,15 +28,13 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-# political reforms
-slavery=yes_slavery
-vote_franschise=wealth_voting
-upper_house_composition=state_equal_weight
-voting_system=jefferson_method
-public_meetings=yes_meeting
-press_rights=censored_press
-trade_unions=all_trade_unions
-political_parties=gerrymandering
+# New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
 
 ruling_party = ENT_liberal
 upper_house = 

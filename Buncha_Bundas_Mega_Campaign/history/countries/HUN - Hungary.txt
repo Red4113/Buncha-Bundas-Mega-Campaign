@@ -5,7 +5,7 @@ religion = tengri_pagan_reformed
 government = democracy
 plurality = 1
 nationalvalue = nv_equality
-literacy = 0.604357
+literacy = 0.204357
 
 civilized = yes
 

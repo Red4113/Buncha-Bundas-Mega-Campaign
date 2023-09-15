@@ -6,8 +6,8 @@ religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.547567
-non_state_culture_literacy = 0.39
+literacy = 0.537567
+non_state_culture_literacy = 0.35
 
 civilized = yes
 

@@ -5,7 +5,7 @@ religion = hussite
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.864214
+literacy = 0.764214
 
 civilized = yes
 

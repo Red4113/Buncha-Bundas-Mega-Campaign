@@ -7,7 +7,7 @@ government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.29209
-non_state_culture_literacy = 0.22424
+non_state_culture_literacy = 0.12424
 
 civilized = yes
 

@@ -4,8 +4,8 @@ culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
 plurality = 0
-nationalvalue = nv_tradition
-literacy = 0.532825
+nationalvalue = nv_liberty
+literacy = 0.332825
 
 civilized = yes
 
@@ -27,6 +27,14 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=gerrymandering
+
+# New Reforms
+conscription = two_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
 
 ruling_party = NEW_conservative
 upper_house = 
