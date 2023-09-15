@@ -184,7 +184,7 @@ political_decisions = {
             set_country_flag = capital_liferating_gain
         }
 
-        ai_will_do = { factor = 1 }
+        ai_will_do = { factor = 1000 }
     }
 
     rename_artois_FRA = {
@@ -601,6 +601,59 @@ political_decisions = {
                     is_vassal = yes
                 }
                 overlord = { country_event = 110197 }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    SWI_sell_lanka = {
+        picture = manifest_destiny
+        potential = {
+            tag = SWI
+            NOT = { has_global_flag = SWI_sell_lanka }    
+            any_owned_province = {
+                region = ENG_1321
+                controlled_by = THIS
+            }
+            OR = { 
+                NOT = { owns = 1321 }
+                NOT = { owns = 1322 } 
+                NOT = { owns = 1323 } 
+                NOT = { owns = 1324 }
+            }      
+        }
+
+        allow = {
+            NOT = { truce_with = ADU }
+            war = no
+        }
+
+        effect = {
+            set_global_flag = SWI_sell_lanka
+            random_country = {
+                limit = {
+                    OR = { 
+                        owns = 1322 
+                        owns = 1321 
+                        owns = 1323 
+                        owns = 1324
+                    } 
+                    is_vassal = no 
+                }
+                country_event = 110201
+            }
+            random_country = {
+                limit = {
+                    OR = { 
+                        owns = 1322 
+                        owns = 1321 
+                        owns = 1323 
+                        owns = 1324
+                    } 
+                    is_vassal = yes
+                }
+                overlord = { country_event = 110201 }
             }
         }
 

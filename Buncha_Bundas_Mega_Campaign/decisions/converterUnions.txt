@@ -135,6 +135,89 @@ political_decisions = {
 		}
 	}
 
+	form_alpine = {
+		picture = adopt_die_stem
+		potential = {
+			tag = SWI
+		}
+
+		allow = {
+			NOT = { exists = ALP }
+			ALP = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								is_greater_power = no
+							}
+						}
+					}
+				}
+			}
+			SWI = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								is_greater_power = no
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			all_core = {
+				limit = {
+					owned_by = THIS
+				}
+				remove_core = THIS 
+				add_core = ALP
+			}
+			change_tag = ALP
+			add_accepted_culture = south_german
+			add_accepted_culture = north_italian
+			ALP = {
+			    all_core = {
+			    	add_core = ALP
+			    }
+			}
+			SWI = {
+			    all_core = {
+			    	add_core = ALP
+			    }
+			}
+			SAR_466 = { add_core = ALP }
+			AUS_734 = { add_core = ALP }
+			454 = { add_core = ALP }
+			469 = { add_core = ALP }
+			8 = { add_core = ALP }
+			618 = { add_core = ALP }
+			2669 = { add_core = ALP }
+			617 = { add_core = ALP }
+			614 = { add_core = ALP }
+			721 = { add_core = ALP }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	taiping_and_csa = { #creates Taiping and the CSA to prevent bugs in converted games, corrects cultures
 		picture = adopt_die_stem
 		potential = {
@@ -2920,9 +3003,8 @@ political_decisions = {
 		potential = {
 			is_greater_power = yes
 			OR = {
-				tag = PLC
-				tag = POL
 				tag = CZH
+				tag = BOH
 			}
 			NOT = {
 				exists = WSF
@@ -2930,8 +3012,11 @@ political_decisions = {
 		}	
 		allow = {
 			war = no
-			nationalism_n_imperialism = 1
-			PLC = {
+			revolution_n_counterrevolution = 1
+			OR = {
+				tag = CZH
+			}
+			POL = {
 				all_core = {
 					OR = {
 						OR = {
@@ -2967,6 +3052,44 @@ political_decisions = {
 					}
 				}
 			}
+            SLO = {
+                all_core = {
+                    OR = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    is_vassal = yes
+                                }
+                                war = no
+                                is_mobilised = no
+                                is_greater_power = no
+                            }
+                        }
+                        NOT = { culture = slovene }
+                    }
+                }
+            }
+            PZN = {
+                all_core = {
+                    OR = {
+                        OR = {
+                            owned_by = THIS
+                            owner = {
+                                OR = {
+                                    in_sphere = THIS
+                                    is_vassal = yes
+                                }
+                                war = no
+                                is_mobilised = no
+                                is_greater_power = no
+                            }
+                        }
+                        NOT = { culture = slovene }
+                    }
+                }
+            }
 		}
 		
 		effect = {
@@ -2984,6 +3107,11 @@ political_decisions = {
 				}
 				add_core = WSF
 			}
+			add_accepted_culture = slovene
+			add_accepted_culture = oldpommeranian
+			add_accepted_culture = western_slavic
+            add_accepted_culture = polish
+            add_accepted_culture = ukrainian
 			all_core = { remove_core = THIS }
 			change_tag = WSF
 			any_country = {
@@ -2991,8 +3119,11 @@ political_decisions = {
 					ai = yes
 					OR = {
 						primary_culture = polish
+						primary_culture = slovene
+						primary_culture = ukrainian
 						primary_culture = czech
 						primary_culture = slovak
+						primary_culture = oldpommeranian
 					}
 					in_sphere = THIS
 					NOT = {
@@ -3004,7 +3135,8 @@ political_decisions = {
 						vassal_of = THIS
 					}
 				}
-				annex_to = THIS
+				all_core = { add_core = WSF }
+				annex_to = WSF
 			}
 		}
 		ai_will_do = {

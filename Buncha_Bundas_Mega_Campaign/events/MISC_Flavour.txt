@@ -313,6 +313,112 @@ country_event = {
     }  
 }
 
+# SWI_sell_lanka - Offer
+country_event = {
+    id = 110201
+    title = "$FROMCOUNTRY$ Offers to Sell Swiss Lanka"
+    desc = "The Swiss government has offered to sell us Swiss Lanka!"
+    picture = "Demonstration"
+
+    is_triggered_only = yes
+
+
+    fire_only_once = yes
+
+    option = {
+        name = "Perfect" #We will get it!
+        SWI = {
+            country_event = 110202
+        }
+            random_owned = {
+                limit = {
+                    owner = {
+                        NOT = { money = 100000 }
+                        check_variable = { which = owed_cash_money value = 9 }
+                    }
+                }
+                owner = { change_variable = { which = owed_cash_money value = 100 } }
+            }
+            random_owned = {
+                limit = {
+                    owner = {
+                        NOT = { money = 100000 }
+                        NOT = { check_variable = { which = owed_cash_money value = 1 } }
+                    }
+                }
+                owner = { set_variable = { which = owed_cash_money value = 100 } }
+            }
+            random_owned = {
+                limit = { owner = { money = 100000 } }
+                owner = { treasury = -100000 }
+            }
+        ai_chance = { 
+            factor = 50
+        }
+    }
+    option = {
+        name = "No, we're good!" #We decline!
+        SWI = {
+            country_event = 110203
+        }
+        ai_chance = { 
+            factor = 50
+        }
+    }  
+}
+
+# SWI_sell_lanka - Accepted
+country_event = {
+    id = 110202
+    title = "$FROMCOUNTRY$ Agrees to Buy Swiss Lanka"
+    desc = "The Swiss Government has sold Swiss Lanka because they could not control it."
+    picture = "Demonstration"
+
+    is_triggered_only = yes
+
+    major = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "Perfect" #We will get it!
+        any_owned = {
+            limit = { region = ENG_1321 }
+            secede_province = FROM
+        }
+        money = 100000
+        prestige = 20
+    } 
+}
+
+# SWI_sell_lanka - Declined
+country_event = {
+    id = 110203
+    title = "$FROMCOUNTRY$ Declines to Buy Swiss Lanka"
+    desc = "They have declined our offer, what should we do next?"
+    picture = "Demonstration"
+
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "Keep it for ourselves" #Trash
+    }
+    option = {
+        name = "Offer it to the Romans" #Offer
+        SPQ = {
+            country_event = 110201
+        }
+    }  
+    option = {
+        name = "Offer it to the Dual Monarchy" #offer
+        DUA = {
+            country_event = 110201
+        }
+    }
+}
+
 # DM Path Choice
 country_event = {
     id = 110193

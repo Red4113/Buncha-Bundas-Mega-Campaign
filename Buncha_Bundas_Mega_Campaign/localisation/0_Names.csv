@@ -961,8 +961,6 @@ WRI;Warri;Ouarri;Warri;Warri;Warri;Warri;Warri;Warri;Warri;Warri;Warri;Âàğğè;War
 WRI_ADJ;Warri;d'Ouarri;Warri-;Warri;de Warri;di Warri;Warri;Warri;Warri;Warri;de Warri;âàğğèéñê;Warri;x
 WRS_presidential_dictatorship;Somaliland;Somaliland;Somaliland;Somaliland;Somalilandia;Somaliland;Somaliland;Somaliland;Somaliland;Somaliland;Somalilândia;Ñîìàëèëåíä;Somaliland;x
 WRS_presidential_dictatorship_ADJ;Somaliland;Somalilandais;Somalilandisch;somalilandzk;Somalilandesa;del Somaliland;Somaliland;Somaliland;Somaliland;Somaliland;Somalilandês;ñîìàëèëåíäñê;Somaliland;x
-WSF;Zapadoslavia;Zapadoslavie;Sapadoslawien;Zachodnios³awia;Zapadoslavia;Zapadoslavia;Zapadoslavia;Zapadoslavie;Zapadoslavia;Zapadoslavia;A Zapadoslávia;Çàïàäíîñëàâèÿ;Zapadoslavia;x
-WSF_ADJ;West Slavic;Slave Occidental;Westslawisch;zachodnios³owiañsk;Zapadoslava;Slava Occidentale;Nyugat-szláv;Západoslovanskı;Nyugat-szláv;West Slavic;Zapadoslava;çàïàäíîñëàâÿíñê;West Slavic;x
 WSH;Western Sahara;Sahara Occidental;Westsahara;Sahara Zachodnia;Sahara Occidental;Sahara Occidentale;nyugat-Szahara;západní Sahara;nyugat-Szahara;Westelijke Sahara;Saara Ocidental;Çàïàäíàÿ Ñàõàğà;Länsi-Sahara;x
 WSH_ADJ;Western Saharan;Sahraoui;Westsaharisch;zachodniosaharyjsk;Saharaui;Sahariana Occidentale;Nyugat-szaharai;Západní saharskı;Nyugat-szaharai;Westelijke Sahara;Saaráui;çàïàäíîñàõàğñê;Länsi-Saharan;x
 WSI;The West Indies;Antilles;Die Westindische Inseln;Zachodnie Indie;Las Indias Occidentales;Le Indie Occidentali;Nyugat-India;Západní Indie;Nyugat-India;West Indië;As Índias Ocidentais;Çàïàäíûå Èíäèè;Länsi-Intia;x
@@ -2640,3 +2638,17 @@ capital_liferating_gain_title;Expand our Capital;;;;;;;;;;;;;
 capital_liferating_gain_desc;Expand our Capital;;;;;;;;;;;;;
 USA_buy_48th_title;Buy Minnesota and North Dakota;;;;;;;;;;;;;
 USA_buy_48th_desc;Buy Minnesota and North Dakota;;;;;;;;;;;;;
+WSF;Slovanskazeme;;;;;;;;;;;;;
+WSF_ADJ;Slovansky;;;;;;;;;;;;;
+WSF_absolute_monarchy;Kralovstvi Slovanskazeme;;;;;;;;;;;;;
+WSF_democracy;Republika Slovanskazeme;;;;;;;;;;;;;
+WSF_hms_government;Kralovstvi Slovanskazeme;;;;;;;;;;;;;
+WSF_prussian_constitutionalism;Kralovstvi Slovanskazeme;;;;;;;;;;;;;
+WSF_fascist_dictatorship;Stav Slovanskazeme;;;;;;;;;;;;;
+WSF_bourgeois_dictatorship;Stav Slovanskazeme;;;;;;;;;;;;;
+WSF_proletarian_dictatorship;The Z.F.S.S;;;;;;;;;;;;;
+WSF_presidential_dictatorship;Stav Slovanskazeme;;;;;;;;;;;;;
+form_alpine_title;Form the Alpine Federation;;;;;;;;;;;;;
+form_alpine_desc;Nestled in a diverse landscape of mountains, plains, and coastlines, this nation has defied the odds by unifying its distinct regions. Its inhabitants, hailing from various cultural backgrounds and traditions, have forged a unique blend of unity and diversity. A transparent and inclusive governance system ensures equal representation for all, while a strong commitment to education, welfare, and sustainable prosperity underpins its social fabric. This nation has become a symbol of hope, showcasing that unity can indeed triumph over division, and diverse perspectives can harmoniously coexist to create a better future.;;;;;;;;;;;;;
+SWI_sell_lanka_title;Sale of Swiss Lanka;;;;;;;;;;;;;
+SWI_sell_lanka_desc;In a desperate bid to address its severe financial crisis, Switzerland has decided to sell a portion of its territory to a neighboring country. This unprecedented move involves the transfer of fertile agricultural land and valuable resources in exchange for a substantial financial bailout. While this decision aims to stabilize the nation's economy, it raises concerns about the long-term consequences for cultural identity and territorial sovereignty.;;;;;;;;;;;;;

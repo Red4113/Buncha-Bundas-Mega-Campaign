@@ -327,25 +327,6 @@ political_decisions = {
                     }
                 }
             }
-            SLO = {
-                all_core = {
-                    OR = {
-                        OR = {
-                            owned_by = THIS
-                            owner = {
-                                OR = {
-                                    in_sphere = THIS
-                                    is_vassal = yes
-                                }
-                                war = no
-                                is_mobilised = no
-                                is_greater_power = no
-                            }
-                        }
-                        NOT = { culture = slovene }
-                    }
-                }
-            }
         }
 
         effect = {
@@ -358,7 +339,6 @@ political_decisions = {
                         exists = no
                         OR = {
                             primary_culture = south_german
-                            primary_culture = slovene
                         }
                         has_country_flag = wants_to_unify
                         NOT = { has_country_flag = post_colonial_country }
@@ -379,15 +359,10 @@ political_decisions = {
                 remove_core = CZE
             }
             change_tag = CZH
-            add_accepted_culture = slovene
-            add_accepted_culture = wend
-            add_accepted_culture = north_german
+            add_accepted_culture = south_german
             any_country = {
                 limit = {
-                OR = {
                     primary_culture = south_german
-                    primary_culture = slovene
-                }
                     in_sphere = THIS
                     NOT = {
                         has_country_flag = post_colonial_country

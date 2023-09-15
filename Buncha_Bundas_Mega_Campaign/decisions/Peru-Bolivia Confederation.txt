@@ -343,6 +343,7 @@ political_decisions = {
     the_new_pbc = {
         picture = peru_bolivia
         potential = {
+            always = no
             OR = {
                 tag = PEU
                 tag = SPU

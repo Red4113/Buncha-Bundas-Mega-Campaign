@@ -1,6 +1,7 @@
 owner=SLO
 controller=SLO
 add_core=SLO
+add_core=WSF
 add_core=YUG
 trade_goods = iron
 life_rating = 35
