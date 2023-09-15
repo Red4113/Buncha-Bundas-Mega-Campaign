@@ -419,6 +419,24 @@ country_event = {
     }
 }
 
+# Nicolas Cage
+country_event = {
+    id = 110204
+    title = "I'm gonna steal the Declaration of Independence."
+    desc = "I'm gonna steal the Declaration of Independence."
+    picture = "national_treasure_event"
+
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "I am Ben Gates!" #Trash
+        prestige = 10
+    }
+}
+
+
 # DM Path Choice
 country_event = {
     id = 110193

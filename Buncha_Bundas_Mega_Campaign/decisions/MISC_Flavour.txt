@@ -132,6 +132,53 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    open_library_of_ashurbanipal = {
+        picture = build_the_tower_of_babylon
+        potential = {
+            tag = ASY
+            owns = 923 #Nineveh
+            NOT = { has_country_flag = ashurbanipal_opened }
+        }
+
+        allow = {
+            is_greater_power = yes
+            empiricism = 1
+        }
+
+        effect = {
+            set_country_flag = ashurbanipal_opened
+            random_list = {
+                34 = { add_country_modifier = { name = total_reform duration = 1825 } }
+                33 = { add_country_modifier = { name = total_reform duration = 3650 } }
+                33 = { add_country_modifier = { name = total_reform duration = 7300 } }
+            }
+            prestige = 25
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    national_treasure = {
+        picture = national_treasure
+        potential = {
+            tag = TEX
+            NOT = { has_country_flag = doi_stolen }
+        }
+
+        allow = {
+            owns = 2146 #Washington
+        }
+
+        effect = {
+            set_country_flag = doi_stolen
+            add_country_modifier = { name = total_reform duration = 1825 }
+            prestige = 50
+            country_event = 110204
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     rename_artois_NET = {
         picture = NET_claim_artois
         potential = {
@@ -179,7 +226,28 @@ political_decisions = {
 
         effect = {
             prestige = 5
-            treasury = -10000000
+            random_owned = {
+                limit = {
+                    owner = {
+                        NOT = { money = 10000000 }
+                        check_variable = { which = owed_cash_money value = 9 }
+                    }
+                }
+                owner = { change_variable = { which = owed_cash_money value = 10000 } }
+            }
+            random_owned = {
+                limit = {
+                    owner = {
+                        NOT = { money = 10000000 }
+                        NOT = { check_variable = { which = owed_cash_money value = 1 } }
+                    }
+                }
+                owner = { set_variable = { which = owed_cash_money value = 10000 } }
+            }
+            random_owned = {
+                limit = { owner = { money = 10000000 } }
+                owner = { treasury = -10000000 }
+            }
             capital_scope = { life_rating = 10 }
             set_country_flag = capital_liferating_gain
         }

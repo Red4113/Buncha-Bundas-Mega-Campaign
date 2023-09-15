@@ -1,7 +1,6 @@
 capital = 2316
-primary_culture = platinean
+primary_culture = south_andean
 culture = north_andean
-culture = south_andean
 culture = zzz_religion_sunni
 religion = sunni
 government = democracy

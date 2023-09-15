@@ -63,6 +63,10 @@ country_event = {
                 factor = 0.5
                 nationalvalue = nv_tradition
             }
+            modifier = {
+                factor = 1000
+                tag = CSH
+            }
         }
     }
     option = {

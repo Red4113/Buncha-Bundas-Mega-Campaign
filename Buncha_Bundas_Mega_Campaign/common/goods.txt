@@ -81,13 +81,13 @@ raw_material_goods = {
         color = { 0 0 0 }
     }
     precious_metal = {
-        cost = 20
+        cost = 25
         tradeable = no
         money = yes
         color = { 253 199 110 }
     }
     precious_goods = {
-        cost = 18
+        cost = 23
         tradeable = no
         money = yes
         color = { 247 241 61 }
