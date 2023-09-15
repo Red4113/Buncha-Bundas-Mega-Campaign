@@ -2000,4 +2000,10 @@ integrate_rhineland_desc;The Rhenish nation has been our vassal for far too long
 integrate_anatolians_title;Integrate the Greek Anatolians;;;;;;;;;;;;;
 integrate_anatolians_desc;The Greek nations of Anatolia have been under our influence for far too long, it is time that we fully incorporate them into the Chersonese nation.;;;;;;;;;;;;;
 accept_anatolians_title;Accept the Greek People;;;;;;;;;;;;;
-accept_anatolians_desc;The Greek People have been under our banner for far too long, it is time that we fully accept them into the Chersonese nation.;;;;;;;;;;;;;
+accept_anatolians_desc;The Greek People have been under our banner for far too long, it is time that we fully accept them into the nation.;;;;;;;;;;;;;
+accept_laessin_title;Accept the Laessin People;;;;;;;;;;;;;
+accept_laessin_desc;The Laessin People have been under our banner for far too long, it is time that we fully accept them into the nation.;;;;;;;;;;;;;
+integrate_thessaloniki_title;Integrate Thessaloniki;;;;;;;;;;;;;
+integrate_thessaloniki_desc;Thessaloniki has been under our influence for far too long, it is time that we fully incorporate them into the Roman nation.;;;;;;;;;;;;;
+integrate_serbia_title;Integrate Serbia;;;;;;;;;;;;;
+integrate_serbia_desc;Serbia has been under our influence for far too long, it is time that we fully incorporate them into the Roman nation.;;;;;;;;;;;;;

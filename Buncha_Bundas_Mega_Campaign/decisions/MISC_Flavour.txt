@@ -264,19 +264,39 @@ political_decisions = {
             tag = NEA
             OR = {
                 X11 = {
-                    in_sphere = NEA
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        in_sphere = THIS
+                    }
                 }
                 X12 = {
-                    in_sphere = NEA
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        in_sphere = THIS
+                    }
                 }
                 X13 = {
-                    in_sphere = NEA
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        in_sphere = THIS
+                    }
                 }
                 X14 = {
-                    in_sphere = NEA
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        in_sphere = THIS
+                    }
                 }
                 X15 = {
-                    in_sphere = NEA
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        in_sphere = THIS
+                    }
                 }
             }
             NOT = { has_global_flag = greeks_annexed }
@@ -373,12 +393,113 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    integrate_thessaloniki = {
+        picture = form_union_nation
+        potential = {
+            tag = SPQ
+            X16 = {
+                OR = {
+                    vassal_of = THIS
+                    substate_of = THIS
+                    in_sphere = THIS
+                }
+            }
+            NOT = { has_global_flag = thessaloniki_annexed }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = thessaloniki_annexed
+            random_country = {
+                limit = {
+                    tag = X16
+                    ai = yes
+                    OR = {  
+                        OR = {
+                            part_of_sphere = no
+                            in_sphere = SPQ
+                        }
+                        OR = {
+                            vassal_of = THIS
+                            substate_of = THIS
+                        }
+                    }
+                }
+                annex_to = SPQ
+            }
+            X16 = {
+                all_core = { add_core = SPQ }
+                all_core = { add_core = GRE }
+                all_core = { remove_core = X16 }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    integrate_serbia = {
+        picture = establish_la_guardia_civil
+        potential = {
+            tag = SPQ
+            SER = {
+                OR = {
+                    vassal_of = THIS
+                    substate_of = THIS
+                    in_sphere = THIS
+                }
+            }
+            NOT = { has_global_flag = serbia_annexed }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = serbia_annexed
+            random_country = {
+                limit = {
+                    tag = SER
+                    ai = yes
+                    OR = {  
+                        OR = {
+                            part_of_sphere = no
+                            in_sphere = SPQ
+                        }
+                        OR = {
+                            vassal_of = THIS
+                            substate_of = THIS
+                        }
+                    }
+                }
+                annex_to = SPQ
+            }
+            SER = {
+                all_core = { add_core = SPQ }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     accept_anatolians = {
         picture = form_union_nation
         potential = {
             tag = NEA
-            NOT = { has_global_flag = accepted_greeks }
-            nationalism_n_imperialism = 1
+            NOT = { has_country_flag = accepted_greeks }
         }
 
         allow = {
@@ -391,8 +512,39 @@ political_decisions = {
 
         effect = {
             prestige = 5
-            set_global_flag = accepted_greeks
+            set_country_flag = accepted_greeks
             add_accepted_culture = greek
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    accept_laessin = {
+        picture = form_union_nation
+        potential = {
+            tag = SPQ
+            NOT = { has_country_flag = accepted_laessin }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            revolution_n_counterrevolution = 1
+            electricity = 1
+            social_science = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_country_flag = accepted_laessin
+            add_accepted_culture = laessin
+            random_list = {
+                34 = { add_country_modifier = { name = global_baby_boom duration = 1825 } }
+                33 = { add_country_modifier = { name = global_baby_boom duration = 3650 } }
+                33 = { add_country_modifier = { name = global_baby_boom duration = 730 } }
+            }
         }
 
         ai_will_do = { factor = 1 }
