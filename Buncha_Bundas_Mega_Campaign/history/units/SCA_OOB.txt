@@ -802,6 +802,51 @@ navy = {
 
 navy = {
 	name="Trans"
+	location=1423
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Trans"
 	location=368
 	ship = {
 		name="3rd Bela Clipper Transport"
@@ -1994,6 +2039,21 @@ navy = {
 army = {
 	name="11th Army"
 	location=1297
+	regiment = {
+		name="1st Bombay Infantry"
+		type=infantry
+		home=1297
+	}
+	regiment = {
+		name="2nd Bombay Infantry"
+		type=infantry
+		home=1297
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1423
 	regiment = {
 		name="1st Bombay Infantry"
 		type=infantry
