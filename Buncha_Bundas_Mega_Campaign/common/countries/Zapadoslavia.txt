@@ -1,5 +1,5 @@
 graphical_culture = RussianGC
-color = { 115 36 77 }
+color = { 18 54 140 }
 
 party = {
 	name = "PLC_conservative"
