@@ -2369,3 +2369,24 @@ country_event = {
         ai_chance = { factor = 0 }
     }
 }
+
+country_event = {
+    id = 110205
+    title = "EVTNAME2651" #Territory Lost
+    desc = "EVTDESC2651"
+    picture = "war_ended"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT2650OPTA"
+        THIS = { any_owned = { limit = { OR = {
+                is_culture_group = east_slavic
+                is_culture_group = south_slavic
+                is_culture_group = polish_culture_group
+            } }
+            secede_province = FROM
+            add_core = FROM
+        } }
+    }
+}

@@ -54,6 +54,7 @@
 
 # Order that CBs are executed in a peace treaty
 peace_order = {
+unify_slavs
 treaty_port_casus_belli
 war_reparations
 become_independent
@@ -212,6 +213,70 @@ louisiana_usa_war = {
         THIS = { country_event = 18482273 }
         add_country_modifier = { name = recently_lost_war duration = 1825 }
     }
+}
+
+# Unification Demand State
+unify_slavs = {
+    sprite_index = 22
+    is_triggered_only = no
+    months = 12
+    construction_speed = 1
+    crisis = no
+
+    badboy_factor = 1.5
+    prestige_factor = 1
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 48
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    can_use = {
+        is_independant = yes
+        NOT = { is_our_vassal = THIS }
+        THIS = {
+            tag = WSF
+        }
+        OR = {
+            is_culture_group = east_slavic
+            is_culture_group = south_slavic
+            is_culture_group = polish_culture_group
+        }
+        is_greater_power = no
+        any_owned_province = {
+            any_core = {
+                OR = {
+                    is_culture_group = east_slavic
+                    is_culture_group = south_slavic
+                    is_culture_group = polish_culture_group
+                }
+            }
+        }
+    }
+
+    po_annex = yes
+
+    war_name = WAR_UNIFICATION_NAME
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.1
+        }
+    }
+
+    on_po_accepted = {
+        country_event = 110205
+        add_country_modifier = { name = recently_lost_war duration = 1825 }
+    }
+
 }
 
 # Great War CB's
