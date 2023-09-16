@@ -362,521 +362,6 @@ leader = {
 
 
 #Armies
-army = {
-	name="4th Army"
-	location=1748
-	regiment = {
-		name="1st Kut Infantry"
-		type=infantry
-		home=930
-	}
-	regiment = {
-		name="1st Rutbah Infantry"
-		type=infantry
-		home=931
-	}
-	regiment = {
-		name="1st Suez Artillery"
-		type=artillery
-		home=1755
-	}
-	regiment = {
-		name="1st Dumyat Artillery"
-		type=artillery
-		home=1746
-	}
-	regiment = {
-		name="2nd Rutbah Infantry"
-		type=infantry
-		home=931
-	}
-	regiment = {
-		name="2nd Suez Artillery"
-		type=artillery
-		home=1755
-	}
-}
-
-army = {
-	name="Army of Babylon"
-	location=1751
-	regiment = {
-		name="1st Ilam Infantry"
-		type=infantry
-		home=1119
-	}
-	regiment = {
-		name="1st Ahvaz Infantry"
-		type=infantry
-		home=1131
-	}
-	regiment = {
-		name="1st Dehkord Artillery"
-		type=artillery
-		home=1134
-	}
-	regiment = {
-		name="2nd Dehkord Artillery"
-		type=artillery
-		home=1134
-	}
-	regiment = {
-		name="1st Sulaymania Infantry"
-		type=infantry
-		home=925
-	}
-	regiment = {
-		name="3rd Dehkord Artillery"
-		type=artillery
-		home=1134
-	}
-}
-
-army = {
-	name="Army of Cairo"
-	location=1765
-	regiment = {
-		name="1st Tanta Infantry"
-		type=infantry
-		home=1747
-	}
-	regiment = {
-		name="1st Gaza Infantry"
-		type=infantry
-		home=920
-	}
-	regiment = {
-		name="1st Latakia Artillery"
-		type=artillery
-		home=905
-	}
-	regiment = {
-		name="1st Jeddah Artillery"
-		type=artillery
-		home=1152
-	}
-	regiment = {
-		name="3rd Dumyat Infantry"
-		type=infantry
-		home=1746
-	}
-	regiment = {
-		name="2nd As-Suwayda Artillery"
-		type=artillery
-		home=906
-	}
-}
-
-army = {
-	name="Army of Atfih"
-	location=1763
-	regiment = {
-		name="1st Suhaj Infantry"
-		type=infantry
-		home=2559
-	}
-	regiment = {
-		name="1st Bawiti Infantry"
-		type=infantry
-		home=1759
-	}
-	regiment = {
-		name="1st Medina Artillery"
-		type=artillery
-		home=1153
-	}
-	regiment = {
-		name="1st Amman Artillery"
-		type=artillery
-		home=908
-	}
-	regiment = {
-		name="2nd Cairo Infantry"
-		type=infantry
-		home=1745
-	}
-	regiment = {
-		name="3rd Amman Artillery"
-		type=artillery
-		home=908
-	}
-}
-
-army = {
-	name="Army of Minya"
-	location=1767
-	regiment = {
-		name="1st Cairo Infantry"
-		type=infantry
-		home=1745
-	}
-	regiment = {
-		name="1st Bani Suwayf Infantry"
-		type=infantry
-		home=1763
-	}
-	regiment = {
-		name="1st Beirut Artillery"
-		type=artillery
-		home=913
-	}
-	regiment = {
-		name="1st Tabuk Artillery"
-		type=artillery
-		home=1154
-	}
-	regiment = {
-		name="6th Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="3rd Damascus Artillery"
-		type=artillery
-		home=902
-	}
-}
-
-army = {
-	name="Army of Manfalut"
-	location=1749
-	regiment = {
-		name="1st Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="1st Qusayr Infantry"
-		type=infantry
-		home=1770
-	}
-	regiment = {
-		name="1st Ma'an Artillery"
-		type=artillery
-		home=911
-	}
-	regiment = {
-		name="1st Azraq Artillery"
-		type=artillery
-		home=910
-	}
-	regiment = {
-		name="1st Giza Infantry"
-		type=infantry
-		home=1750
-	}
-	regiment = {
-		name="1st Baalbeck Artillery"
-		type=artillery
-		home=912
-	}
-}
-
-army = {
-	name="Army of Girga"
-	location=1746
-	regiment = {
-		name="1st Sharm al-Shaykh Infantry"
-		type=infantry
-		home=1757
-	}
-	regiment = {
-		name="1st Ras Gharib Infantry"
-		type=infantry
-		home=1772
-	}
-	regiment = {
-		name="2nd Medina Artillery"
-		type=artillery
-		home=1153
-	}
-	regiment = {
-		name="1st As-Suwayda Artillery"
-		type=artillery
-		home=906
-	}
-	regiment = {
-		name="3rd Bawiti Infantry"
-		type=infantry
-		home=1759
-	}
-	regiment = {
-		name="1st Jerash Artillery"
-		type=artillery
-		home=909
-	}
-}
-
-army = {
-	name="Army of Qus"
-	location=1762
-	regiment = {
-		name="2nd Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="2nd Bani Suwayf Infantry"
-		type=infantry
-		home=1763
-	}
-	regiment = {
-		name="1st Alexandria Artillery"
-		type=artillery
-		home=1751
-	}
-	regiment = {
-		name="2nd Ma'an Artillery"
-		type=artillery
-		home=911
-	}
-	regiment = {
-		name="4th Bawiti Infantry"
-		type=infantry
-		home=1759
-	}
-	regiment = {
-		name="5th Medina Artillery"
-		type=artillery
-		home=1153
-	}
-}
-
-army = {
-	name="Army of Bardiyah"
-	location=2559
-	regiment = {
-		name="1st Alexandria Infantry"
-		type=infantry
-		home=1751
-	}
-	regiment = {
-		name="1st Mansura Infantry"
-		type=infantry
-		home=1748
-	}
-	regiment = {
-		name="2nd Tabuk Artillery"
-		type=artillery
-		home=1154
-	}
-	regiment = {
-		name="1st Idfu Artillery"
-		type=artillery
-		home=1768
-	}
-	regiment = {
-		name="2nd Tanta Infantry"
-		type=infantry
-		home=1747
-	}
-	regiment = {
-		name="1st Beersheba Artillery"
-		type=artillery
-		home=921
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=1755
-	regiment = {
-		name="3rd Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="2nd Ras Gharib Infantry"
-		type=infantry
-		home=1772
-	}
-	regiment = {
-		name="1st Jerusalem Artillery"
-		type=artillery
-		home=917
-	}
-	regiment = {
-		name="3rd Medina Artillery"
-		type=artillery
-		home=1153
-	}
-	regiment = {
-		name="7th Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="1st Tobruk Artillery"
-		type=artillery
-		home=1737
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1750
-	regiment = {
-		name="1st Aqaba Infantry"
-		type=infantry
-		home=922
-	}
-	regiment = {
-		name="4th Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="2nd Amman Artillery"
-		type=artillery
-		home=908
-	}
-	regiment = {
-		name="1st Damascus Artillery"
-		type=artillery
-		home=902
-	}
-	regiment = {
-		name="2nd Qusayr Infantry"
-		type=infantry
-		home=1770
-	}
-	regiment = {
-		name="2nd Dumyat Artillery"
-		type=artillery
-		home=1746
-	}
-}
-
-army = {
-	name="Army of Sharqiya"
-	location=1768
-	regiment = {
-		name="1st Dumyat Infantry"
-		type=infantry
-		home=1746
-	}
-	regiment = {
-		name="2nd Dumyat Infantry"
-		type=infantry
-		home=1746
-	}
-	regiment = {
-		name="2nd Jeddah Artillery"
-		type=artillery
-		home=1152
-	}
-	regiment = {
-		name="3rd Ma'an Artillery"
-		type=artillery
-		home=911
-	}
-	regiment = {
-		name="4th Dumyat Infantry"
-		type=infantry
-		home=1746
-	}
-	regiment = {
-		name="2nd Jerash Artillery"
-		type=artillery
-		home=909
-	}
-}
-
-army = {
-	name="Army of Damietta"
-	location=1769
-	regiment = {
-		name="2nd Bawiti Infantry"
-		type=infantry
-		home=1759
-	}
-	regiment = {
-		name="1st Acre Infantry"
-		type=infantry
-		home=916
-	}
-	regiment = {
-		name="4th Ma'an Artillery"
-		type=artillery
-		home=911
-	}
-	regiment = {
-		name="2nd Damascus Artillery"
-		type=artillery
-		home=902
-	}
-	regiment = {
-		name="2nd Giza Infantry"
-		type=infantry
-		home=1750
-	}
-	regiment = {
-		name="1st Kaf Artillery"
-		type=artillery
-		home=1156
-	}
-}
-
-army = {
-	name="Army of Rosetta"
-	location=1746
-	regiment = {
-		name="2nd Alexandria Infantry"
-		type=infantry
-		home=1751
-	}
-	regiment = {
-		name="1st Asyut Infantry"
-		type=infantry
-		home=1762
-	}
-	regiment = {
-		name="1st Mecca Artillery"
-		type=artillery
-		home=1151
-	}
-	regiment = {
-		name="2nd Mecca Artillery"
-		type=artillery
-		home=1151
-	}
-	regiment = {
-		name="1st Al Arish Infantry"
-		type=infantry
-		home=1756
-	}
-	regiment = {
-		name="1st Sidon Artillery"
-		type=artillery
-		home=915
-	}
-}
-
-army = {
-	name="1st Army"
-	location=1764
-	regiment = {
-		name="5th Suez Infantry"
-		type=infantry
-		home=1755
-	}
-	regiment = {
-		name="3rd Ras Gharib Infantry"
-		type=infantry
-		home=1772
-	}
-	regiment = {
-		name="4th Medina Artillery"
-		type=artillery
-		home=1153
-	}
-	regiment = {
-		name="1st Matruh Artillery"
-		type=artillery
-		home=1752
-	}
-}
-
 navy = {
 	name="7th Fleet"
 	location=2767
@@ -1065,29 +550,311 @@ navy = {
 		type=frigate
 	}
 }
-
 army = {
-	name="Army of Suez"
-	location=1755
+	name="Army"
+	location=926
 	regiment = {
-		name="2nd Mansura Infantry"
+		name="Infantry"
 		type=infantry
-		home=1748
 	}
 	regiment = {
-		name="1st Tabuk Infantry"
+		name="Infantry"
 		type=infantry
-		home=1154
 	}
 	regiment = {
-		name="2nd Alexandria Artillery"
-		type=artillery
-		home=1751
+		name="Infantry"
+		type=infantry
 	}
 	regiment = {
-		name="3rd Mecca Artillery"
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
 		type=artillery
-		home=1151
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
 	}
 }
-
+army = {
+	name="Army"
+	location=932
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=917
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=1745
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=1751
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=913
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}
+army = {
+	name="Army"
+	location=1746
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Infantry"
+		type=infantry
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Artillery"
+		type=artillery
+	}
+	regiment = {
+		name="Hussar"
+		type=hussar
+	}
+}

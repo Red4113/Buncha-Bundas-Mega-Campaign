@@ -162,6 +162,49 @@ country_event = {
     }
 }
 
+# The CAL-TEX War - Peace Deal
+country_event = {
+    id = 18482274
+    title = "The Peace Treaty of Austin"
+    desc = "We have defeated the Seohae Nation and can take what we will"
+    picture = "Demonstration"
+
+    is_triggered_only = yes
+
+    fire_only_once = yes
+
+    option = {
+        name = "Take enough to not anger the world. §RGain 20 infamy§W" #Take as much as possible
+        badboy = 20
+            CAL = { any_owned = { limit = { OR = {
+                region = MEX_85
+                region = MEX_94
+                region = MEX_97
+                region = USA_106
+                region = USA_111
+                region = USA_81
+                province_id = 93
+                province_id = 91
+            } }
+            secede_province = TEX
+            add_core = TEX
+        } }        ai_chance = { 
+            factor = 100
+        }
+    }
+    option = {
+        name = "Take it all!. §RGain 35 infamy§W" #Take it All
+        badboy = 35
+        inherit = CAL
+        CAL = {
+            all_core = { add_core = TEX }
+        }
+        ai_chance = { 
+            factor = 100
+        }
+    }
+}
+
 # USA Buy 48th
 country_event = {
     id = 110197
@@ -549,7 +592,7 @@ country_event = {
     id = 110195
     title = "EVTNAME110195"
     desc = "EVTDESC110195"
-    picture = "Expansion"
+    picture = "scottish_intervention"
     major = yes
     trigger = {
         tag = DUA
@@ -577,6 +620,9 @@ country_event = {
             all_core = { secede_province = BRT }
         }
         clr_country_flag = DM_option_B   
+        SCA = {
+            country_event = 110205
+        }
     }
 
 
@@ -634,7 +680,7 @@ country_event = {
     id = 110196
     title = "EVTNAME110196"
     desc = "EVTDESC110196"
-    picture = "Expansion"
+    picture = "scottish_intervention"
     major = yes
     trigger = {
         tag = DUA
@@ -1208,6 +1254,75 @@ country_event = {
             }
         }
     }
+}
+
+# The Dual Monarchy Civil War - Scandi Intervention
+country_event = {
+    id = 110205
+    title = "Gaeldom Intervention"
+    desc = "Should we intervene in Gaeldom?"
+    picture = "scottish_intervention"
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+
+    option = {
+        name = "Yes please!" #Yes Please
+        war = {
+            target = SCO
+            attacker_goal = {
+                casus_belli = make_puppet
+                country = SCA
+            }
+            defender_goal = {
+                casus_belli = status_quo
+                country = SCO
+            }
+        }
+        DUA = {
+            country_event = 110206
+        }
+        set_country_flag = sca_choose_scotland
+    }
+    option = {
+        name = "It's too risky!" #Yes Please
+        set_country_flag = sca_choose_north_germany
+    }
+
+}
+
+# The Dual Monarchy Civil War - Scandi Intervention
+country_event = {
+    id = 110206
+    title = "Ødhinbiørn Intervention"
+    desc = "Ødhinbiørn has intervened in Gaeldom!"
+    picture = "scottish_intervention"
+
+    is_triggered_only = yes
+    fire_only_once = yes
+
+
+    option = {
+        name = "Fight them" #Yes Please
+        war = {
+            target = SCA
+            attacker_goal = {
+                casus_belli = cut_down_to_size
+                country = DUA
+            }
+            defender_goal = {
+                casus_belli = humiliate
+                country = SCA
+            }
+        }
+        prestige = 25
+    }
+    option = {
+        name = "It's too risky!" #Yes Please
+        prestige = -15
+    }
+
 }
 
 

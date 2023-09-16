@@ -338,6 +338,9 @@ political_decisions = {
                         vassal_of = THIS
                         substate_of = THIS
                         in_sphere = THIS
+                        all_core = {
+                            owned_by = NEA
+                        }
                     }
                 }
                 X12 = {
@@ -345,6 +348,9 @@ political_decisions = {
                         vassal_of = THIS
                         substate_of = THIS
                         in_sphere = THIS
+                        all_core = {
+                            owned_by = NEA
+                        }
                     }
                 }
                 X13 = {
@@ -352,6 +358,9 @@ political_decisions = {
                         vassal_of = THIS
                         substate_of = THIS
                         in_sphere = THIS
+                        all_core = {
+                            owned_by = NEA
+                        }
                     }
                 }
                 X14 = {
@@ -359,6 +368,9 @@ political_decisions = {
                         vassal_of = THIS
                         substate_of = THIS
                         in_sphere = THIS
+                        all_core = {
+                            owned_by = NEA
+                        }
                     }
                 }
                 X15 = {
@@ -366,6 +378,9 @@ political_decisions = {
                         vassal_of = THIS
                         substate_of = THIS
                         in_sphere = THIS
+                        all_core = {
+                            owned_by = NEA
+                        }
                     }
                 }
             }
@@ -463,6 +478,273 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    sca_integrate_north_german = {
+        picture = form_union_nation
+        potential = {
+            tag = SCA
+            has_country_flag = sca_choose_north_germany
+            NOT = { has_global_flag = scan_north_german_annexed }
+        }
+
+        allow = {
+            is_greater_power = yes
+            AND = {
+                POM = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        AND = {
+                            is_independant = yes
+                            in_sphere = THIS
+                        }
+                        all_core = {
+                            owned_by = SCA
+                        }
+                    }
+                }
+                PRT = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        AND = {
+                            is_independant = yes
+                            in_sphere = THIS
+                        }
+                        all_core = {
+                            owned_by = SCA
+                        }
+                    }
+                }
+                MEC = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        AND = {
+                            is_independant = yes
+                            in_sphere = THIS
+                        }
+                        all_core = {
+                            owned_by = SCA
+                        }                        
+                    }
+                }
+                LUB = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        AND = {
+                            is_independant = yes
+                            in_sphere = THIS
+                        }
+                        all_core = {
+                            owned_by = SCA
+                        }                        
+                    }
+                }
+                HAM = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        AND = {
+                            is_independant = yes
+                            in_sphere = THIS
+                        }
+                        all_core = {
+                            owned_by = SCA
+                        }                        
+                    }
+                }
+                HOL = {
+                    OR = {
+                        vassal_of = THIS
+                        substate_of = THIS
+                        AND = {
+                            is_independant = yes
+                            in_sphere = THIS
+                        }
+                        all_core = {
+                            owned_by = SCA
+                        }                        
+                    }
+                }
+            }
+            year = 1860
+        }
+
+        effect = {
+            prestige = 5
+            add_accepted_culture = western_slavic
+            add_accepted_culture = pruthenian
+            add_accepted_culture = oldpommeranian
+            set_global_flag = scan_north_german_annexed
+            random_country = {
+                limit = {
+                    tag = POM
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            random_country = {
+                limit = {
+                    tag = PRT
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            random_country = {
+                limit = {
+                    tag = MEC
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            random_country = {
+                limit = {
+                    tag = LUB
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            random_country = {
+                limit = {
+                    tag = HAM
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            random_country = {
+                limit = {
+                    tag = HOL
+                    ai = yes
+                    OR = {
+                        part_of_sphere = no
+                        in_sphere = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            MEC = {
+                all_core = { add_core = SCA }
+            }
+            PRT = {
+                all_core = { add_core = SCA }
+            }
+            POM = {
+                all_core = { add_core = SCA }
+            }
+            LUB = {
+                all_core = { add_core = SCA }
+            }
+            HAM = {
+                all_core = { add_core = SCA }
+            }
+            HOL = {
+                all_core = { add_core = SCA }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    sca_integrate_scotland = {
+        picture = form_union_nation
+        potential = {
+            tag = SCA
+            has_country_flag = sca_choose_scotland
+            NOT = { has_global_flag = scan_scotland_annexed }
+        }
+
+        allow = {
+            is_greater_power = yes
+            SCO = {
+                OR = {
+                    vassal_of = THIS
+                    substate_of = THIS
+                }
+            }
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            prestige = 5
+            add_accepted_culture = scottish
+            set_global_flag = scan_scotland_annexed
+            random_country = {
+                limit = {
+                    tag = SCO
+                    ai = yes
+                    OR = {
+                        vassal_of = SCA
+                        substate_of = SCA
+                    }
+                }
+                annex_to = SCA
+            }
+            SCO = {
+                all_core = { add_core = SCA }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    tex_invade_cal = {
+        picture = law_1420_of_general_common_education
+        potential = {
+            tag = TEX
+            NOT = { has_global_flag = tex_invade_cal }
+            CAL = {
+                exists = yes
+            }
+        }
+
+        allow = {
+            year = 1846
+            war = no
+            NOT = { truce_with = CAL }
+            NOT = { war_policy = pacifism }
+            NOT = { CAL = { any_owned_province = { country_units_in_province = TEX } } }
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = tex_invade_cal
+            war = {
+                target = CAL
+                attacker_goal = {
+                    casus_belli = cal_tex_war
+                    country = TEX
+                }
+                defender_goal = {
+                    casus_belli = status_quo
+                    country = CAL
+                }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     integrate_thessaloniki = {
         picture = form_union_nation
         potential = {
@@ -510,6 +792,170 @@ political_decisions = {
                 all_core = { add_core = GRE }
                 all_core = { remove_core = X16 }
             }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    integrate_ubd = {
+        picture = form_union_nation
+        potential = {
+            tag = SCA
+            UBD = {
+                OR = {
+                    vassal_of = THIS
+                    substate_of = THIS
+                    in_sphere = THIS
+                }
+            }
+            NOT = { has_global_flag = ubd_annexed }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = ubd_annexed
+            random_country = {
+                limit = {
+                    tag = UBD
+                    ai = yes
+                    OR = {  
+                        OR = {
+                            part_of_sphere = no
+                            in_sphere = SCA
+                        }
+                        OR = {
+                            vassal_of = THIS
+                            substate_of = THIS
+                        }
+                    }
+                }
+                annex_to = SCA
+            }
+            UBD = {
+                all_core = { add_core = SCA }
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    vassal_tibet = {
+        picture = form_union_nation
+        potential = {
+            tag = HND
+            TIB = {
+                in_sphere = THIS
+                is_independant = yes
+            }
+            NOT = { has_global_flag = tibet_vassal }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = tibet_vassal
+            HND = {
+                create_vassal = TIB
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    vassal_afghanistan = {
+        picture = form_union_nation
+        potential = {
+            tag = HND
+            AFG = {
+                in_sphere = THIS
+                is_independant = yes
+            }
+            NOT = { has_global_flag = afghanistan_vassal }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = afghanistan_vassal
+            HND = {
+                create_vassal = AFG
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    vassal_nepal = {
+        picture = form_union_nation
+        potential = {
+            tag = HND
+            NEP = {
+                in_sphere = THIS
+                is_independant = yes
+            }
+            NOT = { has_global_flag = nepal_vassal }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            nationalism_n_imperialism = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = nepal_vassal
+            HND = {
+                create_vassal = NEP
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
+    land_of_opportunity_decision = {
+        picture = land_of_opportunity_decision
+        potential = {
+            OR = {
+                capital_scope = { continent = north_america }
+                capital_scope = { continent = south_america }
+                capital_scope = { continent = australia_new_zealand }
+            }
+            NOT = { has_country_flag = loo_dec }
+        }
+
+        allow = {
+            prestige = 100
+        }
+
+        effect = {
+            prestige = 5
+            set_country_flag = loo_dec
+            add_country_modifier = { name = land_of_opportunity duration = 3650 }
         }
 
         ai_will_do = { factor = 1 }
@@ -831,7 +1277,7 @@ political_decisions = {
                     OR = {
                         owned_by = DUA
                         owner = {
-                            OR = {
+                            AND = {
                                 in_sphere = DUA
                                 vassal_of = DUA
                             }

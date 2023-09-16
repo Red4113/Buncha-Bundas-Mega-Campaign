@@ -826,7 +826,7 @@ small_immigration_boom = {
 }
 
 land_of_opportunity = {
-    global_immigrant_attract = 4.5
+    global_immigrant_attract = 0.85
     icon = 13
 }
 

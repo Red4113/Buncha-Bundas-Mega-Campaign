@@ -335,796 +335,6 @@ leader = {
 
 
 #Armies
-army = {
-	name="2nd Army"
-	location=1227
-	regiment = {
-		name="1st Jaisalmer Irregulars"
-		type=irregular
-		home=1265
-	}
-	regiment = {
-		name="1st Jodhpur Irregulars"
-		type=irregular
-		home=1266
-	}
-	regiment = {
-		name="1st Bikaner Irregulars"
-		type=irregular
-		home=1267
-	}
-	regiment = {
-		name="1st Ahmedabad Irregulars"
-		type=irregular
-		home=1291
-	}
-	regiment = {
-		name="1st Panipat Irregulars"
-		type=irregular
-		home=1237
-	}
-}
-
-army = {
-	name="9th Army"
-	location=1237
-	regiment = {
-		name="1st Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="2nd Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="1st Multan Irregulars"
-		type=irregular
-		home=1228
-	}
-	regiment = {
-		name="1st Jessore Irregulars"
-		type=irregular
-		home=1256
-	}
-	regiment = {
-		name="1st Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-}
-
-army = {
-	name="8th Army"
-	location=1237
-	regiment = {
-		name="2nd Bikaner Irregulars"
-		type=irregular
-		home=1267
-	}
-	regiment = {
-		name="1st Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-	regiment = {
-		name="2nd Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="1st Gaya Irregulars"
-		type=irregular
-		home=1248
-	}
-	regiment = {
-		name="2nd Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=1227
-	regiment = {
-		name="2nd Panipat Irregulars"
-		type=irregular
-		home=1237
-	}
-	regiment = {
-		name="2nd Multan Irregulars"
-		type=irregular
-		home=1228
-	}
-	regiment = {
-		name="3rd Panipat Irregulars"
-		type=irregular
-		home=1237
-	}
-	regiment = {
-		name="3rd Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="3rd Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-}
-
-army = {
-	name="10th Army"
-	location=1256
-	regiment = {
-		name="4th Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="5th Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="1st Allahabad Artillery"
-		type=artillery
-		home=1243
-	}
-	regiment = {
-		name="2nd Allahabad Artillery"
-		type=artillery
-		home=1243
-	}
-	regiment = {
-		name="3rd Allahabad Artillery"
-		type=artillery
-		home=1243
-	}
-	regiment = {
-		name="8th Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-}
-
-army = {
-	name="30th Army"
-	location=1239
-	regiment = {
-		name="1st Mandvi Irregulars"
-		type=irregular
-		home=1293
-	}
-	regiment = {
-		name="4th Panipat Irregulars"
-		type=irregular
-		home=1237
-	}
-	regiment = {
-		name="2nd Jodhpur Irregulars"
-		type=irregular
-		home=1266
-	}
-	regiment = {
-		name="6th Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="2nd Jaisalmer Irregulars"
-		type=irregular
-		home=1265
-	}
-}
-
-army = {
-	name="40th Army"
-	location=1228
-	regiment = {
-		name="1st Benares Irregulars"
-		type=irregular
-		home=1245
-	}
-	regiment = {
-		name="1st Chhatarpur Irregulars"
-		type=irregular
-		home=1273
-	}
-	regiment = {
-		name="1st Rewa Irregulars"
-		type=irregular
-		home=1274
-	}
-	regiment = {
-		name="1st Jubbulpore Irregulars"
-		type=irregular
-		home=1275
-	}
-	regiment = {
-		name="2nd Benares Irregulars"
-		type=irregular
-		home=1245
-	}
-}
-
-army = {
-	name="12th Army"
-	location=1239
-	regiment = {
-		name="1st Gwalior Irregulars"
-		type=irregular
-		home=1270
-	}
-	regiment = {
-		name="1st Cawnpore Irregulars"
-		type=irregular
-		home=1241
-	}
-	regiment = {
-		name="1st Bhagalpur Irregulars"
-		type=irregular
-		home=1250
-	}
-	regiment = {
-		name="1st Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="1st Agra Irregulars"
-		type=irregular
-		home=1240
-	}
-}
-
-army = {
-	name="49th Army"
-	location=1244
-	regiment = {
-		name="1st Ajmer Irregulars"
-		type=irregular
-		home=1264
-	}
-	regiment = {
-		name="1st Shahpur Irregulars"
-		type=irregular
-		home=1232
-	}
-	regiment = {
-		name="3rd Jodhpur Irregulars"
-		type=irregular
-		home=1266
-	}
-	regiment = {
-		name="4th Jodhpur Irregulars"
-		type=irregular
-		home=1266
-	}
-	regiment = {
-		name="1st Jaipur Irregulars"
-		type=irregular
-		home=1268
-	}
-}
-
-army = {
-	name="5th Army"
-	location=1244
-	regiment = {
-		name="1st Firozpur Irregulars"
-		type=irregular
-		home=1234
-	}
-	regiment = {
-		name="2nd Agra Irregulars"
-		type=irregular
-		home=1240
-	}
-	regiment = {
-		name="5th Jodhpur Irregulars"
-		type=irregular
-		home=1266
-	}
-	regiment = {
-		name="2nd Firozpur Irregulars"
-		type=irregular
-		home=1234
-	}
-	regiment = {
-		name="2nd Shahpur Irregulars"
-		type=irregular
-		home=1232
-	}
-}
-
-army = {
-	name="18th Army"
-	location=1227
-	regiment = {
-		name="1st Patan Irregulars"
-		type=irregular
-		home=1294
-	}
-	regiment = {
-		name="1st Bela Irregulars"
-		type=irregular
-		home=1222
-	}
-	regiment = {
-		name="2nd Mandvi Irregulars"
-		type=irregular
-		home=1293
-	}
-	regiment = {
-		name="2nd Bela Irregulars"
-		type=irregular
-		home=1222
-	}
-	regiment = {
-		name="2nd Gaya Irregulars"
-		type=irregular
-		home=1248
-	}
-}
-
-army = {
-	name="15th Army"
-	location=1233
-	regiment = {
-		name="4th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="5th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="1st Sukkur Irregulars"
-		type=irregular
-		home=1289
-	}
-	regiment = {
-		name="2nd Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="1st Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1246
-	regiment = {
-		name="1st Bahawalpur Irregulars"
-		type=irregular
-		home=1231
-	}
-	regiment = {
-		name="2nd Sukkur Irregulars"
-		type=irregular
-		home=1289
-	}
-	regiment = {
-		name="1st Lucknow Irregulars"
-		type=irregular
-		home=1242
-	}
-	regiment = {
-		name="3rd Jaisalmer Irregulars"
-		type=irregular
-		home=1265
-	}
-	regiment = {
-		name="6th Jodhpur Irregulars"
-		type=irregular
-		home=1266
-	}
-}
-
-army = {
-	name="14th Army"
-	location=1239
-	regiment = {
-		name="3rd Multan Irregulars"
-		type=irregular
-		home=1228
-	}
-	regiment = {
-		name="2nd Chhatarpur Irregulars"
-		type=irregular
-		home=1273
-	}
-	regiment = {
-		name="1st Gorakhpur Irregulars"
-		type=irregular
-		home=1246
-	}
-	regiment = {
-		name="2nd Rewa Irregulars"
-		type=irregular
-		home=1274
-	}
-	regiment = {
-		name="1st Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-}
-
-army = {
-	name="20th Army"
-	location=1242
-	regiment = {
-		name="1st Allahabad Irregulars"
-		type=irregular
-		home=1243
-	}
-	regiment = {
-		name="1st Delhi Irregulars"
-		type=irregular
-		home=1236
-	}
-	regiment = {
-		name="2nd Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-	regiment = {
-		name="3rd Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-	regiment = {
-		name="4th Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-}
-
-army = {
-	name="45th Army"
-	location=1245
-	regiment = {
-		name="1st Udaipur Irregulars"
-		type=irregular
-		home=1269
-	}
-	regiment = {
-		name="5th Panipat Irregulars"
-		type=irregular
-		home=1237
-	}
-	regiment = {
-		name="2nd Allahabad Irregulars"
-		type=irregular
-		home=1243
-	}
-	regiment = {
-		name="2nd Cawnpore Irregulars"
-		type=irregular
-		home=1241
-	}
-	regiment = {
-		name="3rd Firozpur Irregulars"
-		type=irregular
-		home=1234
-	}
-}
-
-army = {
-	name="29th Army"
-	location=1248
-	regiment = {
-		name="7th Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="3rd Shahpur Irregulars"
-		type=irregular
-		home=1232
-	}
-	regiment = {
-		name="2nd Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-	regiment = {
-		name="6th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="3rd Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-}
-
-army = {
-	name="42nd Army"
-	location=1243
-	regiment = {
-		name="1st Attock Irregulars"
-		type=irregular
-		home=1230
-	}
-	regiment = {
-		name="1st Kharswari Irregulars"
-		type=irregular
-		home=1249
-	}
-	regiment = {
-		name="1st Raigarh Irregulars"
-		type=irregular
-		home=1282
-	}
-	regiment = {
-		name="7th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="8th Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-}
-
-army = {
-	name="38th Army"
-	location=1234
-	regiment = {
-		name="2nd Udaipur Irregulars"
-		type=irregular
-		home=1269
-	}
-	regiment = {
-		name="5th Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-	regiment = {
-		name="2nd Lucknow Irregulars"
-		type=irregular
-		home=1242
-	}
-	regiment = {
-		name="1st Karachi Irregulars"
-		type=irregular
-		home=1288
-	}
-	regiment = {
-		name="3rd Cawnpore Irregulars"
-		type=irregular
-		home=1241
-	}
-}
-
-army = {
-	name="46th Army"
-	location=1240
-	regiment = {
-		name="6th Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-	regiment = {
-		name="6th Panipat Irregulars"
-		type=irregular
-		home=1237
-	}
-	regiment = {
-		name="3rd Gaya Irregulars"
-		type=irregular
-		home=1248
-	}
-	regiment = {
-		name="3rd Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="4th Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-}
-
-army = {
-	name="39th Army"
-	location=1236
-	regiment = {
-		name="8th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="3rd Lucknow Irregulars"
-		type=irregular
-		home=1242
-	}
-	regiment = {
-		name="2nd Gorakhpur Irregulars"
-		type=irregular
-		home=1246
-	}
-	regiment = {
-		name="5th Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-	regiment = {
-		name="9th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-}
-
-army = {
-	name="7th Army"
-	location=1257
-	regiment = {
-		name="1st Umerkot Irregulars"
-		type=irregular
-		home=1290
-	}
-	regiment = {
-		name="1st Rajkot Irregulars"
-		type=irregular
-		home=1292
-	}
-	regiment = {
-		name="1st Jodhpur Artillery"
-		type=artillery
-		home=1266
-	}
-	regiment = {
-		name="1st Dacca Artillery"
-		type=artillery
-		home=1254
-	}
-	regiment = {
-		name="1st Ahmedabad Artillery"
-		type=artillery
-		home=1291
-	}
-	regiment = {
-		name="10th Rajkot Irregulars"
-		type=irregular
-		home=1292
-	}
-}
-
-army = {
-	name="68th Army"
-	location=1248
-	regiment = {
-		name="4th Lucknow Irregulars"
-		type=irregular
-		home=1242
-	}
-	regiment = {
-		name="4th Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="3rd Allahabad Irregulars"
-		type=irregular
-		home=1243
-	}
-	regiment = {
-		name="5th Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="10th Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-}
-
-army = {
-	name="36th Army"
-	location=1248
-	regiment = {
-		name="4th Gaya Irregulars"
-		type=irregular
-		home=1248
-	}
-	regiment = {
-		name="3rd Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-	regiment = {
-		name="4th Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-	regiment = {
-		name="7th Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-	regiment = {
-		name="5th Gaya Irregulars"
-		type=irregular
-		home=1248
-	}
-}
-
-army = {
-	name="33rd Army"
-	location=1245
-	regiment = {
-		name="6th Dacca Irregulars"
-		type=irregular
-		home=1254
-	}
-	regiment = {
-		name="2nd Jessore Irregulars"
-		type=irregular
-		home=1256
-	}
-	regiment = {
-		name="3rd Gorakhpur Irregulars"
-		type=irregular
-		home=1246
-	}
-	regiment = {
-		name="5th Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-	regiment = {
-		name="6th Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-}
-
-army = {
-	name="17th Army"
-	location=1248
-	regiment = {
-		name="7th Darjeeling Irregulars"
-		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="3rd Sukkur Irregulars"
-		type=irregular
-		home=1289
-	}
-	regiment = {
-		name="2nd Umerkot Irregulars"
-		type=irregular
-		home=1290
-	}
-	regiment = {
-		name="4th Sukkur Irregulars"
-		type=irregular
-		home=1289
-	}
-	regiment = {
-		name="3rd Bikaner Irregulars"
-		type=irregular
-		home=1267
-	}
-}
-
 navy = {
 	name="2nd Fleet"
 	location=1288
@@ -1179,252 +389,618 @@ navy = {
 }
 
 army = {
-	name="11th Army"
-	location=1256
+	name="Army"
+	location=1227
 	regiment = {
-		name="2nd Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="3rd Udaipur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1269
 	}
 	regiment = {
-		name="1st Rajkot Artillery"
-		type=artillery
-		home=1292
-	}
-	regiment = {
-		name="2nd Rajkot Artillery"
-		type=artillery
-		home=1292
-	}
-	regiment = {
-		name="3rd Rajkot Artillery"
-		type=artillery
-		home=1292
-	}
-	regiment = {
-		name="2nd Baroda Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1295
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="13th Army"
+	name="Army"
+	location=1236
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+}
+army = {
+	name="Army"
+	location=1292
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+}
+army = {
+	name="Army"
+	location=1293
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+}
+army = {
+	name="Army"
+	location=1291
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+}
+army = {
+	name="Army"
+	location=1269
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+}
+army = {
+	name="Army"
+	location=1256
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+}
+army = {
+	name="Army"
 	location=1251
 	regiment = {
-		name="2nd Attock Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1230
 	}
 	regiment = {
-		name="3rd Jessore Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1256
 	}
 	regiment = {
-		name="1st Umerkot Artillery"
-		type=artillery
-		home=1290
+		name="Irregular"
+		type=irregular
 	}
 	regiment = {
-		name="1st Chittagong Artillery"
-		type=artillery
-		home=1257
+		name="Irregular"
+		type=irregular
 	}
 	regiment = {
-		name="1st Jaisalmer Artillery"
-		type=artillery
-		home=1265
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="16th Army"
-	location=1256
+	name="Army"
+	location=1250
 	regiment = {
-		name="2nd Ahmedabad Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1291
 	}
 	regiment = {
-		name="4th Multan Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1228
 	}
 	regiment = {
-		name="2nd Dacca Artillery"
-		type=artillery
-		home=1254
-	}
-	regiment = {
-		name="1st Jaipur Artillery"
-		type=artillery
-		home=1268
-	}
-	regiment = {
-		name="2nd Jaipur Artillery"
-		type=artillery
-		home=1268
-	}
-	regiment = {
-		name="12th Chittagong Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1257
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="71st Army"
-	location=1292
+	name="Army"
+	location=1270
 	regiment = {
-		name="3rd Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="7th Jodhpur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1266
 	}
 	regiment = {
-		name="4th Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="4th Udaipur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1269
 	}
 	regiment = {
-		name="5th Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="94th Army"
-	location=1292
+	name="Army"
+	location=1288
 	regiment = {
-		name="8th Jodhpur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1266
 	}
 	regiment = {
-		name="3rd Umerkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1290
 	}
 	regiment = {
-		name="5th Udaipur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1269
 	}
 	regiment = {
-		name="5th Sukkur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1289
 	}
 	regiment = {
-		name="4th Jaisalmer Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1265
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="100th Army"
-	location=1292
+	name="Army"
+	location=1252
 	regiment = {
-		name="11th Chittagong Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1257
 	}
 	regiment = {
-		name="6th Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="7th Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="3rd Ahmedabad Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1291
 	}
 	regiment = {
-		name="7th Dacca Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1254
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="59th Army"
-	location=1292
+	name="Army"
+	location=1266
 	regiment = {
-		name="4th Umerkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1290
 	}
 	regiment = {
-		name="8th Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="9th Rajkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1292
 	}
 	regiment = {
-		name="5th Umerkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1290
 	}
 	regiment = {
-		name="6th Udaipur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1269
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
 army = {
-	name="21st Army"
-	location=1292
+	name="Army"
+	location=1234
 	regiment = {
-		name="6th Umerkot Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1290
 	}
 	regiment = {
-		name="1st Baroda Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1295
 	}
 	regiment = {
-		name="3rd Mandvi Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1293
 	}
 	regiment = {
-		name="9th Jodhpur Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1266
 	}
 	regiment = {
-		name="2nd Karachi Irregulars"
+		name="Irregular"
 		type=irregular
-		home=1288
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
+	}
+	regiment = {
+		name="Irregular"
+		type=irregular
 	}
 }
-
