@@ -1,0 +1,104 @@
+political_decisions = {
+
+    show_grants = {
+        picture = grants
+        alert = no
+        potential = {
+            ai = no
+			NOT = { has_country_flag = grants_disabled }
+            NOT = { has_country_flag = grants_shown }
+			has_global_flag = you_are_playing_mp
+        }
+        allow = {
+            ai = no
+        }
+        effect = {
+            set_country_flag = grants_shown
+        }
+    }
+
+    hide_grants = {
+        picture = grants
+        alert = no
+        potential = {
+            ai = no
+            has_country_flag = grants_shown
+        }
+        allow = {
+            ai = no
+        }
+        effect = {
+            clr_country_flag = grants_shown
+        }
+    }
+
+	will_receive = {
+		picture = grants
+		alert = no
+		potential = {
+			has_country_flag = grants_shown
+			ai = no
+			NOT = { has_country_flag = will_receive_grants }
+			}
+		
+		allow = { 
+			NOT = { has_country_flag = will_receive_grants } 
+			ai = no
+			}
+		effect = {
+			country_event = {id = 100000 days = 0}
+
+		}
+
+	}
+
+#	will_not_receive = {
+#		alert = no
+#		potential = {
+#			ai = no
+#			has_country_flag = will_receive_grants
+#			}
+#		
+#		allow = { 
+#			has_country_flag = will_receive_grants
+#			}
+#		effect = {
+#			clr_country_flag = will_receive_grants 
+#
+#		}
+#
+#	}
+
+	will_give = {
+		picture = grants
+		alert = no
+		potential = {
+			has_country_flag = grants_shown
+			ai = no
+			NOT = { has_country_flag = will_give_grants }
+			}
+
+		allow = { NOT = { has_country_flag = will_give_grants } }
+		effect = {
+			set_country_flag = will_give_grants
+		}
+	}
+
+
+	will_not_give = {
+		picture = grants
+		alert = no
+		potential = {
+			has_country_flag = grants_shown
+			ai = no
+			has_country_flag = will_give_grants
+		}
+		
+		allow = { 
+			ai = no
+			has_country_flag = will_give_grants }
+		effect = {
+			clr_country_flag = will_give_grants 
+			}
+	}
+}
