@@ -1011,6 +1011,63 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+
+    islamify_north_africa = {
+        picture = establish_la_guardia_civil
+        potential = {
+            tag = ADU
+            NOT = {
+                has_global_flag = islamify_north_africa
+            }
+        }
+
+        allow = {
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+            war = no
+            owns = 1702
+            owns = 1701
+            owns = 1708
+            owns = 1709
+            owns = 1727
+            owns = 1726
+            owns = 1725
+            owns = 1728
+            owns = 1701
+            owns = 1730
+            owns = 1733
+            owns = 1731
+            owns = 1734
+            owns = 1735
+            owns = 1751
+            owns = 1745
+            owns = 1752
+            revolution_n_counterrevolution = 1
+        }
+
+        effect = {
+            prestige = 5
+            set_global_flag = islamify_north_africa
+            ADU = { any_owned = { limit = { OR = {
+                region = ALD_1708
+                region = FRA_1700
+                region = TUN_1726
+                region = TRI_1731
+                region = TRI_1735
+                region = EGY_1758
+                region = EGY_1745
+                region = EGY_1771
+                region = EGY_1755
+            } }
+            add_province_modifier = { name = cultural_resurgence duration = 3650 }
+        } }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
     accept_anatolians = {
         picture = form_union_nation
         potential = {
