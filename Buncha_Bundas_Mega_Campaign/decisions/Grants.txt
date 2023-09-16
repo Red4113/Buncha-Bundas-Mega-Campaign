@@ -7,7 +7,6 @@ political_decisions = {
             ai = no
 			NOT = { has_country_flag = grants_disabled }
             NOT = { has_country_flag = grants_shown }
-			has_global_flag = you_are_playing_mp
         }
         allow = {
             ai = no
